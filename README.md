@@ -21,7 +21,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 - New Mars Sector
 - Rework of the Public Building Concept
 - Rework of the Orbital Station and Technology Nexus
-- For more details, read [here](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/edit/main/README.md#detailed-changelog-from-vanilla)
+- For more details, read [here](README.md#detailed-changelog-from-vanilla)
 
 # Installation Instructions
 
@@ -45,7 +45,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
   7. Search for the `"PreferLocalFiles"` entry. Change the value behind it from `"false"` to `"true"`. If it has been changed already, you don't need to do it. Make sure to save the edited .ini file on exit.
 
-  8. Read the [FAQ](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/edit/main/README.md#faq) and the [Known Issues List](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/edit/main/README.md#known-issues)
+  8. Read the [FAQ](README.md#faq) and the [Known Issues List](README.md#known-issues)
 
   9. You are good to go!
 
@@ -107,20 +107,12 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
     - **Add 9 new products to the game**
 
-     |**Icon**|**Product**|
-     |---|---|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1fb79866-40e8-4949-b665-d2f28b14229b" height="32" />|**Nutrient Powder**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/78d4d69c-5a49-4ea9-9643-50b754666d88" height="32" />|**Organic Food**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8a1c6487-e183-40da-8f6a-d1a13b518057" height="32" />|**Fine Food**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/e5c5c32b-5074-4a77-b6c4-e99d96267594" height="32" />|**Hyaluronic Acid**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/64bd8fdd-2675-4102-9e3e-d779847b2cbe" height="32" />|**Sustenance Packs**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/068e0a5d-e3ae-427c-8ef0-14d52038827c" height="32" />|**Thermal Shells**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/83ccc971-925b-424e-9d56-9e3227dba755" height="32" />|**Superconductors**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a43f53f1-2240-4cdd-9021-1f56ec3bb856" height="32" />|**Neural Interfaces**|
-     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" />|**Services**|
+     |**Product**|**Nutrient Powder**|**Organic Food**|**Fine Food**|**Hyaluronic Acid**|**Sustenance Packs**|**Thermal Shells**|**Superconductors**|**Neural Interfaces**|**Services**|
+     |---|---|---|---|---|---|---|---|---|---|
+     |**Icon**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1fb79866-40e8-4949-b665-d2f28b14229b" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/78d4d69c-5a49-4ea9-9643-50b754666d88" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8a1c6487-e183-40da-8f6a-d1a13b518057" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/e5c5c32b-5074-4a77-b6c4-e99d96267594" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/64bd8fdd-2675-4102-9e3e-d779847b2cbe" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/068e0a5d-e3ae-427c-8ef0-14d52038827c" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/83ccc971-925b-424e-9d56-9e3227dba755" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a43f53f1-2240-4cdd-9021-1f56ec3bb856" height="32" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" />|
 
     - **Add an additional Mars session**
-       - can be found in the upper right corner of the strategic view. It is accessible after completing a new questline available once you have completed the Lunar Licensing Program and the Greentide Archipelago's sector story questline surrounding the Synths.
+       - Found in the upper right corner of the strategic view. It is accessible after completing a new questline available once you have completed the Lunar Licensing Program and the Greentide Archipelago's sector story questline surrounding the Synths.
         ![marssectorunlocked](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/063416d6-31df-4bc3-bf0b-f3fe975ac43b)
         ![mars1](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/40869164-e788-4347-8d78-49ea4be93214)
 
@@ -164,13 +156,22 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         - Martian Diamond Extractor
         ![mars7](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/bf245c4b-474f-4cc4-99cf-9c92ca4708a7)
 
-        - Research Cluster
-        - Martian Agriculture Research Lab
-        - Martian Biotech Research Lab
-        - Martian Electronics Research Lab
-        - Martian Energy Research Lab
-        - Martian Heavy Industry Research Lab
-        - and corresponding Modules to the Labs: Greenhouse, Artificial G-Lab, Storage Platform, Solar Panel, Radiator, Recycling Station
+        - **Research Cluster:** Generates Expertise without input goods, but uses a larger radius instead
+        - **Martian Agriculture Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
+        - **Martian Biotech Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
+        - **Martian Electronics Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
+        - **Martian Energy Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
+        - **Martian Heavy Industry Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
+        - and corresponding **Modules** to the Labs: Greenhouse, Artificial G-Lab, Storage Platform, Solar Panel, Radiator, Recycling Station:
+
+          | **Module**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/27870b77-a9b9-4ab6-9823-8d7cfb7bd772" height="16" /> Greenhouse|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/10196c8c-b66e-4eeb-9c02-b4d74adbccea" height="16" /> Artificial-G Lab|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8b208cd5-69a2-4c62-89ca-6556ac2b1c2f" height="16" /> Recycling Module|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ae819604-dc32-4c62-aeb0-7c84ff46a9ee" height="16" /> Solar Cells|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/03f8ae22-f305-48e8-bcbc-932cf44e0202" height="16" /> Storage Platform|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/38a08c94-f9fe-4607-9ca6-1734403df0fd" height="16" /> Cooling Module |
+          |---|---|---|---|---|---|---|
+          |***Output***|+25%|+25%|+15%|+15%|+15%|+25%|
+          |***Input***|+25%|+25%|-15%|-|-|-|
+          |***Maintenance***|+50%|+50%|+50%|-15%|-15%|-25%|
+          |***Workforce***|+50%|+50%|+50%|+15%|-15%|+25%|
+          |***Energy***|+50%|+50%|+50%|-15%|+15%|+25%|
+
         ![mars6](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4e96e802-576e-489f-a192-71cd4d127f2d)
 
     - **Add new Tier 3 Arctic Population: Geniuses**
@@ -185,7 +186,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         - Community Center Earth
         ![communitycenter](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/630780dc-4d7c-4c69-8e00-c237cb0d5483)
 
-        - Nutrient Porcessing Laboratory Earth/Tundra/Arctic
+        - Nutrient Processing Laboratory Earth/Tundra/Arctic
         ![arcticnutrientpowder](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c886bf31-e2d8-48de-8936-9d1ab82a8377)
 
         - Vegetable Farm Earth
@@ -211,7 +212,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         ![tundra_trilltower](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/5c0ba807-ebfe-4eaa-8d41-170ba91f4da8)
 
 
-        - Tundra Healtcenter
+        - Tundra Healthcenter
         - Boreal Tailor Tundra
         ![tundraborealtailor](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/536a2198-f623-492a-b8b5-bf3389621c4e)
 
@@ -267,6 +268,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
       - Voting: removed start/reminder messages from the Mysterious Lady (voting is broken anyways...)
       - Orbital Station: removed the annoying notifications every time the space shuttle launches with a new batch of Astronauts (why in the first place would you need to know this?!) as well as the regular message if you float Expertise.
       - Tundra: removed "welcome back" message from Esther Nylund every time you enter the sector after initial unlock.
+      - Share Market: removed most basic AI starting and winning notifications.
      </details>
    - Changed World Market Route Durations from 2 hours to 12 hours (world market price adjustments are broken anyways...), reminder notification for route expiration shortened to 5 minutes before ending, expiration offer timer is unchanged at 2 minutes before expiration.
    - Increase the storage capacity (999) and production rate (1/min) of all rare resource generators (Sector Quest rewards)
@@ -337,6 +339,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
      </details>
 
    - Changed consumption values of many needs for all population levels (haven't fully figured out how the actual consumption is calculated from the values in population_balancing.xml, use the ingame statistics menu)
+   - Changed Trade Route Administration cost balancing: Costs now start at 0 and increase by 375 credits per corporation level with no cap (was 4k start cost, increase 250 per level, cap 10k)
    - Adjusted several unlock triggers to fit with the new progression of the Main Quest, new buildings and Arctic Tier 3 population:
      <details>
       <summary>Changes:</summary>
@@ -348,6 +351,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
       - Switched unlock conditions for Desalination Plant and Rice Farm
       - New Triggers to unlock the five special production buildings via Research in the Technology Nexus: Aeroponic Farms and Water Filter Moon; AI Assembly Hall Moon; Fusion Reactor; Gas Rig Tundra, Gas Refinery Arctic, Gas Power Plants in Arctic and Tundra; Water Pump Tundra
       - changed unlock condition of Rejuvenator Chain to 1750 Operators
+      - changed the unlock condition of the Transmission Spaceport on Moon to 5000 Officers and 2500 Geniuses
       - changed unlock condition of the Diamond Mine to 20000 Executives in order to make supply of Quantum Computers possible at this stage
       - changed unlock conditions for Stadium to 99999 Investors
       - moved Quantum Computers to be unlocked with 1 Genius
@@ -360,7 +364,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
       - Ornaments from Frontiers DLC and FCP02 are unlocked with 1 Worker.
      </details>
 
-   - changed first steps of the Questline in Tundra Region to reflect changes in population needs and Technology Nexus. Added 10 Petrochemicals as a reward for settling the first Ecologists in Tundra to make upgrading the spaceport there possible without extra work.
+   - Changed first steps of the Questline in Tundra Region to reflect changes in population needs and Technology Nexus. Added 10 Petrochemicals as a reward for settling the first Ecologists in Tundra to make upgrading the spaceport there possible without extra work.
 
    - Construction costs and time have been changed for all Tundra Pumps. They now require Aluminium, Superalloys, Titanium or Titanium Plating in addition to Construct-o-Bots. Times have been shortened to 3 Minutes each, but input requirements increased. Finalization costs have been altered to include Graphene, Petrochemicals or Magnetite for the first step. Maintenance costs for the second stage have been increased and include workforce now. Time has been shortened to 6 minutes. Finalization costs for the second stage have been changed to include credits and reduce demand on Petrochemicals.
 
@@ -399,12 +403,13 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         - Add subgoal to research the required Technology "Fusion Reaction" in the Nexus
         - Remove the subgoal to upgrade Spaceport in Arctic to Orbital Spaceport
       - *"25. Starting Transmission"*:
+        - Add subgoal to hire 5000 Moon Officers to unlock the Transmission Spaceport on Moon
         - Add subgoal to hire 25000 Investors on Earth
         - Add subgoal to produce IntelliWear
         - Add subgoal to establish a traderoute for BioEnhancers from Moon
         - Add subgoal to establish a traderoute for Quantum Computers from Arctic
       - *"28. The Sixth Among Five"*:
-        - Change subgoal to produce Quantum Computers with the goal to produce Neural Interfaces.
+        - Change subgoal to produce Quantum Computers with the goal to produce Neural Interfaces
      </details>
 
 4. ## Overhauled Population Needs:
@@ -414,7 +419,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
     |---|---|---|---|---|
     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ea56ef9a-c935-4fa9-9d8c-27391854b5a6" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4ccc4fd5-9f7b-45f8-bf36-2e0198fc67ea" height="32" /> **Water** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/e259cd6e-9936-46d6-b2ee-0bccdd643c41" height="32" /> **Rice** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/45358436-1dc8-4d88-8598-8f9e98fb4f3b" height="32" /> **Urbanisation** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b9a4979e-bddd-452d-8003-00c15ecdb64b" height="32" /> **Energy**||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/78ce0432-bc08-42cb-bd7d-5dd1f3ac03e1" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/64bd8fdd-2675-4102-9e3e-d779847b2cbe" height="32" /> **Sustenance Packs** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dd943f29-8958-465f-9964-4318d0063f80" height="32" /> **Vitamin Drinks** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/0a0a7bb2-e61f-4d70-b316-ce0d4dd4f624" height="32" /> **Neuro Implants** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/45358436-1dc8-4d88-8598-8f9e98fb4f3b" height="32" /> **Urbanisation** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**|
     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/428f93ee-53ba-47a3-86d1-14f8f9f632c7" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dd943f29-8958-465f-9964-4318d0063f80" height="32" /> **Vitamin Drinks** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8a1c6487-e183-40da-8f6a-d1a13b518057" height="32" /> **Fine Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/0a0a7bb2-e61f-4d70-b316-ce0d4dd4f624" height="32" /> **Neuro Implants** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1f489b9e-96bf-4f65-bb5b-e38529c83a0b" height="32" /> **Rejuvenators** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4260cb9b-aed8-479d-8ad6-c00b90c73e4d" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/2893cfae-de51-424d-87f4-4e4074efdc32" height="32" /> **VitaPills** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8a1c6487-e183-40da-8f6a-d1a13b518057" height="32" /> **Fine Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4825a138-9b5f-4dc4-a89f-e29166649cd7" height="32" /> **Smart Drones** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/068e0a5d-e3ae-427c-8ef0-14d52038827c" height="32" /> **Thermal Shells** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**|
-    |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/567eb810-4819-4553-afa5-0d1b3ab0d2b6" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dc92a25b-b9d5-43d5-a44a-83554d40e366" height="32" /> **Luxury Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a6c67014-c180-4172-99ba-2e7317e1775a" height="32" /> **IntelliWear** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c7c55f86-a704-46ab-a6b5-e4188662884c" height="32" /> **BioEnhancers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b8836de1-eef8-43b8-aa78-c3611526b54c" height="32" /> **Quantum Computers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1c6d784b-d733-4470-a5f4-4d3ee1a32d07" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b8836de1-eef8-43b8-aa78-c3611526b54c" height="32" /> **Quantum Computers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c7c55f86-a704-46ab-a6b5-e4188662884c" height="32" /> **BioEnhancers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/79cc638a-5721-442d-b185-018dfa367d0a" height="32" /> **Androids** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a43f53f1-2240-4cdd-9021-1f56ec3bb856" height="32" /> **Neural Interfaces** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**|
+    |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/567eb810-4819-4553-afa5-0d1b3ab0d2b6" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dc92a25b-b9d5-43d5-a44a-83554d40e366" height="32" /> **Luxury Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a6c67014-c180-4172-99ba-2e7317e1775a" height="32" /> **IntelliWear** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c7c55f86-a704-46ab-a6b5-e4188662884c" height="32" /> **BioEnhancers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b8836de1-eef8-43b8-aa78-c3611526b54c" height="32" /> **Quantum Computers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1c6d784b-d733-4470-a5f4-4d3ee1a32d07" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b8836de1-eef8-43b8-aa78-c3611526b54c" height="32" /> **Quantum Computers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4bc05992-1860-4668-ae47-bcb544c68390" height="32" /> **MediBots** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/79cc638a-5721-442d-b185-018dfa367d0a" height="32" /> **Androids** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a43f53f1-2240-4cdd-9021-1f56ec3bb856" height="32" /> **Neural Interfaces** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**|
     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1d74990c-f33f-47b7-895f-39f20d717047" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/233a4ffc-a7d8-40dd-b0de-c68065025e19" height="32" /> **Replicators** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/79cc638a-5721-442d-b185-018dfa367d0a" height="32" /> **Androids** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c5cf1c0e-83fa-43dc-8ec2-d3536fe6c77e" height="32" /> **Anti-Grav Compensators** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a43f53f1-2240-4cdd-9021-1f56ec3bb856" height="32" /> **Neural Interfaces** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**||
     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/e91aaec8-5d06-4df1-bc61-5fa63a6237a8" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a6c67014-c180-4172-99ba-2e7317e1775a" height="32" /> **IntelliWear** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c7c55f86-a704-46ab-a6b5-e4188662884c" height="32" /> **BioEnhancers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a43f53f1-2240-4cdd-9021-1f56ec3bb856" height="32" /> **Neural Interfaces** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/7ffb8c0b-692b-40e0-8104-e639f3a4678e" height="32" /> **Maintenance** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b9a4979e-bddd-452d-8003-00c15ecdb64b" height="32" /> **Energy**|
     |||||
@@ -566,26 +571,26 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         | **Name**|**Region**|**Input**|**Output Services**|**Output Urbanisation** |
         |---|---|---|---|---|
-        |Community Center|Earth|nothing|10|10|
-        |Police Station|Earth|Smart Drones|25|20|
-        |Metro Station|Earth|Superconductors|75|40|
-        |Infodrome|Earth|QuantumComputers|75|40|
-        |Stadium|Earth|Androids & Fusion Power Cells|150|80|
-        |Maintenance Station|Earth|Construct-o-Bots & Cybersynth Circuits|80|20 Maintenance (Synths)|
-        |Corporation Headquarter|Earth|nothing|500|100|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/2cd3b2b4-20c3-4468-b951-17811b407df2" height="16" /> Community Center|Earth|nothing|10|10|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/5bbbfd4e-15da-4d6f-9c92-c1bd2fec1e70" height="16" /> Police Station|Earth| <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4825a138-9b5f-4dc4-a89f-e29166649cd7" height="16" /> Smart Drones|25|20|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/621f6067-7f8d-4f09-bd2c-18987f86ec73" height="16" /> Metro Station|Earth|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/83ccc971-925b-424e-9d56-9e3227dba755" height="16" /> Superconductors|75|40|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/626c9fa6-2c6d-41c2-85c9-793bc98d16c4" height="16" /> Infodrome|Earth|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b8836de1-eef8-43b8-aa78-c3611526b54c" height="16" /> Quantum Computers|75|40|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/04de96b3-3677-46c7-9649-e707972ba55b" height="16" /> Stadium|Earth|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/79cc638a-5721-442d-b185-018dfa367d0a" height="16" /> Androids & <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/3600b9f4-ba69-4125-8fcc-9e06e4fe4ef4" height="16" /> Fusion Power Cells|150|80|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/07890501-e687-46c5-99aa-e2080fd7bc82" height="16" /> Maintenance Station|Earth|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6686c3cb-dc53-46e4-95be-e31ee5c4048f" height="16" /> Construct-o-Bots & <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/61b96781-c813-4462-a023-39c9383107ff" height="16" /> Cybersynth Circuits|80|20 Maintenance (Synths)|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/bd21fce4-060a-4366-8ed8-cf10b74ceaf1" height="16" /> Corporation Headquarter|Earth|nothing|500|100|
         ||||||
-        |Community Center|Arctic|nothing|2,5|5|
-        |Health Center|Arctic|Rejuvenators|10|10|
-        |Infodrome|Arctic|Microchips|20|20|
-        |Secrecy Lab|Arctic|SmartDrones & MediBots|40|40|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/2cd3b2b4-20c3-4468-b951-17811b407df2" height="16" /> Community Center|Arctic|nothing|2,5|5|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/7907ee71-4c39-403e-b9f2-71166fb4cf7d" height="16" /> Health Center|Arctic|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1f489b9e-96bf-4f65-bb5b-e38529c83a0b" height="16" /> Rejuvenators|10|10|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/626c9fa6-2c6d-41c2-85c9-793bc98d16c4" height="16" /> Infodrome|Arctic|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/d5855466-6bbe-41dd-a678-73f7e4bbfeb7" height="16" /> Microchips|20|20|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/e13612c8-9552-4346-8771-17528ff25f09" height="16" /> Secrecy Lab|Arctic|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4825a138-9b5f-4dc4-a89f-e29166649cd7" height="16" /> SmartDrones & <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c5cf1c0e-83fa-43dc-8ec2-d3536fe6c77e" height="16" /> Anti-Gravity Compensators|40|40|
         ||||||
-        |Maintenance Station|Moon|Construct-o-Bots|10|10|
-        |Health Center|Moon|MediBots|20|15|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/07890501-e687-46c5-99aa-e2080fd7bc82" height="16" /> Maintenance Station|Moon|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6686c3cb-dc53-46e4-95be-e31ee5c4048f" height="16" /> Construct-o-Bots|10|10|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/7907ee71-4c39-403e-b9f2-71166fb4cf7d" height="16" /> Health Center|Moon|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4bc05992-1860-4668-ae47-bcb544c68390" height="16" /> MediBots|20|15|
         ||||||
-        |Health Center|Tundra|Rejuvenators|10|5|
-        |Infodrome|Tundra|QuantumComputers|20|10|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/7907ee71-4c39-403e-b9f2-71166fb4cf7d" height="16" /> Health Center|Tundra|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1f489b9e-96bf-4f65-bb5b-e38529c83a0b" height="16" /> Rejuvenators|10|5|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/626c9fa6-2c6d-41c2-85c9-793bc98d16c4" height="16" /> Infodrome|Tundra|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b8836de1-eef8-43b8-aa78-c3611526b54c" height="16" /> Quantum Computers|20|10|
         ||||||
-        |Maintenance Station|Mars|Construct-o-Bots & Cybersynth Circuits|40|20|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/07890501-e687-46c5-99aa-e2080fd7bc82" height="16" /> Maintenance Station|Mars|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6686c3cb-dc53-46e4-95be-e31ee5c4048f" height="16" /> Construct-o-Bots & <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/61b96781-c813-4462-a023-39c9383107ff" height="16" /> Cybersynth Circuits|40|20|
 
 7.  ## Other Overhauled Buildings from Vanilla Game:
     - Residences on Earth now cost credits to upgrade (normal/complex): upgrade to Operator 5/10, upgrade to Executive 25/100, upgrade to Investor 250/1000, upgrade to Synth 10000 (building material cost changed to 10 Biopolymers, 6 Construct-o-Bots, 10 Superalloys, 8 Fusion Power Cells, 8 Androids, 10 Iridium, 5 of each rare resource)
@@ -603,24 +608,24 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
     - Residences in the Tundra now cost credits to upgrade: upgrade to Field Researcher 250
     - Added Construct-o-Bots to more of the Tundra buildings
     - Output of the Moss Plantation changed to 6 t/min (was 4 t/min)
-    - added Tundra modules to Advanced Bioreactor (requires Rare Earth Elements) and Ionization Chamber (requires Oxygen)
-    - changed Desalination Plant in Tundra from coastal building to land based Water Pump (Research required to unlock)
-    - changed Gas Drilling Rig from land based building to coastal (Research required to unlock)
+    - Added Tundra modules to Advanced Bioreactor (requires Rare Earth Elements) and Ionization Chamber (requires Oxygen)
+    - Changed Desalination Plant in Tundra from coastal building to land based Water Pump (Research required to unlock)
+    - Changed Gas Drilling Rig from land based building to coastal (Research required to unlock)
     - Output of Vitamin Extractor in Tundra changed to 16 t/min (was 12 t/min), input for Water changed to 8 t/min (was 1t/min)
 
 8. ## Changes to Orbit DLC
    - Changed starting permit count for Orbital Station to 1 workshop, 4 modules and 8 connectors (was 2/8/16) for changes in Techtree and Mars additions.
    - Add Urbanisation to all Astronaut Training Centers
-   - unlock a second unused graphic variant for the Radiator module
-   - changed base workshop Expertise production to 25 (was 10)
-   - changed modifiers for additional Expertise gain from modules and input goods for workshops (total increase 900% up to 250 Expertise). Re-weighted the distribution of modifiers from 3,5:1 modules:goods to 2:1 modules:goods. See the tables below to find out about the new values:
+   - Unlocked a second unused graphic variant for the Radiator module
+   - Changed base workshop Expertise production to 25 (was 10)
+   - Changed modifiers for additional Expertise gain from modules and input goods for workshops (total increase 900% up to 250 Expertise). Re-weighted the distribution of modifiers from 3,5:1 modules:goods to 2:1 modules:goods. See the tables below to find out about the new values:
 
         |**Icon**| **Module**|**Modifier**||**Icon**|**Good**|**t/min**|**Modifier** |
         |---|---|---|---|---|---|---|---|
         |||||||||
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ef758bd7-0dd2-47eb-9512-ae684943a0d0" height="32" />|***Agriculture***||||||||
-        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/10196c8c-b66e-4eeb-9c02-b4d74adbccea" height="32" />|Artificial-G Lab|175%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/64bd8fdd-2675-4102-9e3e-d779847b2cbe" height="32" />|Sustenance Packs|4|60%|
-        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ae819604-dc32-4c62-aeb0-7c84ff46a9ee" height="32" />|Solar Cells|100%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/26031e29-c019-4d4f-90f8-ee6d1f2b6417" height="32" />|Corals|3|120%|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/10196c8c-b66e-4eeb-9c02-b4d74adbccea" height="32" />| Artificial-G Lab|175%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/64bd8fdd-2675-4102-9e3e-d779847b2cbe" height="32" />|Sustenance Packs|4|60%|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ae819604-dc32-4c62-aeb0-7c84ff46a9ee" height="32" />| Solar Cells|100%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/26031e29-c019-4d4f-90f8-ee6d1f2b6417" height="32" />|Corals|3|120%|
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/27870b77-a9b9-4ab6-9823-8d7cfb7bd772" height="32" />| Greenhouse|325%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/102e5700-efab-4629-91ef-8252a0d622c2" height="32" />|Vegetables|10|120%|
         |||||||||
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/f8ce0f80-f79d-42e6-b0bc-cb9cbe92c52c" height="32" />|***Biotech***|||||||
@@ -643,16 +648,16 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/03f8ae22-f305-48e8-bcbc-932cf44e0202" height="32" />| Storage Platform|260%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b37f1cd1-a1cb-41d6-b066-ae134cba906a" height="32" />|Natural Gas|3|120%|
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8b208cd5-69a2-4c62-89ca-6556ac2b1c2f" height="32" />| Recycling Module|170%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/96ca1b11-0910-4d9c-b175-dc521afec1ad" height="32" />|Rare Earth Elements|3|120%|
 
-   - total possible workshop count is now 25 after completing all 14 quests for the Martian Research Program
+   - Total possible workshop count is now 25 after completing all 14 quests for the Martian Research Program
    - Expertise Cost for all Techs have been increased. See the table below for details:
 
         | ***Tech Tier***|1|2|3|4|5|
         |---|---|---|---|---|---|
         |***Cost***|100|150|200|250|500|
 
-   - total cost for activating all 55 Techs is 12000 Expertise
-   - total possible Expertise gain is now 6250 from workshops plus the amount you generate on Mars (only limited by building space and good input)
-   - all Technologies have been reworked:
+   - Total cost for activating all 55 Techs is 12000 Expertise
+   - Total possible Expertise gain is now 6250 from workshops plus the amount you generate on Mars (only limited by building space and good input)
+   - All Technologies have been reworked:
         ![orbital_new_nexus](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/f458afdc-c8de-4a05-aa5a-711a9fb5c932)
 
         - Special buildings are now locked behind research of Tier 3 technologies in the interconnecting tree of each branch.
@@ -690,7 +695,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
 9. ## Overhauled Sector Traits:
     - <details>
-        <summary> overhauled effects of most available Sector Traits. Also included some new once and some of the once Annothek created for his mod. Details as well as weight chance can be found in the table below.</summary>
+        <summary> Overhauled effects of most available Sector Traits. Also included some new once and some of the once Annothek created for his mod. Details as well as weight chance can be found in the table below.</summary>
 
         | ***Temperate Region*** |  |  |  |
         |---|---|---|---|
