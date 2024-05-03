@@ -14,6 +14,24 @@ Hire the greatest scientists of all time to take on the challenge of traveling t
 
 Explore the Red Planet, establish an autonomous AI Mars colony and begin to exploit its rare resources. With the help of AI and the special Martian environment, your scientist will be able to innovate even more powerful technologies than ever before, ensuring a life of plenty on Earth for centuries to come.
 
+# Table of Content
+
+- [Features](#features)
+- [Installation Instructions](#installation-instructions)
+- [FAQ](#faq)
+- [Known Issues](#known-issues)
+- [Detailed Changelog from Vanilla](#detailed-changelog-from-vanilla)
+  - [Additions to the game](#additions-to-the-game)
+  - [Quality of Life improvements](#quality-of-life-improvements)
+  - [Changes to the base game including Tundra and Frontiers DLC](#changes-to-the-base-game-including-tundra-and-frontiers-dlc)
+  - [Overhauled Population Needs](#overhauled-population-needs)
+  - [Overhauled and New Production Chains](#overhauled-and-new-production-chains)
+  - [Overhauled Public Buildings](#overhauled-public-buildings)
+  - [Other Overhauled Buildings](#other-overhauled-buildings-from-vanilla-game)
+  - [Changes to Orbit DLC](#changes-to-orbit-dlc)
+  - [Overhauled Sector Traits](#overhauled-sector-traits)
+- [Credits](#credits)
+
 # Features
 
 - Complete overhaul of all production chains, adding 9 new goods to the game and reworking several existing ones, enhancing game depth, complexity, and region interaction
@@ -21,7 +39,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 - New Mars Sector
 - Rework of the Public Building Concept
 - Rework of the Orbital Station and Technology Nexus
-- For more details, read [here](README.md#detailed-changelog-from-vanilla)
+- For more details, read [here](#detailed-changelog-from-vanilla)
 
 # Installation Instructions
 
@@ -45,7 +63,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
   7. Search for the `"PreferLocalFiles"` entry. Change the value behind it from `"false"` to `"true"`. If it has been changed already, you don't need to do it. Make sure to save the edited .ini file on exit.
 
-  8. Read the [FAQ](README.md#faq) and the [Known Issues List](README.md#known-issues)
+  8. Read the [FAQ](#faq) and the [Known Issues List](#known-issues)
 
   9. You are good to go!
 
@@ -85,10 +103,11 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 - There are five quests to guide you to do specific research to unlock certain buildings as the "Unlock Condition" tooltip only works with population milestones. Unfortunately those quests will be visible in all sessions, not only in those the buildings are located in.
 - Certain Secondary Module tooltips will not show the correct tooltip description (Energy module on Energy Production buildings giving +15% output.)
 - The population overview filter in the strategic view does not work properly with the new Arctic Tier 3. It does not show the correct portrait next to the number. Same goes for the Martian Synthetics.
-- Services are a new "product". The balance can not be shown in the "usual" balance menu, otherwise the would be tradeable via traderoute. Instead you can find them in the building material bar at the top or click on any Public Building and hover over the "Globe" icon to see the current sector balance.
+- Services are a new "product". The balance can not be shown in the "usual" balance menu, otherwise the would be tradeable via trade route. Instead you can find them in the building material bar at the top or click on any Public Building and hover over the "Globe" icon to see the current sector balance.
 - Company Headquarter infotip in the bottom of the screen seems to be hardcoded and displays tier 3 and tier 4 public needs although those have been removed from the game.
 - Factories that produce Urbanisation as a site-product cannot be paused anymore.
 - Selecting a mining site on the Moon will only show 5 possible entries in the UI. As there are now 6 mines in total, the Regolith Gatherer can only be build via buildmenu.
+- Increased storage for Rare Resource Generators only comes into effect after collecting the resources once. Therefore always wait until the first one has been generated and collect it to immediately after building to reset the storage amount.
 
 **Mars Sector:** Due to the way, Mars Sector is coded to be part of the Moon region, some issues arise from this specifically:
 - Mars sector takes longer than other sectors to load.
@@ -162,15 +181,18 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         - **Martian Electronics Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
         - **Martian Energy Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
         - **Martian Heavy Industry Research Lab:** Generates Expertise from certain input goods, uses a smaller radius
-        - and corresponding **Modules** to the Labs: Greenhouse, Artificial G-Lab, Storage Platform, Solar Panel, Radiator, Recycling Station:
+        - and corresponding primary and secondary **Modules** to those Labs: Greenhouse, Artificial G-Lab, Storage Platform, Solar Panel, Radiator, Recycling Station:
+          - <details>
+              <summary> Expand to find out more about the module's properties</summary>
 
-          | **Module**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/27870b77-a9b9-4ab6-9823-8d7cfb7bd772" height="16" /> Greenhouse|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/10196c8c-b66e-4eeb-9c02-b4d74adbccea" height="16" /> Artificial-G Lab|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8b208cd5-69a2-4c62-89ca-6556ac2b1c2f" height="16" /> Recycling Module|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ae819604-dc32-4c62-aeb0-7c84ff46a9ee" height="16" /> Solar Cells|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/03f8ae22-f305-48e8-bcbc-932cf44e0202" height="16" /> Storage Platform|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/38a08c94-f9fe-4607-9ca6-1734403df0fd" height="16" /> Cooling Module |
-          |---|---|---|---|---|---|---|
-          |***Output***|+25%|+25%|+15%|+15%|+15%|+25%|
-          |***Input***|+25%|+25%|-15%|-|-|-|
-          |***Maintenance***|+50%|+50%|+50%|-15%|-15%|-25%|
-          |***Workforce***|+50%|+50%|+50%|+15%|-15%|+25%|
-          |***Energy***|+50%|+50%|+50%|-15%|+15%|+25%|
+              | **Module**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/27870b77-a9b9-4ab6-9823-8d7cfb7bd772" height="16" /> Greenhouse|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/10196c8c-b66e-4eeb-9c02-b4d74adbccea" height="16" /> Artificial-G Lab|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8b208cd5-69a2-4c62-89ca-6556ac2b1c2f" height="16" /> Recycling Module|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ae819604-dc32-4c62-aeb0-7c84ff46a9ee" height="16" /> Solar Cells|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/03f8ae22-f305-48e8-bcbc-932cf44e0202" height="16" /> Storage Platform|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/38a08c94-f9fe-4607-9ca6-1734403df0fd" height="16" /> Cooling Module |
+              |---|---|---|---|---|---|---|
+              |***Output***|+25%|+25%|+15%|+15%|+15%|+25%|
+              |***Input***|+25%|+25%|-15%|-|-|-|
+              |***Maintenance***|+50%|+50%|+50%|-15%|-15%|-25%|
+              |***Workforce***|+50%|+50%|+50%|+15%|-15%|+25%|
+              |***Energy***|+50%|+50%|+50%|-15%|+15%|+25%|
+            </details>
 
         ![mars6](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4e96e802-576e-489f-a192-71cd4d127f2d)
 
@@ -182,7 +204,13 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         - Housing
         ![arctictier3_2](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/fd046a50-87ae-4be1-b361-59c282cf882f)
 
-    - **Add new Production Buildings for overhauled Production Chains and new Public Buildings**
+    - <details>
+        <summary>
+
+        **Expand to see the added new Production Buildings for the overhauled Production Chains and the new Public Buildings**
+
+        </summary>
+
         - Community Center Earth
         ![communitycenter](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/630780dc-4d7c-4c69-8e00-c237cb0d5483)
 
@@ -245,7 +273,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         - AI Composition Plant Moon
         ![bioenhancer1](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/3b813f86-aaf5-4c29-b285-7c96ea044e61)
-
+      </details>
 
     - **Moon Aeroponic Farms and Food Production**
 
@@ -339,7 +367,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
      </details>
 
    - Changed consumption values of many needs for all population levels (haven't fully figured out how the actual consumption is calculated from the values in population_balancing.xml, use the ingame statistics menu)
-   - Changed Trade Route Administration cost balancing: Costs now start at 0 and increase by 375 credits per corporation level with no cap (was 4k start cost, increase 250 per level, cap 10k)
+   - Removed "Trade Route Administration Cost" (in vanilla each trade route costs additional money, it was increased by 250 per route, cap was 10k with 4 free routes to start with)
    - Adjusted several unlock triggers to fit with the new progression of the Main Quest, new buildings and Arctic Tier 3 population:
      <details>
       <summary>Changes:</summary>
@@ -368,6 +396,8 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
    - Construction costs and time have been changed for all Tundra Pumps. They now require Aluminium, Superalloys, Titanium or Titanium Plating in addition to Construct-o-Bots. Times have been shortened to 3 Minutes each, but input requirements increased. Finalization costs have been altered to include Graphene, Petrochemicals or Magnetite for the first step. Maintenance costs for the second stage have been increased and include workforce now. Time has been shortened to 6 minutes. Finalization costs for the second stage have been changed to include credits and reduce demand on Petrochemicals.
 
+   - Changed trade route vehicles in the Tundra to "normal" cargo ships from Temperate sectors. This reduces costs for trade route maintenance especially in the early game.
+
    - Overhauled the Main Questline of the game to reflect all changes and additions:
      <details>
      <summary>Changed Main Quests:</summary>
@@ -382,20 +412,19 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
          - Added 10 Graphene as a reward to complete the Space Port extension in case of pacifist route
       - *"8. A Place to Warm Up"*:
         - Exhanged the goal to supply Canned Food with the goal to supply Sustenance Packs
-      - *"10. A Dangerous Climate"*:
-        - Change reward for quest from 10 Petrochemicals to 20 Petrochemicals
       - *"12. It's Rocket Science"*:
         - Add subgoal to establish a trade route for Nanoceramics to Arctic
       - *"14. Shared Responsibility"*:
-        - Add subgoal to establish a traderoute for Fish to Temperate
+        - Add subgoal to establish a trade route for Fish to Temperate
         - Add subgoal to produce Fine Food in Temperate
         - Add subgoal to enter Tundra region
         - Add subgoal to produce Hyaluronic Acid
+        - Add subgoal to establish a trade route for Smart Drones to Temperate
       - *"23. Self Supporter"*:
-        - Add subgoal to establish a traderoute for Sustenance Packs to Moon
+        - Add subgoal to establish a trade route for Sustenance Packs to Moon
         - Add subgoal to upgrade Spaceport in Arctic to Orbital Spaceport
-        - Add subgoal to establish a traderoute for Rare Earth Elements to Arctic
-        - Add subgoal to establish a traderoute for VitaPills to Moon
+        - Add subgoal to establish a trade route for Rare Earth Elements to Arctic
+        - Add subgoal to establish a trade route for VitaPills to Moon
         - Add subgoal to build a Maintenance Station on Moon
       - *"24. The Fusion Reactor"*:
         - Add subgoal to hire 3000 Officers on Moon
@@ -405,9 +434,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
       - *"25. Starting Transmission"*:
         - Add subgoal to hire 5000 Moon Officers to unlock the Transmission Spaceport on Moon
         - Add subgoal to hire 25000 Investors on Earth
+        - Add subgoal to establish a trade route for Flax Fibres from Tundra
         - Add subgoal to produce IntelliWear
-        - Add subgoal to establish a traderoute for BioEnhancers from Moon
-        - Add subgoal to establish a traderoute for Quantum Computers from Arctic
+        - Add subgoal to establish a trade route for BioEnhancers from Moon
+        - Add subgoal to establish a trade route for Quantum Computers from Arctic
       - *"28. The Sixth Among Five"*:
         - Change subgoal to produce Quantum Computers with the goal to produce Neural Interfaces
      </details>
@@ -427,7 +457,8 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/386fccc2-cd15-45d2-a300-6721e7dea0ea" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dc92a25b-b9d5-43d5-a44a-83554d40e366" height="32" /> **Luxury Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c7c55f86-a704-46ab-a6b5-e4188662884c" height="32" /> **BioEnhancers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a6c67014-c180-4172-99ba-2e7317e1775a" height="32" /> **IntelliWear** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c5cf1c0e-83fa-43dc-8ec2-d3536fe6c77e" height="32" /> **Anti-Grav Compensator** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ff88c227-c1c0-4eba-a07d-03f5cf54b878" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dc92a25b-b9d5-43d5-a44a-83554d40e366" height="32" /> **Luxury Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/068e0a5d-e3ae-427c-8ef0-14d52038827c" height="32" /> **Thermal Shells** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4bc05992-1860-4668-ae47-bcb544c68390" height="32" /> **MediBots** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/233a4ffc-a7d8-40dd-b0de-c68065025e19" height="32" /> **Replicators** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**|
 
 5. ## Overhauled and New Production Chains:
-    - **Vitamin Drinks:**
+    - <details>
+        <summary>Vitamin Drinks:</summary>
 
         ![productionchain_vitamindrinks](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/effd5e0f-40ce-4b22-8a0e-1c3ddb6be543)
 
@@ -440,8 +471,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![vitamindrinks](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/3fc43d9b-4b27-4404-9ff8-1db6d2498002)
+      </details>
 
-    - **Fine Food:**
+    - <details>
+        <summary>Fine Food:</summary>
 
         ![productionchain_sushi](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6be5f9c8-6b49-4fce-a41c-5856dfed5a60)
 
@@ -451,8 +484,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![sushiroller](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6d7d949c-64f2-4b29-b5e7-421a9060dbe3)
+      </details>
 
-    - **Rejuvenators:**
+    - <details>
+        <summary>Rejuvenators:</summary>
 
         ![productionchain_rejuvenators](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/77b8ac87-034a-4c63-87db-15f6e9a8951d)
 
@@ -460,20 +495,26 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![rejuvenators4](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1929071c-5aac-4c00-a18c-ad3b85dc1823)
+      </details>
 
-    - **Neuro Implants:**
+    - <details>
+        <summary>Neuro Implants:</summary>
 
         ![productionchain_neuroimplants](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8de1a98f-d98d-4028-a612-d7c989af258b)
 
         Molybdenum is unchanged. Nano-Ceramics have been introduced as a second input.
+      </details>
 
-    - **Luxury Food:**
+    - <details>
+        <summary>Luxury Food:</summary>
 
         ![productionchain_luxuryfood](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/0b29151a-0717-47fc-ab8f-0c556cf6b072)
 
         Water was introduced as a second input for the Cattle Farm. Rest is unchanged.
+      </details>
 
-    - **IntelliWear:**
+    - <details>
+        <summary>IntelliWear:</summary>
 
         ![productionchain_intelliwear](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/048b617d-821f-4c7d-bc6b-7d39360f5d8c)
 
@@ -481,8 +522,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![intelliwearedited](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/95367c88-c949-4f29-a12a-c1ad2603ced8)
+      </details>
 
-    - **BioEnhancers:**
+    - <details>
+        <summary>BioEnhancers:</summary>
 
         ![productionchain_bioenhancers](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/45902d12-3c7a-43ea-b3f9-b48338c28a42)
 
@@ -490,8 +533,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![bioenhancer1](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/18bcb264-0fc8-4ee9-ad7d-db947782c999)
+      </details>
 
-    - **Quantum Computers:**
+    - <details>
+        <summary>Quantum Computers:</summary>
 
         ![productionchain_quantumpcs](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8ee1ca75-a7b5-4d56-a8e6-672a0e39ef49)
 
@@ -499,26 +544,34 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![quantumcomputers1](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/82477e8d-c6b9-40f4-a9cf-df1251160490)
+      </details>
 
-    - **Anti-Grav Compensators:**
+    - <details>
+        <summary>Anti-Grav Compensators:</summary>
 
         ![productionchain_gravitationcompensators](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c74148f1-bcf7-4fca-a881-1fbd4d4ffa30)
 
         Anti-Grav Compensators now require the input of Superconductors as well, which need to be imported from the Arctic to produce them.
+      </details>
 
-    - **Replicators:**
+    - <details>
+        <summary>Replicators:</summary>
 
         ![productionchain_replicators](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/2509698f-bfad-4075-b2db-c6c303e83ab0)
 
         Replicators are pretty standard, only change is the requirement for Bioresin for Microchip production.
+      </details>
 
-    - **Androids:**
+    - <details>
+        <summary>Androids:</summary>
 
         ![productionchain_androids](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/bbbd4688-ea06-481f-bc14-74972d104243)
 
         Androids now require the changed Cybersynth Circuits as well. The other input used to be Synth Cells. But as those are already part of the Cybersynth Circuit chain, they are dropped in favour of Biopolymers.
+      </details>
 
-    - **Neural Interfaces:**
+    - <details>
+        <summary>Neural Interfaces:</summary>
 
         ![productionchain_neuralinterfaces](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/baccd1e5-b30f-4e0a-ab76-557a4b23fd19)
 
@@ -526,8 +579,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![arctic neuralinterfaces](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/7f53c96e-3137-46cb-bf3d-237e5630eb96)
+      </details>
 
-    - **Sustenance Packs:**
+    - <details>
+        <summary>Sustenance Packs:</summary>
 
         ![productionchain_sustenancepacksarctic](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b1dfcfc7-278f-45e8-b253-ad3f35433760)
 
@@ -536,8 +591,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         ![productionchain_sustenancepacksearth](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4ee18294-21dd-4803-b336-f0227ade0174)
 
         The same is true for the Moon version of this chain. With Officers and the Aeroponic Farming tech from the Nexus you get the opportunity to prodce them on the Moon as well.
+      </details>
 
-    - **VitaPills:**
+    - <details>
+        <summary>VitaPills:</summary>
 
         ![productionchain_vitapills](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6dcdb1ed-cffa-42cd-914c-fa6cc5eaaa0e)
 
@@ -545,8 +602,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![vitapills1](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/08bf19de-b36a-4344-abdf-71c4df62a647)
+      </details>
 
-    - **Smart Drones:**
+    - <details>
+        <summary>Smart Drones:</summary>
 
         ![productionchain_laboratoryequipment](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4f9b691f-7dcd-45e8-a5d7-de4a3f5abb76)
 
@@ -554,8 +613,10 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 
         Here is an overview of this chain's modified buildings:
         ![tundramicrochips](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/76c7d4d4-a1ec-4f3a-9ed3-c54473f0dcac)
+      </details>
 
-    - **Thermal Shells:**
+    - <details>
+        <summary>Thermal Shells:</summary>
 
         ![productionchain_thermalshells](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4ac2521c-8b15-47b2-9a4f-65ea97faea70)
 
@@ -564,10 +625,13 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         Here is an overview of this chain's modified buildings:
         ![tundraborealtailor](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/0c2f0126-22f1-4fe9-b158-da6bbc181362)
         ![arctictailor](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/0cf916b7-f8d0-45c4-8bfe-91586a35227f)
+      </details>
 
-6.  ## Public Buildings Overhaul
+6.  ## Overhauled Public Buildings
     - Services are a newly introduced product that can only be produced by Public Buildings. I created them to overhaul and diversify the 2205 Public Building game mechanic.
-    - Public buildings now take 4t/min of varying input goods to produce Services. Urbanisiation is provided passively and uses the "regular" 2205 Public Building mechanic.
+    - Public buildings now take 4t/min of varying input goods to produce Services. In addition, Urbanisiation is provided passively. This product uses the "regular" 2205 Public Building mechanic.
+      - <details>
+        <summary> Expand to find out more about the changed public buildings:</summary>
 
         | **Name**|**Region**|**Input**|**Output Services**|**Output Urbanisation** |
         |---|---|---|---|---|
@@ -591,6 +655,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/626c9fa6-2c6d-41c2-85c9-793bc98d16c4" height="16" /> Infodrome|Tundra|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b8836de1-eef8-43b8-aa78-c3611526b54c" height="16" /> Quantum Computers|20|10|
         ||||||
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/07890501-e687-46c5-99aa-e2080fd7bc82" height="16" /> Maintenance Station|Mars|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6686c3cb-dc53-46e4-95be-e31ee5c4048f" height="16" /> Construct-o-Bots & <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/61b96781-c813-4462-a023-39c9383107ff" height="16" /> Cybersynth Circuits|40|20|
+        </details>
 
 7.  ## Other Overhauled Buildings from Vanilla Game:
     - Residences on Earth now cost credits to upgrade (normal/complex): upgrade to Operator 5/10, upgrade to Executive 25/100, upgrade to Investor 250/1000, upgrade to Synth 10000 (building material cost changed to 10 Biopolymers, 6 Construct-o-Bots, 10 Superalloys, 8 Fusion Power Cells, 8 Androids, 10 Iridium, 5 of each rare resource)
@@ -618,7 +683,9 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
    - Add Urbanisation to all Astronaut Training Centers
    - Unlocked a second unused graphic variant for the Radiator module
    - Changed base workshop Expertise production to 25 (was 10)
-   - Changed modifiers for additional Expertise gain from modules and input goods for workshops (total increase 900% up to 250 Expertise). Re-weighted the distribution of modifiers from 3,5:1 modules:goods to 2:1 modules:goods. See the tables below to find out about the new values:
+   - Changed modifiers for additional Expertise gain from modules and input goods for workshops (total increase 900% up to 250 Expertise). Re-weighted the distribution of modifiers from 3,5:1 modules:goods to 2:1 modules:goods.
+     - <details>
+        <summary> Expand to find out more about the new values:</summary>
 
         |**Icon**| **Module**|**Modifier**||**Icon**|**Good**|**t/min**|**Modifier** |
         |---|---|---|---|---|---|---|---|
@@ -647,6 +714,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ae819604-dc32-4c62-aeb0-7c84ff46a9ee" height="32" />| Solar Cells|170%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/64bd8fdd-2675-4102-9e3e-d779847b2cbe" height="32" />|Sustenance Packs|4|60%|
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/03f8ae22-f305-48e8-bcbc-932cf44e0202" height="32" />| Storage Platform|260%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/b37f1cd1-a1cb-41d6-b066-ae134cba906a" height="32" />|Natural Gas|3|120%|
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8b208cd5-69a2-4c62-89ca-6556ac2b1c2f" height="32" />| Recycling Module|170%||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/96ca1b11-0910-4d9c-b175-dc521afec1ad" height="32" />|Rare Earth Elements|3|120%|
+        </details>
 
    - Total possible workshop count is now 25 after completing all 14 quests for the Martian Research Program
    - Expertise Cost for all Techs have been increased. See the table below for details:
@@ -656,46 +724,50 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         |***Cost***|100|150|200|250|500|
 
    - Total cost for activating all 55 Techs is 12000 Expertise
-   - Total possible Expertise gain is now 6250 from workshops plus the amount you generate on Mars (only limited by building space and good input)
+   - Total possible Expertise gain is now 6250 from workshops plus the amount you generate on Mars (only limited by building space and goods input)
    - All Technologies have been reworked:
         ![orbital_new_nexus](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/f458afdc-c8de-4a05-aa5a-711a9fb5c932)
 
-        - Special buildings are now locked behind research of Tier 3 technologies in the interconnecting tree of each branch.
+        - <details>
+          <summary> Expand for detailed changes about Orbit Technologies:</summary>
 
-        - Example: The AI Assembly Hall, which produces Cybersynth Circuits, is initially locked on the Moon, even though you need it to produce BioEnhancers for your Executives. For now, you will have to rely on the more expensive AI Assembly Hall in the Tundra Region and ship them to the Moon for processing. However, by researching the level 3 tech of the linking tree between the standard Biotech and Electronics techs, you can unlock this building on the Moon, greatly simplifying the production chain. If you also research Aeroponic Farming on the Moon, you can produce all the inputs for the Cybersynth circuits on the Moon, drastically reducing the logistical costs involved in producing BioEnhancers.
-        - All permanent research technologies from the interconnecting trees:
+          - Special buildings are now locked behind research of Tier 3 technologies in the interconnecting tree of each branch.
 
-        ||**Agriculture-Biotech**|**Biotech-Electronics**|**Electronics-Energy**|**Energy-Heavy Industry**|**Heavy Industry-Agriculture** |
-        |---|---|---|---|---|---|
-        |1|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|
-        |2|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|
-        |3|**Aeroponic Farming** <br> Unlocks Aeroponic Farms on the Moon|**Advanced AI Computing** <br> Unlocks AI Assembly Hall on Moon|**Fusion Energy** <br> Unlocks Fusion Reactor|**Gas Cracking** <br> Unlocks Gas Power Plants in Arctic and Tundra|**Well Drilling** <br> Unlocks Water Pump in Tundra
-        |4|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|
-        |5|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|
+          - Example: The AI Assembly Hall, which produces Cybersynth Circuits, is initially locked on the Moon, even though you need it to produce BioEnhancers for your Executives. For now, you will have to rely on the more expensive AI Assembly Hall in the Tundra Region and ship them to the Moon for processing. However, by researching the level 3 tech of the linking tree between the standard Biotech and Electronics techs, you can unlock this building on the Moon, greatly simplifying the production chain. If you also research Aeroponic Farming on the Moon, you can produce all the inputs for the Cybersynth circuits on the Moon, drastically reducing the logistical costs involved in producing BioEnhancers.
+          - All permanent research technologies from the interconnecting trees:
 
-        - All research technologies from the normal trees:
+          ||**Agriculture-Biotech**|**Biotech-Electronics**|**Electronics-Energy**|**Energy-Heavy Industry**|**Heavy Industry-Agriculture** |
+          |---|---|---|---|---|---|
+          |1|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|
+          |2|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|**Workshop Expansion** <br> +2 workshops <br> +8 modules <br> +16 connectors|**Shield Reinforcement** <br> +1 shield radius|
+          |3|**Aeroponic Farming** <br> Unlocks Aeroponic Farms on the Moon|**Advanced AI Computing** <br> Unlocks AI Assembly Hall on Moon|**Fusion Energy** <br> Unlocks Fusion Reactor|**Gas Cracking** <br> Unlocks Gas Power Plants in Arctic and Tundra|**Well Drilling** <br> Unlocks Water Pump in Tundra
+          |4|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|
+          |5|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|**Mars Mission Preparation** <br> +1 rocket engine for Mars Mission|**Workshop Expansion** <br> +4 modules <br> +8 connectors|
 
-        ||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ef758bd7-0dd2-47eb-9512-ae684943a0d0" height="32" /> **Agriculture**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/f8ce0f80-f79d-42e6-b0bc-cb9cbe92c52c" height="32" /> **Biotech**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/910c9145-a06d-43b5-bf0a-59e3f7991af0" height="32" /> **Electronics**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4146020f-57de-453d-ad3f-629cd62f9614" height="32" /> **Energy**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a3462631-7d4f-4022-97b6-1f84dae024ee" height="32" /> **Heavy Industry** |
-        |---|---|---|---|---|---|
-        |1|***Mutation Optimizer*** <br> +10% increased productivity in agricultural facilities|***Personalized Medicine*** <br> +10% increase productivity in biotech facilities|**Self-Testing Hardware** <br> +10% increased productivity of electronic facilities|***Accumulator Overload*** <br> +10% increase productivity in energy facilities|***Mineral Cultivation*** <br> +10% increase productivity in heavy industry facilities|
-        |||||||
-        |2|***Extra Vintage*** <br> Vineyards also produce Fruits|***Artificial Tissue Cultivation*** <br> Synth Cell Incubators also produce Meat|***Drone Reprogramming*** <br> Drone Hives also produce Construct-o-Bots|***Hypercharged Superconductors*** <br> Superconductor Fabrication Hall also produce Fusion Power Cells|***Phyllosilicates*** <br> Silicon Mines also produce Nano Ceramics|
-        |2|***Dual Filtration Process*** <br> Desalination Plants also produce Algae. Water Pumps also produce Moss.|***Spare Parts Doctrine*** <br> Neuro-Module Factory also produce BioEnhancers|***Anti-G Accessory*** <br> Anti-G Workshops additionally produce IntelliWear|***Liquid Extraction*** <br> Methane Extractors also produce Deuterium|***Aluminum Separation*** <br> Molybdenum Mines also produce Aluminum|
-        |2|***Rescue System*** <br> Support Fleet now calls John Rafferty for help instead|***Meteor-grade Shields*** <br> Radius of the Kinetic Shield increases by +100% and fuel costs are reduced by 2|***Damage Detection*** <br> Radius of Repair Drone increases by +100% and fuel cost are reduced by 2|***Orbital Laser*** <br> Missile Barrages fires from Satellite Artillery instead|***Staggered Detonation Pattern*** <br> Damage and repulsion of Wave Mines increases by +100% and fuel costs are reduced by 1|
-        |||||||
-        |3|***Shrinkflation*** <br> Food Processors require -15% input goods|***Autocatalysis*** <br> +15% Increased productivity in Advanced Bioreactors|***Rapid Digitalisation*** <br> +10% Increased Need for Quantum Computers and Neural Interfaces across all pops. +5% Energy Maintenance in all Facilities. -20% Workforce Maintenance in all Facilities|***Efficient Transformers*** <br> -15% Energy Maintenance in all Facilities|***Construction Sector Subsidisation*** <br> +25% Productivity in all building material industries|
-        |3|***Individual Crop Tracking*** <br> Farms can support +2 main modules|***DNA Recombineering*** <br> -15% Input Goods needed in all biotech facilities|***Rapid Prototyping*** <br> -15% Input Goods needed in all electronics facilities|***Turbine Optimisation*** <br> -15% Input Goods needed in all energy facilities|***Semi-autonomous Machinery*** <br> -15% Workforce Maintenance in heavy industry facilities|
-        |3|***Sensor Overclocking*** <br> +100% increased resource salvaging in Crisis Sectors|***Petrochemicals Reprocessing*** <br> Obtain 10 Petrochemicals per minute|***Graphene Reprocessing*** <br> Obtain 11 Graphene units per minute|***Iridium Reprocessing*** <br> Obtain 15 Iridium units per minute|***Magnetite Reprocessing*** <br> Obtain 6 Magnetite units per minute|
-        |||||||
-        |4|***Maki Rolls*** <br> Organic Food Factories use Algae instead of Vegetables|***Rejuvenation Program*** <br> Ionization Chambers use Hyaluronic Acid instead of Cobalt|***Slow Methane Fermentation*** <br> Boreal and Arctic Tailors use Natural Gas instead of Fusion Power Cells|***Biogas*** <br> Gas Power Plants use Soy Beans instead of Natural Gas and Fossil-fuel Power Plants use Moss instead of Natural Gas|***Semiconductor Doping*** <br> Microfabrication Halls use Rare Earth Elements instead of Bioresins.+25% Productivity in Microfabrication Halls|
-        |4|***Fishing Quotas*** <br>Fine Food Kitchens use Soy Beans instead of Fish.|***Resin Breakdown*** <br> Biomedical Laboratories use Bioresin instead of Synthcells|***Hardware Optimization*** <br> Hardware Fabrication Plants use Fusion Power Cells instead of Superconductors|***Liquid Extraction*** <br> Fusion Preparation Plants use Moon Ice instead of Deuterium|***Cobalt Alloys*** <br> Nano-Cutting Units use Cobalt instead of Rare Earth Elements|
-        |4|***Rewards Program*** <br> +15% Workforce increase +5% Goods consumption in Arctic, Tundra and Lunar Regions|***Consumption Damper*** <br> -15% Decrease in Revenue <br> -5% Goods consumption <br> In Arctic, Tundra and Lunar Regions|***Consumer Electronics*** <br> +5% Increase in Revenue <br> -15% Workforce generation <br> In the Temperate Region <br> +25% Productivity in Consumer Electronic Facilities|***Daylight Saving Time*** <br> -25% Energy Maintenance in residences <br> -5% Revenue gain <br> In Temperate Region|***Austerity Policy*** <br> -10% Goods consumption <br> -10% Workforce generation <br> In the Temperate Region|
-        |||||||
-        |5|***Dietary Supplement*** <br> -15% consumption of agricultural goods in all regions|***Robotic Workforce*** <br> Androids in storage provide Workforce|***Control System Overclocking*** <br> +25% Increased productivity in all HighTech facilities&lt;br /&gt;+50% Energy Maintenance in all HighTech facilities|***Kinetic Micro-Generator*** <br> All residents produce energy|***Orbital Warehouses*** <br> A new, global storage for all construction materials is opened|
+          - All research technologies from the normal trees:
 
-9. ## Overhauled Sector Traits:
+          ||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ef758bd7-0dd2-47eb-9512-ae684943a0d0" height="32" /> **Agriculture**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/f8ce0f80-f79d-42e6-b0bc-cb9cbe92c52c" height="32" /> **Biotech**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/910c9145-a06d-43b5-bf0a-59e3f7991af0" height="32" /> **Electronics**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4146020f-57de-453d-ad3f-629cd62f9614" height="32" /> **Energy**|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a3462631-7d4f-4022-97b6-1f84dae024ee" height="32" /> **Heavy Industry** |
+          |---|---|---|---|---|---|
+          |1|***Mutation Optimizer*** <br> +10% increased productivity in agricultural facilities|***Personalized Medicine*** <br> +10% increase productivity in biotech facilities|**Self-Testing Hardware** <br> +10% increased productivity of electronic facilities|***Accumulator Overload*** <br> +10% increase productivity in energy facilities|***Mineral Cultivation*** <br> +10% increase productivity in heavy industry facilities|
+          |||||||
+          |2|***Extra Vintage*** <br> Vineyards also produce Fruits|***Artificial Tissue Cultivation*** <br> Synth Cell Incubators also produce Meat|***Drone Reprogramming*** <br> Drone Hives also produce Construct-o-Bots|***Hypercharged Superconductors*** <br> Superconductor Fabrication Hall also produce Fusion Power Cells|***Phyllosilicates*** <br> Silicon Mines also produce Nano Ceramics|
+          |2|***Dual Filtration Process*** <br> Desalination Plants also produce Algae. Water Pumps also produce Moss.|***Spare Parts Doctrine*** <br> Neuro-Module Factory also produce BioEnhancers|***Anti-G Accessory*** <br> Anti-G Workshops additionally produce IntelliWear|***Liquid Extraction*** <br> Methane Extractors also produce Deuterium|***Aluminum Separation*** <br> Molybdenum Mines also produce Aluminum|
+          |2|***Rescue System*** <br> Support Fleet now calls John Rafferty for help instead|***Meteor-grade Shields*** <br> Radius of the Kinetic Shield increases by +100% and fuel costs are reduced by 2|***Damage Detection*** <br> Radius of Repair Drone increases by +100% and fuel cost are reduced by 2|***Orbital Laser*** <br> Missile Barrages fires from Satellite Artillery instead|***Staggered Detonation Pattern*** <br> Damage and repulsion of Wave Mines increases by +100% and fuel costs are reduced by 1|
+          |||||||
+          |3|***Shrinkflation*** <br> Food Processors require -15% input goods|***Autocatalysis*** <br> +15% Increased productivity in Advanced Bioreactors|***Rapid Digitalisation*** <br> +10% Increased Need for Quantum Computers and Neural Interfaces across all pops. +5% Energy Maintenance in all Facilities. -20% Workforce Maintenance in all Facilities|***Efficient Transformers*** <br> -15% Energy Maintenance in all Facilities|***Construction Sector Subsidisation*** <br> +25% Productivity in all building material industries|
+          |3|***Individual Crop Tracking*** <br> Farms can support +2 main modules|***DNA Recombineering*** <br> -15% Input Goods needed in all biotech facilities|***Rapid Prototyping*** <br> -15% Input Goods needed in all electronics facilities|***Turbine Optimisation*** <br> -15% Input Goods needed in all energy facilities|***Semi-autonomous Machinery*** <br> -15% Workforce Maintenance in heavy industry facilities|
+          |3|***Sensor Overclocking*** <br> +100% increased resource salvaging in Crisis Sectors|***Petrochemicals Reprocessing*** <br> Obtain 10 Petrochemicals per minute|***Graphene Reprocessing*** <br> Obtain 11 Graphene units per minute|***Iridium Reprocessing*** <br> Obtain 15 Iridium units per minute|***Magnetite Reprocessing*** <br> Obtain 6 Magnetite units per minute|
+          |||||||
+          |4|***Maki Rolls*** <br> Organic Food Factories use Algae instead of Vegetables|***Rejuvenation Program*** <br> Ionization Chambers use Hyaluronic Acid instead of Cobalt|***Slow Methane Fermentation*** <br> Boreal and Arctic Tailors use Natural Gas instead of Fusion Power Cells|***Biogas*** <br> Gas Power Plants use Soy Beans instead of Natural Gas and Fossil-fuel Power Plants use Moss instead of Natural Gas|***Semiconductor Doping*** <br> Microfabrication Halls use Rare Earth Elements instead of Bioresins.+25% Productivity in Microfabrication Halls|
+          |4|***Fishing Quotas*** <br>Fine Food Kitchens use Soy Beans instead of Fish.|***Resin Breakdown*** <br> Biomedical Laboratories use Bioresin instead of Synthcells|***Hardware Optimization*** <br> Hardware Fabrication Plants use Fusion Power Cells instead of Superconductors|***Liquid Extraction*** <br> Fusion Preparation Plants use Moon Ice instead of Deuterium|***Cobalt Alloys*** <br> Nano-Cutting Units use Cobalt instead of Rare Earth Elements|
+          |4|***Rewards Program*** <br> +15% Workforce increase +5% Goods consumption in Arctic, Tundra and Lunar Regions|***Consumption Damper*** <br> -15% Decrease in Revenue <br> -5% Goods consumption <br> In Arctic, Tundra and Lunar Regions|***Consumer Electronics*** <br> +5% Increase in Revenue <br> -15% Workforce generation <br> In the Temperate Region <br> +25% Productivity in Consumer Electronic Facilities|***Daylight Saving Time*** <br> -25% Energy Maintenance in residences <br> -5% Revenue gain <br> In Temperate Region|***Austerity Policy*** <br> -10% Goods consumption <br> -10% Workforce generation <br> In the Temperate Region|
+          |||||||
+          |5|***Dietary Supplement*** <br> -15% consumption of agricultural goods in all regions|***Robotic Workforce*** <br> Androids in storage provide Workforce|***Control System Overclocking*** <br> +25% Increased productivity in all HighTech facilities <br> +50% Energy Maintenance in all HighTech facilities|***Kinetic Micro-Generator*** <br> All residents produce energy|***Orbital Warehouses*** <br> A new, global storage for all construction materials is opened|
+        </details>
+
+9. ## Overhauled Sector Traits
     - <details>
-        <summary> Overhauled effects of most available Sector Traits. Also included some new once and some of the once Annothek created for his mod. Details as well as weight chance can be found in the table below.</summary>
+        <summary> Overhauled effects of most available Sector Traits. Also included some new ones and some of the ones Annothek created for his mod. Details as well as weight chance can be found in the table below.</summary>
 
         | ***Temperate Region*** |  |  |  |
         |---|---|---|---|
@@ -758,7 +830,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         | Katabatic Winds | Energy facilities save on cooling, but logistics suffer from snow-covered roads. | All Electronic Facilities: Energy Maintenance -30% <br> All Production Facilities: Logistic Maintenance +2 | 20 |
         | Stratospheric Warming | The melting snow makes roads are easier to travel, but Neuro Implants experience a higher failure rate. | All Production Facilities: Logisitic Maintenance -3 <br> All Electronic Facilities: Production Rate -15% | 20 |
         | Deep Waters | Deuterium and methane yields are increased, but coral and fishing production is impaired. | Deuterium Strainer and Methane Extractor: Production Rate +30% <br> Coral and Fish Farm: Production Rate -15% | 20 |
-        | Specialised Employees | Neuroimplants production is increased, but Biotech facilities have higher maintenance. | All Biotech Productions: Production rate +30% <br> All Productions: Maintenance Cost +50%" | 20 |
+        | Specialised Employees | Biotech facilities production is increased, but all facilities have higher maintenance. | All Biotech Productions: Production rate +30% <br> All Productions: Maintenance Cost +50%" | 20 |
         | Climate Change | Farms provide a higher output in this sector, but because of regulations production in Heavy Industry facilities is impaired. | All Agricultural Buildings: Production Rate +30% <br> All Heavy Industries: Production Rate -15% | 20 |
         | Optimised Circuits | Energy facilities provide limited output, but Electronics facilities require less energy. | All Electronic Facilities: Energy Maintenance -30% <br> All Energy Facilities: -15% Output | 20 |
         | Cheap Wages | Cheap wages reduce the maintenance costs of all factories, but production is reduced in turn. | All Factories: Credit Maintenance -30% <br> All Factories: Production Rate -15% | 20 |
