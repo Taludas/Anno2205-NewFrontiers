@@ -138,7 +138,15 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
     - **Additional Mars Session**
        - It can be found in the upper right corner of the strategic view. It is accessible after completing a new questline available once you have completed the Lunar Licensing Program and the Greentide Archipelago's sector story questline surrounding the Synths.
        - Add 10 New Mars Sector Traits for the new sector. One trait is distributed to it randomly on first entry. With a special geo-engineering quest you can reroll the sector trait as well (Warning: normal rerolling results in Moon Traits!) For details see: [here](#overhauled-sector-traits)
-       - Add 4 seasons to the Mars session, which cycle in regular intervals: on `Assignment Time = Long` the winter and summer season last 60 minutes while spring and autumn last 30 minutes. `Assignment Time = Medium` will half those to 30 and 15 minutes respectively. `Assignment Time = Short` will result in 15 and 7:30 cycles. Each season has its own unique calamity effect that the player will have to deal with. To compensate for the increased difficulty, each season also has a bonus for certain buildings.
+       - Add 4 seasons to the Mars session, which cycle in regular intervals. Each season has its own unique calamity effect that the player will have to deal with. To compensate for the increased difficulty, each season also has a bonus for certain buildings:
+     
+        |**Season**|**Length**|**Effect**|
+        |---|---|---|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/7c3c9922-f84d-4936-95b5-29e92e9de7fc" height="32" /> Summer|`Assignment Time = Long` = 60 min <br> `Assignment Time = Medium` = 30 min <br> `Assignment Time = Short` = 15 min|**Solar Flares** <br> Energy Transfer Routes ineffective <br> Solar Panels have higher productivity|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/888b2a4d-6b11-4f6e-b0c0-8b84dec39c06" height="32" /> Autumn|`Assignment Time = Long` = 30 min <br> `Assignment Time = Medium` = 15 min <br> `Assignment Time = Short` = 7:30 min|**Vulcanic Activity** <br> Mining sites closed <br> Energy Research Lab has higher productivity|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/3573264d-da6e-4c8d-966f-2a4ced1304d4" height="32" /> Winter|`Assignment Time = Long` = 60 min <br> `Assignment Time = Medium` = 30 min <br> `Assignment Time = Short` = 15 min|**Dry Ice Rain** <br> Martian Synths need more Services <br> Methane Ice Extractors have higher productivity|
+        |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6d8593ec-c137-4f49-a5d5-cdec1d9727db" height="32" /> Spring|`Assignment Time = Long` = 30 min <br> `Assignment Time = Medium` = 15 min <br> `Assignment Time = Short` = 7:30 min|**Dust Storms** <br> Traderoutes shout down <br> Windpark, KREEP Gatherer and Diamond Extractor have higher output|
+
         ![marssectorunlocked](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/063416d6-31df-4bc3-bf0b-f3fe975ac43b)
         ![mars1](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/40869164-e788-4347-8d78-49ea4be93214)
 
@@ -324,7 +332,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         - Aeroponic Farms Moon (one for each crop type)
         ![newfarmsmoon](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/41c95ec1-2dc2-4eba-a441-b9988d702a62)
 
-2. ## Quality of Life Improvements
+3. ## Quality of Life Improvements
    - You can now open the ingame console by pressing Left Shift + F1. Some commands can be found [here](https://www.nexusmods.com/anno2205/mods/1?tab=description). While having basic autocomplete, notice that the console is not tolerant to spelling errors or incorrectly formatted arguments. The game will freeze in those cases.
    - All cutscene videos can be skipped by pressing escape. Same goes for Ubisoft logo and intro movie. Fade out duration has been shortened.
    - <details>
@@ -342,7 +350,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
    - Changed World Market Route Durations from 2 hours to 12 hours (world market price adjustments are broken anyways...), reminder notification for route expiration shortened to 5 minutes before ending, expiration offer timer is unchanged at 2 minutes before expiration.
    - Increase the storage capacity (999) and production rate (1/min) of all rare resource generators (Sector Quest rewards)
 
-3. ## Changes to the base game including Tundra and Frontiers DLC
+4. ## Changes to the base game including Tundra and Frontiers DLC
    - Exchanged Drink and Food need position in the UI for Worker tier to match the new setup for Operators.
    - Changed Construction costs and build time for all Monumental Bridges. First bridge now takes 10 minutes, costs 25t/min Superalloys and requires 750 workforce. Second bridge takes 50t/min Superalloys and requires 1500 workforce. Finalization costs 150000 credits and 100 Graphene for the first and 300000 credits and 125 Graphene for the second.
    - Lowered the required balance for the very last quest of the sector project in Walbruck Basin from +50k to +25k as the original one was quite hard to achieve in higher difficulty runs before having >150k Investors.
@@ -483,7 +491,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         - Change subgoal to produce Quantum Computers with the goal to produce Neural Interfaces
      </details>
 
-4. ## Overhauled Population Needs:
+5. ## Overhauled Population Needs:
    Each Population tier requires the needs of its predecessor in addition to its own. Synthetics do not follow this logic however.
 
     | **Tier**|**Needs**||**Tier**|**Needs** |
@@ -497,7 +505,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/67d7e936-69a5-4212-b726-d0846763a8fd" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/28251618-1c80-4f4f-b59e-03694aa07388" height="32" /> **Oxygen** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/64bd8fdd-2675-4102-9e3e-d779847b2cbe" height="32" /> **Sustenance Packs** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/1f489b9e-96bf-4f65-bb5b-e38529c83a0b" height="32" /> **Rejuvenators** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/2893cfae-de51-424d-87f4-4e4074efdc32" height="32" /> **VitaPills** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/45358436-1dc8-4d88-8598-8f9e98fb4f3b" height="32" /> **Urbanisation** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8a14a7ed-eaae-4cf7-bf8f-72cb993a76da" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dd943f29-8958-465f-9964-4318d0063f80" height="32" /> **Vitamin Drinks** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/8a1c6487-e183-40da-8f6a-d1a13b518057" height="32" /> **Fine Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4825a138-9b5f-4dc4-a89f-e29166649cd7" height="32" /> **Smart Drones** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/45358436-1dc8-4d88-8598-8f9e98fb4f3b" height="32" /> **Urbanisation** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**|
     |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/386fccc2-cd15-45d2-a300-6721e7dea0ea" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dc92a25b-b9d5-43d5-a44a-83554d40e366" height="32" /> **Luxury Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c7c55f86-a704-46ab-a6b5-e4188662884c" height="32" /> **BioEnhancers** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/a6c67014-c180-4172-99ba-2e7317e1775a" height="32" /> **IntelliWear** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/c5cf1c0e-83fa-43dc-8ec2-d3536fe6c77e" height="32" /> **Anti-Grav Compensator** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**||<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/ff88c227-c1c0-4eba-a07d-03f5cf54b878" />|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/dc92a25b-b9d5-43d5-a44a-83554d40e366" height="32" /> **Luxury Food** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/068e0a5d-e3ae-427c-8ef0-14d52038827c" height="32" /> **Thermal Shells** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/4bc05992-1860-4668-ae47-bcb544c68390" height="32" /> **MediBots** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/233a4ffc-a7d8-40dd-b0de-c68065025e19" height="32" /> **Replicators** <br> <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/886d132c-3945-47c7-ad3e-736aaa04b42f" height="32" /> **Services**|
 
-5. ## Overhauled and New Production Chains:
+6. ## Overhauled and New Production Chains:
     - <details>
         <summary>Vitamin Drinks:</summary>
 
@@ -676,7 +684,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         Oxygen production now requires Aluminum from the new Moon Aluminum Mine as well.
       </details>
 
-6.  ## Overhauled Public Buildings
+7.  ## Overhauled Public Buildings
     - Services are a newly introduced product that can only be produced by Public Buildings. I created them to overhaul and diversify the 2205 Public Building game mechanic.
     - Public buildings now take 4t/min of varying input goods to produce Services. In addition, Urbanisiation is provided passively. This product uses the "regular" 2205 Public Building mechanic.
       - <details>
@@ -706,7 +714,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         |<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/07890501-e687-46c5-99aa-e2080fd7bc82" height="16" /> Maintenance Station|Mars|<img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/6686c3cb-dc53-46e4-95be-e31ee5c4048f" height="16" /> Construct-o-Bots & <img src="https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/61b96781-c813-4462-a023-39c9383107ff" height="16" /> Cybersynth Circuits|40|20 Maintenance (Synths)|
         </details>
 
-7.  ## Other Overhauled Buildings from Vanilla Game:
+8.  ## Other Overhauled Buildings from Vanilla Game:
     - Residences on Earth now cost credits to upgrade (normal/complex): upgrade to Operator 5/10, upgrade to Executive 25/100, upgrade to Investor 250/1000, upgrade to Synth 10000 (building material cost changed to 10 Biopolymers, 6 Construct-o-Bots, 10 Superalloys, 8 Fusion Power Cells, 8 Androids, 10 Iridium, 5 of each rare resource)
     - Residences in the Arctic now cost credits to upgrade: upgrade to Scientist 250, upgrade to Genius 1000
     - Windparks produce base 125 Energy (was 50), making them more competitive in later stages of the game
@@ -729,7 +737,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
     - Changed Gas Drilling Rig from land based building to coastal (Research required to unlock)
     - Output of Vitamin Extractor in Tundra changed to 16 t/min (was 12 t/min), input for Water changed to 8 t/min (was 1t/min)
 
-8. ## Changes to Orbit DLC
+9. ## Changes to Orbit DLC
    - Changed starting permit count for Orbital Station to 1 workshop, 4 modules and 8 connectors (was 2/8/16) for changes in Techtree and Mars additions.
    - Add Urbanisation to all Astronaut Training Centers
    - Unlocked a second unused graphic variant for the Radiator module
@@ -816,7 +824,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
           |5|***Dietary Supplement*** <br> -20% Reduced consumption of food goods in all populations <br> +5% Consumption of Vitamin Drinks and VitaPills|***Robotic Workforce*** <br> Androids in storage provide Workforce <br> -20% Reduced consumption of services in all populations <br> +5% Consumption of Androids and Medibots |***Control System Overclocking*** <br> +25% Increased productivity in all HighTech facilities <br> +50% Energy Maintenance in all HighTech facilities|***Kinetic Micro-Generator*** <br> All residents produce energy <br> -5% Decrease in Revenue|***Orbital Warehouses*** <br> A new, global storage for all construction materials is opened <br> All production facilities can support 1 extra primary module <br> +5 Logistic Maintenance for all production facilities|
         </details>
 
-9. ## Overhauled Sector Traits
+10. ## Overhauled Sector Traits
     - <details>
         <summary> Overhauled effects of most available Sector Traits. Also included some new ones and some of the ones Annothek created for his mod. Details as well as weight chance can be found in the table below.</summary>
 
