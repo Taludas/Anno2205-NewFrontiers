@@ -939,6 +939,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         </details>
 
 # Credits
+- The Anno 2205 team at Ubisoft Mainz for creating a fantastic modding base!
 - Annothek (Author of the Anno 2205 Revolutions Mod): With his permission this mod uses some of his Ornamental/Military Buildings, his small Public Buildings and some ideas for new Sector Traits for the Temperate Region
 - Active Playtesters:
   - AnnoEffect
