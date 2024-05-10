@@ -939,7 +939,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
         </details>
 
 # Credits
-- Annothek (Author of the Anno 2205 Revolutions Mod): Ornamental/Military Buildings, small Public Buildings, ideas for new Sector Traits for Earth
+- Annothek (Author of the Anno 2205 Revolutions Mod): With his permission this mod uses some of his Ornamental/Military Buildings, his small Public Buildings and some ideas for new Sector Traits for the Temperate Region
 - Active Playtesters:
   - AnnoEffect
   - 8wayz
