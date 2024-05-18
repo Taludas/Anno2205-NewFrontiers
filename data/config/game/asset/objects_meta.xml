@@ -1,0 +1,832 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>CameraSequences</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CameraSequenceMeta</Template>
+          <Values>
+            <CameraSequenceMeta>
+              <CameraSequenceFile>data/sessions/meta/strategic_view/strategic_view_middle_to_far_01.a6cam</CameraSequenceFile>
+            </CameraSequenceMeta>
+            <Standard>
+              <GUID>1000882</GUID>
+              <Name>IntroSequence</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-07-09 16:27</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2014-07-11 16:02</LastChangeTime>
+              <ID>MetaCameraIntro</ID>
+            </Standard>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CameraSequenceMeta</Template>
+          <Values>
+            <CameraSequenceMeta>
+              <CameraSequenceFile>data/sessions/meta/strategic_view/strategic_view_near_to_middle_01.a6cam</CameraSequenceFile>
+            </CameraSequenceMeta>
+            <Standard>
+              <GUID>1000883</GUID>
+              <Name>NearToMiddle</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-07-09 16:29</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2014-07-09 16:44</LastChangeTime>
+              <ID>MetaCameraNearToMiddle</ID>
+            </Standard>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CameraSequenceMeta</Template>
+          <Values>
+            <CameraSequenceMeta>
+              <CameraSequenceFile>data/sessions/meta/strategic_view/strategic_view_middle_to_near_01.a6cam</CameraSequenceFile>
+            </CameraSequenceMeta>
+            <Standard>
+              <GUID>1000921</GUID>
+              <Name>MiddleToNear</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-07-23 13:43</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2014-07-23 13:44</LastChangeTime>
+              <ID>MetaCameraMiddleToNear</ID>
+            </Standard>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CameraSequenceMeta</Template>
+          <Values>
+            <CameraSequenceMeta>
+              <CameraSequenceFile>data/sessions/meta/strategic_view/strategic_view_middle_to_far_01.a6cam</CameraSequenceFile>
+            </CameraSequenceMeta>
+            <Standard>
+              <GUID>1000884</GUID>
+              <Name>MiddleToFar</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-07-09 16:30</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2014-07-09 16:44</LastChangeTime>
+              <ID>MetaCameraMiddleToFar</ID>
+            </Standard>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>CameraSequenceMeta</Template>
+          <Values>
+            <CameraSequenceMeta>
+              <CameraSequenceFile>data/sessions/meta/strategic_view/strategic_view_far_to_middle_01.a6cam</CameraSequenceFile>
+            </CameraSequenceMeta>
+            <Standard>
+              <GUID>1000922</GUID>
+              <Name>FarToMiddle</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-07-23 13:43</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2014-07-23 13:44</LastChangeTime>
+              <ID>MetaCameraFarToMiddle</ID>
+            </Standard>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Portraits</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <DefaultTemplate>Portrait</DefaultTemplate>
+      <Assets>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001428</GUID>
+              <Name>Global Union Advisor</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <ID>Portrait1</ID>
+              <Comment>Test portrait No 1</Comment>
+            </Standard>
+            <Mesh />
+            <Object />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001429</GUID>
+              <Name>Arctic Custodians</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 12</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/arctic_custodians_meta/arctic_custodians_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001431</GUID>
+              <Name>Orbital Watch</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 4</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/orbital_watch_meta/orbital_watch_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001552</GUID>
+              <Name>Embraceor</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-10-28 14:53</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <ID>PortraitEmbraceor</ID>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/embraceor_meta/embraceor_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001430</GUID>
+              <Name>Docks Advisor</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <ID>PortraitDocks</ID>
+              <Comment>Test portrait No 3</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/docks_spacestation_meta/docks_spacestation_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Portrait Meta Earth Trader</AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001553</GUID>
+              <Name>Earth Trader</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-10-28 14:54</CreationTime>
+              <LastChangeUser>smeding</LastChangeUser>
+              <LastChangeTime>2015-10-01 11:59</LastChangeTime>
+              <ID>EarthTraderPortrait</ID>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/trader_earth_meta/trader_earth_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001554</GUID>
+              <Name>Arctic Trader</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-10-28 14:54</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2015-03-24 13:58</LastChangeTime>
+              <ID>ArcticTraderPortrait</ID>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/trader_polar_meta/trader_polar_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001555</GUID>
+              <Name>Moon Trader</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-10-28 14:54</CreationTime>
+              <LastChangeUser>sstauss</LastChangeUser>
+              <LastChangeTime>2015-03-27 16:57</LastChangeTime>
+              <ID>MoonTraderPortrait</ID>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/trader_moon_meta/trader_moon_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001433</GUID>
+              <Name>Population Moon 01</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>sstauss</LastChangeUser>
+              <LastChangeTime>2015-03-27 16:57</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/moon/inhabitants/resident_tier01_moon/resident_tier01_moon.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001434</GUID>
+              <Name>Population Moon 02</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 7</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/moon/inhabitants/resident_tier02_moon/resident_tier02_moon.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001435</GUID>
+              <Name>Population Arctic 01</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 8</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/arctic/resident_tier01_arctic/resident_tier01_arctic.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001436</GUID>
+              <Name>Population Arctic 02</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 9</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/arctic/resident_tier02_arctic/resident_tier02_arctic.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>19990086</GUID>
+              <Name>Population Arctic 03</Name>
+              <Creator>Taludas</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>Taludas</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/config/taludas/modgraphics/portraits/arctic/resident_tier03_arctic/resident_tier03_arctic.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001437</GUID>
+              <Name>Population Earth 01</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 10</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/earth/inhabitants/resident_tier01_earth/resident_tier01_earth.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001438</GUID>
+              <Name>Population Earth 02</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 11</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/earth/inhabitants/resident_tier02_earth/resident_tier02_earth.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001550</GUID>
+              <Name>Population Earth 03</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-10-28 14:53</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/earth/inhabitants/resident_tier03_earth/resident_tier03_earth.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/objectmenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001551</GUID>
+              <Name>Population Earth 04</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-10-28 14:53</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/earth/inhabitants/resident_tier04_earth/resident_tier04_earth.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1001432</GUID>
+              <Name>Big Five #1</Name>
+              <Creator>kzellner</Creator>
+              <CreationTime>2014-09-30 15:45</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/big_five_01_meta/big_five_01_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1002151</GUID>
+              <Name>Big Five #2</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-01-29 16:17</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/big_five_02_meta/big_five_02_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1002152</GUID>
+              <Name>Big Five #3</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-01-29 16:17</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 1</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/big_five_03_meta/big_five_03_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1002153</GUID>
+              <Name>Big Five #4</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-01-29 16:17</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 1</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/big_five_04_meta/big_five_04_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1002154</GUID>
+              <Name>Big Five #5</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-01-29 16:17</CreationTime>
+              <LastChangeUser>rbertz</LastChangeUser>
+              <LastChangeTime>2015-03-24 12:08</LastChangeTime>
+              <Comment>Test portrait No 1</Comment>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/big_five_05_meta/big_five_05_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/metamenu.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1002860</GUID>
+              <Name>Trade Advisor</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-04-08 14:23</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2015-04-08 14:23</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/portraits/meta/trade_advisor_meta/trade_advisor_meta.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Portrait</Template>
+          <Values>
+            <Portrait>
+              <AmbientName>Neutral Portrait Light </AmbientName>
+              <CamFile>data/config/game/corporation_creation.portraitcam</CamFile>
+            </Portrait>
+            <Standard>
+              <GUID>1003253</GUID>
+              <Name>Corporation Creation Advisor</Name>
+              <Creator>fklinge</Creator>
+              <CreationTime>2015-06-23 10:04</CreationTime>
+              <LastChangeUser>fklinge</LastChangeUser>
+              <LastChangeTime>2015-06-23 10:05</LastChangeTime>
+              <ID>CorporationCreationPortrait</ID>
+            </Standard>
+            <Mesh />
+            <Object />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000290</GUID>
+          <Name>MetaPlanetEarth</Name>
+          <Creator>skoenig</Creator>
+          <CreationTime>2014-05-07 15:34</CreationTime>
+          <LastChangeUser>mark.reichert</LastChangeUser>
+          <LastChangeTime>2014-06-30 15:56</LastChangeTime>
+        </Standard>
+        <Mesh>
+          <ObjectPosition>Unmanaged</ObjectPosition>
+        </Mesh>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/meta/planet_earth/planet_earth.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000825</GUID>
+          <Name>MetaPlanetEarthDigital</Name>
+          <Creator>mark.reichert</Creator>
+          <CreationTime>2014-06-30 15:57</CreationTime>
+          <LastChangeUser>mark.reichert</LastChangeUser>
+          <LastChangeTime>2014-06-30 15:57</LastChangeTime>
+        </Standard>
+        <Mesh>
+          <ObjectPosition>Unmanaged</ObjectPosition>
+        </Mesh>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/meta/planet_earth/planet_earth_digital.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000826</GUID>
+          <Name>MetaPlanetMoonDigital</Name>
+          <Creator>mark.reichert</Creator>
+          <CreationTime>2014-06-30 15:57</CreationTime>
+          <LastChangeUser>mark.reichert</LastChangeUser>
+          <LastChangeTime>2014-06-30 15:58</LastChangeTime>
+        </Standard>
+        <Mesh>
+          <ObjectPosition>Unmanaged</ObjectPosition>
+        </Mesh>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/meta/planet_moon/planet_moon_digital.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>19990094</GUID>
+          <Name>MetaPlanetMars</Name>
+          <Creator>Taludas</Creator>
+          <CreationTime>2014-06-30 15:57</CreationTime>
+          <LastChangeUser>Taludas</LastChangeUser>
+          <LastChangeTime>2014-06-30 15:58</LastChangeTime>
+        </Standard>
+        <Mesh>
+          <ObjectPosition>Unmanaged</ObjectPosition>
+        </Mesh>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/meta/planet_mars/planet_mars.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1003675</GUID>
+          <Name>Mars Teaser</Name>
+          <Creator>mark.reichert</Creator>
+          <CreationTime>2015-09-28 11:18</CreationTime>
+          <LastChangeUser>mark.reichert</LastChangeUser>
+          <LastChangeTime>2015-10-01 12:09</LastChangeTime>
+        </Standard>
+        <Mesh>
+          <ObjectPosition>Unmanaged</ObjectPosition>
+        </Mesh>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/buildings/meta/credits/meta_credits.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

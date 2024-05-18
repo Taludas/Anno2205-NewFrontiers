@@ -1,0 +1,52 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Assets>
+    <Asset>
+      <Template>Sector</Template>
+      <Values>
+        <Standard>
+          <GUID>7000009</GUID>
+          <Name>Sector Tundra</Name>
+          <Creator>cschneider</Creator>
+          <CreationTime>2015-10-14 17:52</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2016-02-03 09:26</LastChangeTime>
+          <IconFilename>Flash/PNGs/icons/icon_session_new.png</IconFilename>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Tundra Sector</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>15030</LineID>
+        </Text>
+        <Locked>
+          <DLCDependency>4100035</DLCDependency>
+        </Locked>
+        <Sector>
+          <SectorRegion>7000010</SectorRegion>
+          <PossibleSessions>
+            <Item>
+              <Session>7000011</Session>
+            </Item>
+          </PossibleSessions>
+          <StartProducts>
+            <Item>
+              <Type>Biopolymers</Type>
+              <Amount>204800000</Amount>
+            </Item>
+            <Item>
+              <Type>VitaminDrinks</Type>
+              <Amount>81920000</Amount>
+            </Item>
+          </StartProducts>
+          <BaseProductCapacity>409600</BaseProductCapacity>
+          <SectorPortrait>1001554</SectorPortrait>
+        </Sector>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

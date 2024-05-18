@@ -1,0 +1,801 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Texts</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/texts.xml</FileName>
+      <SectionID>3130</SectionID>
+    </Group>
+    <Group>
+      <Name>Objects</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/objects.xml</FileName>
+      <SectionID>3160</SectionID>
+    </Group>
+    <Group>
+      <Name>Balancing</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/balancing.xml</FileName>
+      <SectionID>3175</SectionID>
+    </Group>
+    <Group>
+      <Name>Regions</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/regions.xml</FileName>
+      <SectionID>3184</SectionID>
+    </Group>
+    <Group>
+      <Name>Sectors</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/sectors.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Sessions</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/sessions.xml</FileName>
+      <SectionID>3185</SectionID>
+    </Group>
+    <Group>
+      <Name>Science</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/science.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Items</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/items.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Ownership</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>3186</SectionID>
+      <Groups>
+        <Group>
+          <Name>Uplay Products</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>3187</SectionID>
+          <Assets>
+            <Asset>
+              <Template>UplayProduct</Template>
+              <Values>
+                <Standard>
+                  <GUID>12000033</GUID>
+                  <Name>DLC2</Name>
+                  <Creator>mreinhardt</Creator>
+                  <CreationTime>2016-02-09 18:10</CreationTime>
+                  <LastChangeUser>sbombera</LastChangeUser>
+                  <LastChangeTime>2016-06-23 14:56</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/DLC2/icon_orbit_dlc.png</IconFilename>
+                  <ID>DLC2</ID>
+                </Standard>
+                <Locked />
+                <UplayProduct>
+                  <UplayProductID>2188</UplayProductID>
+                  <LocksToCorporation>1</LocksToCorporation>
+                </UplayProduct>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Orbit</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>16344</LineID>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Corporation Profiles</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>CorporationProfile</Template>
+          <Values>
+            <Standard>
+              <GUID>12000464</GUID>
+              <Name>A.D.A.M.</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2016-05-12 15:40</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2016-05-12 15:51</LastChangeTime>
+            </Standard>
+            <CorporationProfile>
+              <CorporationName>12000470</CorporationName>
+              <CorporationPortrait>12000465</CorporationPortrait>
+              <ShowScore>0</ShowScore>
+            </CorporationProfile>
+            <NpcCorporation>
+              <NpcLevelUpMaxValue>0</NpcLevelUpMaxValue>
+              <NpcLevelUpRules />
+              <NpcStartLevel>0</NpcStartLevel>
+              <NpcOvertakenNotification>0</NpcOvertakenNotification>
+              <NpcOvertookNotification>0</NpcOvertookNotification>
+            </NpcCorporation>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Profiles</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>3188</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Profile</Template>
+          <Values>
+            <Standard>
+              <GUID>12000465</GUID>
+              <Name>A.D.A.M.</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2016-05-12 15:43</CreationTime>
+              <LastChangeUser>svelychko</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:09</LastChangeTime>
+              <IconFilename>Flash/PNGs/images/icon_portrait_narrative_orbital_01.png</IconFilename>
+              <Comment>Adam</Comment>
+            </Standard>
+            <Profile>
+              <ProfilePicture>Flash/PNGs/images/icon_portrait_narrative_orbital_01.png</ProfilePicture>
+              <Portrait>12000466</Portrait>
+              <QuestGiverStarterObject>
+                <Template>ConditionStarterObject</Template>
+                <Values>
+                  <Condition />
+                  <ConditionObjectSelected />
+                  <ConditionPropsSessionSettings />
+                  <ConditionPropsSourceObjectSettings>
+                    <SourceConditionObjectGUID>1002695</SourceConditionObjectGUID>
+                    <SourceObjectSettings>
+                      <Template>ConditionObjectSpawned</Template>
+                      <Values>
+                        <ConditionObjectSpawned>
+                          <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                          <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                        </ConditionObjectSpawned>
+                      </Values>
+                    </SourceObjectSettings>
+                  </ConditionPropsSourceObjectSettings>
+                  <ConditionStarterObject>
+                    <MoveIntoSession>1</MoveIntoSession>
+                  </ConditionStarterObject>
+                </Values>
+              </QuestGiverStarterObject>
+            </Profile>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>A.D.A.M.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>16345</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <BaseAssetGUID>4</BaseAssetGUID>
+          <Values>
+            <Standard>
+              <GUID>12013108</GUID>
+              <Name>Earth Trader (Outer Rim Dock Point)</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2016-06-09 18:21</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:29</LastChangeTime>
+              <Comment>Quest Giver that parks at outer Rim Dock Points</Comment>
+            </Standard>
+            <Text>
+              <LineID>16673</LineID>
+            </Text>
+            <Trader />
+            <Profile>
+              <QuestGiverStarterObject>
+                <Template>ConditionStarterObject</Template>
+                <Values>
+                  <Condition />
+                  <ConditionObjectSelected />
+                  <ConditionPropsSessionSettings />
+                  <ConditionPropsSourceObjectSettings>
+                    <SourceConditionObjectGUID>1002696</SourceConditionObjectGUID>
+                    <SourceObjectSettings>
+                      <Template>ConditionObjectSpawned</Template>
+                      <Values>
+                        <ConditionObjectSpawned>
+                          <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                          <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                        </ConditionObjectSpawned>
+                      </Values>
+                    </SourceObjectSettings>
+                  </ConditionPropsSourceObjectSettings>
+                  <ConditionStarterObject>
+                    <MoveIntoSession>1</MoveIntoSession>
+                    <DockPointAsset>1003221</DockPointAsset>
+                  </ConditionStarterObject>
+                </Values>
+              </QuestGiverStarterObject>
+            </Profile>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <BaseAssetGUID>13</BaseAssetGUID>
+          <Values>
+            <Standard>
+              <GUID>12013120</GUID>
+              <Name>Mystery Woman (Outer Rim Dock Point)</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2016-06-10 11:54</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:29</LastChangeTime>
+              <Comment>Quest Giver that parks at outer Rim Dock Points</Comment>
+            </Standard>
+            <Profile>
+              <QuestGiverStarterObject>
+                <Template>ConditionStarterObject</Template>
+                <Values>
+                  <Condition />
+                  <ConditionObjectSelected />
+                  <ConditionPropsSessionSettings />
+                  <ConditionPropsSourceObjectSettings>
+                    <SourceConditionObjectGUID>1002701</SourceConditionObjectGUID>
+                    <SourceObjectSettings>
+                      <Template>ConditionObjectSpawned</Template>
+                      <Values>
+                        <ConditionObjectSpawned>
+                          <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                          <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                        </ConditionObjectSpawned>
+                      </Values>
+                    </SourceObjectSettings>
+                  </ConditionPropsSourceObjectSettings>
+                  <ConditionStarterObject>
+                    <MoveIntoSession>1</MoveIntoSession>
+                    <DockPointAsset>1003221</DockPointAsset>
+                  </ConditionStarterObject>
+                </Values>
+              </QuestGiverStarterObject>
+            </Profile>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Mysterious Woman</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>16674</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <BaseAssetGUID>9</BaseAssetGUID>
+          <Values>
+            <Standard>
+              <GUID>12013121</GUID>
+              <Name>Trade Advisor (Outer Rim Dock Point)</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2016-06-10 12:31</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:29</LastChangeTime>
+              <ID />
+              <Comment>Quest Giver that parks at outer Rim Dock Points</Comment>
+            </Standard>
+            <Profile>
+              <QuestGiverStarterObject>
+                <Template>ConditionStarterObject</Template>
+                <Values>
+                  <Condition />
+                  <ConditionObjectSelected />
+                  <ConditionPropsSessionSettings />
+                  <ConditionPropsSourceObjectSettings>
+                    <SourceConditionObjectGUID>1002712</SourceConditionObjectGUID>
+                    <SourceObjectSettings>
+                      <Template>ConditionObjectSpawned</Template>
+                      <Values>
+                        <ConditionObjectSpawned>
+                          <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                          <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                        </ConditionObjectSpawned>
+                      </Values>
+                    </SourceObjectSettings>
+                  </ConditionPropsSourceObjectSettings>
+                  <ConditionStarterObject>
+                    <MoveIntoSession>1</MoveIntoSession>
+                    <DockPointAsset>1003221</DockPointAsset>
+                  </ConditionStarterObject>
+                </Values>
+              </QuestGiverStarterObject>
+            </Profile>
+            <Text>
+              <LineID>16675</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <BaseAssetGUID>5</BaseAssetGUID>
+          <Values>
+            <Standard>
+              <GUID>12013122</GUID>
+              <Name>Arctic Trader (Outer Rim Dock Point)</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2016-06-10 12:33</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:29</LastChangeTime>
+              <Comment>Quest Giver that parks at outer Rim Dock Points</Comment>
+            </Standard>
+            <Text>
+              <LineID>16676</LineID>
+            </Text>
+            <Trader />
+            <Profile>
+              <QuestGiverStarterObject>
+                <Template>ConditionStarterObject</Template>
+                <Values>
+                  <Condition />
+                  <ConditionObjectSelected />
+                  <ConditionPropsSessionSettings />
+                  <ConditionPropsSourceObjectSettings>
+                    <SourceConditionObjectGUID>1002697</SourceConditionObjectGUID>
+                    <SourceObjectSettings>
+                      <Template>ConditionObjectSpawned</Template>
+                      <Values>
+                        <ConditionObjectSpawned>
+                          <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                          <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                        </ConditionObjectSpawned>
+                      </Values>
+                    </SourceObjectSettings>
+                  </ConditionPropsSourceObjectSettings>
+                  <ConditionStarterObject>
+                    <MoveIntoSession>1</MoveIntoSession>
+                    <DockPointAsset>1003221</DockPointAsset>
+                  </ConditionStarterObject>
+                </Values>
+              </QuestGiverStarterObject>
+            </Profile>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <BaseAssetGUID>25</BaseAssetGUID>
+          <Values>
+            <Standard>
+              <GUID>12013123</GUID>
+              <Name>Big Five #2 - Cassian Industries (Outer Rim Dock Point)</Name>
+              <Creator>svelychko</Creator>
+              <CreationTime>2016-06-10 12:38</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:29</LastChangeTime>
+              <ID />
+              <Comment>Quest Giver that parks at outer Rim Dock Points</Comment>
+            </Standard>
+            <Profile>
+              <QuestGiverStarterObject>
+                <Template>ConditionStarterObject</Template>
+                <Values>
+                  <Condition />
+                  <ConditionObjectSelected />
+                  <ConditionPropsSessionSettings />
+                  <ConditionPropsSourceObjectSettings>
+                    <SourceConditionObjectGUID>1002705</SourceConditionObjectGUID>
+                    <SourceObjectSettings>
+                      <Template>ConditionObjectSpawned</Template>
+                      <Values>
+                        <ConditionObjectSpawned>
+                          <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                          <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                        </ConditionObjectSpawned>
+                      </Values>
+                    </SourceObjectSettings>
+                  </ConditionPropsSourceObjectSettings>
+                  <ConditionStarterObject>
+                    <MoveIntoSession>1</MoveIntoSession>
+                    <DockPointAsset>1003221</DockPointAsset>
+                  </ConditionStarterObject>
+                </Values>
+              </QuestGiverStarterObject>
+            </Profile>
+            <Text>
+              <LineID>16677</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Quests</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/quests.xml</FileName>
+      <SectionID>3189</SectionID>
+    </Group>
+    <Group>
+      <Name>Achievements</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <FileName>data/dlc02/config/game/asset/achievements.xml</FileName>
+    </Group>
+    <Group>
+      <Name>RerollSectorEffect</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>3237</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>26002094</GUID>
+              <Name>Roll</Name>
+              <Creator>nfamahadon</Creator>
+              <CreationTime>2016-06-15 14:40</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:42</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Change</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>16687</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>26002095</GUID>
+              <Name>Keep</Name>
+              <Creator>nfamahadon</Creator>
+              <CreationTime>2016-06-15 14:39</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:42</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Keep</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>16688</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>26002096</GUID>
+              <Name>RerollSectorTraits</Name>
+              <Creator>nfamahadon</Creator>
+              <CreationTime>2016-06-15 14:47</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-22 10:42</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Geo-Engineering</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>16689</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>26002097</GUID>
+              <Name>NewSectorTraits</Name>
+              <Creator>nfamahadon</Creator>
+              <CreationTime>2016-06-15 14:48</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-29 16:30</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New Sector Trait</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>16775</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>UI</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>NotificationBalancing</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <DefaultTemplate>NotificationConfiguration</DefaultTemplate>
+          <Assets>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013442</GUID>
+                  <Name>AdamAdditionalModulesUnlocked</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-24 15:35</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-07-01 13:17</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerSideFeedbackNotification</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerSideFeedbackNotification>
+                        <NotificationSideSubtitle>122073</NotificationSideSubtitle>
+                      </ActionTriggerSideFeedbackNotification>
+                      <ActionNotification>
+                        <NotificationBlockingTime>1000</NotificationBlockingTime>
+                        <Text>12013461</Text>
+                      </ActionNotification>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013449</GUID>
+                  <Name>AdamOverheatingWarning</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-27 11:39</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-06-29 17:15</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerSideFeedbackNotification</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerSideFeedbackNotification>
+                        <NotificationSideSubtitle>122080</NotificationSideSubtitle>
+                      </ActionTriggerSideFeedbackNotification>
+                      <ActionNotification>
+                        <NotificationBlockingTime>5000</NotificationBlockingTime>
+                        <Text>12013462</Text>
+                      </ActionNotification>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013448</GUID>
+                  <Name>AdamOrbitBuildRadiusIncreased</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-27 11:19</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-07-01 13:17</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerSideFeedbackNotification</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerSideFeedbackNotification>
+                        <NotificationSideSubtitle>121777</NotificationSideSubtitle>
+                      </ActionTriggerSideFeedbackNotification>
+                      <ActionNotification>
+                        <NotificationBlockingTime>1000</NotificationBlockingTime>
+                        <Text>12013461</Text>
+                      </ActionNotification>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013450</GUID>
+                  <Name>AdamNewResearchAccessible</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-27 11:42</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-07-01 13:17</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerSideFeedbackNotification</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerSideFeedbackNotification>
+                        <NotificationSideSubtitle>122081</NotificationSideSubtitle>
+                      </ActionTriggerSideFeedbackNotification>
+                      <ActionNotification>
+                        <NotificationBlockingTime>1000</NotificationBlockingTime>
+                        <Text>12013465</Text>
+                      </ActionNotification>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013451</GUID>
+                  <Name>AdamResearchHalted</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-27 11:43</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-07-01 13:17</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerSideFeedbackNotification</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerSideFeedbackNotification>
+                        <NotificationSideSubtitle>122082</NotificationSideSubtitle>
+                      </ActionTriggerSideFeedbackNotification>
+                      <ActionNotification>
+                        <NotificationBlockingTime>1000</NotificationBlockingTime>
+                        <Text>12013466</Text>
+                      </ActionNotification>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013452</GUID>
+                  <Name>AdamRocketLaunchCountdown</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-27 11:43</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-06-27 11:44</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerVoicePlayback</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerVoicePlayback>
+                        <ActionTriggerVoicePlaybackSubTitleText>122083</ActionTriggerVoicePlaybackSubTitleText>
+                      </ActionTriggerVoicePlayback>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013453</GUID>
+                  <Name>AdamRocketLaunchConfirmation</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-27 11:43</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-06-27 11:45</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerVoicePlayback</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerVoicePlayback>
+                        <ActionTriggerVoicePlaybackSubTitleText>122084</ActionTriggerVoicePlaybackSubTitleText>
+                      </ActionTriggerVoicePlayback>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013455</GUID>
+                  <Name>AdamUnderheatingWarning</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-06-27 17:31</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-06-29 17:15</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerSideFeedbackNotification</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerSideFeedbackNotification>
+                        <NotificationSideSubtitle>121778</NotificationSideSubtitle>
+                      </ActionTriggerSideFeedbackNotification>
+                      <ActionNotification>
+                        <NotificationBlockingTime>5000</NotificationBlockingTime>
+                        <Text>12013463</Text>
+                      </ActionNotification>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>NotificationConfiguration</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013488</GUID>
+                  <Name>AdamScientificResourceShortage</Name>
+                  <Creator>jfoerster</Creator>
+                  <CreationTime>2016-07-01 13:02</CreationTime>
+                  <LastChangeUser>jfoerster</LastChangeUser>
+                  <LastChangeTime>2016-07-01 13:16</LastChangeTime>
+                </Standard>
+                <NotificationConfiguration>
+                  <NotificationType>
+                    <Template>ActionTriggerSideFeedbackNotification</Template>
+                    <Values>
+                      <Action />
+                      <ActionTriggerSideFeedbackNotification>
+                        <NotificationSideSubtitle>122092</NotificationSideSubtitle>
+                      </ActionTriggerSideFeedbackNotification>
+                      <ActionNotification>
+                        <NotificationBlockingTime>5000</NotificationBlockingTime>
+                        <Text>12013464</Text>
+                      </ActionNotification>
+                    </Values>
+                  </NotificationType>
+                </NotificationConfiguration>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Icons</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>Icon</Template>
+              <Values>
+                <Standard>
+                  <GUID>12013537</GUID>
+                  <Name>Astronaut Filter Icon</Name>
+                  <Creator>sstauss</Creator>
+                  <CreationTime>2016-07-07 15:51</CreationTime>
+                  <LastChangeUser>sstauss</LastChangeUser>
+                  <LastChangeTime>2016-07-07 15:53</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/DLC2/icon_astronauts_moon.png</IconFilename>
+                  <ID>AstronautSessionFilterIcon</ID>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+  </Groups>
+</Group>

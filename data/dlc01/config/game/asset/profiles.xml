@@ -1,0 +1,244 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Assets>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>7000005</GUID>
+          <Name>Population Tundra 01</Name>
+          <Creator>cschneider</Creator>
+          <CreationTime>2015-10-14 17:44</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2016-02-03 09:23</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_tundra_protectors.png</IconFilename>
+          <Comment>Tundra Population 1</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/icons/icon_portrait_resident_arctic_01.png</ProfilePicture>
+          <Portrait>7000435</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Ecologist Erin</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>15013</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Profile</Template>
+      <Values>
+        <Standard>
+          <GUID>7000006</GUID>
+          <Name>Population Tundra 02</Name>
+          <Creator>cschneider</Creator>
+          <CreationTime>2015-10-14 17:44</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2016-02-03 09:23</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_tundra_scientists.png</IconFilename>
+          <Comment>Tundra Population 2</Comment>
+        </Standard>
+        <Profile>
+          <ProfilePicture>Flash/PNGs/icons/icon_portrait_resident_arctic_02.png</ProfilePicture>
+          <Portrait>7000436</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002929</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+        </Profile>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Field Researcher Yun</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>15014</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Trader</Template>
+      <Values>
+        <Standard>
+          <GUID>7000215</GUID>
+          <Name>Tundra Trader</Name>
+          <Creator>tkalle</Creator>
+          <CreationTime>2015-11-12 17:02</CreationTime>
+          <LastChangeUser>cschneider</LastChangeUser>
+          <LastChangeTime>2016-07-12 14:35</LastChangeTime>
+          <IconFilename>Flash/PNGs/images/icon_portrait_dlc_tundra.png</IconFilename>
+          <ID>Tundra Trader</ID>
+          <Comment>Tundra Trader</Comment>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Dr. Esther Nylund</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>15015</LineID>
+        </Text>
+        <Trader>
+          <Tradingpool>
+            <Item>
+              <Product>7001461</Product>
+              <OfferWeight>16384000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>7001463</Product>
+              <OfferWeight>16384000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>7001480</Product>
+              <OfferWeight>16384000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>7001481</Product>
+              <OfferWeight>16384000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>7000168</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>7000169</Product>
+              <OfferWeight>32768000</OfferWeight>
+              <TraderAvailability>OfferOnly</TraderAvailability>
+            </Item>
+            <Item>
+              <Product>7000052</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>7000053</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>7000054</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>7000055</Product>
+              <OfferWeight>8192</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>7000164</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>7000165</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+            <Item>
+              <Product>7000166</Product>
+              <OfferWeight>4096</OfferWeight>
+              <RequestWeight>8192</RequestWeight>
+            </Item>
+          </Tradingpool>
+          <MinAmountPercent>1</MinAmountPercent>
+          <MaxAmountPercent>3</MaxAmountPercent>
+          <TraderSession2>7001457</TraderSession2>
+          <ConfirmationMessages>
+            <BuyText>105968</BuyText>
+            <BuySubtitle>7001830</BuySubtitle>
+            <SellText>105968</SellText>
+            <SellSubtitle>7001831</SellSubtitle>
+          </ConfirmationMessages>
+        </Trader>
+        <Profile>
+          <ProfilePicture>data/ui/portraits/portrait_missing.png</ProfilePicture>
+          <Portrait>7000437</Portrait>
+          <QuestGiverStarterObject>
+            <Template>ConditionStarterObject</Template>
+            <Values>
+              <Condition />
+              <ConditionObjectSelected />
+              <ConditionPropsSessionSettings />
+              <ConditionPropsSourceObjectSettings>
+                <SourceConditionObjectGUID>1002704</SourceConditionObjectGUID>
+                <SourceObjectSettings>
+                  <Template>ConditionObjectSpawned</Template>
+                  <Values>
+                    <ConditionObjectSpawned>
+                      <SpawnContextObjectGuidSpawned>1002818</SpawnContextObjectGuidSpawned>
+                      <SpawnContextDistanceSpawned>0</SpawnContextDistanceSpawned>
+                    </ConditionObjectSpawned>
+                  </Values>
+                </SourceObjectSettings>
+              </ConditionPropsSourceObjectSettings>
+              <ConditionStarterObject>
+                <MoveIntoSession>1</MoveIntoSession>
+              </ConditionStarterObject>
+            </Values>
+          </QuestGiverStarterObject>
+          <NPCTitle>109066</NPCTitle>
+        </Profile>
+        <Locked>
+          <DefaultLockedState>0</DefaultLockedState>
+        </Locked>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

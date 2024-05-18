@@ -1,0 +1,1903 @@
+<Icon>
+credits/logo_Anno.png
+</Icon>
+
+<HeadlineBlue>ANNO 2205 NEW FRONTIERS MOD</HeadlineBlue>
+
+<HeadlineWhite>CREATOR</HeadlineWhite>
+<Textblock>Taludas</Textblock>
+
+<Textblock>This is an extensive overhaul modification for Anno 2205. I hope you enjoy playing it!
+
+For a detailed changelog, please visit this project's GitHub page: website name</Textblock>
+
+<HeadlineWhite>Credits</HeadlineWhite>
+<Textblock>Annothek, for giving permission to re-use some assets of his "Revolution Mod" for this project, namely Ornaments, Small Public Buildings and Additional Sector Traits.</Textblock>
+
+<HeadlineBlue>ORIGINAL CREDITS</HeadlineBlue>
+<HeadlineBlue>DEVELOPMENT TEAM</HeadlineBlue>
+
+<HeadlineWhite>PRODUCER</HeadlineWhite>
+<Textblock>Burkhard Ratheiser</Textblock>
+
+<HeadlineWhite>CREATIVE DIRECTOR</HeadlineWhite>
+<Textblock>Dirk Riegert</Textblock>
+
+<HeadlineWhite>ART DIRECTOR</HeadlineWhite>
+<Textblock>Sebastian Steinberg</Textblock>
+
+<HeadlineWhite>TECHNICAL DIRECTOR</HeadlineWhite>
+<Textblock>Kevin Zellner</Textblock>
+
+<HeadlineWhite>PRODUCTION MANAGER TECHNOLOGY AND DESIGN</HeadlineWhite>
+<Textblock>Niklas Modrow</Textblock>
+
+<HeadlineWhite>PRODUCTION MANAGER ART AND OUTSOURCING</HeadlineWhite>
+<Textblock>Nadin Koch</Textblock>
+
+<HeadlineWhite>PRODUCTION MANAGER TEXT AND LOCALIZATION</HeadlineWhite>
+<Textblock>Daniel Seibold</Textblock>
+
+<HeadlineWhite>ADDITIONAL PRODUCTION MANAGER</HeadlineWhite>
+<Textblock>Uwe Mathon</Textblock>
+
+<HeadlineWhite>QA MANAGER</HeadlineWhite>
+<Textblock>Alwin Mangundirjo</Textblock>
+
+<HeadlineWhite>LEAD PROGRAMMER</HeadlineWhite>
+<Textblock>Sebastian König</Textblock>
+
+<HeadlineWhite>LEAD ARTIST</HeadlineWhite>
+<Textblock>Manuel Reinher</Textblock>
+
+<HeadlineWhite>PRINCIPAL PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Sebastian Stauß
+Wolfgang Klose 
+</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Christian Rösch 
+Felix Klinge 
+Joachim Schaub 
+Mark Reichert 
+Matthias Reinhardt
+Patrick Maier 
+Tim Boden
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Dominik Haderer
+Hans Ferchland
+</Textblock>
+
+<HeadlineWhite>3D-ENGINE PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Frank Hoffmann 
+Benjamin Bäurle
+Johannes Eichner
+Sven Janusch
+</Textblock>
+
+<HeadlineWhite>TOOL PROGRAMMER</HeadlineWhite>
+<Textblock>
+Martin Mais
+</Textblock>
+
+<HeadlineWhite>PRINCIPLE GAME DESIGNERS</HeadlineWhite>
+<Textblock>
+Sebastian Bombera
+Christian Schneider
+</Textblock>
+
+<HeadlineWhite>GAME DESIGNERS</HeadlineWhite>
+<Textblock>
+Lukas Pieper
+Sebastian Knietzsch
+Tamara Nitsch
+Tobias Kalle
+Stanislav Velychko
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL GAME DESIGNER</HeadlineWhite>
+<Textblock>
+Tom Fiedler
+</Textblock>
+
+<HeadlineWhite>GAME WRITERS</HeadlineWhite>
+<Textblock>
+Christoph Laurer
+Claudia Osthof
+</Textblock>
+
+<HeadlineWhite>LEVEL ARTISTS</HeadlineWhite>
+<Textblock>
+Björn Frechenhäuser
+Julian Krause
+Marcel Rebenstorf
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL LEVEL ARTIST</HeadlineWhite>
+<Textblock>
+Sören Meding
+</Textblock>
+
+<HeadlineWhite>CONCEPT ARTISTS</HeadlineWhite>
+<Textblock>
+André Kieschnik	
+Josef Stängl
+Rolf Bertz
+Sören Meding
+</Textblock>
+
+<HeadlineWhite>DIGITAL ARTISTS</HeadlineWhite>
+<Textblock>
+Anne Dahlmann
+Alexander Rotter
+Andreas Jupe
+Christian Marzy
+Christian Roder
+David Shelton
+Felix Lukas
+Marcel Schanz
+Tim Witprächtiger
+Tobias Brühl
+Yin Yeung Danny Man
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL DIGITAL ARTIST</HeadlineWhite>
+<Textblock>
+Rolf Bertz
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL ARTISTS</HeadlineWhite>
+<Textblock>
+Fabian Faerber
+Raphael Lübke
+Sai Wang
+</Textblock>
+
+<HeadlineWhite>UI DESIGNERS</HeadlineWhite>
+<Textblock>
+Elaine Hu Ye Lei
+Jörn Zimmermann
+Sebastian Erb
+Sebastian Sonntag
+Vera Müller
+</Textblock>
+
+<HeadlineWhite>GAME TESTERS</HeadlineWhite>
+<Textblock>
+Dominik Kirner
+Hélène Holliez
+Jan Tschöpe
+Katharina Pielka
+Patrick Urankar
+Paul Rapp
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL TESTERS</HeadlineWhite>
+<Textblock>
+Alexander Lebedev
+Florian Turbanisch
+Lars Paasche
+</Textblock>
+
+<HeadlineBlue>DEVELOPMENT TEAM: SEASON PASS</HeadlineBlue>
+
+<HeadlineWhite>EXECUTIVE PRODUCER</HeadlineWhite>
+<Textblock>Burkhard Ratheiser</Textblock>
+
+<HeadlineWhite>CREATIVE DIRECTOR</HeadlineWhite>
+<Textblock>Dirk Riegert</Textblock>
+
+<HeadlineWhite>ART DIRECTOR</HeadlineWhite>
+<Textblock>Sebastian Steinberg</Textblock>
+
+<HeadlineWhite>TECHNICAL DIRECTOR</HeadlineWhite>
+<Textblock>Kevin Zellner</Textblock>
+
+<HeadlineWhite>PRODUCER</HeadlineWhite>
+<Textblock>Christoph Knauz</Textblock>
+
+<HeadlineWhite>PRODUCTION MANAGER ART AND OUTSOURCING</HeadlineWhite>
+<Textblock>Nadin Koch</Textblock>
+
+<HeadlineWhite>ASSOCIATE PRODUCER</HeadlineWhite>
+<Textblock>Daniel Seibold</Textblock>
+
+<HeadlineWhite>LEAD PROGRAMMER</HeadlineWhite>
+<Textblock>Sebastian Stauß</Textblock>
+
+<HeadlineWhite>LEAD 3D PROGRAMMER</HeadlineWhite>
+<Textblock>Wolfgang Klose</Textblock>
+
+<HeadlineWhite>LEAD GAME DESIGNER</HeadlineWhite>
+<Textblock>Sebastian Bombera</Textblock>
+
+<HeadlineWhite>LEAD ARTIST</HeadlineWhite>
+<Textblock>Manuel Reinher</Textblock>
+
+<HeadlineWhite>LEAD UI DESIGNER</HeadlineWhite>
+<Textblock>Elaine Hu Ye Lei</Textblock>
+
+<HeadlineWhite>QA LEAD</HeadlineWhite>
+<Textblock>Patrick Urankar</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Christian Rösch
+Joachim Schaub
+Johannes Eichner
+Jonas Förster
+Matthias Reinhardt
+Maximillian Giller
+Rico Kenzler
+</Textblock>
+
+<HeadlineWhite>3D-ENGINE PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Benjamin Bäurle
+Frank Hoffmann
+</Textblock>
+
+<HeadlineWhite>TOOL PROGRAMMER</HeadlineWhite>
+<Textblock>
+Martin Mais
+Sebastian König
+</Textblock>
+
+<HeadlineWhite>GAME DESIGNERS</HeadlineWhite>
+<Textblock>
+Christian Schneider
+Lukas Pieper
+Sebastian Knietzsch
+Stanislav Velychko
+Tobias Kalle
+Volker Sassen
+</Textblock>
+
+<HeadlineWhite>NARRATIVE DESIGNER</HeadlineWhite>
+<Textblock>Claudia Osthof</Textblock>
+
+<HeadlineWhite>LEVEL ARTISTS</HeadlineWhite>
+<Textblock>
+Björn Frechenhäuser
+Julian Krause
+Marcel Rebenstorf
+</Textblock>
+
+<HeadlineWhite>CONCEPT ARTISTS</HeadlineWhite>
+<Textblock>
+André Kieschnik
+Jan Goszyk
+Josef Stängl
+Rolf Bertz
+Sören Meding
+</Textblock>
+
+<HeadlineWhite>DIGITAL ARTISTS</HeadlineWhite>
+<Textblock>
+Andreas Jupe
+Christian Marzy
+David Shelton
+Felix Lukas
+Tim Witprächtiger
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL DIGITAL ARTIST</HeadlineWhite>
+<Textblock>Rolf Bertz</Textblock>
+
+<HeadlineWhite>UI DESIGNERS</HeadlineWhite>
+<Textblock>
+Nur Farah Ain Mahadon
+Sebastian Erb
+Vera Müller
+</Textblock>
+
+<HeadlineWhite>GAME TESTERS</HeadlineWhite>
+<Textblock>
+Dominik Kirner
+Hélène Holliez
+Jan Tschöpe
+Katharina Pielka
+Giuseppe-Ion Andrei
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL TESTING</HeadlineWhite>
+<Textblock>
+Birte Jenk
+Joana Costa Cunha e Almeida
+</Textblock>
+
+<HeadlineWhite>BUILD ENGINEER</HeadlineWhite>
+<Textblock>Florian Turbanisch</Textblock>
+
+
+<HeadlineBlue>PARTNERS AND OUTSOURCING</HeadlineBlue>
+
+<HeadlineWhite>ART OUTSOURCING MANAGER</HeadlineWhite>
+<Textblock>Nadin Koch</Textblock>
+
+<HeadlineWhite>ART OUTSOURCING</HeadlineWhite>
+<Textblock>
+10ravens s.r.o.
+Alexander Beim 
+CG Folks Studio
+Distortum - Jozef Rolincin 
+Robert Kuczera
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL ART OUTSOURCING</HeadlineWhite>
+<Textblock>
+Ubisoft Chengdu 
+Ubisoft Shanghai 
+</Textblock>
+
+<HeadlineWhite>INTRO MOVIE</HeadlineWhite>
+<Textblock>Kazoo Creative</Textblock>
+
+<Textblockbold>MUSIC AND SOUND: DYNAMEDION</Textblockbold>
+
+<HeadlineWhite>CREATIVE DIRECTOR & LEAD COMPOSER</HeadlineWhite>
+<Textblock>Tilman Sillescu</Textblock>
+
+<HeadlineWhite>COMPOSERS</HeadlineWhite>
+<Textblock>
+Alexander Röder
+Jochen Flach
+Matthias Wolf
+Armin Haas
+</Textblock>
+
+<HeadlineWhite>LEAD SOUND DESIGNER</HeadlineWhite>
+<Textblock>Michael Schwendler</Textblock>
+
+<HeadlineWhite>SOUND DESIGNER AND AUDIO INTEGRATION</HeadlineWhite>
+<Textblock>David Osternacher</Textblock>
+
+<HeadlineWhite>SOUND DESIGNERS</HeadlineWhite>
+<Textblock>
+Michael Prechtl
+Valentin Göllner
+Stefan Kemler
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL SOUND DESIGN</HeadlineWhite>
+<Textblock>
+Felix Diekhake
+Tristan Horton
+Axel Rohrbach
+Patrice Börding
+Sebastian Emling
+</Textblock>
+
+<HeadlineWhite>AUDIO TEAM & PROJECT MANAGEMENT</HeadlineWhite>
+<Textblock>
+Pierre Langer
+Felix Diekhake
+</Textblock>
+
+<Textblockbold>BRANDENBURG PHILHARMONIC ORCHESTRA</Textblockbold>
+<HeadlineWhite>CHOIR</HeadlineWhite>
+<Textblock>Latvian Studio Voices</Textblock>
+
+<HeadlineWhite>SOLO RECORDINGS</HeadlineWhite>
+<Textblock>Budapest Studio 22</Textblock>
+
+<HeadlineWhite>CONDUCTOR</HeadlineWhite>
+<Textblock>Bernd Ruf</Textblock>
+
+<HeadlineWhite>ORCHESTRATOR</HeadlineWhite>
+<Textblock>David Christiansen</Textblock>
+
+<HeadlineWhite>RECORDING ENGINEER</HeadlineWhite>
+<Textblock>Christopher Tarnow</Textblock>
+
+<Textblockbold>ORCHESTRA SESSION BY GENUIN RECORDING GROUP</Textblockbold>
+
+<HeadlineWhite>SESSION MANAGERS</HeadlineWhite>
+<Textblock>
+David Christiansen
+Marcell Kelemen
+</Textblock>
+
+<HeadlineWhite>CONTRACTORS</HeadlineWhite>
+<Textblock>
+Egils Stals
+Antonello Martina
+</Textblock>
+
+<Textblockbold>FEATURED SOLO ARTISTS</Textblockbold>
+
+<HeadlineWhite>VOCALS</HeadlineWhite>
+<Textblock>Conny Kollet</Textblock>
+
+<HeadlineWhite>DUDUK</HeadlineWhite>
+<Textblock>Zsolt Bartek</Textblock>
+
+<HeadlineWhite>CELLO</HeadlineWhite>
+<Textblock>Matyas Olvete</Textblock>
+
+<Textblockbold>VOICE RECORDING (ENGLISH): OUTSOURCE MEDIA UK</Textblockbold>
+
+<HeadlineWhite>DIRECTOR</HeadlineWhite>
+<Textblock>Mark Estdale</Textblock>
+
+<HeadlineWhite>RECORDING ENGINEERS</HeadlineWhite>
+<Textblock>
+Juan Manuel Delfin
+Victoria Prentice
+Lewis Bean
+</Textblock>
+
+<HeadlineWhite>PRODUCTION ASSISTANT</HeadlineWhite>
+<Textblock>Ben Maltz-Jones</Textblock>
+
+<HeadlineWhite>DIALOGUE EDITORS</HeadlineWhite>
+<Textblock>
+Michael Robert Redhead
+Matthew Panayiotopoulos
+Lewis Bean
+Marta Puerto
+</Textblock>
+
+<HeadlineWhite>CAST (ENGLISH DIALOGUES)</HeadlineWhite>
+<Textblock>
+ROLE by ACTOR
+NIC PAPADAKIS by Adam Longworth
+VILLE JORGENSEN by Akie Kotabe 
+ANTHONY GOODWIN by Andrew Wincott 
+JOHN RAFFERTY by Ben Whitehead 
+AIDAN BARGHAVA by Chris Ragland 
+EMEM BUHARI by Colin Stinton 
+LUCA VOLODIN by David Shaw Parker 
+ADAM by Adam Longworth
+MAY TIAN by Jules de Jongh 
+ZANDRA HEYES by Larissa Murray 
+DR.ELINOR HOFWEGEN by Laurence Bouvard
+MYSTERIOUS WOMAN by Maria Teresa Creasey
+SAM BEAUMONT by Alexa Kahn
+VIRGIL DRAKE by Paul Mcgann
+</Textblock>
+
+<Textblockbold>VOICE RECORDING (GERMAN): 4-REAL INTERMEDIA</Textblockbold>
+
+<HeadlineWhite>TEAM</HeadlineWhite>
+
+<Textblock>
+Michael Buss
+Jan Mayerhofer
+Tim Hennemann
+Christian Will
+Robert Reyl
+Christian Maier
+</Textblock>
+
+<HeadlineWhite>CAST (GERMAN DIALOGUES)</HeadlineWhite>
+<Textblock>
+ROLE by ACTOR
+ADAM by Peter Lehn
+AIDAN BHARGAVA by Martin Sabel
+DR. HOFWEGEN by Annette Potempa
+DR. HOWARD YOUNG by Karl Jürgen Sihler
+EMEM BUHARI by Michael Lucke
+LUCA VOLODIN by Helmut Winkelmann
+MAY TIAN by Daniela Bette-Koch
+NIC PAPADAKIS by Peter Dischkow
+SAM BEAUMONT by Lara Trautmann
+VILLE JORGENSEN by Rene Dawn-Claude
+ZANDRA HAYNES by Gisa Bergmann
+MYSTERY WOMAN by Djuwita Müller
+VIRGIL DRAKE by Carlos Lobo
+JOHN RAFFERTY by Stefan Müller-Ruppert
+ANTONY GOODWIN by Michael Betz
+</Textblock>
+
+<Textblockbold>VOICE RECORDING (FRENCH): DUNE SOUND</Textblockbold>
+
+<HeadlineWhite>PRODUCER</HeadlineWhite>
+<Textblock>
+Olivier Rabat
+</Textblock>
+
+<HeadlineWhite>VOICE DIRECTORS</HeadlineWhite>
+<Textblock>
+Yann Laferrère
+</Textblock>
+
+<HeadlineWhite>PRODUCTION MANAGER</HeadlineWhite>
+<Textblock>
+Olivier Rabat
+</Textblock>
+
+<HeadlineWhite>SOUND ENGINEERING</HeadlineWhite>
+<Textblock>
+Carl Malherbe
+</Textblock>
+
+<HeadlineWhite>POST PRODUCTION MANAGER</HeadlineWhite>
+<Textblock>
+Kevin Krueger
+Sebastiaan Moedt
+</Textblock>
+
+<HeadlineWhite>AUDIO POST PRODUCTION</HeadlineWhite>
+<Textblock>
+Jean-Philipe Belliard
+Alexandre Croo
+Paul Mayet
+</Textblock>
+
+<HeadlineWhite>ADMINISTRATION</HeadlineWhite>
+<Textblock>
+Catherine Paire
+Nathalie Duret
+</Textblock>
+
+<HeadlineWhite>CAST (FRENCH DIALOGUES)</HeadlineWhite>
+<Textblock>
+ROLE by ACTOR
+JOHN RAFFERTY by Patrick Borg
+SAM BEAUMONT by Marie Chevalot
+AIDAN BHARGAVA by Sébastien Desjours
+MYSTERIOUS WOMAN by Cathy Diraison
+VIRGIL DRAKE by Pierre Dourlens
+HOWARD YOUNG by Philippe Dumond
+VILLE JORGENSEN by Nessym Guétat
+EMEM BUHARI by Lionel Henry
+ANTHONY GOODWIN by Bruno Magnes
+DR HOFWEGEN by Kelly Marot
+ZANDRA HEYNES by Céline Melloul
+NIC PAPADAKIS by Bernard Métraux
+ADAM by Bruno Méyère
+LUCA VOLODIN by Thierry Murzeau
+MAY TIAN by Laura Préjean
+</Textblock>
+
+<Textblockbold>VOICE RECORDING (RUSSIAN): LOGRUS</Textblockbold>
+
+<HeadlineWhite>SOUND RECORDING</HeadlineWhite>
+<Textblock>
+Andrei Vakaev
+Sergei Vorobyov
+Vladimir Greznev
+Natalya Gordeeva
+</Textblock>
+
+<HeadlineWhite>CAST (RUSSIAN DIALOGUES)</HeadlineWhite>
+<Textblock>
+ROLE by ACTOR
+ADAM by Diomid Vinogradov
+SAM BEAUMONT by Shcherbakova Polina
+VILLE JORGENSEN by Alexey Smirnov
+NIC PAPADAKIS by Dmitri Polyanovski
+EMEM BUHARI by Mikhail Georgiu
+MAY TIAN by Ramilya Iskander 
+AIDAN BHARGAVA by Daniil Eldarov           
+HOWARD YOUNG by Tobilevich Pyotr               
+VIRGIL DRAKE by Nikita Prozorovski   
+ZANDRA HEYNES by Mariya Fortunatova       
+MYSTERIOUS WOMAN by Irina Kireeva                
+LUCA VOLODIN by Boris Bystrov                  
+DR HOFWEGEN by Marina Lisovets           
+ANTHONY GOODWIN by Alexey Voityuk            
+JOHN RAFFERTY by Maxim Pinsker
+</Textblock>
+
+<HeadlineWhite>ADDITIONAL ACTORS</HeadlineWhite>
+<Textblock>
+Elena Chebaturkina         
+Vasili Dakchnenko 
+Konstantin Karasik 
+Oleg Shcherbinin 
+Radik Mukhametzyanov 
+Boris Tokarev 
+Olga Zubkova 
+Natalya Pokhosoyeva 
+</Textblock>
+
+<Textblockbold>TRANSLATION</Textblockbold>
+
+<HeadlineWhite>ENGLISH (US)</HeadlineWhite>
+<Textblock>
+Bill Thomas
+</Textblock>
+
+<HeadlineWhite>GERMAN</HeadlineWhite>
+<Textblock>
+Kerstin Fricke & Falko Löffler
+</Textblock>
+
+<HeadlineWhite>FRENCH</HeadlineWhite>
+<Textblock>
+Alt-Maj: Philippe Colin & Nicolas Fanthou
+</Textblock>
+
+<HeadlineWhite>SPANISH</HeadlineWhite>
+<Textblock>
+S&H Entertainment Localization
+</Textblock>
+
+<HeadlineWhite>POLISH</HeadlineWhite>
+<Textblock>
+GAMEKEEPER 
+</Textblock>
+
+<HeadlineWhite>RUSSIAN</HeadlineWhite>
+<Textblock>
+LOGRUS:
+Dmitri Sobotsinksi 
+Ekaterina Kalegina
+Elizaveta Uchiteleva
+Anastasia Stazhilo-Alekseeva
+</Textblock>
+
+
+<HeadlineBlue>UBISOFT BLUE BYTE STUDIOS</HeadlineBlue>
+
+<HeadlineWhite>STUDIO MANAGER</HeadlineWhite>
+<Textblock>Benedikt Grindel</Textblock>
+
+<HeadlineWhite>GENERAL MANAGER MAINZ</HeadlineWhite>
+<Textblock>Thomas Pottkämper</Textblock>
+
+<HeadlineWhite>DIRECTOR OF PORTFOLIO & STRATEGY</HeadlineWhite>
+<Textblock>Cyril Voiron</Textblock>
+
+<HeadlineWhite>DIRECTOR OF PRODUCT DEVELOPMENT</HeadlineWhite>
+<Textblock>Christopher Schmitz</Textblock>
+
+<HeadlineWhite>STUDIO BRAND DIRECTOR</HeadlineWhite>
+<Textblock>Ronald Kaulbach</Textblock>
+
+<HeadlineWhite>HEAD OF INTERNATIONAL BRAND MANAGEMENT</HeadlineWhite>
+<Textblock>Michael Thielmann</Textblock>
+
+<HeadlineWhite>INTERNATIONAL PRODUCT MANAGER</HeadlineWhite>
+<Textblock>Nils Ehlert</Textblock>
+
+<HeadlineWhite>MARKETING ART DIRECTOR</HeadlineWhite>
+<Textblock>Miriam Gretenkort</Textblock>
+
+<HeadlineWhite>MARKETING ARTIST</HeadlineWhite>
+<Textblock>Kristina Meinig</Textblock>
+
+<HeadlineWhite>MARKETING COORDINATOR</HeadlineWhite>
+<Textblock>Sabine Tophofen</Textblock>
+
+<HeadlineWhite>HEAD OF EXTERNAL COMMUNICATION</HeadlineWhite>
+<Textblock>Karsten Lehmann</Textblock>
+
+<HeadlineWhite>EXTERNAL COMMUNICATIONS MANAGER</HeadlineWhite>
+<Textblock>Stefan Böhne</Textblock>
+
+<HeadlineWhite>COMMUNITY DEVELOPER</HeadlineWhite>
+<Textblock>Manfred Jacobs</Textblock>
+
+<HeadlineWhite>RETENTION MARKETING MANAGER</HeadlineWhite>
+<Textblock>Zrinjka Buljan</Textblock>
+
+<HeadlineWhite>HEAD OF DIGITAL MARKETING</HeadlineWhite>
+<Textblock>Infran Wirjawan</Textblock>
+
+<HeadlineWhite>HEAD OF COOPERATIONS & MEDIA</HeadlineWhite>
+<Textblock>Andreas Balfanz</Textblock>
+
+<HeadlineWhite>GROUP MANAGER - SEM & DISPLAY MARKETING</HeadlineWhite>
+<Textblock>Henning Wasserfuhr</Textblock>
+
+<HeadlineWhite>RETENTION MARKETING MANAGER</HeadlineWhite>
+<Textblock>Zrinjka Buljan</Textblock>
+
+<HeadlineWhite>DIGITAL MARKETING MANAGERS</HeadlineWhite>
+<Textblock>
+Lucas Schmitt
+Sandra Steinitz
+</Textblock>
+
+<HeadlineWhite>PROJECT PORTFOLIO MANAGER</HeadlineWhite>
+<Textblock>Timo Kornetzki</Textblock>
+
+<HeadlineWhite>SERVICES & CONSULTANCY MANAGER</HeadlineWhite>
+<Textblock>Istvan Tajnay</Textblock>
+
+<HeadlineWhite>MANAGER TRANSVERSAL PROJECTS</HeadlineWhite>
+<Textblock>Johannes Thimme</Textblock>
+
+<HeadlineWhite>CREATIVE SUPERVISOR</HeadlineWhite>
+<Textblock>Dennis Filipovic</Textblock>
+
+<HeadlineWhite>MONETIZATION SUPERVISOR</HeadlineWhite>
+<Textblock>
+Achim Spohr
+Teut Weidemann
+</Textblock>
+
+<HeadlineWhite>AUDIO DIRECTOR</HeadlineWhite>
+<Textblock>Stefan Randelshofer</Textblock>
+
+<HeadlineWhite>STRATEGIC ADVISOR</HeadlineWhite>
+<Textblock>Odile Limpach</Textblock>
+
+<HeadlineWhite>GAMESLAB MANAGER</HeadlineWhite>
+<Textblock>Jochen Peketz</Textblock>
+
+<HeadlineWhite>ACCESSIBILITY SUPERVISOR</HeadlineWhite>
+<Textblock>
+Alexander Gregory Janiczek
+Dirk Brendel
+</Textblock>
+
+<HeadlineWhite>LOCALIZATION MANAGER</HeadlineWhite>
+<Textblock>Daniel Seibold</Textblock>
+
+<HeadlineWhite>ADDITIONAL LOCALIZATION MANAGERS</HeadlineWhite>
+<Textblock>
+Medina Enache
+George Scarlat
+</Textblock>
+
+<HeadlineWhite>HEAD OF CUSTOMER RELATIONS</HeadlineWhite>
+<Textblock>Alexander John</Textblock>
+
+<HeadlineWhite>WORLDWIDE CUSTOMER SUPPORT COORDINATOR</HeadlineWhite>
+<Textblock>
+Alan Au Yeung
+Ferhat Ince
+</Textblock>
+
+<HeadlineWhite>WORLDWIDE CUSTOMER RELATIONS COORDINATOR</HeadlineWhite>
+<Textblock>David Meuter</Textblock>
+
+<HeadlineWhite>BUSINESS DEVELOPMENT MANAGER</HeadlineWhite>
+<Textblock>Kay Bennemann</Textblock>
+
+<HeadlineWhite>PAYMENT & PARTNER INTEGRATIONS MANAGER</HeadlineWhite>
+<Textblock>Boris Franke</Textblock>
+
+<HeadlineWhite>HEAD OF BUSINESS INTELLIGENCE</HeadlineWhite>
+<Textblock>Christoph Safferling</Textblock>
+
+<HeadlineWhite>DATA ANALYSTS</HeadlineWhite>
+<Textblock>
+Colin Luoma
+Dmitry Salimov
+Galina Polishchuk
+Sebastian Still
+</Textblock>
+
+<HeadlineWhite>STUDIO DIRECTOR OF TECHNOLOGY</HeadlineWhite>
+<Textblock>Yann Le Tensorer</Textblock>
+
+<HeadlineWhite>TECHNICAL DIRECTORS</HeadlineWhite>
+<Textblock>
+Achim Moller
+Thomas Stein
+</Textblock>
+
+<HeadlineWhite>INTEGRATION CONSULTANT</HeadlineWhite>
+<Textblock>Christian Morgenstern</Textblock>
+
+<HeadlineWhite>IT & PROCUREMENT MANAGER</HeadlineWhite>
+<Textblock>Stefan Kleinau</Textblock>
+
+<HeadlineWhite>IT ADMINISTRATORS</HeadlineWhite>
+<Textblock>
+Frank Schurad
+Ben Harnisch
+</Textblock>
+
+<HeadlineWhite>IT SUPPORTER</HeadlineWhite>
+<Textblock>Achim Haaz</Textblock>
+
+<HeadlineWhite>WINDOWS SYSTEM ADMINISTRATOR</HeadlineWhite>
+<Textblock>Sebastian Olbrich</Textblock>
+
+<HeadlineWhite>DATA MANAGER</HeadlineWhite>
+<Textblock>Dogan Cinar</Textblock>
+
+<HeadlineWhite>ONLINE TEAM LEADER</HeadlineWhite>
+<Textblock>Paul Wloch</Textblock>
+
+<HeadlineWhite>LINUX SYSTEM ADMINISTRATORS</HeadlineWhite>
+<Textblock>
+Linus Broich
+Robert Palotas-Serban
+</Textblock>
+
+<HeadlineWhite>FINANCE MANAGER</HeadlineWhite>
+<Textblock>Philipp Böckmann</Textblock>
+
+<HeadlineWhite>CONTROLLERS</HeadlineWhite>
+<Textblock>
+Angelique Remond
+Marouane Benmessaoud
+Martin Middel
+Philipp Beesen
+</Textblock>
+
+<HeadlineWhite>FINANCIAL ACCOUNTANTS</HeadlineWhite>
+<Textblock>
+Diana Garbia
+Gudrun Jelic
+Ingrid Giesenow
+</Textblock>
+
+<HeadlineWhite>DIRECTOR OF HUMAN RESOURCES</HeadlineWhite>
+<Textblock>Andrej Maibaum</Textblock>
+
+<HeadlineWhite>HR GENERALISTS</HeadlineWhite>
+<Textblock>
+Andre Kreuels
+Eva Kälin
+Jenny Pawliczek
+Remigius Parij
+</Textblock>
+
+<HeadlineWhite>MANAGER INTERNAL COMMUNICATION</HeadlineWhite>
+<Textblock>Nadine Krüger</Textblock>
+
+<HeadlineWhite>ASSISTANT TO THE GENERAL MANAGER</HeadlineWhite>
+<Textblock>Svenja Büll</Textblock>
+
+<HeadlineWhite>TECHNICAL LEAD WEB, TOOLS & MIDDLEWARE</HeadlineWhite>
+<Textblock>Simon Steeg</Textblock>
+
+<HeadlineWhite>PROJECT MANAGER TOOLS AND SERVICES</HeadlineWhite>
+<Textblock>Andreas Edelmann</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Benjamin Bischoff
+Maxim Suprunov
+Roman Soldatow
+</Textblock>
+
+<HeadlineWhite>PROJECT MANAGER WEB TOOLS</HeadlineWhite>
+<Textblock>Ciro Del Rio</Textblock>
+
+<HeadlineWhite>SOFTWARE ENGINEER</HeadlineWhite>
+<Textblock>Torben Ludwig</Textblock>
+
+<HeadlineWhite>WEB DEVELOPERS</HeadlineWhite>
+<Textblock>
+Borut Jegrisnik
+Domen Persolia
+Gabriel Sofronie
+Michael Engels
+Mathias Becker
+Sergio Sanches
+</Textblock>
+
+<HeadlineWhite>OFFICE MANAGERS</HeadlineWhite>
+<Textblock>
+Nicole Büttner
+Sabrina Marstatt
+Tanja Martens
+</Textblock>
+
+<HeadlineWhite>RECEPTIONIST</HeadlineWhite>
+<Textblock>Annika Wendker</Textblock>
+
+<Textblockbold>SPECIAL THANKS TO</Textblockbold>
+<Textblock>Roman Salomon</Textblock>
+
+<HeadlineBlue>PUBLISHER: UBISOFT ENTERTAINMENT</HeadlineBlue>
+
+<HeadlineWhite>PRESIDENT AND CEO</HeadlineWhite>
+<Textblock>Yves Guillemot</Textblock>
+
+<HeadlineWhite>EXECUTIVE DIRECTOR, WORLDWIDE STUDIOS</HeadlineWhite>
+<Textblock>Christine Burgess-Quémard</Textblock>
+
+<HeadlineWhite>CHIEF CREATIVE OFFICER</HeadlineWhite>
+<Textblock>Serge Hascoët</Textblock>
+
+<HeadlineWhite>VP EDITORIAL</HeadlineWhite>
+<Textblock>
+Olivier Dauba
+Tommy François
+Yann Masson
+Elisabeth Pellen
+</Textblock>
+
+<HeadlineWhite>VP, PRODUCTION MANAGER</HeadlineWhite>
+<Textblock>Nicolas Schoener</Textblock>
+
+<HeadlineWhite>LINE PRODUCER</HeadlineWhite>
+<Textblock>Maya Savic</Textblock>
+
+<HeadlineWhite>LINE DESIGNERS</HeadlineWhite>
+<Textblock>
+Florian Mussard 
+Paul Blachere
+Odile Deguercy
+</Textblock>
+
+<HeadlineWhite>ECS</HeadlineWhite>
+<Textblock>
+Xavier Guilbert
+</Textblock>
+
+<HeadlineWhite>LIVE OPERATIONS DIRECTOR</HeadlineWhite>
+<Textblock>Anne Blondel Jouin</Textblock>
+
+<HeadlineWhite>SHADOW LIVE PRODUCER</HeadlineWhite>
+<Textblock>Yves Le Yaouanq</Textblock>
+
+<HeadlineWhite>LOCALIZATION GROUP MANAGER</HeadlineWhite>
+<Textblock>Eugen Popescu</Textblock>
+
+<HeadlineWhite>CERTIFICATION COORDINATOR - AGE RATING</HeadlineWhite>
+<Textblock>Jean-Marie Mogentale</Textblock>
+
+<HeadlineWhite>CERTIFICATION 1ST PARTY MANAGER</HeadlineWhite>
+<Textblock>Anis Boujaouane</Textblock>
+
+<HeadlineWhite>CERTIFICATION SPECIALISTS</HeadlineWhite>
+<Textblock>
+Karima Touali
+</Textblock>
+
+<HeadlineWhite>QC & USER RESEARCH DIRECTOR</HeadlineWhite>
+<Textblock>Pierre Jouen</Textblock>
+
+<HeadlineWhite>CCO-EXECUTIVE ASSISTANT</HeadlineWhite>
+<Textblock>Céline Akef</Textblock>
+
+<HeadlineWhite>DATA MANAGER</HeadlineWhite>
+<Textblock>Adrien Anger</Textblock>
+
+<HeadlineWhite>GAME ANALYTICS RESEARCH DIRECTOR</HeadlineWhite>
+<Textblock>Michel Pierfitte</Textblock>
+
+<HeadlineWhite>EDITORIAL USER RESEARCH DIRECTOR</HeadlineWhite>
+<Textblock>Sébastien Odasso</Textblock>
+
+<HeadlineWhite>USER RESEARCH LAB TEAM LEAD</HeadlineWhite>
+<Textblock>Quentin Pierre</Textblock>
+
+<HeadlineWhite>LEAD GAMES USER RESEARCHER</HeadlineWhite>
+<Textblock>Julien Huguenin</Textblock>
+
+<HeadlineWhite>GAMES USER RESEARCHER</HeadlineWhite>
+<Textblock>
+Pierre-Maël Blachère
+----
+Elodie Anthony
+Yann Bijou
+Jonathan Debray
+Jan Degans
+Laura Glibert
+Guillaume Louvel
+Kimberley Petitjean
+Jean-Luc Potte
+Morgane Schreiber
+</Textblock>
+
+<HeadlineWhite>BIOMETRY PROJECT MANAGER</HeadlineWhite>
+<Textblock>Nicolas Mathieu</Textblock>
+
+<HeadlineWhite>USER RESEARCH PROJECT MANAGER</HeadlineWhite>
+<Textblock>Florian Leroy</Textblock>
+
+<HeadlineWhite>USER RESEARCH LAB DATA MANAGER</HeadlineWhite>
+<Textblock>Livia Simoni</Textblock>
+
+<HeadlineWhite>VP, UPLAY AND CASUAL GAMES</HeadlineWhite>
+<Textblock>Stephanie Perotti</Textblock>
+
+<HeadlineWhite>ONLINE SERVICES MANAGER</HeadlineWhite>
+<Textblock>Julien Hummer</Textblock>
+
+<HeadlineWhite>VICE PRESIDENT, CUSTOMER MANAGEMENT</HeadlineWhite>
+<Textblock>Stéphane Catherine</Textblock>
+
+<HeadlineWhite>COMMUNITY REPRESENTATIVES</HeadlineWhite>
+<Textblock>
+Dominique Falkenberg
+Moritz Steck
+</Textblock>
+    
+<HeadlineWhite>COMMUNITY LIVE OPERATIONS MANAGER</HeadlineWhite>
+<Textblock>Alessandro Degortes</Textblock> 
+
+<HeadlineWhite>CUSTOMER SUPPORT LEAD</HeadlineWhite>
+<Textblock>Louise Parnell</Textblock>
+
+<HeadlineWhite>CUSTOMER SUPPORT LIVE OPERATIONS MANAGER</HeadlineWhite>
+<Textblock>Andrew Millmoor</Textblock>
+     
+<HeadlineWhite>HEAD OF CUSTOMER SUPPORT</HeadlineWhite>
+<Textblock>Dimitri Karakassides</Textblock>
+
+<HeadlineWhite>HEAD OF CRM & COMMUNITY DEVELOPMENT</HeadlineWhite>
+<Textblock>Damien Glorieux</Textblock>
+
+<HeadlineWhite>CUSTOMER RELATIONSHIP PROJECT MANAGER</HeadlineWhite>
+<Textblock>Céline Paiva</Textblock>     
+
+<HeadlineWhite>COMMUNITY DEVELOPMENT GROUP MANAGER</HeadlineWhite>
+<Textblock>Christophe Zerathe</Textblock> 
+
+<HeadlineWhite>CRM MANAGER</HeadlineWhite>
+<Textblock>Gwenn Berhault</Textblock> 
+
+<HeadlineWhite>CRM OPERATION MANAGER</HeadlineWhite>
+<Textblock>Lucas Fontaine</Textblock> 
+
+<HeadlineWhite>CRM Manager</HeadlineWhite>
+<Textblock>Clemence Loiseau</Textblock> 
+
+<HeadlineWhite>WW QC DIRECTOR</HeadlineWhite>
+<Textblock>Razvan Rotunjanu</Textblock>
+
+<HeadlineWhite>WW QC MANAGERS</HeadlineWhite>
+<Textblock>
+Radu Emanuel Constantin
+Robert Neculau
+Mircea Nutu
+</Textblock>
+
+<Textblockbold>AV TEAM, BUCHAREST STUDIO</Textblockbold>
+
+<HeadlineWhite>STUDIO MANAGER</HeadlineWhite>
+<Textblock>Emil Gheorghe</Textblock>
+
+<HeadlineWhite>TSD QC MANAGER</HeadlineWhite>
+<Textblock>George Stercu</Textblock>
+
+<HeadlineWhite>AUDIO-VIDEO LEAD</HeadlineWhite>
+<Textblock>Octavian Constantin</Textblock>
+
+<HeadlineWhite>AUDIO-VIDEO ASSOCIATE LEAD</HeadlineWhite>
+<Textblock>Andrei Begu</Textblock>
+
+<HeadlineWhite>AUDIO-VIDEO SPECIALISTS</HeadlineWhite>
+<Textblock>
+Dan Dragomir
+Florian Alungulesa
+</Textblock>
+
+<Textblockbold>QC LOCALIZATION TEAM</Textblockbold>
+<Textblockbold>UBISOFT BUCHAREST</Textblockbold>
+
+<HeadlineWhite>QC UNIT MANAGER</HeadlineWhite>
+<Textblock>Andrei Voicu</Textblock>
+
+<HeadlineWhite>QC LOCALIZATION LEADS</HeadlineWhite>
+<Textblock>
+Radu Barbosa
+Cristina Paraschiv
+</Textblock>
+
+<HeadlineWhite>LOCALIZATION TEAM LEADER</HeadlineWhite>
+<Textblock>Sebastian Acuña</Textblock>
+
+<HeadlineWhite>LOCALIZATION SPECIALIST: ENGLISH</HeadlineWhite>
+<Textblock>
+Oana Florea
+</Textblock>
+
+<HeadlineWhite>LOCALIZATION SPECIALISTS: FRENCH</HeadlineWhite>
+<Textblock>
+Andrik-Vaimiti Kuhnen
+Alex Goux
+</Textblock>
+
+<HeadlineWhite>LOCALIZATION SPECIALISTS: GERMAN</HeadlineWhite>
+<Textblock>
+Martin Keuer
+Patrick Meyer
+</Textblock>
+
+<HeadlineWhite>LOCALIZATION SPECIALIST: POLISH</HeadlineWhite>
+<Textblock>
+Lukasz Kordas
+</Textblock>
+
+<HeadlineWhite>LOCALIZATION SPECIALIST: RUSSIAN</HeadlineWhite>
+<Textblock>
+Natalia Samatios
+</Textblock>
+
+<HeadlineWhite>LOCALIZATION SPECIALISTS: SPANISH</HeadlineWhite>
+<Textblock>
+Sebastian Acuña
+Carlos Hidalgo-Lopez
+</Textblock>
+
+
+<Textblockbold>PUNE QC</Textblockbold>
+
+<HeadlineWhite>QC STUDIO MANAGER</HeadlineWhite>
+<Textblock>
+Rahul Khatal
+</Textblock>
+
+<HeadlineWhite>QC UNIT CO-ORDINATOR</HeadlineWhite>
+<Textblock>
+Vandit Kinarivala 
+</Textblock>
+
+<HeadlineWhite>QC PROJECT LEAD</HeadlineWhite>
+<Textblock>
+Chaitanya Girme
+</Textblock>
+
+<HeadlineWhite>TESTERS</HeadlineWhite>
+<Textblock>
+Shreyas Kulkarni
+Akshay Muluk
+Mihir Kulkarni
+Aziz Methiwala 
+</Textblock>
+
+<HeadlineWhite>FPA SPECIALISTS</HeadlineWhite>
+<Textblock>
+Vinit Shetty
+Tanveer Shaikh
+</Textblock>
+
+<Textblockbold>UOR/NETWORKING</Textblockbold>
+
+<HeadlineWhite>UOR/NETWORKING LEAD</HeadlineWhite>
+<Textblock>
+Alexandru Bontu 
+</Textblock>
+
+<HeadlineWhite>UOR/NETWORKING SPECIALISTS</HeadlineWhite>
+<Textblock>
+Adrian Tila
+Alexandru Carp
+Andrei Vladimir "GAV" Georgescu
+Catalin Daniel Balan
+Constantin Vilceanu
+Gabriela Ramona Hera
+Liviu Ioan Ciobotaru
+Nicolae Ovidiu Vlad
+Cosmin Ionut Popa
+Cristina Gheorghe
+Florian Mihai
+Ioana-Madalina Carapcea
+Mihai Cazangiu
+Nelu Vale
+Sebastian Pascu
+Vladimir Gaitan
+Dragos Florin Sandru
+Cristian Iancu
+Valentin George Nicolaie
+Dragos Valentin Burlacu
+</Textblock>
+
+<Textblockbold>PC REQUIREMENTS</Textblockbold>
+
+<HeadlineWhite>PC REQUIREMENTS LEAD</HeadlineWhite>
+<Textblock>
+Marius Tudorache
+</Textblock>
+
+<HeadlineWhite>PC REQUIREMENTS TEAM</HeadlineWhite>
+<Textblock>
+Alexandru Teodor
+Andrei Costin Alexe
+Andrei Mihai
+Codrut Catargiu
+Constantin Fotea
+Cristina-Mihaela Aldea
+Giuseppe-Ion Andrei
+Horatiu Bradeanu
+Marius Enciu
+Paul-Ionut Dumitrescu
+Silviu-Iulian Stoica
+Victor Pop
+</Textblock>
+
+<HeadlineBlue>UPLAY</HeadlineBlue>
+<HeadlineWhite>DEVELOPMENT DIRECTOR</HeadlineWhite>
+<Textblock>
+Pierre Escaich
+</Textblock>
+
+<Textblockbold>UBISOFT MASSIVE</Textblockbold>
+<HeadlineWhite>PRODUCT MANAGER</HeadlineWhite>
+<Textblock>
+Robert Pearce
+</Textblock>
+
+<HeadlineWhite>ASSOCIATE PRODUCER</HeadlineWhite>
+<Textblock>
+Alexander Strandberg
+</Textblock>
+
+<HeadlineWhite>LEAD PROGRAMMER</HeadlineWhite>
+<Textblock>
+Olof Naessén
+</Textblock>
+
+<HeadlineWhite>LEAD SERVER PROGRAMMER</HeadlineWhite>
+<Textblock>
+Nils Bandel
+</Textblock>
+
+<HeadlineWhite>ASSOCIATE LEAD PROGRAMMER</HeadlineWhite>
+<Textblock>
+Jon Lilja
+</Textblock>
+
+<HeadlineWhite>SENIOR OPERATIONS MANAGER</HeadlineWhite>
+<Textblock>
+Anders Kapusta-Lejczak
+</Textblock>
+
+<HeadlineWhite>OPERATIONS ASSISTANT</HeadlineWhite>
+<Textblock>
+Mikael Hjortsberg
+</Textblock>
+
+<HeadlineWhite>PROJECT COORDINATOR</HeadlineWhite>
+<Textblock>
+Morag Doig-Granito
+</Textblock>
+
+<HeadlineWhite>INTEGRATION ARCHITECT</HeadlineWhite>
+<Textblock>
+Markus Holmberg
+</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Mathias Fredriksson
+Igor Khlepitko
+Johan Soräng
+Gustaf Ekberg
+Ulf Persson
+Olafur Waage
+Fedor Chinarev
+Mikael Selander
+Alexander Taylor
+</Textblock>
+
+<HeadlineWhite>UI DESIGNER</HeadlineWhite>
+<Textblock>
+Timur Kondrakov
+</Textblock>
+
+<HeadlineWhite>SENIOR UX DESIGNER</HeadlineWhite>
+<Textblock>
+Paulo César Marques
+</Textblock>
+
+<HeadlineWhite>LEAD QC</HeadlineWhite>
+<Textblock>
+Magnus Hallenborg
+</Textblock>
+
+<HeadlineWhite>JUNIOR TESTER</HeadlineWhite>
+<Textblock>
+Mikael Sok
+</Textblock>
+
+<HeadlineWhite>ONLINE SYSTEMS ADMINISTRATOR</HeadlineWhite>
+<Textblock>
+Mattias Erichsén		
+</Textblock>
+
+<HeadlineWhite>SENIOR MARKETING INTELLIGENCE ANALYST</HeadlineWhite>
+<Textblock>
+Jakob Brynte		
+</Textblock>
+
+<HeadlineWhite>COMMUNITY DEVELOPER</HeadlineWhite>
+<Textblock>
+Cain Sinopoulos	
+</Textblock>
+
+<Textblockbold>UBISOFT MONTREAL</Textblockbold>
+
+<HeadlineWhite>PRODUCT MANAGER</HeadlineWhite>
+<Textblock>
+Christophe Grandjean
+</Textblock>
+
+
+<Textblockbold>UBISOFT KIEV</Textblockbold>
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Oleksii Nesterenko
+Denys Sokolov
+Kostiantyn Bondar
+Sergii Ushakov
+Oleksii Titov
+</Textblock>
+
+<HeadlineWhite>QC</HeadlineWhite>
+<Textblock>
+Andrii Velychko
+</Textblock>
+
+<Textblockbold>UBISOFT BUCHAREST</Textblockbold>
+<HeadlineWhite>STUDIO MANAGER</HeadlineWhite>
+<Textblock>
+Emil Gheorghe
+</Textblock>
+
+<HeadlineWhite>QC UNIT MANAGER</HeadlineWhite>
+<Textblock>
+Andrei Voicu
+</Textblock>
+
+<HeadlineWhite>QC PROJECT LEAD</HeadlineWhite>
+<Textblock>
+Tiberiu Axinti
+</Textblock>
+
+<HeadlineWhite>ASSOCIATE QC PROJECT LEAD</HeadlineWhite>
+<Textblock>
+Florin Oniu
+</Textblock>
+
+<HeadlineWhite>TEST COORDINATORS</HeadlineWhite>
+<Textblock>
+Andrei-Marius Caravan
+Costin-Bogdan Echert
+Madalina-Ioana Marin
+</Textblock>
+
+<HeadlineWhite>TESTERS</HeadlineWhite>
+<Textblock>
+Nicusor-Iulian Grosu
+Adrian Benedic
+Marius Dascalu
+George-Marian Badiu
+Eduard Motoi
+Stefan Trif
+Florin-Silviu Gagiu
+Razvan Paraschivescu
+Cristian-Robert Manea
+</Textblock>
+
+<HeadlineBlue>TECHNOLOGY GROUP</HeadlineBlue>
+
+<Textblockbold>TG MANAGEMENT TEAM</Textblockbold>
+
+<HeadlineWhite>TECHNOLOGY GROUP DIRECTORS</HeadlineWhite>
+<Textblock>
+Jimmy Boulianne
+Chadi Lebbos
+</Textblock>
+
+<HeadlineWhite>TOOLS & MIDDLEWARE PRODUCT MANAGERS</HeadlineWhite>
+<Textblock>
+Alexandre Piché
+Alexandre Pichette
+Shelley Johnson
+Michel Gaudreault
+</Textblock>
+
+<HeadlineWhite>TOOLS & MIDDLEWARE ENGINEERING LEADS</HeadlineWhite>
+<Textblock>
+François Martel
+Hugues Rousseau
+Jori Lacroix
+</Textblock>
+
+<HeadlineWhite>ONLINE DEPUTY DIRECTOR</HeadlineWhite>
+<Textblock>Martin Lavoie</Textblock>
+
+<HeadlineWhite>ONLINE PRODUCT DIRECTORS</HeadlineWhite>
+<Textblock>Steve Desjarlais</Textblock>
+
+<HeadlineWhite>ONLINE DEVELOPMENT DIRECTORS</HeadlineWhite>
+<Textblock>
+Carl Dionne
+Jesse Henderson
+</Textblock>
+
+<HeadlineWhite>ONLINE SERVICE DIRECTOR</HeadlineWhite>
+<Textblock>
+Jean-François Allard
+Alex Dandurand
+</Textblock>
+
+<HeadlineWhite>ONLINE PRODUCT MANAGER</HeadlineWhite>
+<Textblock>Bernard Desmons</Textblock>
+
+<HeadlineWhite>ONLINE PRODUCT SPECIALIST</HeadlineWhite>
+<Textblock>Justin Wong</Textblock>
+
+<HeadlineWhite>ONLINE TOOL SUPPORT SPECIALIST</HeadlineWhite>
+<Textblock>Martin Tavernier</Textblock>
+
+<HeadlineWhite>STRATEGIC PARTNER MANAGERS</HeadlineWhite>
+<Textblock>
+Stéphane Grenier
+Thomas Fortier
+</Textblock>
+
+<HeadlineWhite>COORDINATORS</HeadlineWhite>
+<Textblock>
+Alexandre Pelletier
+David Levesque
+Lucas Bonan 
+Maud Emmanuelle Desbiens
+</Textblock>
+
+<Textblockbold>SYNAPSE TEAM</Textblockbold>
+<HeadlineWhite>TEAM LEAD</HeadlineWhite>
+<Textblock>Cristian Santayana</Textblock>
+
+<HeadlineWhite>TECHNICAL LEADS</HeadlineWhite>
+<Textblock>
+John Serri
+Stephane Marquis
+</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Alain Métivier
+Francis Bacon-Desrosiers
+Frédéric Jean
+Ygor Thomaz Souza De Almeida 
+Lilian Morakabati
+Pierre Schaller
+</Textblock>
+
+<HeadlineWhite>RELEASE AND BUILD SPECIALISTS</HeadlineWhite>
+<Textblock>
+François Tremblay
+Nicolas Coté
+</Textblock>
+
+<HeadlineWhite>BUCHAREST TEAM LEAD</HeadlineWhite>
+<Textblock>Alexandru Clontea</Textblock>
+
+<HeadlineWhite>BUCHAREST PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Léonard Apostaie
+Adrian Mitran
+</Textblock>
+
+<HeadlineWhite>BUCHAREST TOOLS SUPPORT SPECIALIST</HeadlineWhite>
+<Textblock>Matei Costin Preotu</Textblock>
+
+<Textblockbold>FLYING ARCHITECTS TEAM</Textblockbold>
+<HeadlineWhite>TECHNICAL ARCHITECTS</HeadlineWhite>
+<Textblock>
+Michel Bouchard
+Pascal Drolet
+Sébastien Lussier
+</Textblock>
+
+<Textblockbold>OASIS TEAM</Textblockbold>
+
+<HeadlineWhite>TEAM LEAD</HeadlineWhite>
+<Textblock>François Chartrand</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Jean-Philippe Turcot
+Marie Duhaime-Major
+Sébastien Hivon
+</Textblock>
+
+<HeadlineWhite>PRODUCT SPECIALIST</HeadlineWhite>
+<Textblock>Anamaria Musca</Textblock>
+
+<HeadlineWhite>ERGONOME</HeadlineWhite>
+<Textblock>Karine Thériault</Textblock>
+
+<HeadlineWhite>TOOL SUPPORT SPECIALIST</HeadlineWhite>
+<Textblock>Octavian-Mihai Velicu</Textblock>
+
+<Textblockbold>BOOMBOOM TEAM</Textblockbold>
+
+<HeadlineWhite>TEAM LEAD</HeadlineWhite>
+<Textblock>Raphaël St-Pierre</Textblock>
+
+<HeadlineWhite>BUCHAREST TEAM LEAD</HeadlineWhite>
+<Textblock>Alexandru Grama</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Pierre-Eloi Cusson
+Geoffrey Harding
+Ludovic Mainguy
+Raffaele Magliocco
+</Textblock>
+
+<HeadlineWhite>TOOL SUPPORT SPECIALIST</HeadlineWhite>
+<Textblock>
+Eliot Canepa
+Alina-Diana Milasan
+</Textblock>
+
+<Textblockbold>GEAR TEAM</Textblockbold>
+
+<HeadlineWhite>TEAM LEAD</HeadlineWhite>
+<Textblock>Cyrille Gauclin</Textblock>
+
+<HeadlineWhite>TECHNICAL LEAD</HeadlineWhite>
+<Textblock>
+Ouamer Dahmani
+Ludovic Ducas
+</Textblock>
+
+<HeadlineWhite>GEAR PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Daniel Fleury
+David Knott
+Jean-François Richard
+Jean-François Tremblay
+Maxime Godin
+Paul Baudron
+Tudor-Alexandru Marinescu
+Yannick Cholette
+Sylvain Fortin
+Antoine Pecatikov
+</Textblock>
+
+<HeadlineWhite>TECHNICAL ARCHITECT</HeadlineWhite>
+<Textblock>Danny Couture</Textblock>
+
+<HeadlineWhite>TOOL SUPPORT SPECIALIST</HeadlineWhite>
+<Textblock>Jean-François Lemay</Textblock>
+
+<Textblockbold>FIRE TEAM</Textblockbold>
+
+<HeadlineWhite>TEAM LEAD</HeadlineWhite>
+<Textblock>
+Vincent Gauthier
+</Textblock>
+<HeadlineWhite>ASSOCIATE LEAD PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Andrei-Ionut Ristea
+Razvan-Costin Ristea
+</Textblock>
+<HeadlineWhite>TECHNICAL LEAD</HeadlineWhite>
+<Textblock>
+Bertrand Jouin
+</Textblock>
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Alexandre Bourlon
+Alexandre Pion
+Florin-Emilian Buse
+Guillaume Riby
+Mihai Tudorache
+Ana-Maria Badita
+Isabelle Lafon
+Kate D'Souza
+Simon Tardif-Morneau
+Xavier Chamoiseau
+Alexander Selwood
+Yannick Gerometta
+Samuel Grenon
+</Textblock>
+<HeadlineWhite>TOOL PROGRAMMER</HeadlineWhite>
+<Textblock>
+Justin Buzzell
+</Textblock>
+<HeadlineWhite>PRODUCT SPECIALIST</HeadlineWhite>
+<Textblock>
+Mathieu Heroux
+</Textblock>
+<HeadlineWhite>TOOL SUPPORT SPECIALISTS</HeadlineWhite>
+<Textblock>
+Jean-Marc Goulet
+Nicola Fera
+</Textblock>
+<HeadlineWhite>ERGONOME</HeadlineWhite>
+<Textblock>
+Thérèse Migan
+</Textblock>
+<HeadlineWhite>TOOLS TESTER</HeadlineWhite>
+<Textblock>
+Valeriu-Ionut Manta
+</Textblock>
+
+<Icon>
+credits/logo_Adobe.png
+</Icon>
+<Textblock>
+Contains Flash®, Flash® Lite™ and/or Reader® technology by Adobe Systems Incorporated 
+This software contains Adobe® Flash® player software under license from Adobe Systems Incorporated, 
+Copyright © 1995-2007 Adobe Macromedia Software LLC. All rights reserved. Adobe and Flash are trademarks of Adobe Systems Incorporated
+</Textblock>
+
+<Textblockbold>UPLAY MONTREAL</Textblockbold>
+
+<HeadlineWhite>PRODUCER</HeadlineWhite>
+<Textblock>Thomas Belmont</Textblock>
+
+<HeadlineWhite>ASSOCIATE PRODUCER</HeadlineWhite>
+<Textblock>Julie Paulin-Tardif</Textblock>
+
+<HeadlineWhite>PRODUCT MANAGER</HeadlineWhite>
+<Textblock>Jean-François Renaud</Textblock>
+
+<HeadlineWhite>TEAM LEAD ENGINE</HeadlineWhite>
+<Textblock>Victor Zachev</Textblock>
+
+<HeadlineWhite>TEAM LEAD SERVICES</HeadlineWhite>
+<Textblock>Charles-Simon Viau</Textblock>
+
+<HeadlineWhite>ENGINE PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Damien Gleizes
+Frankie Chan
+Heather Maclaren
+Vincent Domela
+Xu Li
+</Textblock>
+
+<HeadlineWhite>SERVICES PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Cyril Lucaiano Tovena
+Hamid Shahrestani Mehr
+Sepehr Hedayat
+</Textblock>
+
+<HeadlineWhite>USER INTERFACE PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Abedenour Azzedine
+Hyun Cho
+Jean-Charles Fontaine
+Paolo Di Stefano
+</Textblock>
+
+<HeadlineWhite>BUSINESS INTELLIGENCE PROGRAMMER</HeadlineWhite>
+<Textblock>Fabien Simon</Textblock>
+
+<HeadlineWhite>UX DIRECTOR</HeadlineWhite>
+<Textblock>Guillaume Thoreau</Textblock>
+
+<HeadlineWhite>LEAD GAME DESIGNER</HeadlineWhite>
+<Textblock>Philippe Baude</Textblock>
+
+<HeadlineWhite>TEAM LEAD GRAPHICS</HeadlineWhite>
+<Textblock>Mauricio Guimaraes</Textblock>
+
+<HeadlineWhite>DESIGNERS</HeadlineWhite>
+<Textblock>
+Gabriel Gendron
+Ghina El-Chemali
+Guillaume Gauthier
+Roxanne Angers
+</Textblock>
+
+<HeadlineWhite>TEAM LEAD QUALITY ASSURANCE</HeadlineWhite>
+<Textblock>Martin Leclerc</Textblock>
+
+<HeadlineWhite>TOOL SUPPORT SPECIALISTS</HeadlineWhite>
+<Textblock>
+Francis Quintal
+Hugo Daigle
+Laurie Poirier 
+Olivier Dignard
+</Textblock>
+
+<Textblockbold>BUCHAREST QC TEAM</Textblockbold>
+<HeadlineWhite>UNIT MANAGER</HeadlineWhite>
+<Textblock>Andrei Verzea</Textblock>
+
+<HeadlineWhite>PROJECT LEAD</HeadlineWhite>
+<Textblock>Catalin Marius Constantin</Textblock>
+
+<HeadlineWhite>GAME TESTER</HeadlineWhite>
+<Textblock>
+Alexandru Bitulescu
+Cosmin-Gabriel Dobra 
+</Textblock>
+
+<HeadlineWhite>OPERATIONS SUPPORT SPECIALIST</HeadlineWhite>
+<Textblock>
+Claudio Marricco
+Jean-François Gauthier
+</Textblock>
+
+<Textblockbold>RENDEZ-VOUS PLATFORM TEAM</Textblockbold>
+
+<HeadlineWhite>LEAD PROGRAMMER</HeadlineWhite>
+<Textblock>Stéphane St-Arnauld</Textblock>
+
+<HeadlineWhite>TECHNICAL LEAD</HeadlineWhite>
+<Textblock>
+André Caron
+Francis Pagé
+Serge Catudal
+</Textblock>
+
+<HeadlineWhite>TEAM LEADS</HeadlineWhite>
+<Textblock>
+Charles Beauchemin
+Daniel-Olivier Simard 
+Etienne Cournoyer
+Jean-Marc Prud’Homme
+Kevin Martinet
+</Textblock>
+
+<HeadlineWhite>PROGRAMMERS IN MONTREAL</HeadlineWhite>
+<Textblock>
+Bogdan Chisamera
+Daniel Gagné
+David Forget
+David Genest
+Florian Glesser
+Florin Nicolae Dita
+Jean-François Gosselin
+Jonathan Barbeau 
+Julien Kauffmann
+Laurent Loubière
+Loris Blanchon
+Majid Fatemian
+Marc-Olivier Labarre
+Mathieu Yargeau
+Martin Asnong
+Martin Labonté
+Mickaël Mounier
+Michael McCliment
+Nicolas Mivielle
+Pascal Boudreault
+Pascal Lalancette
+Philippe Lemoine
+Pierre-Alexandre Gagné
+Rodrigue Cloutier
+Sandro Monti
+Simon Brisson
+Stéphane Létourneau
+Stephen Leong Koan
+Sylvain Duchesne
+Winston Lin
+</Textblock>
+
+<HeadlineWhite>PROGRAMMERS IN CRAIOVA</HeadlineWhite>
+<Textblock>
+Alina-Mihaela Lonescu  
+Constantin Petrisor
+Marian-Alexandru Bangau 
+Radu Dragomirescu 
+</Textblock>
+
+<HeadlineWhite>TOOL SUPPORT SPECIALIST</HeadlineWhite>
+<Textblock>
+Marc-André Barbeau
+Patrick Paradis
+</Textblock>
+
+<HeadlineWhite>BUILD SPECIALIST</HeadlineWhite>
+<Textblock>Cyril Bordat</Textblock>
+
+<Textblockbold>UBISERVICES TEAM</Textblockbold>
+
+<HeadlineWhite>PRODUCT MANAGER</HeadlineWhite>
+<Textblock>Frédéric Pichette</Textblock>
+
+<HeadlineWhite>LEAD PROGRAMMER</HeadlineWhite>
+<Textblock>Alain Cormier</Textblock>
+
+<HeadlineWhite>LEAD DATABASE ADMINISTRATOR</HeadlineWhite>
+<Textblock>Serge Adourian</Textblock>
+
+<HeadlineWhite>TEAM LEADS</HeadlineWhite>
+<Textblock>
+Behrang Khoshnood
+Patrick du Boucher
+Robert Langlois
+Sylvain Demers
+</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Anh Bang Bui
+Carl Venne
+Charles-Étienne Théberge
+Daniel Pablo Hernandez
+Felipe Cardoso Gonçalves 
+Francis Beauchesne
+Gabriel Federico Reyes Baldó
+Gabriel Espinoza Lahore 
+Hector Salazar
+Hervé Grosdemanche 
+Hjörtur Stefánsson 
+Jean-François Durand 
+Jean-François Lavoie
+Kate Patterson 
+Nicolas Heynen
+Partha Dhar
+Philippe Mercure
+Pier-Luc Théberge
+Samuel Verreault
+Shao Hang He
+Steven Ball
+Tristan Moreaux
+</Textblock>
+
+<HeadlineWhite>RELEASE & BUILD SPECIALISTS</HeadlineWhite>
+<Textblock>
+Joshua Heath
+Lan Wang (Angela)
+</Textblock>
+
+<Textblockbold>DNA TEAM</Textblockbold>
+
+<HeadlineWhite>LEAD PROGRAMMER</HeadlineWhite>
+<Textblock>Sébastien Hinse</Textblock>
+
+<HeadlineWhite>TEAM LEAD</HeadlineWhite>
+<Textblock>Étienne Borel</Textblock>
+
+<HeadlineWhite>TECH LEAD</HeadlineWhite>
+<Textblock>Francis Dallaire</Textblock>
+
+<HeadlineWhite>PRODUCT SPECIALIST</HeadlineWhite>
+<Textblock>Luc Gagnon</Textblock>
+
+<HeadlineWhite>PROGRAMMERS</HeadlineWhite>
+<Textblock>
+Boris Fersing
+Cyrille Karmann
+Éric Germain
+Éric Landry
+Olivier LHeureux
+</Textblock>
+
+<HeadlineWhite>BI DEVELOPERS</HeadlineWhite>
+<Textblock>
+Olivier Régimbald-Brière
+Robert Baxter
+</Textblock>
+
+<HeadlineWhite>WEB DEVELOPERS</HeadlineWhite>
+<Textblock>
+Renzo Calderon 
+Tayana Jacques
+</Textblock>
+
+
+<Icon>
+credits/logo_wwise.png
+</Icon>
+<Textblock>
+Powered by Wwise © 2006 – 2015 Audiokinetic Inc. All rights reserved.
+</Textblock>
+
+<Icon>
+credits/logo_Bink.png
+</Icon>
+<Textblock>
+Uses Bink Video. Copyright (C) 1997-2015 by RAD Game Tools, Inc.
+</Textblock>
+
+<Textblock>
+Licensed to the Apache Software Foundation (ASF) under one or more contributor license agreements.  See the NOTICE file distributed with this work for additional information regarding copyright ownership.  
+</Textblock>
+<Textblock>The ASF licenses this file to you under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+</Textblock>
+<Textblock> http://www.apache.org/licenses/LICENSE-2.0</Textblock>
+<Textblock>
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the License for the specific language governing permissions and limitations under the License”
+</Textblock>
+
+<Icon>
+credits/logo_Ubisoft.png
+</Icon>
+
+<Textblock>
+© 2015 Ubisoft Entertainment. All Rights Reserved. ANNO 2205, Blue Byte and the Blue Byte logo are trademarks of Ubisoft GmbH in the U.S. and/or other countries. Ubisoft and the Ubisoft logo are trademarks of Ubisoft Entertainment in the U.S. and/or other countries. Developed by Blue Byte Software. 
+</Textblock>
+
+<Textblockbold>
+A very special “thank you“ goes to the huge ANNO community all over the world, especially all the dedicated focus group participants, fan site hosts, YouTubers, E3 and gamescom visitors and all the numerous Facebook and forum contributors. 
+You are ANNO!
+
+And last but not least thank you for playing ANNO 2205 and for watching these credits!
+</Textblockbold>
+
+
+
+
+

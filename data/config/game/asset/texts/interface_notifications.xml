@@ -1,0 +1,3862 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>OnScreen Text</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>265</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100180</GUID>
+              <Name>Not enough credits</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-02-10 14:52</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:55</LastChangeTime>
+              <ID>ONSCREENTEXT_NO_CREDITS</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Not enough credits</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8539</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100182</GUID>
+              <Name>Area blocked</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-02-10 14:54</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-07-22 21:28</LastChangeTime>
+              <ID>ONSCREENTEXT_AREA_BLOCKED</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Construction area blocked</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8540</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100183</GUID>
+              <Name>Connection created</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-02-10 14:55</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:56</LastChangeTime>
+              <ID>ONSCREENTEXT_CONNECTION_CREATED</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Connection established</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8541</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100184</GUID>
+              <Name>[CONSTRUCTION COST]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-02-10 14:55</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 20:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[CONSTRUCTION COST]</Text>
+                  <Status>Localization</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100185</GUID>
+              <Name>Cannot copy</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-02-10 14:56</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:56</LastChangeTime>
+              <ID>ONSCREENTEXT_CANNOT_COPY</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot copy</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8542</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>103033</GUID>
+              <Name>Cannot upgrade</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2014-12-01 11:56</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-07 09:54</LastChangeTime>
+              <ID>ONSCREENTEXT_CANNOT_UPGRADE</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot upgrade</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8543</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>103068</GUID>
+              <Name>Upgrade not ready</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2014-12-03 11:01</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-23 01:08</LastChangeTime>
+              <ID>ONSCREENTEXT_UPGRADE_NOT_READY</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Promotion not possible</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>4</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>783</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100221</GUID>
+              <Name>Cannot select</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2014-02-18 12:02</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:56</LastChangeTime>
+              <ID>ONSCREENTEXT_CANNOT_SELECT</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot select</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8545</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100222</GUID>
+              <Name>Cannot relocate</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2014-02-18 12:06</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:56</LastChangeTime>
+              <ID>ONSCREENTEXT_CANNOT_RELOCATE</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot relocate</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8546</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>121283</GUID>
+              <Name>Cannot expand</Name>
+              <Creator>rkenzler</Creator>
+              <CreationTime>2016-03-08 15:16</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2016-03-15 18:45</LastChangeTime>
+              <ID>ONSCREENTEXT_CANNOT_EXPAND</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot expand</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>15189</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100223</GUID>
+              <Name>Already claimed</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2014-02-18 12:09</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:56</LastChangeTime>
+              <ID>ONSCREENTEXT_ALREADY_CLAIMED</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Already claimed</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8547</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100687</GUID>
+              <Name>Module Limit reached</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2014-06-18 10:10</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:56</LastChangeTime>
+              <ID>ONSCREENTEXT_LIMIT_REACHED</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Limit reached</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8548</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100752</GUID>
+              <Name>Bonus Time Added</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-07-18 11:17</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:56</LastChangeTime>
+              <ID>OnscreentextBonusTimeAdded</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>+ 00:03</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8549</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102466</GUID>
+              <Name>Not Adjacent</Name>
+              <Creator>dhaderer</Creator>
+              <CreationTime>2014-08-26 13:41</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-07 09:54</LastChangeTime>
+              <ID>ONSCREENTEXT_NOT_ADJACENT</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Must be placed adjacent</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8550</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102467</GUID>
+              <Name>No fitting Slot Mine</Name>
+              <Creator>dhaderer</Creator>
+              <CreationTime>2014-08-26 13:45</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-07 09:54</LastChangeTime>
+              <ID>OnScreenTextNoFittingSlotMine</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>No mountain building site available</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8551</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>114632</GUID>
+              <Name>No fitting Slot Coast</Name>
+              <Creator>pmaier</Creator>
+              <CreationTime>2015-04-13 15:26</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-07 09:54</LastChangeTime>
+              <ID>OnScreenTextNoFittingSlotCoast</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>No coastal building site available</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8552</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102530</GUID>
+              <Name>OnScreenTextBuildCostAll</Name>
+              <Creator>pmaier</Creator>
+              <CreationTime>2014-09-17 14:32</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 20:00</LastChangeTime>
+              <ID>OnScreenTextBuildCostAll</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[ONSCREEN_TEXT_BUILDCOST_ALL]</Text>
+                  <Status>Localization</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102531</GUID>
+              <Name>OnScreenTextBuildCostLine</Name>
+              <Creator>pmaier</Creator>
+              <CreationTime>2014-09-17 15:05</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 20:00</LastChangeTime>
+              <ID>OnScreenTextBuildCostLine</ID>
+              <Comment>Defines how one Line of a OnScreenTextBuildCostAll looks like</Comment>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[INLINE_ICON] [GUIDNAME] [SIGNED_NUMBER]</Text>
+                  <Status>Localization</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102656</GUID>
+              <Name>ItemCollected</Name>
+              <Creator>pmaier</Creator>
+              <CreationTime>2014-10-06 10:25</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 14:20</LastChangeTime>
+              <ID>OnScreenTextItemCollected</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[INLINE_ICON] [GUIDNAME] collected</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13910</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102928</GUID>
+              <Name>EventSessionItemCollected</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2014-11-07 09:50</CreationTime>
+              <LastChangeUser>tkalle</LastChangeUser>
+              <LastChangeTime>2015-07-20 18:42</LastChangeTime>
+              <ID>OnScreenTextRareItemCollected</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[INLINE_ICON] [GUIDNAME]</Text>
+                  <Status>Edit</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117742</GUID>
+              <Name>EventSessionRareItemCollected</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2015-07-20 18:41</CreationTime>
+              <LastChangeUser>tkalle</LastChangeUser>
+              <LastChangeTime>2015-07-20 18:42</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>&lt;font color="#FF14B9E0"&gt;[INLINE_ICON] [GUIDNAME]&lt;/font&gt;</Text>
+                  <Status>Edit</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102930</GUID>
+              <Name>ShipLost</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2014-11-07 09:53</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-07 09:54</LastChangeTime>
+              <ID>OnScreenTextShipLost</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>&lt;font size="22" [GUI_COLOR Red]&gt;Ship lost&lt;/font&gt;</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>784</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102931</GUID>
+              <Name>QuestSolved</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2014-11-07 09:53</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-07 09:54</LastChangeTime>
+              <ID>OnScreenTextQuestSolved</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>&lt;font size="22" [GUI_COLOR OrangeHighlight]&gt;Assignment completed&lt;/font&gt;</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>785</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>105758</GUID>
+              <Name>Too far from fleet</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2015-01-26 13:15</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-07 09:54</LastChangeTime>
+              <ID>OnScreenTextTooFarFromFleet</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Too far away from fleet</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8553</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108522</GUID>
+              <Name>Interaction Default complete</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2015-03-04 14:26</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:57</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Interaction complete</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8554</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108540</GUID>
+              <Name>Interaction Pick Up complete</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-05 18:24</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:57</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cargo loaded</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8555</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108541</GUID>
+              <Name>Interaction Deliver complete</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-05 18:24</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 14:21</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cargo delivered</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8556</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108542</GUID>
+              <Name>Interaction Deliver Attached complete</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-05 18:25</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:57</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Object delivered</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8557</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108543</GUID>
+              <Name>Interaction Event Deliver complete</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-05 18:26</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:57</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Items delivered</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8558</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108544</GUID>
+              <Name>Interaction Object attached</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-05 18:26</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:57</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Object attached</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8559</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108545</GUID>
+              <Name>Interaction Object detached</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-05 18:26</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:57</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Object detached</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8560</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108550</GUID>
+              <Name>Interaction Tracking Object attached</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-06 15:23</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 14:21</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Follow the drone's signal</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8561</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>108551</GUID>
+              <Name>Interaction Tracking Object detached</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-03-06 15:23</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 14:21</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Signal lost</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8562</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>116440</GUID>
+              <Name>Reward OnScreenText</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-05-19 16:51</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:58</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[INLINE_ICON] [GUIDNAME]: [UNSIGNED_NUMBER]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8565</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>116449</GUID>
+              <Name>Residence Upgraded automatically</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2015-05-21 10:34</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-07-26 21:37</LastChangeTime>
+              <ID>OnScreenTextUpgradedResidence</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Promoted</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8566</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>119853</GUID>
+              <Name>Too far from sea</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2015-08-26 10:00</CreationTime>
+              <LastChangeUser>mreinhardt</LastChangeUser>
+              <LastChangeTime>2016-02-16 14:08</LastChangeTime>
+              <ID>OnScreenTextTooFarFromSea</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Invalid target area</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13011</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>120066</GUID>
+              <Name>ConstructionResidence</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-09-04 11:45</CreationTime>
+              <LastChangeUser>Dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-12 12:46</LastChangeTime>
+              <ID>ConstructionResidence</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>+[INLINE_ICON 2002275] +[INLINE_ICON 2002276]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13182</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>120921</GUID>
+              <Name>ItemActivated</Name>
+              <Creator>tkalle</Creator>
+              <CreationTime>2015-12-02 18:11</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2016-01-06 13:29</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[INLINE_ICON] [GUIDNAME] activated</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>14485</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100186</GUID>
+              <Name>Cannot afford demolition Onscreen Text</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-02-10 14:56</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:12</LastChangeTime>
+              <ID>ONSCREENTEXT_CANNOT_AFFORD_DEMOLISH</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot afford demolition</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8544</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>122104</GUID>
+              <Name>Structure indestructible Onscreen Text</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-07-11 17:43</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:12</LastChangeTime>
+              <ID>ONSCREENTEXT_CANNOT_DEMOLISH</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Structure indestructible</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>17144</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>122105</GUID>
+              <Name>Cannot afford relocation Onscreen Text</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-07-11 17:48</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:13</LastChangeTime>
+              <ID>OncreenCannotAffordRelocation</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot afford relocation costs</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>17145</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>122106</GUID>
+              <Name>Cannot afford Promotion Onscreen Text</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-07-11 17:54</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:13</LastChangeTime>
+              <ID>OnscreenCannotAfford</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Cannot afford promotion</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>17146</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>122107</GUID>
+              <Name>Employees are unsatisfied Onscreen Text</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-07-11 17:54</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:13</LastChangeTime>
+              <ID>OnscreenUnsatisfied</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Employees are unsatisfied</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>17147</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>122108</GUID>
+              <Name>Company Quota not fulfilled Onscreen Text</Name>
+              <Creator>lpieper</Creator>
+              <CreationTime>2016-07-11 17:54</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-08-22 15:13</LastChangeTime>
+              <ID>OnscreenNotEnoughAscension</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Company Quota not fulfilled</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>17148</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>MainFeedback</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>266</SectionID>
+      <Groups>
+        <Group>
+          <Name>Corporation Level Up</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>1809</SectionID>
+          <Assets>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>102569</GUID>
+                  <Name>Corporation Level Up Text</Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2014-09-24 15:51</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:45</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_corporation_level_reward.png</IconFilename>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Corporation Level Up</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8567</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>116530</GUID>
+                  <Name>Corporation Level Up Title</Name>
+                  <Creator>tamara.nitsch</Creator>
+                  <CreationTime>2015-05-29 12:18</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:45</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_corporation_level_reward.png</IconFilename>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>New Corporation Level:[CORPORATION_LEVEL]</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8568</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>116423</GUID>
+                  <Name>Corporation Levelup Main notification reward get</Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2015-05-18 15:10</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-06-01 22:58</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>You receive the following rewards:</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8569</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>116374</GUID>
+                  <Name>Corporation Levelup Fleet Slot Unlock </Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2015-05-13 13:10</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2015-11-05 11:16</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_event_player_4.png</IconFilename>
+                  <ID>FleetSizeIncreased</ID>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Fleet size increased</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8570</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>116424</GUID>
+                  <Name>Corporation Levelup Fleet Slot Unlock Arctic</Name>
+                  <Creator>sstauss</Creator>
+                  <CreationTime>2015-05-18 15:47</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-06-01 22:58</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_event_player_4.png</IconFilename>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Arctic fleet size increased</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8571</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>116425</GUID>
+                  <Name>Corporation Levelup Fleet Slot Unlock Moon</Name>
+                  <Creator>sstauss</Creator>
+                  <CreationTime>2015-05-18 15:47</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-06-01 22:58</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_event_player_4.png</IconFilename>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Moon fleet size increased</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8572</LineID>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Building Unlocked</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>1810</SectionID>
+          <Assets>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>116377</GUID>
+                  <Name>Building unlocked Main notification</Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2015-05-13 14:01</CreationTime>
+                  <LastChangeUser>sbombera</LastChangeUser>
+                  <LastChangeTime>2015-07-02 12:52</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_building_unlock_reward.png</IconFilename>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME]</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8573</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>100216</GUID>
+                  <Name>feedback header intermediate level</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-02-17 11:32</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:45</LastChangeTime>
+                  <IconFilename>Flash/PNGs/icons/icon_building_unlock_reward.png</IconFilename>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>New buildings available</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8574</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>100215</GUID>
+                  <Name>feedback text intermediate level</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-02-17 11:22</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-07-06 22:08</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>You gained the following blueprints:</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8575</LineID>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Achievement</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>1811</SectionID>
+          <Assets>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>116376</GUID>
+                  <Name>Achievement unlocked Main notification</Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2015-05-13 13:59</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-06-01 22:58</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Achievement unlocked</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>1</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8576</LineID>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>EventSessionPools</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>2094</SectionID>
+          <Assets>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>117144</GUID>
+                  <Name>EventSessionPool Starter Notification</Name>
+                  <Creator>tboden</Creator>
+                  <CreationTime>2015-07-06 13:49</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:45</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[NOTIFICATION_CHARACTER_NAME] requests military support with the [GUIDNAME].</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>10397</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>117145</GUID>
+                  <Name>EventSessionPool Success Notification</Name>
+                  <Creator>tboden</Creator>
+                  <CreationTime>2015-07-06 13:49</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:46</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[NOTIFICATION_CHARACTER_NAME] thanks you for your military support.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>10398</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>117146</GUID>
+                  <Name>EventSessionPool Failure Notification</Name>
+                  <Creator>tboden</Creator>
+                  <CreationTime>2015-07-06 13:49</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:46</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[NOTIFICATION_CHARACTER_NAME] is disappointed, as you failed the [GUIDNAME].</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>10399</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>117147</GUID>
+                  <Name>EventSessionPool Reminder Notification</Name>
+                  <Creator>tboden</Creator>
+                  <CreationTime>2015-07-06 13:50</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:46</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[NOTIFICATION_CHARACTER_NAME] reminds you to help with [GUIDNAME].</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>10400</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>117783</GUID>
+                  <Name>EventSession Intro Notification</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2015-07-22 15:12</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:46</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[NOTIFICATION_CHARACTER_NAME] informs you about the situation.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>11230</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>118043</GUID>
+                  <Name>EventSession Tutorial Repair Notification</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2015-08-04 10:20</CreationTime>
+                  <LastChangeUser>costhof</LastChangeUser>
+                  <LastChangeTime>2015-09-04 17:46</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[NOTIFICATION_CHARACTER_NAME] steps in and repairs your ship.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>12082</LineID>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Monument Upgrade</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>2280</SectionID>
+          <Assets>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>117793</GUID>
+                  <Name>Upgrade started</Name>
+                  <Creator>tamara.nitsch</Creator>
+                  <CreationTime>2015-07-22 17:00</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-09-30 16:52</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME] upgrade in [SESSION_NAME] running.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>11231</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>102673</GUID>
+                  <Name>Upgrade paused</Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2014-10-13 10:39</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-09-30 16:52</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME] upgrade in [SESSION_NAME] paused.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>5</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>788</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>102672</GUID>
+                  <Name>Upgrade finished</Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2014-10-13 10:39</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-09-30 16:52</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME] upgrade in [SESSION_NAME] ready for finalization!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>787</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>102575</GUID>
+                  <Name>Upgrade finalized</Name>
+                  <Creator>sbombera</Creator>
+                  <CreationTime>2014-09-24 15:53</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-07-22 21:29</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>[GUIDNAME] has been successfully upgraded!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>2</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>8589</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>120711</GUID>
+                  <Name>Bridge Upgrade started</Name>
+                  <Creator>tamara.nitsch</Creator>
+                  <CreationTime>2015-09-30 10:30</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-09-30 16:52</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Bridge construction in [SESSION_NAME] running.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>13984</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>120712</GUID>
+                  <Name>Bridge Upgrade paused</Name>
+                  <Creator>tamara.nitsch</Creator>
+                  <CreationTime>2015-09-30 10:31</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-09-30 16:53</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Bridge construction in [SESSION_NAME] paused.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>5</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>13985</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>120713</GUID>
+                  <Name>Bridge Upgrade finished</Name>
+                  <Creator>tamara.nitsch</Creator>
+                  <CreationTime>2015-09-30 10:31</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-09-30 16:53</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Bridge in [SESSION_NAME] ready for finalization!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>13986</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>120714</GUID>
+                  <Name>Bridge Upgrade finalized</Name>
+                  <Creator>tamara.nitsch</Creator>
+                  <CreationTime>2015-09-30 10:31</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2015-09-30 16:53</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Bridge has been successfully constructed!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>3</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>13987</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121062</GUID>
+                  <Name>Pump Phase 1 Upgrade started</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:05</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Pump construction in [SESSION_NAME] running.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>5</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14708</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121063</GUID>
+                  <Name>Pump Phase 1 Upgrade paused</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:05</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Pump construction in [SESSION_NAME] paused.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>6</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14709</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121064</GUID>
+                  <Name>Pump Phase 1 Upgrade finished</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:05</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Pump in [SESSION_NAME] ready for finalization!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14710</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121065</GUID>
+                  <Name>Pump Phase 1 Upgrade finalized</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:06</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Pump has been successfully constructed!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14711</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121066</GUID>
+                  <Name>Pump Phase 2 Upgrade started</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:06</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Marsh drainage in [SESSION_NAME] running.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>5</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14712</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121067</GUID>
+                  <Name>Pump Phase 2 Upgrade paused</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:06</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Marsh drainage in [SESSION_NAME] paused.</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>6</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14713</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121068</GUID>
+                  <Name>Pump Phase 2 Upgrade finished</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:06</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Marsh drainage in [SESSION_NAME] ready for finalization!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14714</LineID>
+                </Text>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Text</Template>
+              <Values>
+                <Standard>
+                  <GUID>121069</GUID>
+                  <Name>Pump Phase 2 Upgrade finalized</Name>
+                  <Creator>tkalle</Creator>
+                  <CreationTime>2016-01-14 12:24</CreationTime>
+                  <LastChangeUser>dseibold</LastChangeUser>
+                  <LastChangeTime>2016-02-03 08:06</LastChangeTime>
+                </Standard>
+                <Text>
+                  <LocaText>
+                    <English>
+                      <Text>Marsh has been successfully drained!</Text>
+                      <Status>Exported</Status>
+                      <ExportCount>4</ExportCount>
+                    </English>
+                  </LocaText>
+                  <LineID>14715</LineID>
+                </Text>
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+      <Assets>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100149</GUID>
+              <Name>Trade offer creation feedback text</Name>
+              <Creator>elaine.hu</Creator>
+              <CreationTime>2014-01-29 14:10</CreationTime>
+              <LastChangeUser>costhof</LastChangeUser>
+              <LastChangeTime>2015-09-04 17:46</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New trading offer submitted</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8577</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100135</GUID>
+              <Name>Traderoute Created</Name>
+              <Creator>elaine.hu</Creator>
+              <CreationTime>2014-01-29 13:11</CreationTime>
+              <LastChangeUser>tboden</LastChangeUser>
+              <LastChangeTime>2015-09-04 10:08</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New transfer route created</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8578</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100143</GUID>
+              <Name>Toast Title: Success</Name>
+              <Creator>elaine.hu</Creator>
+              <CreationTime>2014-01-29 14:04</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:59</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Success</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8579</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100195</GUID>
+              <Name>Direct trade success feedback text</Name>
+              <Creator>elaine.hu</Creator>
+              <CreationTime>2014-02-12 11:12</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:59</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Trading operation successful</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8580</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100275</GUID>
+              <Name>Boad of Trade success Text</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-02-21 12:57</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:59</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Your purchase is now in your inventory.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8581</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102533</GUID>
+              <Name>Next population level reached</Name>
+              <Creator>sstauss</Creator>
+              <CreationTime>2014-09-22 16:35</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-08-17 19:25</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Your employees have been promoted to [POPULATION_LEVEL]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8582</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102568</GUID>
+              <Name>Population gain</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:49</CreationTime>
+              <LastChangeUser>costhof</LastChangeUser>
+              <LastChangeTime>2015-09-04 17:47</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] informs you, that [POPULATION_LEVEL] are migrating to this sector.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8583</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102570</GUID>
+              <Name>Credits stock size +[CreditCapacityPerReward]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:51</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-19 12:52</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_credits.png</IconFilename>
+              <ID>CorporationUpgradeCreditsStock</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Credits limit [CORPORATION_LEVEL_CREDITS_REWARD]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8584</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102571</GUID>
+              <Name>Session storage size +[SessionStoragePerReward]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:51</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 14:21</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_storage.png</IconFilename>
+              <ID>CorporationUpgradeSessionStorage</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Goods storage size [CORPORATION_LEVEL_STORAGE_REWARD]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8585</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102572</GUID>
+              <Name>Inventory size +[MetaStoragePerReward]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:51</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-19 12:52</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_globetech64.png</IconFilename>
+              <ID>CorporationUpgradeMetaStorage</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Inventory size [CORPORATION_LEVEL_INVENTORY_SIZE_REWARD]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8586</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102573</GUID>
+              <Name>Trade slots +[TradeSlotsPerReward]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:52</CreationTime>
+              <LastChangeUser>costhof</LastChangeUser>
+              <LastChangeTime>2015-09-04 17:47</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_trade.png</IconFilename>
+              <ID>CorporationUpgradeTradeSlots</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Transfer route slots [CORPORATION_LEVEL_TRADE_SLOTS_REWARD]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8587</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102574</GUID>
+              <Name>[PopulationLevelName] in [SessionName] are missing [NeedName]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:53</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 22:59</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[POPULATION_LEVEL] in [SESSION_NAME] request [GUIDNAME]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8588</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102576</GUID>
+              <Name>A new round of trade offers has been posted</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:53</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New trade offers have been announced</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8590</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102577</GUID>
+              <Name>[PlayerName] bought your offer of [OfferedGoodsName]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:53</CreationTime>
+              <LastChangeUser>Claurer</LastChangeUser>
+              <LastChangeTime>2015-10-02 12:53</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>NO LOCA [PlayerName] bought the [OfferedGoodsName] you offered</Text>
+                  <Status>ToBeDeleted</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8591</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102578</GUID>
+              <Name>Collect [OfferCreditsAmount]</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:53</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Collect [OfferCreditsAmount]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8592</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102581</GUID>
+              <Name>New construction area claimed</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:54</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New construction area claimed</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8595</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102582</GUID>
+              <Name>New settlement created</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:54</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New settlement established</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8596</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102583</GUID>
+              <Name>[SessionName] now available</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:54</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[SESSION_NAME] is now available</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8597</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102584</GUID>
+              <Name>[RegionName] now available</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:54</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[REGION_NAME] is now accessible</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8598</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102598</GUID>
+              <Name>Population introduction</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-29 10:06</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Dummy text population introduction</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8599</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102671</GUID>
+              <Name>Reward notification</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-10-13 10:38</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[GUIDNAME]: [UNSIGNED_NUMBER]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>786</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117182</GUID>
+              <Name>Overtook NPC Corporation</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-04-01 10:20</CreationTime>
+              <LastChangeUser>costhof</LastChangeUser>
+              <LastChangeTime>2015-09-04 17:47</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] admits, that you now have a higher corporation level than [GUIDNAME].</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>4</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>10401</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117185</GUID>
+              <Name>Overtaken by NPC Corporation</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-04-01 10:20</CreationTime>
+              <LastChangeUser>Dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-12 12:46</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] pities you, as your corporation level has been surpassed by [GUIDNAME].</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>4</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>10406</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>120059</GUID>
+              <Name>Traderoute Edit</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-09-04 10:07</CreationTime>
+              <LastChangeUser>Dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-12 12:46</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Transfer route updated</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13183</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>SideFeedback</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>267</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100172</GUID>
+              <Name>Side Feedback Online Text</Name>
+              <Creator>sstauss</Creator>
+              <CreationTime>2014-02-06 10:40</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/dummy_avatar.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[SIDE_FEEDBACK_CHARACTER_NAME] is now online.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8602</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100310</GUID>
+              <Name>Side Feedback Offline Text</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-03-07 10:42</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:00</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/dummy_avatar.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[_SIDE_FEEDBACK_CHARACTER_NAME] is now offline.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8603</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100173</GUID>
+              <Name>Side Feedback Reject Trade Text</Name>
+              <Creator>sstauss</Creator>
+              <CreationTime>2014-02-06 10:40</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/dummy_avatar.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[_SIDE_FEEDBACK_CHARACTER_NAME] rejected your trade request.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8604</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100174</GUID>
+              <Name>Side Feedback Investment Text</Name>
+              <Creator>sstauss</Creator>
+              <CreationTime>2014-02-06 10:41</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_credits.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[_SIDE_FEEDBACK_CHARACTER_NAME] has invested in you:</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8605</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100276</GUID>
+              <Name>Side Feedback Reached Investment Point</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-02-21 13:03</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_investment.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Investment milestone reached</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8606</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100480</GUID>
+              <Name>Moon Region Unlocked</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-04-07 16:49</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/dummy_moon.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New region unlocked: Moon</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>789</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100483</GUID>
+              <Name>New sales available Text</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-04-08 13:09</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_trade.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>New trade offers available</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8607</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>101026</GUID>
+              <Name>Quest reward notification text</Name>
+              <Creator>sstauss</Creator>
+              <CreationTime>2014-08-21 09:47</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <ID>QuestRewardNotificationText</ID>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>You received [GUIDNAME]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8608</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>110507</GUID>
+              <Name>Screenshot taken notification text</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2015-03-31 13:17</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2016-02-11 09:48</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Screenshot saved to Documents\ANNO 2205</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8609</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>102579</GUID>
+              <Name>Low on goods/energy/workforce</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2014-09-24 15:54</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-07-06 22:11</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Low on [GUIDNAME]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8593</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>116909</GUID>
+              <Name>Monument ready</Name>
+              <Creator>sstauss</Creator>
+              <CreationTime>2015-06-30 10:36</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-07-06 22:11</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[GUIDNAME]</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>10411</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117997</GUID>
+              <Name>Player online</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2015-07-31 10:39</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-08-02 21:45</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[GUIDNAME 106084]</Text>
+                  <Status>Localization</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117998</GUID>
+              <Name>Player offline</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2015-07-31 10:39</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-08-02 21:45</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[GUIDNAME 106087]</Text>
+                  <Status>Localization</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>118157</GUID>
+              <Name>Play Time 2h</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-12-24 16:05</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-08-17 19:25</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>You have played for 2 hours</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>12083</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>118158</GUID>
+              <Name>Play Time 4h</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-12-24 16:05</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-08-17 19:25</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>You have played for 4 hours</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>12084</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>118159</GUID>
+              <Name>Play Time 6h</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-12-24 16:05</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-08-17 19:25</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>You have played for 6 hours</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>12085</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>118160</GUID>
+              <Name>Play Time 8h</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2015-12-24 16:06</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-08-17 19:26</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>You have played for 8 hours</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>12086</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>120385</GUID>
+              <Name>TradeRouteInefficientWarningText</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-09-17 11:45</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-23 01:09</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_trade.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[TRADE_ROUTE_GOOD_NAME] route from [TRADE_ROUTE_SOURCE_SESSION] to [TRADE_ROUTE_TARGET_SESSION] is inefficient.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13568</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>122047</GUID>
+              <Name>StartupTradeRouteInefficientWarningText</Name>
+              <Creator>sbombera</Creator>
+              <CreationTime>2016-06-15 15:45</CreationTime>
+              <LastChangeUser>hholliez</LastChangeUser>
+              <LastChangeTime>2016-06-29 16:02</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_trade.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Several routes are inefficient</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>16690</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>InteractionToast</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>268</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100329</GUID>
+              <Name>Trade Success</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-03-14 08:59</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_trade.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_INTERACTION_NAME] bought the[NOTIFICATION_INTERACTION_INTERACTION_AMOUNT] t of[NOTIFICATION_INTERACTION_INTERACTION_PRODUCT] you offered. Collect [NOTIFICATION_INTERACTION_INVESTMENT] credits here.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8610</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100330</GUID>
+              <Name>Investment Contract Received</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-03-14 09:01</CreationTime>
+              <LastChangeUser>Dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-12 12:46</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_investment.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_INTERACTION_NAME] reached a new corporation level. Collect [NOTIFICATION_INTERACTION_INVESTMENT] credits here.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8611</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100341</GUID>
+              <Name>InteractionToast Accept Button Text</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-03-18 13:15</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Accept</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>790</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100344</GUID>
+              <Name>InteractionToast Decline Button Text</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-03-19 10:42</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Decline</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>791</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100484</GUID>
+              <Name>Investment Point Reached</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-04-08 13:22</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_investment.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Investment milestone reached. Collect payout of [_INTERACTION_INVESTMENT] credits here.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8612</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100516</GUID>
+              <Name>Credits Collected</Name>
+              <Creator>elaine.hu</Creator>
+              <CreationTime>2014-04-09 09:22</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Credits collected</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>2</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>792</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>100522</GUID>
+              <Name>Investment Point Received</Name>
+              <Creator>mreinhardt</Creator>
+              <CreationTime>2014-04-10 10:28</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_investment.png</IconFilename>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_INTERACTION_NAME] reached an investment milestone. Collect your payout of [NOTIFICATION_INTERACTION_INVESTMENT] credits here.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8613</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>RewardFeedback</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>269</SectionID>
+      <Groups>
+        <Group>
+          <Name>Introduction Movies</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>270</SectionID>
+          <Groups>
+            <Group>
+              <Name>New Population Group</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>1812</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100282</GUID>
+                      <Name>feedback header population group</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-26 16:44</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-09-30 16:53</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>New employee group available!</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8614</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100281</GUID>
+                      <Name>feedback text population group moon</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-26 16:21</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>You have now access to [GUIDNAME 2001007].</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>1</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8615</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>New Population Level</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>271</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100283</GUID>
+                      <Name>feedback header population level</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-26 16:45</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-09-30 16:53</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>New employee level reached!</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>793</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100258</GUID>
+                      <Name>feedback text population level earth 1</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-20 10:15</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:01</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>You now inhabit [GUIDNAME 2001008].</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8616</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100278</GUID>
+                      <Name>feedback text population level earth 2</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-26 16:20</CreationTime>
+                      <LastChangeUser>Dseibold</LastChangeUser>
+                      <LastChangeTime>2015-09-12 12:46</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>[GUIDNAME 2001009] took up residence in your sector.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8617</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100279</GUID>
+                      <Name>feedback text population level earth 3</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-26 16:20</CreationTime>
+                      <LastChangeUser>Dseibold</LastChangeUser>
+                      <LastChangeTime>2015-09-12 12:46</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>[GUIDNAME 2001010] took up residence in your sector.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>3</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8618</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100280</GUID>
+                      <Name>feedback text population level earth 4</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-26 16:20</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-07-26 21:38</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>[GUIDNAME 2001011] took up residence in your city.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8619</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100293</GUID>
+                      <Name>feedback text population level moon 1</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-03-05 18:10</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-07-26 21:38</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>[GUIDNAME 2001015] took up residence in your city.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8620</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>New Consumption Good</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>272</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100284</GUID>
+                      <Name>feedback header consumption good</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-26 16:47</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>New goods available!</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>794</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100193</GUID>
+                      <Name>feedback text superalloys</Name>
+                      <Creator>sstauss</Creator>
+                      <CreationTime>2014-02-11 16:47</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>You can now produce [GUIDNAME 2001020].</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8621</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+        <Group>
+          <Name>Building Unlocks</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <SectionID>273</SectionID>
+          <Groups>
+            <Group>
+              <Name>General</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+            </Group>
+            <Group>
+              <Name>Earth</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>1813</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100226</GUID>
+                      <Name>feedback text intermediate earth 1.1</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-18 16:02</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_good4'/&gt; [GUIDNAME 1000169] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8622</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100259</GUID>
+                      <Name>feedback text intermediate earth 1.2</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-20 10:32</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_good1'/&gt; [GUIDNAME 1000174] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8623</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100253</GUID>
+                      <Name>feedback text intermediate earth 1.3</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-19 15:08</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_workforce1'/&gt; [GUIDNAME 100026] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8624</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100254</GUID>
+                      <Name>feedback text intermediate earth 1.4</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-19 15:08</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_good5'/&gt; [GUIDNAME 1000170] unlocked.&lt;br /&gt;&lt;img src='icon_good7'/&gt; [GUIDNAME 1000172] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8625</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100255</GUID>
+                      <Name>feedback text intermediate earth 1.5</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-19 15:08</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_transport'/&gt; [GUIDNAME 1000123] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8626</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100268</GUID>
+                      <Name>feedback text intermediate earth 1.6</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-20 11:47</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_redcross'/&gt; [GUIDNAME 1000182] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8627</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100257</GUID>
+                      <Name>feedback text intermediate earth 2.1</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-19 15:08</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_bluelock'/&gt; [GUIDNAME 1000181] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8628</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100256</GUID>
+                      <Name>feedback text intermediate earth 2.2</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-19 15:08</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_good6'/&gt; [GUIDNAME 1000175] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>8629</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+            <Group>
+              <Name>Polar</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+            </Group>
+            <Group>
+              <Name>Moon</Name>
+              <UseParentGUIDRange>1</UseParentGUIDRange>
+              <SectionID>274</SectionID>
+              <Assets>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100271</GUID>
+                      <Name>feedback text intermediate moon 1.1</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-21 11:43</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_good3'/&gt; [GUIDNAME 1000187] unlocked.&lt;br /&gt;&lt;img src='icon_good9'/&gt; [GUIDNAME 1000191] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>795</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100272</GUID>
+                      <Name>feedback text intermediate moon 1.2</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-21 11:45</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_good2'/&gt; [GUIDNAME 1000188] unlocked.&lt;br /&gt;&lt;img src='icon_good8'/&gt; [GUIDNAME 1000186] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>796</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100273</GUID>
+                      <Name>feedback text intermediate moon 1.3</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-21 11:45</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_transport'/&gt; [GUIDNAME 1000185] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>797</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+                <Asset>
+                  <Template>Text</Template>
+                  <Values>
+                    <Standard>
+                      <GUID>100274</GUID>
+                      <Name>feedback text intermediate moon 1.4</Name>
+                      <Creator>cschneider</Creator>
+                      <CreationTime>2014-02-21 11:51</CreationTime>
+                      <LastChangeUser>dseibold</LastChangeUser>
+                      <LastChangeTime>2015-06-01 23:02</LastChangeTime>
+                    </Standard>
+                    <Text>
+                      <LocaText>
+                        <English>
+                          <Text>&lt;img src='icon_good10'/&gt; [GUIDNAME 1000190] unlocked.</Text>
+                          <Status>Exported</Status>
+                          <ExportCount>2</ExportCount>
+                        </English>
+                      </LocaText>
+                      <LineID>798</LineID>
+                    </Text>
+                  </Values>
+                </Asset>
+              </Assets>
+            </Group>
+          </Groups>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>WorldMarket</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>1814</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>116527</GUID>
+              <Name>Route Expiration: First Warning</Name>
+              <Creator>mreinhardt</Creator>
+              <CreationTime>2015-05-28 14:20</CreationTime>
+              <LastChangeUser>mreinhardt</LastChangeUser>
+              <LastChangeTime>2015-10-01 16:49</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] informs you that a Route is about to expire.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>4</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8630</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>116528</GUID>
+              <Name>Route Expiration: Continuation Offer</Name>
+              <Creator>mreinhardt</Creator>
+              <CreationTime>2015-05-28 14:21</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-10-07 11:38</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] offers to renew the following transfer route:</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>5</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8631</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>116529</GUID>
+              <Name>Route Expiration: Expired</Name>
+              <Creator>mreinhardt</Creator>
+              <CreationTime>2015-05-28 14:21</CreationTime>
+              <LastChangeUser>mreinhardt</LastChangeUser>
+              <LastChangeTime>2015-10-01 16:50</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] tells you that your transfer route has now expired.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>4</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>8632</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117148</GUID>
+              <Name>RouteCreatedToSell Notification</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-07-06 14:25</CreationTime>
+              <LastChangeUser>mreinhardt</LastChangeUser>
+              <LastChangeTime>2015-10-01 16:50</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] confirms your transfer route to the World Market.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>11232</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117149</GUID>
+              <Name>RouteCreatedToBuy Notification</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-07-06 14:25</CreationTime>
+              <LastChangeUser>mreinhardt</LastChangeUser>
+              <LastChangeTime>2015-10-01 16:50</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] ensures you that your goods will arrive shortly.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>11233</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117197</GUID>
+              <Name>RouteDeleted Notification</Name>
+              <Creator>sknietzsch</Creator>
+              <CreationTime>2015-07-06 17:21</CreationTime>
+              <LastChangeUser>mreinhardt</LastChangeUser>
+              <LastChangeTime>2015-10-01 16:50</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[NOTIFICATION_CHARACTER_NAME] informs you that the transfer route has been shelved.</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>11234</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>AppTransfer</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>2281</SectionID>
+      <Assets>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117466</GUID>
+              <Name>App Resource Transfer Title</Name>
+              <Creator>elaine.hu</Creator>
+              <CreationTime>2015-07-15 12:00</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 14:21</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Rare Materials Delivery</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>11235</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Text</Template>
+          <Values>
+            <Standard>
+              <GUID>117467</GUID>
+              <Name>App resource transfer question</Name>
+              <Creator>elaine.hu</Creator>
+              <CreationTime>2015-07-15 12:02</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-30 14:21</LastChangeTime>
+            </Standard>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Move the rare materials collected from "Anno 2205 - Asteroid Miner" or Club Rewards to your current corporation?</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>3</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>11236</LineID>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>100194</GUID>
+          <Name>Skip button text</Name>
+          <Creator>elaine.hu</Creator>
+          <CreationTime>2014-02-12 10:46</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-06-01 23:03</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Skip</Text>
+              <Status>Exported</Status>
+              <ExportCount>2</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>8633</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>117744</GUID>
+          <Name>Companion Resources Available Text</Name>
+          <Creator>mreinhardt</Creator>
+          <CreationTime>2015-07-21 16:07</CreationTime>
+          <LastChangeUser>dseibold</LastChangeUser>
+          <LastChangeTime>2015-07-22 21:32</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Hello.</Text>
+              <Status>Exported</Status>
+              <ExportCount>1</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>11237</LineID>
+        </Text>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Text</Template>
+      <Values>
+        <Standard>
+          <GUID>19990289</GUID>
+          <Name>Geniuses Move In Notification</Name>
+          <Creator>Taludas</Creator>
+          <CreationTime>2015-04-01 10:20</CreationTime>
+          <LastChangeUser>Taludas</LastChangeUser>
+          <LastChangeTime>2015-09-12 12:46</LastChangeTime>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>The first geniuses to move in send you their greetings and immediately set about their research.</Text>
+              <Status>Exported</Status>
+              <ExportCount>4</ExportCount>
+            </English>
+          </LocaText>
+          <LineID>10406</LineID>
+        </Text>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

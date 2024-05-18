@@ -1,0 +1,54 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Assets>
+    <Asset>
+      <Template>Sector</Template>
+      <Values>
+        <Standard>
+          <GUID>12000000</GUID>
+          <Name>Sector DLC02</Name>
+          <Creator>cschneider</Creator>
+          <CreationTime>2015-11-23 16:52</CreationTime>
+          <LastChangeUser>jfoerster</LastChangeUser>
+          <LastChangeTime>2016-07-06 15:39</LastChangeTime>
+          <IconFilename>Flash/PNGs/icons/icon_session_new.png</IconFilename>
+          <ID>OrbitSector</ID>
+        </Standard>
+        <Text>
+          <LocaText>
+            <English>
+              <Text>Sector DLC 02</Text>
+            </English>
+          </LocaText>
+          <Localize>0</Localize>
+        </Text>
+        <Locked>
+          <DLCDependency>12000033</DLCDependency>
+        </Locked>
+        <Sector>
+          <SectorRegion>5000006</SectorRegion>
+          <PossibleSessions>
+            <Item>
+              <Session>12000022</Session>
+            </Item>
+          </PossibleSessions>
+          <StartItems>
+            <Item>
+              <ItemGUID>12000055</ItemGUID>
+              <Amount>8</Amount>
+            </Item>
+            <Item>
+              <ItemGUID>12000091</ItemGUID>
+              <Amount>4</Amount>
+            </Item>
+            <Item>
+              <ItemGUID>12000058</ItemGUID>
+              <Amount>1</Amount>
+            </Item>
+          </StartItems>
+          <BaseProductCapacity>409600</BaseProductCapacity>
+        </Sector>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

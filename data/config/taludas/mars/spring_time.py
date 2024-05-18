@@ -1,0 +1,1 @@
+session.daytime = 18

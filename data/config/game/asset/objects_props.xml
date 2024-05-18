@@ -1,0 +1,4084 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Earth</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1000122</GUID>
+              <Name>CFG city screen</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-04-30 11:58</CreationTime>
+              <LastChangeUser>tamara.nitsch</LastChangeUser>
+              <LastChangeTime>2015-09-21 15:03</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_01/city_screen_01.cfg</Filename>
+                </Item>
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_07/city_screen_07.cfg</Filename>
+                </Item>
+                <Item />
+                <Item />
+                <Item />
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_11/city_screen_11.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_12/city_screen_12.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_13/city_screen_13.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_14/city_screen_14.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_15/city_screen_15.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_16/city_screen_16.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_17/city_screen_17.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_18/city_screen_18.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_19/city_screen_19.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_20/city_screen_20.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_21/city_screen_21.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_22/city_screen_22.cfg</Filename>
+                </Item>
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_39/city_screen_30.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_31/city_screen_31.cfg</Filename>
+                </Item>
+                <Item />
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_33/city_screen_33.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_34/city_screen_34.cfg</Filename>
+                </Item>
+                <Item />
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_36/city_screen_36.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_37/city_screen_37.cfg</Filename>
+                </Item>
+                <Item />
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_39/city_screen_39.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_40/city_screen_40.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_41/city_screen_41.cfg</Filename>
+                </Item>
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+                <Item />
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002083</GUID>
+              <Name>trader earth building</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-01-22 13:27</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-01-22 13:29</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_01/earth_trader_building_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_02/earth_trader_building_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_03/earth_trader_building_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_04/earth_trader_building_04.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_04/earth_trader_building_04_b.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_04/earth_trader_building_04_c.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_05/earth_trader_building_05.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_06/trader_earth_building_06.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/third_party/earth_trader/earth_trader_building_06/trader_earth_building_06_b.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002447</GUID>
+              <Name>Tree 01</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-02-20 14:47</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-02-20 14:49</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_01_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_01_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_01_v04.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002446</GUID>
+              <Name>Tree 02</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-02-20 14:46</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-02-20 14:50</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_02_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_02_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_02_v04.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002616</GUID>
+              <Name>Tree 03</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-02 10:48</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-02 10:49</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/tree_earth_03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/tree_earth_03_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/tree_earth_03_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/tree_earth_03_v04.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002797</GUID>
+              <Name>Rock Moutain</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-19 14:42</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-19 14:43</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_mountain/rocks_earth_mountain_01/rock_earth_mountain_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_mountain/rocks_earth_mountain_02/rock_earth_mountain_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_mountain/rocks_earth_mountain_03/rock_earth_mountain_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002796</GUID>
+              <Name>Rock Coast</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-19 14:42</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-19 14:43</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_coast/rocks_earth_coast_01/rock_earth_coast_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_coast/rocks_earth_coast_02/rock_earth_coast_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_coast/rocks_earth_coast_03/rock_earth_coast_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002821</GUID>
+              <Name>Bush Large</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-26 15:33</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-26 15:35</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/bushes_earth/bushes_earth_large/bush_earth_large_01/bush_earth_large_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/bushes_earth/bushes_earth_large/bush_earth_large_02/bush_earth_large_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002822</GUID>
+              <Name>Bush Medium</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-26 15:33</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-26 15:35</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/bushes_earth/bushes_earth_medium/bush_earth_medium_01/bush_earth_medium_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/bushes_earth/bushes_earth_medium/bush_earth_medium_02/bush_earth_medium_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002823</GUID>
+              <Name>Bush Small</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-26 15:33</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-26 15:35</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/bushes_earth/bushes_earth_small/bush_earth_small_01/bush_earth_small_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/bushes_earth/bushes_earth_small/bush_earth_small_02/bush_earth_small_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002836</GUID>
+              <Name>Rock Gravel</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-26 18:05</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-26 18:06</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_gravel/stone_gravel_earth_large01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_gravel/stone_gravel_earth_med_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/rocks_earth_gravel/stone_gravel_earth_small01.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002840</GUID>
+              <Name>Tree 04</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-31 17:49</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-31 17:52</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_04.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_04_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_04_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_04_v04.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002841</GUID>
+              <Name>Tree 05</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-31 17:51</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-01 09:33</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_05.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_05_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_05_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/earth_tree_05_v04.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002853</GUID>
+              <Name>Flowers</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-01 17:57</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-01 18:09</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_01_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_01_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_02_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_02_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_03_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_03_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_04.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_04_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_04_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_05.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_05_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_05_v03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_06.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_06_v02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/flowers_earth/flowers_06_v03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002907</GUID>
+              <Name>storage hall</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 18:07</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-22 18:07</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/storage_hall/storage_hall_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/storage_hall/storage_hall_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/earth/storage_hall/storage_hall_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003666</GUID>
+              <Name>CFG Tree 01</Name>
+              <Creator>smeding</Creator>
+              <CreationTime>2015-09-21 16:23</CreationTime>
+              <LastChangeUser>smeding</LastChangeUser>
+              <LastChangeTime>2015-09-21 16:23</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/cfg_tree_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003667</GUID>
+              <Name>CFG Tree 02</Name>
+              <Creator>smeding</Creator>
+              <CreationTime>2015-09-21 16:28</CreationTime>
+              <LastChangeUser>smeding</LastChangeUser>
+              <LastChangeTime>2015-09-21 16:28</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/cfg_tree_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003668</GUID>
+              <Name>CFG Tree 03</Name>
+              <Creator>smeding</Creator>
+              <CreationTime>2015-09-22 08:15</CreationTime>
+              <LastChangeUser>smeding</LastChangeUser>
+              <LastChangeTime>2015-09-22 08:16</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/cfg_tree_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003669</GUID>
+              <Name>CFG Tree 04</Name>
+              <Creator>smeding</Creator>
+              <CreationTime>2015-09-22 08:16</CreationTime>
+              <LastChangeUser>smeding</LastChangeUser>
+              <LastChangeTime>2015-09-22 08:16</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/cfg_tree_04.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003670</GUID>
+              <Name>CFG Grass 01</Name>
+              <Creator>smeding</Creator>
+              <CreationTime>2015-09-22 08:16</CreationTime>
+              <LastChangeUser>smeding</LastChangeUser>
+              <LastChangeTime>2015-09-22 08:16</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/cfg_grass_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003671</GUID>
+              <Name>CFG Bush 01</Name>
+              <Creator>smeding</Creator>
+              <CreationTime>2015-09-22 08:17</CreationTime>
+              <LastChangeUser>smeding</LastChangeUser>
+              <LastChangeTime>2015-09-22 08:17</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/vegetation/trees/trees_earth/cfg_bush_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Moon</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1000093</GUID>
+              <Name>Rock</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-04-09 16:58</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-04-09 17:11</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_01/rock_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_02/rock_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_03/rock_03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_04/rock_04.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_05/rock_05.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_06/rock_06.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_07/rock_07.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/rock_08/rock_08.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1000098</GUID>
+              <Name>Crates</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-04-11 14:14</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-04-11 14:15</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/crates_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/crates_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/crates_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1000155</GUID>
+              <Name>Canister</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-04-30 14:36</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-04-30 14:39</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/moon_props_canister_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/moon_props_canister_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1000171</GUID>
+              <Name>Gastank</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-04-30 14:36</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-04-30 14:38</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/moon_props_gastank_01.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1000285</GUID>
+              <Name>CFG Canister</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-07 12:12</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-07 13:57</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/moon_props_canister_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/moon_props_canister_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1000287</GUID>
+              <Name>CFG Crates</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-07 12:13</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-07 13:57</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/crates_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/crates_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/crates_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1000286</GUID>
+              <Name>CFG Gastank</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-07 12:13</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-07 13:57</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/moon_props_gastank_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1000298</GUID>
+              <Name>CFG Spaceport Moon Radar</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-08 12:42</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-08 16:16</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/moon/special/spaceport_moon/spaceport_moon_radar.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1000309</GUID>
+              <Name>CFG Scan result</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2014-05-14 09:12</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2014-05-14 09:13</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/particles/special_moments/scanned_element_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/particles/special_moments/scanned_element_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1000313</GUID>
+              <Name>CFG Stone</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-15 16:07</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-15 16:09</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/stone_01/stone_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/stone_01/stone_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/stone_01/stone_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1000314</GUID>
+              <Name>Stone</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-16 17:47</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-16 17:48</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/stone_01/stone_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/stone_01/stone_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks/stone_01/stone_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002798</GUID>
+              <Name>Rock Large</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-19 14:44</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-19 14:45</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks_moon_large/rocks_moon_large_01/rock_moon_large_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks_moon_large/rocks_moon_large_02/rock_moon_large_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002799</GUID>
+              <Name>Rock Medium</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-19 14:44</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-19 14:45</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks_moon_medium/rocks_moon_medium_01/rock_moon_medium_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks_moon_medium/rocks_moon_medium_02/rock_moon_medium_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002800</GUID>
+              <Name>Rock Small</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-19 14:44</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-19 14:48</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks_moon_small/rocks_moon_small_01/rock_moon_small_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks_moon_small/rocks_moon_small_02/rock_moon_small_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/rocks_moon_small/rocks_moon_small_03/rock_moon_small_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003079</GUID>
+              <Name>CFG Moon Lamp</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-05-21 16:17</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-21 16:19</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/quest_objects/moon_lamp/moon_lamp.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003570</GUID>
+              <Name>Moon Mining Elements</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-09-07 16:27</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-09-07 16:35</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/production_mining_moon_facility_module_01_building_top.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/production_mining_moon_facility_module_01_elevator_bottom.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/production_mining_moon_facility_module_01_elevator_tile.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/production_mining_moon_facility_module_01_elevator_top.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/production_mining_moon_facility_module_01_hoizontal_tile.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/production_mining_moon_facility_module_01_straight_tile.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003573</GUID>
+              <Name>Moon Mining Railings</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-09-09 11:54</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-09-09 12:02</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/moon_mining_railings.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003574</GUID>
+              <Name>Moon Mining Sockets</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-09-09 11:54</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-09-09 12:02</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/moon/Moon_mining_elements/moon_mining_socket.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Decal</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1000296</GUID>
+              <Name>Eart Soil</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-08 12:40</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-08 12:40</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/decals/earth_soil_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1000297</GUID>
+              <Name>Stone Soil</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2014-05-08 12:40</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2014-05-08 12:41</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/decals/stone_soil_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1002731</GUID>
+              <Name>Grass Patch</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-11 16:03</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-11 16:05</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/grass_patch_01/grass_patch_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/grass_patch_02/grass_patch_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/grass_patch_03/grass_patch_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1002732</GUID>
+              <Name>Lichen</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-11 16:03</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-11 16:06</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/lichen_01/lichen_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1002733</GUID>
+              <Name>Rock Crack</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-11 16:03</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-11 16:06</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rock_crack_01/rock_crack_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rock_crack_02/rock_crack_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rock_crack_03/rock_crack_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rock_crack_04/rock_crack_04.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1002734</GUID>
+              <Name>Rockface</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-11 16:03</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-11 16:07</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rockface_01/rockface_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rockface_02/rockface_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rockface_03/rockface_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/rockface_04/rockface_04.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1002735</GUID>
+              <Name>Sand Beach</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-11 16:03</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-11 16:08</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/sand_beach_01/sand_beach_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1003308</GUID>
+              <Name>Arctic Ground</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-16 18:28</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-16 18:29</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/arctic_ground_01/arctic_ground_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/arctic_ground_02/arctic_ground_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/arctic_ground_03/arctic_ground_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/arctic_ground_04/arctic_ground_04.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1003309</GUID>
+              <Name>Arctic Cliff</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-16 18:29</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-16 18:30</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/arctic_cliff_01/arctic_cliff_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1003347</GUID>
+              <Name>Moon Ground</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-23 11:06</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-08-18 12:23</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/moon_ground_01/moon_ground_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/moon_ground_02/moon_ground_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/moon_ground_03/moon_ground_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/moon_ground_04/moon_ground_04.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/moon_ground_05/moon_ground_05.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/moon_ground_06/moon_ground_06.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>19990127</GUID>
+              <Name>Mars Ground</Name>
+              <Creator>Taludas</Creator>
+              <CreationTime>2015-07-23 11:06</CreationTime>
+              <LastChangeUser>Taludas</LastChangeUser>
+              <LastChangeTime>2015-08-18 12:23</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/mars_ground_01/mars_ground_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/mars_ground_02/mars_ground_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/mars_ground_03/mars_ground_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/mars_ground_04/mars_ground_04.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/mars_ground_05/mars_ground_05.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/landscape/terrain/decals/mars_ground_06/mars_ground_06.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Test_Data</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002098</GUID>
+              <Name>distribution center earth</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-01-23 17:29</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-01-23 17:32</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_base_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_bridge_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_cargo_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_coastbase_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_coastconnection_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_coastconnection_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_crane_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_crane_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_sidebuilding_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_sidebuilding_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_tower_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_tower_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_tower_02_bottompart.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_tower_02_toppart.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_towerbase_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/_new_towerbase_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/cliff.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_01_connection.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_01_main.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_01_tower.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_01_wall.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_02_connection.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_02_skyway.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_02_tower.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_02_wall.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_03_bridge_big.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_03_bridge_medium.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_03_connection.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_03_main.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_03_main_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/distr_cntr_earth_03_tower.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/for_all_bridge_medium.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/for_all_bridge_t.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/for_all_crane.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_earth/for_all_small_bridge.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002099</GUID>
+              <Name>heavy bomber techs 2070</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-01-23 17:29</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-01-23 17:34</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/test_data/heavy_bomber_techs_2070/heavy_bomber_techs_2070.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002100</GUID>
+              <Name>distribution center moon</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-01-23 17:29</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-01-23 17:34</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/attachment_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/distribution_center_moon_final.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/mainbuilding_bottom_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/mainbuilding_ground_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/mainbuilding_top_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/mainbuilding_top_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/mainbuilding_top_left_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/mainbuilding_top_right_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/rail_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/distribution_center_moon/train_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002101</GUID>
+              <Name>eventsessionobjects effects</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-01-23 17:30</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-01-23 17:40</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/test_data/eventsessionobjects/effects/fire_field_part_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/eventsessionobjects/effects/fire_part_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/eventsessionobjects/effects/firesmoke_big_part_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/eventsessionobjects/effects/firesmoke_part_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/eventsessionobjects/effects/rocketsmoke.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/test_data/eventsessionobjects/effects/smoke_low.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>third party orbital watch system</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002316</GUID>
+              <Name>4x4</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-02-09 16:58</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-11 17:46</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x1_ramp_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x2.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x4.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x4_corner.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x4_diag.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x4_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x4_corner_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x2_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x4_diag_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/4x4/third_party_orbital_watch_system_4x1_ramp_var01_dark.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002317</GUID>
+              <Name>8x8</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-02-09 16:59</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-11 17:50</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_4x8.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_4x8_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_corner.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_diag.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_var02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_var01_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_var02_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_corner_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_8x8_diag_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_4x8_var01_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/8x8/third_party_orbital_watch_system_4x8_dark.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002653</GUID>
+              <Name>attachements</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-05 16:45</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-11 17:44</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/attachments/third_party_orbital_watch_system_breaker_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/attachments/third_party_orbital_watch_system_pier_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/attachments/third_party_orbital_watch_system_prop01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/attachments/third_party_orbital_watch_system_pier_var01_dark.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/attachments/third_party_orbital_watch_system_pier_var02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/attachments/third_party_orbital_watch_system_pier_var02_dark.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002654</GUID>
+              <Name>decals</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-05 16:49</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-06-15 10:34</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x4_decal_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x025_decal_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_125x1_decal_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_125x1_decal_var02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_1x1_decal_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_1x1_decal_var02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_1x1_decal_var03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var04.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var05.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var06.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/decals/third_party_orbital_watch_system_4x1_decal_var07.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002988</GUID>
+              <Name>wall_tile</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-05-06 13:05</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-29 09:53</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/wallsystem/wall_tile_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/wallsystem/wall_tile_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002989</GUID>
+              <Name>wall_tower_01</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-05-06 13:05</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2015-05-06 13:05</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/wallsystem/wall_tower_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003057</GUID>
+              <Name>2x2</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-05-11 17:44</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-11 17:44</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/2x2/third_party_orbital_watch_system_2x1.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/2x2/third_party_orbital_watch_system_2x1_dark.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003064</GUID>
+              <Name>bumper tower 01</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-05-12 11:22</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-12 11:25</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/wallsystem/bumper_tower_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003065</GUID>
+              <Name>bumper tower 01</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-05-12 11:23</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-05-12 11:25</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/wallsystem/bumper_tile_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003394</GUID>
+              <Name>wall_tower_02</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-08-04 15:28</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-08-04 15:28</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_orbital_watch_system/wallsystem/wall_tower_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>third party arctic custodians</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002655</GUID>
+              <Name>4x4</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-05 17:02</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-05 17:12</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/4x4/third_party_arctic_custodians_system4x1_ramp_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/4x4/third_party_arctic_custodians_system4x2.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/4x4/third_party_arctic_custodians_system4x4.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/4x4/third_party_arctic_custodians_system4x4_corner.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/4x4/third_party_arctic_custodians_system4x4_diag.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002656</GUID>
+              <Name>8x8</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-05 17:02</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-03-05 17:11</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/8x8/third_party_arctic_custodians_system_4x8.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/8x8/third_party_arctic_custodians_system_4x8_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/8x8/third_party_arctic_custodians_system_8x8.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/8x8/third_party_arctic_custodians_system_8x8_corner.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/8x8/third_party_arctic_custodians_system_8x8_diag.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/8x8/third_party_arctic_custodians_system_8x8_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/8x8/third_party_arctic_custodians_system_8x8_var02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002657</GUID>
+              <Name>attachements</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-03-05 17:07</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-06-15 10:43</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/attachments/third_party_arctic_custodians_system__pier_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/attachments/third_party_arctic_custodians_system_breaker_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/attachments/third_party_arctic_custodians_system_pier_var02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/attachments/third_party_arctic_custodians_system_prop01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003189</GUID>
+              <Name>2x2</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-06-15 10:43</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-06-15 10:47</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_arctic_custodians_system/2x2/third_party_orbital_watch_system_2x1.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>third party trader earth system</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002900</GUID>
+              <Name>4x4</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:06</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-22 14:07</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/4x4/third_party_trader_earth_system4x1_ramp_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/4x4/third_party_trader_earth_system4x2.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/4x4/third_party_trader_earth_system4x4.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/4x4/third_party_trader_earth_system4x4_corner.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/4x4/third_party_trader_earth_system4x4_diag.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002901</GUID>
+              <Name>8x8</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:06</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-22 14:07</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/8x8/third_party_trader_earth_system_4x8.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/8x8/third_party_trader_earth_system_4x8_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/8x8/third_party_trader_earth_system_8x8.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/8x8/third_party_trader_earth_system_8x8_corner.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/8x8/third_party_trader_earth_system_8x8_diag.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/8x8/third_party_trader_earth_system_8x8_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/8x8/third_party_trader_earth_system_8x8_var02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1002899</GUID>
+              <Name>attachements</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:06</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-06-15 10:36</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/attachments/third_party_trader_earth_system__pier_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/attachments/third_party_trader_earth_system_breaker_var01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/attachments/third_party_trader_earth_extension_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/attachments/third_party_trader_earth_extension_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/buildings/third_party/third_party_trader_earth_system/attachments/third_party_trader_earth_extension_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>arctic</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002902</GUID>
+              <Name>Rock arctic snow</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:08</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-22 14:09</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_snow/rocks_arctic_snow_01/rock_arctic_snow_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_snow/rocks_arctic_snow_02/rock_arctic_snow_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_snow/rocks_arctic_snow_03/rock_arctic_snow_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002903</GUID>
+              <Name>Icefloes Arctic Coast Large</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:10</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-06 12:50</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_coast_large_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_coast_large_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_coast_large_03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_coast_large_scl_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_coast_large_scl_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_coast_large_scl_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002904</GUID>
+              <Name>Icefloes Arctic Coast Medium</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:13</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-06 12:50</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_coast_medium_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_coast_medium_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_coast_medium_scl_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_coast_medium_scl_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002905</GUID>
+              <Name>Icefloes Arctic Coast Small</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:14</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-22 14:14</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_small/icefloe_arctic_coast_small_01.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1002906</GUID>
+              <Name>Icefloes Arctic Coast Fine (cfgs)</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-22 14:14</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-22 14:17</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1002971</GUID>
+              <Name>Rock arctic dark</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-04-30 11:21</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-04-30 11:22</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_dark/rock_arctic_dark_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_dark/rock_arctic_dark_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_dark/rock_arctic_dark_03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_dark/rock_arctic_dark_04.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_dark/rock_arctic_dark_05.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/rocks_arctic_dark/rock_arctic_dark_06.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1003254</GUID>
+              <Name>iceberg</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-06-24 11:12</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-06-26 10:24</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_04.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1003255</GUID>
+              <Name>Icefloes Arctic Coast Fine (prp)</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-06-29 16:27</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-14 10:16</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_04.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_05.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_06.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_07.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_08.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_09.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_10.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_11.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_12.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_13.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_fine/icefloe_arctic_coast_fine_14.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1003289</GUID>
+              <Name>iceberg ice</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-10 16:38</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-10 16:39</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_ice_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_ice_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_ice_03.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icebergs/iceberg_ice_04.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1003290</GUID>
+              <Name>Icefloes Arctic Ice Large</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-10 16:41</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-10 16:42</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_ice_large_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_ice_large_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_ice_large_03.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_ice_large_scl_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_ice_large_scl_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_large/icefloe_arctic_ice_large_scl_03.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1003291</GUID>
+              <Name>Icefloes Arctic Ice Medium</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-10 16:42</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-10 16:43</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_ice_medium_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_ice_medium_02.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_ice_medium_scl_01.prp</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_medium/icefloe_arctic_ice_medium_scl_02.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1003292</GUID>
+              <Name>Icefloes Arctic Ice Small</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-10 16:43</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-10 16:43</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/icefloes_arctic_coast/icefloes_arctic_coast_small/icefloe_arctic_ice_small_01.prp</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObjectEditor</Template>
+          <Values>
+            <Standard>
+              <GUID>1003545</GUID>
+              <Name>Oilslick</Name>
+              <Creator>bfrechenhaeuser</Creator>
+              <CreationTime>2015-09-02 12:19</CreationTime>
+              <LastChangeUser>bfrechenhaeuser</LastChangeUser>
+              <LastChangeTime>2015-09-02 13:15</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/arctic/oil_slick/oilslick_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/oil_slick/oilslick_02.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/arctic/oil_slick/oilslick_03.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Dam</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>Prop</Template>
+          <Values>
+            <Standard>
+              <GUID>1003144</GUID>
+              <Name>dam_01</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-05-22 15:51</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2015-05-22 15:52</LastChangeTime>
+            </Standard>
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/dam/dam_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <Prop />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>landscape</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003279</GUID>
+              <Name>lampe</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-09 14:46</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-09 14:57</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/event_sessions/landscape/lampe.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003280</GUID>
+              <Name>street lamp</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-09 14:46</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-09 14:58</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/event_sessions/landscape/street_lamp_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>effects</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003283</GUID>
+              <Name>light beam</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-09 14:52</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-09 14:53</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/effects/event_sessions/props/light_beam.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003284</GUID>
+              <Name>light flickering</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-09 14:52</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-09 14:54</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/effects/event_sessions/props/light_flickering.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003285</GUID>
+              <Name>lightbeam up</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-09 14:52</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-09 14:54</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/effects/event_sessions/props/lightbeam_up.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003286</GUID>
+              <Name>smoke</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-09 14:52</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-09 14:54</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/effects/event_sessions/props/smoke_1.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/effects/event_sessions/props/smoke_2.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualSoundEmitter</Template>
+          <Values>
+            <Standard>
+              <GUID>1003538</GUID>
+              <Name>fire field</Name>
+              <Creator>bfrechenhaeuser</Creator>
+              <CreationTime>2015-09-01 14:51</CreationTime>
+              <LastChangeUser>dosternacher</LastChangeUser>
+              <LastChangeTime>2015-09-03 10:14</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/effects/event_sessions/fire_field_part_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/effects/event_sessions/fire_oil_spill_large.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+            <SoundEmitter>
+              <AutoPlay>1</AutoPlay>
+              <SoundsToPlay>
+                <Item>
+                  <AssociatedSoundAsset>9800067</AssociatedSoundAsset>
+                </Item>
+              </SoundsToPlay>
+            </SoundEmitter>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>multifunction</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003315</GUID>
+              <Name>arctic boxpile</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-17 16:15</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-17 16:19</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_boxpile_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_boxpile_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003316</GUID>
+              <Name>arctic clothroll</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-17 16:16</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-17 16:19</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_clothroll_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003317</GUID>
+              <Name>arctic flagpole</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-17 16:16</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-17 16:19</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_flagpole_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_flagpole_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003318</GUID>
+              <Name>arctic restroom</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-17 16:16</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-17 16:20</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_restroom_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003319</GUID>
+              <Name>arctic windwheel</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-17 16:16</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-17 16:20</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_windwheel_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003323</GUID>
+              <Name>arctic powerline</Name>
+              <Creator>croesch</Creator>
+              <CreationTime>2015-07-20 11:56</CreationTime>
+              <LastChangeUser>croesch</LastChangeUser>
+              <LastChangeTime>2015-07-20 11:57</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/multifunction/arctic_powerline_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>City Screens</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003501</GUID>
+              <Name>CFG City Screen 41</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2015-08-25 11:40</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2015-08-25 11:41</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_41/city_screen_41.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003502</GUID>
+              <Name>CFG City Screen 36</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2015-08-25 11:41</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2015-08-25 11:43</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_36/city_screen_36.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003503</GUID>
+              <Name>CFG City Screen 39</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2015-08-25 11:41</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2015-08-25 11:43</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_39/city_screen_39.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003504</GUID>
+              <Name>CFG City Screen 01</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2015-08-25 11:41</CreationTime>
+              <LastChangeUser>mark.reichert</LastChangeUser>
+              <LastChangeTime>2015-08-25 11:43</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_01/city_screen_01.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>VisualObject</Template>
+          <Values>
+            <Standard>
+              <GUID>1003832</GUID>
+              <Name>CFG City Screen 02</Name>
+              <Creator>jstaegl</Creator>
+              <CreationTime>2016-03-18 15:40</CreationTime>
+              <LastChangeUser>jstaegl</LastChangeUser>
+              <LastChangeTime>2016-03-18 15:41</LastChangeTime>
+            </Standard>
+            <Mesh />
+            <Object>
+              <Variations>
+                <Item>
+                  <Filename>data/graphics/props/earth/city_screens/city_screen_02/city_screen_02.cfg</Filename>
+                </Item>
+              </Variations>
+            </Object>
+            <FreeOrientation />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000013</GUID>
+          <Name>TestProp</Name>
+          <Creator>skoenig</Creator>
+          <CreationTime>2014-02-06 14:57</CreationTime>
+          <LastChangeUser>jschaub</LastChangeUser>
+          <LastChangeTime>2014-12-03 16:05</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/placeholder/placeholder_prop.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000095</GUID>
+          <Name>CFG ornamental park</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-11 13:45</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:59</LastChangeTime>
+          <IconFilename>Flash/PNGs/icons/icon_factory.png</IconFilename>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/ornamental_park_01/ornamental_park_01_straight_v01.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/ornamental_park_01/ornamental_park_01_straight_v02.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/ornamental_park_01/ornamental_park_01_corner.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/ornamental_park_01/ornamental_park_01_cross.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/ornamental_park_01/ornamental_park_01_tcross.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/ornamental_park_01/ornamental_park_01_end.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000125</GUID>
+          <Name>Antenna</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:36</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:37</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/antenna_01.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000173</GUID>
+          <Name>Cargo Container</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:41</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:52</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/cargo_container_01.prp</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/multifunction/cargo_container_02.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000176</GUID>
+          <Name>Mining Rubble Fence</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:41</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:52</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_rubble_fence.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000177</GUID>
+          <Name>Street Lamp</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:41</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:52</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/street_lamp_01.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000202</GUID>
+          <Name>Mining Fence</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:41</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:53</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_fence_01.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000204</GUID>
+          <Name>Eco Display</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:41</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:53</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/eco_display.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000203</GUID>
+          <Name>CFG Mining Light Spot</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:41</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_light_spot.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000205</GUID>
+          <Name>Framework</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:41</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:54</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/framework_01.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000206</GUID>
+          <Name>Generator</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:42</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:55</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/generator_01.prp</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/moon/generator_02.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000207</GUID>
+          <Name>Lantern</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:42</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:55</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/lantern.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000208</GUID>
+          <Name>Projector</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:42</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:56</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/projector_01.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000209</GUID>
+          <Name>Satellite Framework</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-04-30 14:42</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-04-30 14:56</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/satelite_framework_01.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000269</GUID>
+          <Name>CFG Air Buoy</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-06 16:17</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/air_buoy/air_buoy.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000270</GUID>
+          <Name>CFG Water Buoy</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-06 16:17</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh>
+          <MeshPlacement>OnWater</MeshPlacement>
+        </Mesh>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/water_buoy/water_buoy.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000271</GUID>
+          <Name>CFG Waypoint Buoy</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-06 16:17</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/waypoint_buoy/waypoint_buoy.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000274</GUID>
+          <Name>CFG Antenna</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:04</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/antenna_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000275</GUID>
+          <Name>CFG Cargo Container</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:05</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/cargo_container_01.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/multifunction/cargo_container_02.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000276</GUID>
+          <Name>CFG Mining Rubble Fence</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:05</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_rubble_fence.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000279</GUID>
+          <Name>CFG Mining Fence</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:05</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_fence_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000281</GUID>
+          <Name>CFG Mining Light Spot</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:05</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-15 12:16</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_light_spot.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_light_spot_var01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000282</GUID>
+          <Name>CFG Framework</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:05</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/framework_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000283</GUID>
+          <Name>CFG Generator</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:06</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/generator_01.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/moon/generator_02.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000284</GUID>
+          <Name>CFG Lantern</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:06</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/lantern_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000273</GUID>
+          <Name>CFG Projector</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:04</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:58</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/projector_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000272</GUID>
+          <Name>CFG Satellite Framework</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-07 12:04</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-07 13:57</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/moon/satelite_framework_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000300</GUID>
+          <Name>CFG Busstop</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-08 16:09</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-08 16:16</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/busstop.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000301</GUID>
+          <Name>Cycle Rack</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-08 16:11</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-08 16:12</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/cycle_rack_01.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObjectEditor</Template>
+      <Values>
+        <Standard>
+          <GUID>1000302</GUID>
+          <Name>CFG Fog</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-08 16:12</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-16 10:02</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_001.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_002.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_003.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_004.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_005.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_006.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_007.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_008.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/particles/fog/fog_009.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>Prop</Template>
+      <Values>
+        <Standard>
+          <GUID>1000303</GUID>
+          <Name>Sos Phone</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2014-05-08 16:15</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2014-05-08 16:15</LastChangeTime>
+        </Standard>
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/sos_phone.prp</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <Prop />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1000316</GUID>
+          <Name>CFG Street Lamp</Name>
+          <Creator>jschaub</Creator>
+          <CreationTime>2014-05-26 09:12</CreationTime>
+          <LastChangeUser>jschaub</LastChangeUser>
+          <LastChangeTime>2014-05-26 09:12</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/street_lamp_01.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1002920</GUID>
+          <Name>Street Lamp Auto (pls do not use in editor)</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2015-04-24 11:54</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2015-09-22 14:18</LastChangeTime>
+          <ID>StreetLampAuto</ID>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Type>NotSerialized</Type>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/street_lamp_01.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/multifunction/street_lamp_02.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/multifunction/street_lamp_03.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/multifunction/street_lamp_04.cfg</Filename>
+            </Item>
+          </Variations>
+          <AddToObjectGroups>0</AddToObjectGroups>
+          <AddToEditorObjectGrid>0</AddToEditorObjectGrid>
+          <PlacableInEditor>0</PlacableInEditor>
+          <SelectableInEditor>0</SelectableInEditor>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObjectEditor</Template>
+      <Values>
+        <Standard>
+          <GUID>1003342</GUID>
+          <Name>CFG Mining Light Spot Arctic</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2015-07-22 10:27</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2015-07-22 10:28</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/multifunction/mining_light_spot_arctic.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>VisualObject</Template>
+      <Values>
+        <Standard>
+          <GUID>1003521</GUID>
+          <Name>CFG Event Street Lamp</Name>
+          <Creator>croesch</Creator>
+          <CreationTime>2015-08-28 11:49</CreationTime>
+          <LastChangeUser>croesch</LastChangeUser>
+          <LastChangeTime>2015-08-28 11:53</LastChangeTime>
+        </Standard>
+        <Mesh />
+        <Object>
+          <Variations>
+            <Item>
+              <Filename>data/graphics/props/event_sessions/landscape/street_lamp_01.cfg</Filename>
+            </Item>
+            <Item>
+              <Filename>data/graphics/props/event_sessions/landscape/street_lamp_02.cfg</Filename>
+            </Item>
+          </Variations>
+        </Object>
+        <FreeOrientation />
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

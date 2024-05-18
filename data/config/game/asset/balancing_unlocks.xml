@@ -1,0 +1,1064 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>Progress level</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2001405</GUID>
+              <Name>EarlyMidGame</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-08-07 13:54</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2014-10-16 09:40</LastChangeTime>
+              <ID>ProgressLevelEarlyMidgame</ID>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2001395</GUID>
+              <Name>MidGame</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-08-05 09:04</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2014-10-16 09:40</LastChangeTime>
+              <ID>ProgressLevelMidgame</ID>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2001406</GUID>
+              <Name>LateMidGame</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-08-07 13:54</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2014-10-16 09:40</LastChangeTime>
+              <ID>ProgressLevelLateMidgame</ID>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2001397</GUID>
+              <Name>LateGame</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-08-05 09:04</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2014-10-16 09:40</LastChangeTime>
+              <ID>ProgressLevelLategame</ID>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2001398</GUID>
+              <Name>EndGame</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-08-05 09:04</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2014-10-16 09:40</LastChangeTime>
+              <ID>ProgressLevelEndgame</ID>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Intermediate levels</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Groups>
+        <Group>
+          <Name>Earth</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001704</GUID>
+                  <Name>intermediate earth 1.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-02-26 16:59</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:54</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002309</GUID>
+                  <Name>intermediate earth 1.1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-09-14 15:34</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:54</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001705</GUID>
+                  <Name>intermediate earth 1.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-01-13 12:25</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:54</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001706</GUID>
+                  <Name>intermediate earth 1.3</Name>
+                  <Creator>Reinhardt</Creator>
+                  <CreationTime>2013-12-05 19:08</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:54</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001708</GUID>
+                  <Name>intermediate earth 1.4</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-10-06 12:40</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:54</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001710</GUID>
+                  <Name>intermediate earth 2.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-02-17 11:54</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001711</GUID>
+                  <Name>intermediate earth 2.1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-01-13 12:10</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002307</GUID>
+                  <Name>intermediate earth 2.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-09-14 15:22</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:55</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001712</GUID>
+                  <Name>intermediate earth 2.3</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 16:36</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:55</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001713</GUID>
+                  <Name>intermediate earth 2.4</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 16:37</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:55</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001714</GUID>
+                  <Name>intermediate earth 3.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-01-21 11:20</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002328</GUID>
+                  <Name>intermediate earth 3.1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-09-17 15:53</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:53</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001716</GUID>
+                  <Name>intermediate earth 3.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-10-06 12:42</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001718</GUID>
+                  <Name>intermediate earth 3.3</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 16:52</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:55</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001719</GUID>
+                  <Name>intermediate earth 4.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-01-21 11:22</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001707</GUID>
+                  <Name>intermediate earth 4,1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-01-13 12:14</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-03-09 12:34</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001720</GUID>
+                  <Name>intermediate earth 4.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 16:56</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-03-09 12:34</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001722</GUID>
+                  <Name>intermediate earth 4.3</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 17:02</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:55</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002144</GUID>
+                  <Name>intermediate earth 4.4</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-07-07 18:05</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:55</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Arctic</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001723</GUID>
+                  <Name>intermediate arctic 1.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 11:48</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002311</GUID>
+                  <Name>intermediate arctic 1.1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-09-14 16:05</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001724</GUID>
+                  <Name>intermediate arctic 1.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 17:46</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001725</GUID>
+                  <Name>intermediate arctic 1.3</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 17:50</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001726</GUID>
+                  <Name>intermediate arctic 1.4</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 17:52</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001727</GUID>
+                  <Name>intermediate arctic 1.5</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 17:53</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001728</GUID>
+                  <Name>intermediate arctic 1.6</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-08 17:54</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001729</GUID>
+                  <Name>intermediate arctic 2.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 16:46</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002326</GUID>
+                  <Name>intermediate arctic 2.1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-09-17 15:41</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001730</GUID>
+                  <Name>intermediate arctic 2.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 16:50</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001731</GUID>
+                  <Name>intermediate arctic 2.3</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 16:51</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001732</GUID>
+                  <Name>intermediate arctic 2.4</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 16:53</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002154</GUID>
+                  <Name>intermediate arctic 2.5</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-07-13 10:30</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>19990088</GUID>
+                  <Name>intermediate arctic 3.0</Name>
+                  <Creator>Taludas</Creator>
+                  <CreationTime>2015-07-13 10:30</CreationTime>
+                  <LastChangeUser>Taludas</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:56</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+        <Group>
+          <Name>Moon</Name>
+          <UseParentGUIDRange>1</UseParentGUIDRange>
+          <Assets>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001733</GUID>
+                  <Name>intermediate moon 1.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 16:55</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:57</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2002313</GUID>
+                  <Name>intermediate moon 1.1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2015-09-14 16:13</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:57</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001734</GUID>
+                  <Name>intermediate moon 1.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-02-21 11:17</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:57</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001736</GUID>
+                  <Name>intermediate moon 1.3</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-01-23 11:26</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:57</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001735</GUID>
+                  <Name>intermediate moon 1.4</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 16:59</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:57</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001740</GUID>
+                  <Name>intermediate moon 2.0</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 17:04</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001741</GUID>
+                  <Name>intermediate moon 2.1</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-08-15 11:15</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001742</GUID>
+                  <Name>intermediate moon 2.2</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 17:06</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001743</GUID>
+                  <Name>intermediate moon 2.3</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-09-30 19:36</CreationTime>
+                  <LastChangeUser>jschaub</LastChangeUser>
+                  <LastChangeTime>2014-10-15 10:08</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>ProgressLevel</Template>
+              <Values>
+                <Standard>
+                  <GUID>2001738</GUID>
+                  <Name>intermediate moon 2.4</Name>
+                  <Creator>cschneider</Creator>
+                  <CreationTime>2014-07-17 17:02</CreationTime>
+                  <LastChangeUser>cschneider</LastChangeUser>
+                  <LastChangeTime>2015-09-17 15:58</LastChangeTime>
+                </Standard>
+                <Locked />
+              </Values>
+            </Asset>
+          </Assets>
+        </Group>
+      </Groups>
+    </Group>
+    <Group>
+      <Name>Menu Frames</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <SectionID>1994</SectionID>
+      <Assets>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2001626</GUID>
+              <Name>Voting</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-10-07 10:24</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-07-22 23:10</LastChangeTime>
+              <ID>VotingFrame</ID>
+            </Standard>
+            <Locked />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Voting Menu</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>11599</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2001785</GUID>
+              <Name>Docks</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-12-10 16:30</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-30 13:59</LastChangeTime>
+              <IconFilename>Flash/PNGs/images/icon_portrait_space_station_01.png</IconFilename>
+              <ID>DocksFrame</ID>
+            </Standard>
+            <Locked />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Docks</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>10101</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2001787</GUID>
+              <Name>Assignment Center</Name>
+              <Creator>tamara.nitsch</Creator>
+              <CreationTime>2014-12-10 17:19</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-06-30 13:59</LastChangeTime>
+            </Standard>
+            <Locked>
+              <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Assignment Center</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>10102</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2001788</GUID>
+              <Name>Strategic View</Name>
+              <Creator>mark.reichert</Creator>
+              <CreationTime>2014-12-11 11:46</CreationTime>
+              <LastChangeUser>dseibold</LastChangeUser>
+              <LastChangeTime>2015-07-22 23:10</LastChangeTime>
+              <ID>StrategicViewFrame</ID>
+            </Standard>
+            <Locked>
+              <DefaultLockedState>0</DefaultLockedState>
+            </Locked>
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Strategy Map</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>11600</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2002010</GUID>
+              <Name>Module Frame</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-05-29 10:08</CreationTime>
+              <LastChangeUser>Claurer</LastChangeUser>
+              <LastChangeTime>2015-10-02 13:19</LastChangeTime>
+              <ID>ModuleFrameUnlock</ID>
+            </Standard>
+            <Locked />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>NO LOCA Module Frame</Text>
+                  <Status>Edit</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+              <LineID>11601</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2002248</GUID>
+              <Name>Route Creation</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-08-31 11:09</CreationTime>
+              <LastChangeUser>Dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-12 15:04</LastChangeTime>
+              <ID>Route Creation</ID>
+            </Standard>
+            <Locked />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Create Route Button</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13376</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2002249</GUID>
+              <Name>Energy Routes</Name>
+              <Creator>tboden</Creator>
+              <CreationTime>2015-08-31 13:22</CreationTime>
+              <LastChangeUser>Dseibold</LastChangeUser>
+              <LastChangeTime>2015-09-12 15:04</LastChangeTime>
+              <ID>Energy Routes</ID>
+            </Standard>
+            <Locked />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>Energy Routes</Text>
+                  <Status>Exported</Status>
+                  <ExportCount>1</ExportCount>
+                </English>
+              </LocaText>
+              <LineID>13377</LineID>
+            </Text>
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>MenuFrame</Template>
+          <Values>
+            <Standard>
+              <GUID>2002437</GUID>
+              <Name>Corporation InfoTip</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2016-01-28 09:52</CreationTime>
+              <LastChangeUser>costhof</LastChangeUser>
+              <LastChangeTime>2016-02-02 18:19</LastChangeTime>
+              <IconFilename>Flash/PNGs/icons/icon_dead_panda.png</IconFilename>
+              <ID>CorporationInfotip</ID>
+            </Standard>
+            <Locked />
+            <Text>
+              <LocaText>
+                <English>
+                  <Text>[CORPORATIONINFOTIP]</Text>
+                  <Status>Edit</Status>
+                </English>
+              </LocaText>
+              <Localize>0</Localize>
+            </Text>
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Preconstructed Space Ports</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2002125</GUID>
+              <Name>preconstructed space port earth unlock</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-07-07 12:03</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2015-07-07 12:09</LastChangeTime>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2002126</GUID>
+              <Name>preconstructed space port arctic unlock</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-07-07 12:03</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2015-07-07 12:10</LastChangeTime>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2002127</GUID>
+              <Name>preconstructed space port moon unlock</Name>
+              <Creator>cschneider</Creator>
+              <CreationTime>2015-07-07 12:03</CreationTime>
+              <LastChangeUser>cschneider</LastChangeUser>
+              <LastChangeTime>2015-07-07 12:10</LastChangeTime>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+    <Group>
+      <Name>Mine and Coast Slots</Name>
+      <UseParentGUIDRange>1</UseParentGUIDRange>
+      <Assets>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2002205</GUID>
+              <Name>coast slot unlock</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2015-08-07 10:14</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2015-09-05 14:13</LastChangeTime>
+              <ID>CoastSlotGhosts</ID>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+        <Asset>
+          <Template>ProgressLevel</Template>
+          <Values>
+            <Standard>
+              <GUID>2002278</GUID>
+              <Name>mine slot unlock</Name>
+              <Creator>jschaub</Creator>
+              <CreationTime>2015-09-05 14:12</CreationTime>
+              <LastChangeUser>jschaub</LastChangeUser>
+              <LastChangeTime>2015-09-05 14:13</LastChangeTime>
+              <ID>MineSlotGhosts</ID>
+            </Standard>
+            <Locked />
+          </Values>
+        </Asset>
+      </Assets>
+    </Group>
+  </Groups>
+  <Assets>
+    <Asset>
+      <Template>ProgressLevel</Template>
+      <Values>
+        <Standard>
+          <GUID>2002206</GUID>
+          <Name>Preorder Commando Ship Unlock</Name>
+          <Creator>mark.reichert</Creator>
+          <CreationTime>2015-08-07 10:37</CreationTime>
+          <LastChangeUser>sstauss</LastChangeUser>
+          <LastChangeTime>2015-09-25 14:45</LastChangeTime>
+          <IconFilename>Flash/PNGs/icons/icon_command_vessel_earth_catamaran.png</IconFilename>
+          <ID>PreorderCommandoShipUnlock</ID>
+        </Standard>
+        <Locked>
+          <AccountwideLock>1</AccountwideLock>
+        </Locked>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ProgressLevel</Template>
+      <Values>
+        <Standard>
+          <GUID>2002217</GUID>
+          <Name>HQ Skin Unlock</Name>
+          <Creator>mark.reichert</Creator>
+          <CreationTime>2015-08-17 18:12</CreationTime>
+          <LastChangeUser>sstauss</LastChangeUser>
+          <LastChangeTime>2015-09-25 14:44</LastChangeTime>
+          <IconFilename>Flash/PNGs/icons/icon_headquarter_base_variation.png</IconFilename>
+          <ID>HqSkinUnlock</ID>
+        </Standard>
+        <Locked>
+          <AccountwideLock>1</AccountwideLock>
+        </Locked>
+      </Values>
+    </Asset>
+    <Asset>
+      <Template>ProgressLevel</Template>
+      <Values>
+        <Standard>
+          <GUID>2002218</GUID>
+          <Name>Ship Colors Unlock</Name>
+          <Creator>mark.reichert</Creator>
+          <CreationTime>2015-08-18 17:33</CreationTime>
+          <LastChangeUser>sbombera</LastChangeUser>
+          <LastChangeTime>2015-09-07 10:04</LastChangeTime>
+          <IconFilename>Flash/PNGs/icons/icon_vehicle_white.png</IconFilename>
+          <ID>ShipColorsUnlock</ID>
+        </Standard>
+        <Locked>
+          <AccountwideLock>1</AccountwideLock>
+        </Locked>
+      </Values>
+    </Asset>
+  </Assets>
+</Group>

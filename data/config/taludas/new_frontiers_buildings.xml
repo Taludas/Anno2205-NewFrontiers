@@ -1,0 +1,146 @@
+<Group>
+  <ToolOneVersion>8</ToolOneVersion>
+  <Groups>
+    <Group>
+      <Name>nutrient_powder_extractor_arctic</Name>
+      <FileName>data/config/taludas/arctic/nutrient_powder_extractor/nutrient_powder_extractor.xml</FileName>
+    </Group>
+    <Group>
+      <Name>superconductors_factory_arctic</Name>
+      <FileName>data/config/taludas/arctic/superconductors_factory/superconductors_factory.xml</FileName>
+    </Group>
+    <Group>
+      <Name>thermal_shells_factory_arctic</Name>
+      <FileName>data/config/taludas/arctic/thermal_shells_factory/thermal_shells_factory.xml</FileName>
+    </Group>
+    <Group>
+      <Name>neural_interfaces_arctic</Name>
+      <FileName>data/config/taludas/arctic/neural_interfaces/neural_interfaces.xml</FileName>
+    </Group>
+    <Group>
+      <Name>gas_extractor_arctic</Name>
+      <FileName>data/config/taludas/arctic/gas_extractor/gas_extractor.xml</FileName>
+    </Group>
+    <Group>
+      <Name>small_heater_arctic</Name>
+      <FileName>data/config/taludas/arctic/small_heater/small_heater.xml</FileName>
+    </Group>
+
+    <Group>
+      <Name>fine_food</Name>
+      <FileName>data/config/taludas/earth/fine_food/fine_food.xml</FileName>
+    </Group>
+    <Group>
+      <Name>hyaluronic_acid_concentrator</Name>
+      <FileName>data/config/taludas/tundra/hyaluronic_acid/hyaluronic_acid.xml</FileName>
+    </Group>
+    <Group>
+      <Name>nutrient_powder</Name>
+      <FileName>data/config/taludas/earth/nutrient_powder/nutrient_powder.xml</FileName>
+    </Group>
+    <Group>
+      <Name>organic_food</Name>
+      <FileName>data/config/taludas/earth/organic_food/organic_food.xml</FileName>
+    </Group>
+    <Group>
+      <Name>solar_panel</Name>
+      <FileName>data/config/taludas/earth/solar_panel/solar_panel.xml</FileName>
+    </Group>
+    <Group>
+      <Name>spore_breader</Name>
+      <FileName>data/config/taludas/earth/spore_breader/spore_breader.xml</FileName>
+    </Group>
+    <Group>
+      <Name>sustenance_packs</Name>
+      <FileName>data/config/taludas/earth/sustenance_packs/sustenance_packs.xml</FileName>
+    </Group>
+    <Group>
+      <Name>vegetable_farm</Name>
+      <FileName>data/config/taludas/earth/vegetable_farm/vegetable_farm.xml</FileName>
+    </Group>
+
+    <Group>
+      <Name>nutrient_powder_extractor_tundra</Name>
+      <FileName>data/config/taludas/tundra/nutrient_powder_extractor_tundra/nutrient_powder_extractor_tundra.xml</FileName>
+    </Group>
+    <Group>
+      <Name>cybersynth_circuits_factory_tundra</Name>
+      <FileName>data/config/taludas/tundra/cybersynth_circuits_factory_tundra/cybersynth_circuits_factory_tundra.xml</FileName>
+    </Group>
+
+    <Group>
+      <Name>aluminium_mine_moon</Name>
+      <FileName>data/config/taludas/moon/aluminium_mine/aluminium_mine.xml</FileName>
+    </Group>
+    <Group>
+      <Name>multifarm_moon</Name>
+      <FileName>data/config/taludas/moon/multi_farm/multi_farm.xml</FileName>
+    </Group>
+    <Group>
+      <Name>organic_food_moon</Name>
+      <FileName>data/config/taludas/moon/organic_food/organic_food.xml</FileName>
+    </Group>
+    <Group>
+      <Name>luxury_food_moon</Name>
+      <FileName>data/config/taludas/moon/luxury_food/luxury_food.xml</FileName>
+    </Group>
+    <Group>
+      <Name>ice_melter_moon</Name>
+      <FileName>data/config/taludas/moon/ice_melter/ice_melter.xml</FileName>
+    </Group>
+    <Group>
+      <Name>synth_cells_moon</Name>
+      <FileName>data/config/taludas/moon/synth_cells/synth_cells.xml</FileName>
+    </Group>
+
+    <Group>
+      <Name>buildings_mars</Name>
+      <FileName>data/config/taludas/mars/buildings_mars.xml</FileName>
+    </Group>
+
+    <Group>
+      <Name>Neue Zierelemente</Name>
+      <FileName>data/config/annothek/special/zierelemente/zierelemente.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Bushaltestelle</Name>
+      <FileName>data/config/annothek/special/bushaltestelle/bushaltestelle.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Laterne</Name>
+      <FileName>data/config/annothek/special/laterne/laterne.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Werbetafel</Name>
+      <FileName>data/config/annothek/special/werbetafel/werbetafel.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Lift</Name>
+      <FileName>data/config/annothek/special/lift/lift.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Trials</Name>
+      <FileName>data/config/annothek/special/trails/trails.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Mauer 1</Name>
+      <FileName>data/config/annothek/special/mauer_1/mauer_1.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Mauer 2</Name>
+      <FileName>data/config/annothek/special/mauer_2/mauer_2.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Kleines Geschütz</Name>
+      <FileName>data/config/annothek/special/kleines_geschuetz/kleines_geschuetz.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Großes Geschütz</Name>
+      <FileName>data/config/annothek/special/grosses_geschuetz/grosses_geschuetz.xml</FileName>
+    </Group>
+    <Group>
+      <Name>Boden Geschütz</Name>
+      <FileName>data/config/annothek/special/boden_geschuetz/boden_geschuetz.xml</FileName>
+    </Group>
+  </Groups>
+</Group>
