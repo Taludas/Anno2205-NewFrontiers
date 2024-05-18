@@ -1,5 +1,5 @@
 # Anno 2205 New Frontiers
-**Für die deutsche Version des readmes, bitte [hier](readme_german.md) klicken.**
+**Für die deutsche Version des readmes, bitte [hier](https://taludas.github.io/#/de/Anno2205/Anno2205NewFrontiers) klicken.**
 
 ![Anno 2205 New Frontiers Cover](https://github.com/Taludas/Anno-2205-New-Frontiers-Mod/assets/64583643/aa973742-5af0-4828-9df4-bfe5cd46d078)
 
