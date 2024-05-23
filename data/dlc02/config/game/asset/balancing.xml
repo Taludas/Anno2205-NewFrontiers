@@ -968,7 +968,7 @@
                                 <Condition />
                                 <ConditionPlayerCounter>
                                   <PlayerCounter>ObjectBuilt</PlayerCounter>
-                                  <Context>1001237</Context>
+                                  <Context>1001231</Context>
                                   <CounterAmount>1</CounterAmount>
                                   <CounterScope>Global</CounterScope>
                                   <RelativeToQuestStart>0</RelativeToQuestStart>
