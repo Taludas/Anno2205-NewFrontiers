@@ -14484,7 +14484,7 @@
               <Factory>1001166</Factory>
             </Deuterium>
           </UnlockProducts>
-          <SessionShareConstant>3</SessionShareConstant>
+          <SessionShareConstant>0</SessionShareConstant>
           <ScrollTextures>
             <Repair>
               <Texture>data/graphics/effects/event_sessions/repair_arrow.png</Texture>
