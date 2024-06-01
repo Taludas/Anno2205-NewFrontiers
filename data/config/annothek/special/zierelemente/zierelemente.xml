@@ -660,6 +660,18 @@
             <Object>
               <Variations>
                 <Item>
+                  <Filename>data/config/annothek/special/zierelemente/graphics/fence/fence_01.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/config/annothek/special/zierelemente/graphics/fence/fence_corner.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/config/annothek/special/zierelemente/graphics/fence/fence_t.cfg</Filename>
+                </Item>
+                <Item>
+                  <Filename>data/config/annothek/special/zierelemente/graphics/fence/fence_cross.cfg</Filename>
+                </Item>
+                <Item>
                   <Filename>data/graphics/props/multifunction/arctic_fence_03.cfg</Filename>
                 </Item>
                 <Item>
@@ -670,9 +682,6 @@
                 </Item>
                 <Item>
                   <Filename>data/graphics/props/multifunction/arctic_fence_group_02.cfg</Filename>
-                </Item>
-                <Item>
-                  <Filename>data/config/annothek/special/zierelemente/graphics/fence/fence_01.cfg</Filename>
                 </Item>
                 <Item>
                   <Filename>data/graphics/props/multifunction/arctic_flagpole_01.cfg</Filename>
@@ -1319,6 +1328,9 @@
                   <Filename>data/config/annothek/special/zierelemente/graphics/train/train_01.cfg</Filename>
                 </Item>
                 <Item>
+                  <Filename>data/config/annothek/special/zierelemente/graphics/train/train_02.cfg</Filename>
+                </Item>
+                <Item>
                   <Filename>data/graphics/vehicles/arctic/city_vehicle_arctic_01/city_vehicle_arctic_01_v02.cfg</Filename>
                 </Item>
                 <Item>
@@ -1353,9 +1365,6 @@
                 </Item>
                 <Item>
                   <Filename>data/graphics/vehicles/earth/city_vehicle_earth_06/city_vehicle_earth_06.cfg</Filename>
-                </Item>
-                <Item>
-                  <Filename>data/graphics/vehicles/moon/city_special_moon_02/city_special_moon_02.cfg</Filename>
                 </Item>
                 <Item>
                   <Filename>data/graphics/vehicles/moon/city_vehicle_moon_03/city_vehicle_moon_03.cfg</Filename>
