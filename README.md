@@ -698,6 +698,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 8.  ## Overhauled Public Buildings
     - Services are a newly introduced product that can only be produced by Public Buildings. I created them to overhaul and diversify the 2205 Public Building game mechanic.
     - Public buildings now take 4t/min of varying input goods to produce Services. In addition, Urbanisiation is provided passively. This product uses the "regular" 2205 Public Building mechanic.
+    - The Cooporation HQ is now limited to one per sector
       - <details>
         <summary> Expand to find out more about the changed public buildings:</summary>
 
@@ -751,6 +752,8 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
 10. ## Changes to Orbit DLC
    - Changed starting permit count for Orbital Station to 1 workshop, 4 modules and 8 connectors (was 2/8/16) for changes in Techtree and Mars additions.
    - Add Urbanisation to all Astronaut Training Centers
+   - Changed required population of Arctic Astronaut trainings camp for 100% productivity from 500 to 2500
+   - Changed required population of Moon and Tundra Astronaut trainings camp for 100% productivity from 500 to 1000
    - Unlocked a second unused graphic variant for the Radiator module
    - Changed base workshop Expertise production to 20 (was 10)
    - Changed modifiers for additional Expertise gain from modules and input goods for workshops (total increase 900% up to 200 Expertise). Re-weighted the distribution of modifiers from 3,5:1 modules:goods to 2:1 modules:goods.
@@ -843,7 +846,7 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
           |4|***Fishing Quotas*** <br>Fine Food Kitchens use Soy Beans instead of Fish.|***Phytopharmacy*** <br> Biomedical Laboratories use Fruits instead of Synthcells|***Hardware Optimization*** <br> Hardware Fabrication Plants use Fusion Power Cells instead of Superconductors|***Liquid Extraction*** <br> Fusion Preparation Plants use Moon Ice instead of Deuterium|***Cobalt Alloys*** <br> Nano-Cutting Units use Cobalt instead of Rare Earth Elements|
           |4|***Rewards Program*** <br> +15% Workforce increase <br> +5% Goods consumption in Arctic, Tundra and Lunar Regions|***Consumption Damper*** <br> -15% Decrease in Revenue <br> -5% Goods consumption <br> In Arctic, Tundra and Lunar Regions|***Consumer Electronics*** <br> +5% Increase in Revenue <br> -15% Workforce generation <br> In the Temperate Region <br> +25% Productivity in Consumer Electronic Facilities|***Daylight Saving Time*** <br> -25% Energy Maintenance in residences <br> -5% Workforce generation <br> In the Temperate Region|***Austerity Policy*** <br> -10% Goods consumption <br> -10% Workforce generation <br> In the Temperate Region|
           |||||||
-          |5|***Dietary Supplement*** <br> -20% Reduced consumption of food goods in all populations <br> +5% Consumption of Vitamin Drinks and VitaPills|***Robotic Workforce*** <br> Androids in storage provide Workforce <br> -20% Reduced consumption of services in all populations <br> +5% Consumption of Androids and Medibots |***Control System Overclocking*** <br> +25% Increased productivity in all HighTech facilities <br> +50% Energy Maintenance in all HighTech facilities|***Kinetic Micro-Generator*** <br> All residents produce energy <br> -5% Decrease in Revenue|***Orbital Warehouses*** <br> A new, global storage for all construction materials is opened <br> All production facilities can support 1 extra primary module <br> +5 Logistic Maintenance for all production facilities|
+          |5|***Dietary Supplement*** <br> -20% Reduced consumption of food goods in all populations <br> +5% Consumption of Vitamin Drinks and VitaPills|***Robotic Workforce*** <br> Androids in storage provide Workforce <br> -20% Reduced consumption of services in all populations <br> +5% Consumption of Androids and Medibots |***Control System Overclocking*** <br> +25% Increased productivity in all HighTech facilities <br> +50% Energy Maintenance in all HighTech facilities|***Kinetic Micro-Generator*** <br> All residents produce energy <br> -5% Decrease in Revenue|***Orbital Warehouses*** <br> A new, global storage for all construction materials is opened <br> All Astronaut Camps produce extra goods <br> +3 Logistic Maintenance for all production facilities|
         </details>
 
 11. ## Overhauled Sector Traits
