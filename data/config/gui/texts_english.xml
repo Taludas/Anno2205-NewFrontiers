@@ -13,7 +13,7 @@ Taludas:
   <Texts>
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.2</Text>
+      <Text>Anno 2205 New Frontiers v1.0.3</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
@@ -778,7 +778,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>140001985</GUID>
-      <Text>Electronics production is inreased, but all production facilities require more manpower.</Text>
+      <Text>Electronics production is increased, but all production facilities require more manpower.</Text>
     </Text>
 	  <Text>
       <GUID>140001692</GUID>
@@ -794,7 +794,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>140001993</GUID>
-      <Text>Heavy snowfall limits logistics networks, and therfore reduces local production.</Text>
+      <Text>Heavy snowfall limits logistics networks, and therefore reduces local production.</Text>
     </Text>
     <Text>
       <GUID>14002084</GUID>
@@ -1230,7 +1230,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990191</GUID>
-      <Text>Upgrade your Transmission Spaceport in one of your Moon sectors with a Mars Launcher.</Text>
+      <Text>Upgrade your Transmission Spaceport in [CONDITION_OBJECT_SESSION] with a Mars Launcher.</Text>
     </Text>
     <Text>
       <GUID>19990192</GUID>
@@ -2298,7 +2298,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>12013020</GUID>
-      <Text>A new, global storage for all construction materials is opened&lt;br /&gt;All production facilities can support 1 extra primary module&lt;br /&gt;+5 Logistic Maintenance for all production facilities</Text>
+      <Text>-A new, global storage for all construction materials is opened&lt;br /&gt;-All Astronaut Training Centers produce additional goods: With the installation of Orbital warehouses astronauts can create additional equipment and bring it back to Earth.&lt;br /&gt;+3 Logistic Maintenance for all production facilities</Text>
     </Text>
 
     <Text>
@@ -16822,10 +16822,6 @@ Taludas:
     <Text>
       <GUID>102809</GUID>
       <Text>Provides energy to power factories.</Text>
-    </Text>
-    <Text>
-      <GUID>102811</GUID>
-      <Text>Provides energy to power factories by consuming methane ice.</Text>
     </Text>
     <Text>
       <GUID>102812</GUID>
@@ -71486,6 +71482,10 @@ Taludas:
     <Text>
       <GUID>13001035</GUID>
       <Text>Any Solar Flare Counter Measure Quest</Text>
+    </Text>
+    <Text>
+      <GUID>102811</GUID>
+      <Text>Provides energy to power factories by consuming natural gas.</Text>
     </Text>
   </Texts>
 </TextExport>
