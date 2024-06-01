@@ -6703,14 +6703,12 @@
                           <ObjectOrPool>14001650</ObjectOrPool>
                         </Item>
                       </AffectedObjects>
-                      <DescriptionFluff>12013019</DescriptionFluff>
+                      <DescriptionFluff>12013020</DescriptionFluff>
                     </BuildingEffect>
-                    <ModuleLimitUpgrade>
-                      <PrimaryModuleLimitBonus>1</PrimaryModuleLimitBonus>
-                    </ModuleLimitUpgrade>
+                    <ModuleLimitUpgrade />
                     <FactoryUpgrade>
                       <LogisticUsageUpgrade>
-                        <Value>5</Value>
+                        <Value>3</Value>
                       </LogisticUsageUpgrade>
                     </FactoryUpgrade>
                     <CorporationEffect />
