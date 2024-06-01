@@ -2143,6 +2143,16 @@
           <Locked />
           <FeedbackController />
           <Ornament />
+          <Logistic>
+            <SpawnLogistic>BasicNeed1</SpawnLogistic>
+            <LogisticCapacity>
+              <BasicNeed1>
+                <Capacity>1024</Capacity>
+              </BasicNeed1>
+            </LogisticCapacity>
+            <TransporterType>115428</TransporterType>
+            <LogisticType>2001060</LogisticType>
+          </Logistic>
         </Properties>
       </Template>
       <Template>
