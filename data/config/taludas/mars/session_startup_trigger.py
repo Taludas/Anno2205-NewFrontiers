@@ -10,4 +10,5 @@ random_number = random.choice(numbers)
 
 exec("debug.toggleSectorEffect({})".format(random_number))
 
+debug.startSectorEffect(19990374,19990093)
 quests.startQuest(19990383)
