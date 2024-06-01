@@ -13284,6 +13284,1143 @@
                                                 <QuestOptional />
                                             </Values>
                                         </Asset>
+
+                                        <Asset>
+                                            <Template>TemporarySectorEffect</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990307</GUID>
+                                                <Name>Summer Solar Flares Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-08 14:44</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-06-29 15:45</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_solar_flares.png</IconFilename>
+                                              </Standard>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001435]</Text>
+                                                    <Status>Localization</Status>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <SectorEffect>
+                                                <PossibleForRegion>Meta</PossibleForRegion>
+                                                <Weight>0</Weight>
+                                              </SectorEffect>
+                                              <PopulationUpgrade />
+                                              <FactoryUpgrade>
+                                                <OutputProductivityFactor>
+                                                  <Value>30</Value>
+                                                  <Percental>1</Percental>
+                                                </OutputProductivityFactor>
+                                                <OptionalBoost>
+                                                  <OutputFactor>122880</OutputFactor>
+                                                </OptionalBoost>
+                                              </FactoryUpgrade>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <BuildingEffect>
+                                                <AffectedObjects>
+                                                  <Item>
+                                                    <ObjectOrPool>19990368</ObjectOrPool>
+                                                  </Item>
+                                                </AffectedObjects>
+                                                <DescriptionFluff>19990308</DescriptionFluff>
+                                              </BuildingEffect>
+                                              <TemporarySectorEffect>
+                                                <UseTimeOfDay>1</UseTimeOfDay>
+                                                <TimeOfDay>8</TimeOfDay>
+                                                <Vignette>Sector_Effects_Solar</Vignette>
+                                                <MaxVignetteIntensity>0.4</MaxVignetteIntensity>
+                                                <SectorEffectQuests>19990309</SectorEffectQuests>
+                                                <SectorEffectType>SolarFlares</SectorEffectType>
+                                                <SectorEffectDuration>14400000</SectorEffectDuration>
+                                                <SuccessfulFollowupFakeQuests>0</SuccessfulFollowupFakeQuests>
+                                                <SectorEffectCooldown>0</SectorEffectCooldown>
+                                              </TemporarySectorEffect>
+                                              <SectorEffectSound />
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>TemporarySectorEffect</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990370</GUID>
+                                                <Name>Winter Dry Ice Storms Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-08 14:44</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-06-29 15:45</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_concrete.png</IconFilename>
+                                              </Standard>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001435]</Text>
+                                                    <Status>Localization</Status>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <SectorEffect>
+                                                <PossibleForRegion>Moon</PossibleForRegion>
+                                                <Weight>0</Weight>
+                                              </SectorEffect>
+                                              <PopulationUpgrade>
+                                                <ProductInputFactor>
+                                                  <Item>
+                                                    <Good>7000167</Good>
+                                                    <Factor>122880</Factor>
+                                                  </Item>
+                                                </ProductInputFactor>
+                                                <SatisfactionFactor>-20</SatisfactionFactor>
+                                              </PopulationUpgrade>
+                                              <FactoryUpgrade>
+                                                <OutputProductivityFactor>
+                                                  <Value>50</Value>
+                                                  <Percental>1</Percental>
+                                                </OutputProductivityFactor>
+                                                <OptionalBoost>
+                                                  <OutputFactor>204800</OutputFactor>
+                                                </OptionalBoost>
+                                              </FactoryUpgrade>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <BuildingEffect>
+                                                <AffectedObjects>
+                                                  <Item>
+                                                    <ObjectOrPool>19990160</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>19990137</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>14000074</ObjectOrPool>
+                                                  </Item>
+                                                </AffectedObjects>
+                                                <DescriptionFluff>19990371</DescriptionFluff>
+                                              </BuildingEffect>
+                                              <TemporarySectorEffect>
+                                                <UseTimeOfDay>1</UseTimeOfDay>
+                                                <TimeOfDay>19</TimeOfDay>
+                                                <Snow>0.2</Snow>
+                                                <Vignette>Sector_Effects_Cold</Vignette>
+                                                <MaxVignetteIntensity>0.4</MaxVignetteIntensity>
+                                                <SectorEffectQuests>19990372</SectorEffectQuests>
+                                                <SectorEffectType>Smog</SectorEffectType>
+                                                <SectorEffectDuration>14400000</SectorEffectDuration>
+                                                <SuccessfulFollowupFakeQuests>0</SuccessfulFollowupFakeQuests>
+                                                <SectorEffectCooldown>0</SectorEffectCooldown>
+                                              </TemporarySectorEffect>
+                                              <SectorEffectSound />
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>TemporarySectorEffect</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990374</GUID>
+                                                <Name>Spring Dust Storms Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-08 14:44</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-06-29 15:45</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_community_food.png</IconFilename>
+                                              </Standard>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001435]</Text>
+                                                    <Status>Localization</Status>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <SectorEffect>
+                                                <PossibleForRegion>Meta</PossibleForRegion>
+                                                <Weight>0</Weight>
+                                                <IsMilitary>1</IsMilitary>
+                                              </SectorEffect>
+                                              <PopulationUpgrade />
+                                              <FactoryUpgrade>
+                                                <OutputProductivityFactor>
+                                                  <Value>50</Value>
+                                                  <Percental>1</Percental>
+                                                </OutputProductivityFactor>
+                                                <OptionalBoost>
+                                                  <OutputFactor>204800</OutputFactor>
+                                                </OptionalBoost>
+                                              </FactoryUpgrade>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <BuildingEffect>
+                                                <AffectedObjects>
+                                                  <Item>
+                                                    <ObjectOrPool>19990152</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>19990168</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>19990172</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>19990176</ObjectOrPool>
+                                                  </Item>
+                                                </AffectedObjects>
+                                                <DescriptionFluff>19990375</DescriptionFluff>
+                                              </BuildingEffect>
+                                              <MilitarySectorEffect>
+                                                <MilitaryEffectQuests>19990376</MilitaryEffectQuests>
+                                                <MilitaryVignette>Sector_Effects_Smog</MilitaryVignette>
+                                                <MilitaryVignetteIntensity>0.2</MilitaryVignetteIntensity>
+                                                <MilitaryEffectType>SpaceportOccupation</MilitaryEffectType>
+                                                <MilitarySpawningRule />
+                                                <TradeRouteEfficiency>0</TradeRouteEfficiency>
+                                                <MilitaryEffectDuration>3600000</MilitaryEffectDuration>
+                                                <PercentageTradeFeedbackDistributioncenter>100</PercentageTradeFeedbackDistributioncenter>
+                                              </MilitarySectorEffect>
+                                              <SectorEffectSound />
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>TemporarySectorEffect</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990378</GUID>
+                                                <Name>Autumn Vulcanic Activity Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-08 14:44</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-06-29 15:45</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_bio_enhancers.png</IconFilename>
+                                              </Standard>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001435]</Text>
+                                                    <Status>Localization</Status>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <SectorEffect>
+                                                <PossibleForRegion>Meta</PossibleForRegion>
+                                                <Weight>0</Weight>
+                                              </SectorEffect>
+                                              <PopulationUpgrade />
+                                              <FactoryUpgrade>
+                                                <OutputProductivityFactor>
+                                                  <Value>-100</Value>
+                                                  <Percental>1</Percental>
+                                                </OutputProductivityFactor>
+                                                <OptionalBoost>
+                                                  <OutputFactor>-409600</OutputFactor>
+                                                  <InputFactor>-409600</InputFactor>
+                                                </OptionalBoost>
+                                                <InputDemandFactor>
+                                                  <Value>-100</Value>
+                                                  <Percental>1</Percental>
+                                                </InputDemandFactor>
+                                              </FactoryUpgrade>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <BuildingEffect>
+                                                <AffectedObjects>
+                                                  <Item>
+                                                    <ObjectOrPool>19990168</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>19990170</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>19990172</ObjectOrPool>
+                                                  </Item>
+                                                  <Item>
+                                                    <ObjectOrPool>19990152</ObjectOrPool>
+                                                  </Item>
+                                                </AffectedObjects>
+                                                <DescriptionFluff>19990379</DescriptionFluff>
+                                              </BuildingEffect>
+                                              <TemporarySectorEffect>
+                                                <UseTimeOfDay>1</UseTimeOfDay>
+                                                <TimeOfDay>9</TimeOfDay>
+                                                <Vignette>Sector_Effects_Smog</Vignette>
+                                                <MaxVignetteIntensity>0.2</MaxVignetteIntensity>
+                                                <SectorEffectQuests>19990380</SectorEffectQuests>
+                                                <SectorEffectType>ClimateWarfare</SectorEffectType>
+                                                <SectorEffectDuration>7200000</SectorEffectDuration>
+                                                <SuccessfulFollowupFakeQuests>0</SuccessfulFollowupFakeQuests>
+                                                <SectorEffectCooldown>0</SectorEffectCooldown>
+                                              </TemporarySectorEffect>
+                                              <SectorEffectSound />
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>TemporarySectorEffect</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990406</GUID>
+                                                <Name>Polar Night Moon Fake</Name>
+                                                <Creator>mgiller</Creator>
+                                                <CreationTime>2016-04-08 17:27</CreationTime>
+                                                <LastChangeUser>lpieper</LastChangeUser>
+                                                <LastChangeTime>2016-04-28 15:04</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_polar_night.png</IconFilename>
+                                              </Standard>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001434]</Text>
+                                                    <Status>Edit</Status>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <SectorEffect>
+                                                <PossibleForRegion>Meta</PossibleForRegion>
+                                                <Weight>0</Weight>
+                                              </SectorEffect>
+                                              <PopulationUpgrade />
+                                              <FactoryUpgrade />
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>5001008</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <BuildingEffect>
+                                                <DescriptionFluff></DescriptionFluff>
+                                              </BuildingEffect>
+                                              <TemporarySectorEffect>
+                                                <Vignette>Sector_Effects_Polar_Night</Vignette>
+                                                <MaxVignetteIntensity>0.4</MaxVignetteIntensity>
+                                                <UseTimeOfDay>1</UseTimeOfDay>
+                                                <TimeOfDay>23</TimeOfDay>
+                                                <SectorEffectQuests>19990407</SectorEffectQuests>
+                                                <SectorEffectType>Smog</SectorEffectType>
+                                                <SectorEffectDuration>2700000</SectorEffectDuration>
+                                                <SuccessfulFollowupFakeQuests>0</SuccessfulFollowupFakeQuests>
+                                                <SectorEffectCooldown>0</SectorEffectCooldown>
+                                              </TemporarySectorEffect>
+                                              <SectorEffectSound />
+                                            </Values>
+                                        </Asset>
+
+                                        <Asset>
+                                            <Template>QuestPool_ThirdParty</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990309</GUID>
+                                                <Name>CMQ Pool - Summer Solar Flare Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 18:09</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-05-10 13:12</LastChangeTime>
+                                              </Standard>
+                                              <QuestPool>
+                                                <Quests>
+                                                  <Item>
+                                                    <Quest>19990310</Quest>
+                                                  </Item>
+                                                </Quests>
+                                              </QuestPool>
+                                              <Locked />
+                                              <Trigger>
+                                                <TriggerCondition>
+                                                    <Template>ConditionUnlocked</Template>
+                                                    <Values>
+                                                    <Condition />
+                                                    <ConditionUnlocked>
+                                                        <UnlockNeeded>19990093</UnlockNeeded>
+                                                    </ConditionUnlocked>
+                                                    </Values>
+                                                </TriggerCondition>
+                                              </Trigger>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>CounterMeasureQuest</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990310</GUID>
+                                                <Name>CMQ Summer Solar Flare - Quest Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 12:11</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-04-28 14:38</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_solar_flares.png</IconFilename>
+                                              </Standard>
+                                              <Quest>
+                                                <StarterMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </StarterMessage>
+                                                <SuccessMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SuccessMessage>
+                                                <FailureMessage />
+                                                <SelectionReminderMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SelectionReminderMessage>
+                                                <AbortedManuallyMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </AbortedManuallyMessage>
+                                                <OnQuestFailed>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestFailed>
+                                                <OnQuestSucceeded>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestSucceeded>
+                                                <QuestGiver>0</QuestGiver>
+                                                <StoryText></StoryText>
+                                                <WinConditions>
+                                                  <Item>
+                                                    <Trigger>
+                                                      <Template>AutoCreateTrigger</Template>
+                                                      <Values>
+                                                        <Trigger>
+                                                          <TriggerCondition>
+                                                            <Template>ConditionAlwaysFalse</Template>
+                                                            <Values>
+                                                              <Condition>
+                                                                <ShowInQuestTracker>0</ShowInQuestTracker>
+                                                              </Condition>
+                                                              <ConditionAlwaysFalse>
+                                                                <ConditionAlwaysFalseText>14001779</ConditionAlwaysFalseText>
+                                                                <ConditionAlwaysFalseIcon>Flash/PNGs/icons/icon_questfail.png</ConditionAlwaysFalseIcon>
+                                                              </ConditionAlwaysFalse>
+                                                            </Values>
+                                                          </TriggerCondition>
+                                                        </Trigger>
+                                                      </Values>
+                                                    </Trigger>
+                                                  </Item>
+                                                </WinConditions>
+                                                <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+                                                <QuestTrackerSubline></QuestTrackerSubline>
+                                              </Quest>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]</Text>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <Reward />
+                                              <QuestOptional>
+                                                <InvitationMessage>
+                                                  <Subtitle></Subtitle>
+                                                </InvitationMessage>
+                                              </QuestOptional>
+                                              <CounterMeasureQuest>
+                                                <AutoGenerateActiveSessionCondition>0</AutoGenerateActiveSessionCondition>
+                                              </CounterMeasureQuest>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>QuestPool_ThirdParty</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990372</GUID>
+                                                <Name>CMQ Pool - Winter Dry Ice Storms Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 18:09</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-05-10 13:12</LastChangeTime>
+                                              </Standard>
+                                              <QuestPool>
+                                                <Quests>
+                                                  <Item>
+                                                    <Quest>19990373</Quest>
+                                                  </Item>
+                                                </Quests>
+                                              </QuestPool>
+                                              <Locked />
+                                              <Trigger>
+                                                <TriggerCondition>
+                                                    <Template>ConditionUnlocked</Template>
+                                                    <Values>
+                                                    <Condition />
+                                                    <ConditionUnlocked>
+                                                        <UnlockNeeded>19990093</UnlockNeeded>
+                                                    </ConditionUnlocked>
+                                                    </Values>
+                                                </TriggerCondition>
+                                              </Trigger>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>CounterMeasureQuest</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990373</GUID>
+                                                <Name>CMQ Winter Dry Ice Storms - Quest Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 12:11</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-04-28 14:38</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_concrete.png</IconFilename>
+                                              </Standard>
+                                              <Quest>
+                                                <StarterMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </StarterMessage>
+                                                <SuccessMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SuccessMessage>
+                                                <FailureMessage />
+                                                <SelectionReminderMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SelectionReminderMessage>
+                                                <AbortedManuallyMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </AbortedManuallyMessage>
+                                                <OnQuestFailed>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestFailed>
+                                                <OnQuestSucceeded>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestSucceeded>
+                                                <QuestGiver>0</QuestGiver>
+                                                <StoryText></StoryText>
+                                                <WinConditions>
+                                                  <Item>
+                                                    <Trigger>
+                                                      <Template>AutoCreateTrigger</Template>
+                                                      <Values>
+                                                        <Trigger>
+                                                          <TriggerCondition>
+                                                            <Template>ConditionAlwaysFalse</Template>
+                                                            <Values>
+                                                              <Condition>
+                                                                <ShowInQuestTracker>0</ShowInQuestTracker>
+                                                              </Condition>
+                                                              <ConditionAlwaysFalse>
+                                                                <ConditionAlwaysFalseText>14001779</ConditionAlwaysFalseText>
+                                                                <ConditionAlwaysFalseIcon>Flash/PNGs/icons/icon_questfail.png</ConditionAlwaysFalseIcon>
+                                                              </ConditionAlwaysFalse>
+                                                            </Values>
+                                                          </TriggerCondition>
+                                                        </Trigger>
+                                                      </Values>
+                                                    </Trigger>
+                                                  </Item>
+                                                </WinConditions>
+                                                <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+                                                <QuestTrackerSubline></QuestTrackerSubline>
+                                              </Quest>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]</Text>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <Reward />
+                                              <QuestOptional>
+                                                <InvitationMessage>
+                                                  <Subtitle></Subtitle>
+                                                </InvitationMessage>
+                                              </QuestOptional>
+                                              <CounterMeasureQuest>
+                                                <AutoGenerateActiveSessionCondition>0</AutoGenerateActiveSessionCondition>
+                                              </CounterMeasureQuest>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>QuestPool_ThirdParty</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990376</GUID>
+                                                <Name>CMQ Pool - Spring Sand Storm Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 18:09</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-05-10 13:12</LastChangeTime>
+                                              </Standard>
+                                              <QuestPool>
+                                                <Quests>
+                                                  <Item>
+                                                    <Quest>19990377</Quest>
+                                                  </Item>
+                                                </Quests>
+                                              </QuestPool>
+                                              <Locked />
+                                              <Trigger>
+                                                <TriggerCondition>
+                                                    <Template>ConditionUnlocked</Template>
+                                                    <Values>
+                                                    <Condition />
+                                                    <ConditionUnlocked>
+                                                        <UnlockNeeded>19990093</UnlockNeeded>
+                                                    </ConditionUnlocked>
+                                                    </Values>
+                                                </TriggerCondition>
+                                              </Trigger>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>CounterMeasureQuest</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990377</GUID>
+                                                <Name>CMQ Spring Dust Storm - Quest Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 12:11</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-04-28 14:38</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_community_food.png</IconFilename>
+                                              </Standard>
+                                              <Quest>
+                                                <StarterMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </StarterMessage>
+                                                <SuccessMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SuccessMessage>
+                                                <FailureMessage />
+                                                <SelectionReminderMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SelectionReminderMessage>
+                                                <AbortedManuallyMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </AbortedManuallyMessage>
+                                                <OnQuestFailed>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestFailed>
+                                                <OnQuestSucceeded>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestSucceeded>
+                                                <QuestGiver>0</QuestGiver>
+                                                <StoryText></StoryText>
+                                                <WinConditions>
+                                                  <Item>
+                                                    <Trigger>
+                                                      <Template>AutoCreateTrigger</Template>
+                                                      <Values>
+                                                        <Trigger>
+                                                          <TriggerCondition>
+                                                            <Template>ConditionAlwaysFalse</Template>
+                                                            <Values>
+                                                              <Condition>
+                                                                <ShowInQuestTracker>0</ShowInQuestTracker>
+                                                              </Condition>
+                                                              <ConditionAlwaysFalse>
+                                                                <ConditionAlwaysFalseText>14001779</ConditionAlwaysFalseText>
+                                                                <ConditionAlwaysFalseIcon>Flash/PNGs/icons/icon_questfail.png</ConditionAlwaysFalseIcon>
+                                                              </ConditionAlwaysFalse>
+                                                            </Values>
+                                                          </TriggerCondition>
+                                                        </Trigger>
+                                                      </Values>
+                                                    </Trigger>
+                                                  </Item>
+                                                </WinConditions>
+                                                <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+                                                <QuestTrackerSubline></QuestTrackerSubline>
+                                              </Quest>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]</Text>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <Reward />
+                                              <QuestOptional>
+                                                <InvitationMessage>
+                                                  <Subtitle></Subtitle>
+                                                </InvitationMessage>
+                                              </QuestOptional>
+                                              <CounterMeasureQuest>
+                                                <AutoGenerateActiveSessionCondition>0</AutoGenerateActiveSessionCondition>
+                                              </CounterMeasureQuest>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>QuestPool_ThirdParty</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990380</GUID>
+                                                <Name>CMQ Pool - Autumn: Vulcanic Activity Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 18:09</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-05-10 13:12</LastChangeTime>
+                                              </Standard>
+                                              <QuestPool>
+                                                <Quests>
+                                                  <Item>
+                                                    <Quest>19990381</Quest>
+                                                  </Item>
+                                                </Quests>
+                                              </QuestPool>
+                                              <Locked />
+                                              <Trigger>
+                                                <TriggerCondition>
+                                                    <Template>ConditionUnlocked</Template>
+                                                    <Values>
+                                                    <Condition />
+                                                    <ConditionUnlocked>
+                                                        <UnlockNeeded>19990093</UnlockNeeded>
+                                                    </ConditionUnlocked>
+                                                    </Values>
+                                                </TriggerCondition>
+                                              </Trigger>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>CounterMeasureQuest</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990381</GUID>
+                                                <Name>CMQ Autumn: Vulcanic Activity - Quest Fake Mars</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 12:11</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-04-28 14:38</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_bio_enhancers.png</IconFilename>
+                                              </Standard>
+                                              <Quest>
+                                                <StarterMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </StarterMessage>
+                                                <SuccessMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SuccessMessage>
+                                                <FailureMessage />
+                                                <SelectionReminderMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SelectionReminderMessage>
+                                                <AbortedManuallyMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </AbortedManuallyMessage>
+                                                <OnQuestFailed>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestFailed>
+                                                <OnQuestSucceeded>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestSucceeded>
+                                                <QuestGiver>0</QuestGiver>
+                                                <StoryText></StoryText>
+                                                <WinConditions>
+                                                  <Item>
+                                                    <Trigger>
+                                                      <Template>AutoCreateTrigger</Template>
+                                                      <Values>
+                                                        <Trigger>
+                                                          <TriggerCondition>
+                                                            <Template>ConditionAlwaysFalse</Template>
+                                                            <Values>
+                                                              <Condition>
+                                                                <ShowInQuestTracker>0</ShowInQuestTracker>
+                                                              </Condition>
+                                                              <ConditionAlwaysFalse>
+                                                                <ConditionAlwaysFalseText>14001779</ConditionAlwaysFalseText>
+                                                                <ConditionAlwaysFalseIcon>Flash/PNGs/icons/icon_questfail.png</ConditionAlwaysFalseIcon>
+                                                              </ConditionAlwaysFalse>
+                                                            </Values>
+                                                          </TriggerCondition>
+                                                        </Trigger>
+                                                      </Values>
+                                                    </Trigger>
+                                                  </Item>
+                                                </WinConditions>
+                                                <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+                                                <QuestTrackerSubline></QuestTrackerSubline>
+                                              </Quest>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]</Text>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>19990093</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <Reward />
+                                              <QuestOptional>
+                                                <InvitationMessage>
+                                                  <Subtitle></Subtitle>
+                                                </InvitationMessage>
+                                              </QuestOptional>
+                                              <CounterMeasureQuest>
+                                                <AutoGenerateActiveSessionCondition>0</AutoGenerateActiveSessionCondition>
+                                              </CounterMeasureQuest>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>QuestPool_ThirdParty</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990407</GUID>
+                                                <Name>CMQ Pool - Polar Night Quest Fake Moon</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 18:09</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-05-10 13:12</LastChangeTime>
+                                              </Standard>
+                                              <QuestPool>
+                                                <Quests>
+                                                  <Item>
+                                                    <Quest>19990408</Quest>
+                                                  </Item>
+                                                </Quests>
+                                              </QuestPool>
+                                              <Locked />
+                                              <Trigger>
+                                                <TriggerCondition>
+                                                    <Template>ConditionUnlocked</Template>
+                                                    <Values>
+                                                    <Condition />
+                                                    <ConditionUnlocked>
+                                                        <UnlockNeeded>5001008</UnlockNeeded>
+                                                    </ConditionUnlocked>
+                                                    </Values>
+                                                </TriggerCondition>
+                                              </Trigger>
+                                            </Values>
+                                        </Asset>
+                                        <Asset>
+                                            <Template>CounterMeasureQuest</Template>
+                                            <Values>
+                                              <Standard>
+                                                <GUID>19990408</GUID>
+                                                <Name>CMQ Polar Night - Quest Fake Moon</Name>
+                                                <Creator>Taludas</Creator>
+                                                <CreationTime>2016-04-12 12:11</CreationTime>
+                                                <LastChangeUser>Taludas</LastChangeUser>
+                                                <LastChangeTime>2016-04-28 14:38</LastChangeTime>
+                                                <IconFilename>Flash/PNGs/icons/icon_polar_night.png</IconFilename>
+                                              </Standard>
+                                              <Quest>
+                                                <StarterMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </StarterMessage>
+                                                <SuccessMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SuccessMessage>
+                                                <FailureMessage />
+                                                <SelectionReminderMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </SelectionReminderMessage>
+                                                <AbortedManuallyMessage>
+                                                  <Text></Text>
+                                                  <Subtitle></Subtitle>
+                                                </AbortedManuallyMessage>
+                                                <OnQuestFailed>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestFailed>
+                                                <OnQuestSucceeded>
+                                                  <Template>Actions</Template>
+                                                  <Values>
+                                                    <ActionList />
+                                                  </Values>
+                                                </OnQuestSucceeded>
+                                                <QuestGiver>0</QuestGiver>
+                                                <StoryText></StoryText>
+                                                <WinConditions>
+                                                  <Item>
+                                                    <Trigger>
+                                                      <Template>AutoCreateTrigger</Template>
+                                                      <Values>
+                                                        <Trigger>
+                                                          <TriggerCondition>
+                                                            <Template>ConditionAlwaysFalse</Template>
+                                                            <Values>
+                                                              <Condition>
+                                                                <ShowInQuestTracker>0</ShowInQuestTracker>
+                                                              </Condition>
+                                                              <ConditionAlwaysFalse>
+                                                                <ConditionAlwaysFalseText>14001779</ConditionAlwaysFalseText>
+                                                                <ConditionAlwaysFalseIcon>Flash/PNGs/icons/icon_questfail.png</ConditionAlwaysFalseIcon>
+                                                              </ConditionAlwaysFalse>
+                                                            </Values>
+                                                          </TriggerCondition>
+                                                        </Trigger>
+                                                      </Values>
+                                                    </Trigger>
+                                                  </Item>
+                                                </WinConditions>
+                                                <QuestTrackerVisibility>Never</QuestTrackerVisibility>
+                                                <QuestTrackerSubline></QuestTrackerSubline>
+                                              </Quest>
+                                              <Text>
+                                                <LocaText>
+                                                  <English>
+                                                    <Text>[GUIDNAME 14001248] : [TEMPORARY_SECTOR_EFFECT_SESSION]</Text>
+                                                  </English>
+                                                </LocaText>
+                                                <Localize>0</Localize>
+                                              </Text>
+                                              <PreConditionList>
+                                                <SubConditions>
+                                                  <Item>
+                                                    <SubCondition>
+                                                      <Template>PreConditionList</Template>
+                                                      <Values>
+                                                        <PreConditionList>
+                                                          <Condition>
+                                                            <Template>ConditionUnlocked</Template>
+                                                            <Values>
+                                                              <Condition />
+                                                              <ConditionUnlocked>
+                                                                <UnlockNeeded>5001008</UnlockNeeded>
+                                                              </ConditionUnlocked>
+                                                            </Values>
+                                                          </Condition>
+                                                        </PreConditionList>
+                                                      </Values>
+                                                    </SubCondition>
+                                                  </Item>
+                                                </SubConditions>
+                                              </PreConditionList>
+                                              <Reward />
+                                              <QuestOptional>
+                                                <InvitationMessage>
+                                                  <Subtitle></Subtitle>
+                                                </InvitationMessage>
+                                              </QuestOptional>
+                                              <CounterMeasureQuest>
+                                                <AutoGenerateActiveSessionCondition>0</AutoGenerateActiveSessionCondition>
+                                              </CounterMeasureQuest>
+                                            </Values>
+                                        </Asset>
                                     </Assets>
                                 </Group>
                             </Groups>
