@@ -85,6 +85,7 @@
                       </InactiveCosts>
                     </Maintenance>
                     <Selection>
+                      <GUIType>Production</GUIType>
                       <PortraitProfileAsset>12013287</PortraitProfileAsset>
                     </Selection>
                     <Text>
@@ -99,7 +100,15 @@
                     </Text>
                     <Factory>
                       <Output>
-                        <Item />
+                        <Item>
+                          <Type>AstronautsEarth</Type>
+                          <Amount>103438</Amount>
+                        </Item>
+                        <Item>
+                          <Type>Androids</Type>
+                          <Amount>341336</Amount>
+                          <NeededUnlock>12000349</NeededUnlock>
+                        </Item>
                       </Output>
                       <LogisticUsage>-4096</LogisticUsage>
                     </Factory>
@@ -432,6 +441,7 @@
                       </InactiveCosts>
                     </Maintenance>
                     <Selection>
+                      <GUIType>Production</GUIType>
                       <PortraitProfileAsset>12013288</PortraitProfileAsset>
                     </Selection>
                     <Text>
@@ -446,7 +456,15 @@
                     </Text>
                     <Factory>
                       <Output>
-                        <Item />
+                        <Item>
+                          <Type>AstronautsArctic</Type>
+                          <Amount>103438</Amount>
+                        </Item>
+                        <Item>
+                          <Type>CannedFood</Type>
+                          <Amount>341336</Amount>
+                          <NeededUnlock>12000349</NeededUnlock>
+                        </Item>
                       </Output>
                       <LogisticUsage>-4096</LogisticUsage>
                     </Factory>
@@ -486,7 +504,7 @@
                     <UpgradeList />
                     <Energy>
                       <RadiusUsed>106496</RadiusUsed>
-                      <NeededPopulationForMaxProductivity>500</NeededPopulationForMaxProductivity>
+                      <NeededPopulationForMaxProductivity>2500</NeededPopulationForMaxProductivity>
                     </Energy>
                     <UnlockTreeInfotipVisualization />
                     <InternalStorage>
@@ -596,6 +614,7 @@
                       </InactiveCosts>
                     </Maintenance>
                     <Selection>
+                      <GUIType>Production</GUIType>
                       <PortraitProfileAsset>12013289</PortraitProfileAsset>
                     </Selection>
                     <Text>
@@ -610,7 +629,15 @@
                     </Text>
                     <Factory>
                       <Output>
-                        <Item />
+                        <Item>
+                          <Type>AstronautsMoon</Type>
+                          <Amount>103438</Amount>
+                        </Item>
+                        <Item>
+                          <Type>AntiGravCompensators</Type>
+                          <Amount>341336</Amount>
+                          <NeededUnlock>12000349</NeededUnlock>
+                        </Item>
                       </Output>
                       <LogisticUsage>-4096</LogisticUsage>
                     </Factory>
@@ -650,7 +677,7 @@
                     <UpgradeList />
                     <Energy>
                       <RadiusUsed>106496</RadiusUsed>
-                      <NeededPopulationForMaxProductivity>500</NeededPopulationForMaxProductivity>
+                      <NeededPopulationForMaxProductivity>1000</NeededPopulationForMaxProductivity>
                     </Energy>
                     <UnlockTreeInfotipVisualization />
                     <InternalStorage>
@@ -758,6 +785,7 @@
                       </InactiveCosts>
                     </Maintenance>
                     <Selection>
+                      <GUIType>Production</GUIType>
                       <PortraitProfileAsset>12013288</PortraitProfileAsset>
                     </Selection>
                     <Text>
@@ -772,7 +800,15 @@
                     </Text>
                     <Factory>
                       <Output>
-                        <Item />
+                        <Item>
+                          <Type>AstronautsArctic</Type>
+                          <Amount>103438</Amount>
+                        </Item>
+                        <Item>
+                          <Type>VRGenerators</Type>
+                          <Amount>341336</Amount>
+                          <NeededUnlock>12000349</NeededUnlock>
+                        </Item>
                       </Output>
                       <LogisticUsage>-4096</LogisticUsage>
                     </Factory>
@@ -812,7 +848,7 @@
                     <UpgradeList />
                     <Energy>
                       <RadiusUsed>106496</RadiusUsed>
-                      <NeededPopulationForMaxProductivity>500</NeededPopulationForMaxProductivity>
+                      <NeededPopulationForMaxProductivity>1000</NeededPopulationForMaxProductivity>
                     </Energy>
                     <UnlockTreeInfotipVisualization />
                     <InternalStorage>
