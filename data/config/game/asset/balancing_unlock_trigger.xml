@@ -2123,12 +2123,63 @@
                     <Values>
                       <Condition>
                         <ShowInQuestTracker>1</ShowInQuestTracker>
+                        <SubconditionCompletionOrder>Parallel</SubconditionCompletionOrder>
                       </Condition>
                       <ConditionAlwaysTrue>
                         <ConditionAlwaysTrueText>19990255</ConditionAlwaysTrueText>
                       </ConditionAlwaysTrue>
                     </Values>
                   </TriggerCondition>
+                  <SubTriggers>
+                    <Item>
+                      <SubTrigger>
+                        <Template>ConditionUnlocked</Template>
+                        <Values>
+                          <Condition />
+                          <ConditionUnlocked>
+                            <UnlockNeeded>12000406</UnlockNeeded>
+                          </ConditionUnlocked>
+                        </Values>
+                      </SubTrigger>
+                    </Item>
+                    <Item>
+                      <SubTrigger>
+                        <Template>ConditionPlayerCounter</Template>
+                        <Values>
+                          <Condition />
+                          <ConditionPlayerCounter>
+                            <PlayerCounter>PopulationByLevel</PlayerCounter>
+                            <Context>2001016</Context>
+                            <CounterAmount>3000</CounterAmount>
+                            <CounterScope>Global</CounterScope>
+                            <RelativeToQuestStart>0</RelativeToQuestStart>
+                          </ConditionPlayerCounter>
+                        </Values>
+                      </SubTrigger>
+                    </Item>
+                    <Item>
+                      <SubTrigger>
+                        <Template>AutoCreateTrigger</Template>
+                        <Values>
+                          <Trigger>
+                            <TriggerCondition>
+                              <Template>ConditionPlayerCounter</Template>
+                              <Values>
+                                <Condition />
+                                <ConditionPlayerCounter>
+                                  <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                  <Context>19990081</Context>
+                                  <CounterAmount>2500</CounterAmount>
+                                  <CounterScope>Global</CounterScope>
+                                  <RelativeToQuestStart>0</RelativeToQuestStart>
+                                </ConditionPlayerCounter>
+                              </Values>
+                            </TriggerCondition>
+                          </Trigger>
+                        </Values>
+                      </SubTrigger>
+                    </Item>
+                  </SubTriggers>
                   <TriggerActions>
                     <Item>
                       <TriggerAction>
@@ -2146,74 +2197,6 @@
                       </TriggerAction>
                     </Item>
                   </TriggerActions>
-                  <SubTriggers>
-                    <Item>
-                      <SubTrigger>
-                        <Template>AutoCreateTrigger</Template>
-                        <Values>
-                          <Trigger>
-                            <TriggerCondition>
-                              <Template>ConditionUnlocked</Template>
-                              <Values>
-                                <Condition>
-                                  <SubconditionCompletionOrder>Parallel</SubconditionCompletionOrder>
-                                </Condition>
-                                <ConditionUnlocked>
-                                  <UnlockNeeded>12000406</UnlockNeeded>
-                                </ConditionUnlocked>
-                              </Values>
-                            </TriggerCondition>
-                            <SubTriggers>
-                              <Item>
-                                <SubTrigger>
-                                  <Template>AutoCreateTrigger</Template>
-                                  <Values>
-                                    <Trigger>
-                                      <TriggerCondition>
-                                        <Template>ConditionPlayerCounter</Template>
-                                        <Values>
-                                          <Condition />
-                                          <ConditionPlayerCounter>
-                                            <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                            <Context>2001016</Context>
-                                            <Amount>3000</Amount>
-                                            <CounterScope>Global</CounterScope>
-                                            <RelativeToQuestStart>0</RelativeToQuestStart>
-                                          </ConditionPlayerCounter>
-                                        </Values>
-                                      </TriggerCondition>
-                                    </Trigger>
-                                  </Values>
-                                </SubTrigger>
-                              </Item>
-                              <Item>
-                                <SubTrigger>
-                                  <Template>AutoCreateTrigger</Template>
-                                  <Values>
-                                    <Trigger>
-                                      <TriggerCondition>
-                                        <Template>ConditionPlayerCounter</Template>
-                                        <Values>
-                                          <Condition />
-                                          <ConditionPlayerCounter>
-                                            <PlayerCounter>PopulationByLevel</PlayerCounter>
-                                            <Context>19990081</Context>
-                                            <Amount>2500</Amount>
-                                            <CounterScope>Global</CounterScope>
-                                            <RelativeToQuestStart>0</RelativeToQuestStart>
-                                          </ConditionPlayerCounter>
-                                        </Values>
-                                      </TriggerCondition>
-                                    </Trigger>
-                                  </Values>
-                                </SubTrigger>
-                              </Item>
-                            </SubTriggers>
-                          </Trigger>
-                        </Values>
-                      </SubTrigger>
-                    </Item>
-                  </SubTriggers>
                   <AutoRegisterTrigger>1</AutoRegisterTrigger>
                   <AutoSelfUnlock>1</AutoSelfUnlock>
                 </Trigger>
@@ -2696,6 +2679,182 @@
                             <Text>19990289</Text>
                           </ActionNotification>
                         </Values>
+                      </TriggerAction>
+                    </Item>
+                  </TriggerActions>
+                  <AutoRegisterTrigger>1</AutoRegisterTrigger>
+                  <AutoSelfUnlock>1</AutoSelfUnlock>
+                </Trigger>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Trigger</Template>
+              <Values>
+                <Standard>
+                  <GUID>19990417</GUID>
+                  <Name>Trigger Lock HQ Temperate on Session Enter if 1 is already built</Name>
+                  <Creator>Taludas</Creator>
+                  <CreationTime>2016-03-17 15:53</CreationTime>
+                  <LastChangeUser>Taludas</LastChangeUser>
+                  <LastChangeTime>2016-03-18 09:59</LastChangeTime>
+                </Standard>
+                <Trigger>
+                  <TriggerCondition>
+                    <Template>ConditionPlayerCounter</Template>
+                    <Values>
+                      <Condition />
+                      <ConditionPlayerCounter>
+                        <Context>1003252</Context>
+                        <CounterAmount>1</CounterAmount>
+                        <ComparisonOp>AtLeast</ComparisonOp>
+                        <CounterScope>Session</CounterScope>
+                        <RelativeToQuestStart>0</RelativeToQuestStart>
+                      </ConditionPlayerCounter>
+                    </Values>
+                  </TriggerCondition>
+                  <TriggerActions>
+                    <Item>
+                      <TriggerAction>
+                        <Template>ActionLockAsset</Template>
+                        <Values>
+                          <Action />
+                          <ActionLockAsset>
+                            <LockAssets>
+                              <Item>
+                                <Asset>1003252</Asset>
+                              </Item>
+                            </LockAssets>
+                          </ActionLockAsset>
+                        </Values>
+                      </TriggerAction>
+                    </Item>
+                    <Item>
+                      <TriggerAction>
+                        <Template>ActionUnlockAsset</Template>
+                        <Values>
+                          <Action />
+                          <ActionUnlockAsset>
+                            <UnhideAssets>
+                              <Item>
+                                <Asset>1003252</Asset>
+                              </Item>
+                            </UnhideAssets>
+                          </ActionUnlockAsset>
+                        </Values>
+                      </TriggerAction>
+                    </Item>
+                    <Item>
+                      <TriggerAction>
+                          <Template>ActionRegisterTrigger</Template>
+                          <Values>
+                              <Action />
+                              <ActionRegisterTrigger>
+                                  <TriggerAsset>19990418</TriggerAsset>
+                              </ActionRegisterTrigger>
+                          </Values>
+                      </TriggerAction>
+                    </Item>
+                  </TriggerActions>
+                  <AutoRegisterTrigger>1</AutoRegisterTrigger>
+                  <AutoSelfUnlock>1</AutoSelfUnlock>
+                </Trigger>
+              </Values>
+            </Asset>
+            <Asset>
+              <Template>Trigger</Template>
+              <Values>
+                <Standard>
+                  <GUID>19990418</GUID>
+                  <Name>Trigger Unlock HQ Temperate on Session Enter if 0 and pop higher </Name>
+                  <Creator>Taludas</Creator>
+                  <CreationTime>2016-03-17 15:53</CreationTime>
+                  <LastChangeUser>Taludas</LastChangeUser>
+                  <LastChangeTime>2016-03-18 09:59</LastChangeTime>
+                </Standard>
+                <Trigger>
+                  <TriggerCondition>
+                    <Template>ConditionAlwaysTrue</Template>
+                    <Values>
+                      <Condition>
+                        <Condition>
+                          <SubConditionCompletionOrder>Parallel</SubConditionCompletionOrder>
+                        </Condition>
+                      </Condition>
+                      <ConditionAlwaysTrue />
+                    </Values>
+                  </TriggerCondition>
+                  <SubTriggers>
+                    <Item>
+                      <SubTrigger>
+                        <Template>AutoCreateTrigger</Template>
+                        <Values>
+                          <Trigger>
+                            <TriggerCondition>
+                              <Template>ConditionPlayerCounter</Template>
+                              <Values>
+                                <Condition />
+                                <ConditionPlayerCounter>
+                                  <Context>1003252</Context>
+                                  <ComparisonOp>AtMost</ComparisonOp>
+                                  <CounterAmount>0</CounterAmount>
+                                  <CounterScope>Session</CounterScope>
+                                  <RelativeToQuestStart>0</RelativeToQuestStart>
+                                </ConditionPlayerCounter>
+                              </Values>
+                            </TriggerCondition>
+                          </Trigger>
+                        </Values>
+                      </SubTrigger>
+                    </Item>
+                    <Item>
+                      <SubTrigger>
+                        <Template>AutoCreateTrigger</Template>
+                        <Values>
+                          <Trigger>
+                            <TriggerCondition>
+                              <Template>ConditionPlayerCounter</Template>
+                              <Values>
+                                <Condition />
+                                <ConditionPlayerCounter>
+                                  <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                  <Context>2001011</Context>
+                                  <CounterAmount>150000</CounterAmount>
+                                  <ComparisonOp>AtLeast</ComparisonOp>
+                                  <CounterScope>Global</CounterScope>
+                                  <RelativeToQuestStart>0</RelativeToQuestStart>
+                                </ConditionPlayerCounter>
+                              </Values>
+                            </TriggerCondition>
+                          </Trigger>
+                        </Values>
+                      </SubTrigger>
+                    </Item>
+                  </SubTriggers>
+                  <TriggerActions>
+                    <Item>
+                      <TriggerAction>
+                        <Template>ActionUnlockAsset</Template>
+                        <Values>
+                          <Action />
+                          <ActionUnlockAsset>
+                            <UnlockAssets>
+                              <Item>
+                                <Asset>1003252</Asset>
+                              </Item>
+                            </UnlockAssets>
+                          </ActionUnlockAsset>
+                        </Values>
+                      </TriggerAction>
+                    </Item>
+                    <Item>
+                      <TriggerAction>
+                          <Template>ActionRegisterTrigger</Template>
+                          <Values>
+                              <Action />
+                              <ActionRegisterTrigger>
+                                  <TriggerAsset>19990417</TriggerAsset>
+                              </ActionRegisterTrigger>
+                          </Values>
                       </TriggerAction>
                     </Item>
                   </TriggerActions>
