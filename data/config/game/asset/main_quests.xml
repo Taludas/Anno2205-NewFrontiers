@@ -6470,8 +6470,8 @@
                             </Condition>
                             <ConditionPlayerCounter>
                               <PlayerCounter>PopulationByLevel</PlayerCounter>
-                              <Context>2001011</Context>
-                              <CounterAmount>25000</CounterAmount>
+                              <Context>19990081</Context>
+                              <CounterAmount>2500</CounterAmount>
                               <CounterScope>Global</CounterScope>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
                             </ConditionPlayerCounter>
@@ -6515,11 +6515,12 @@
                               <IsOptional>1</IsOptional>
                             </Condition>
                             <ConditionPlayerCounter>
-                              <PlayerCounter>GoodsInStock</PlayerCounter>
+                              <PlayerCounter>GoodsSupply</PlayerCounter>
                               <Context>2001255</Context>
-                              <CounterAmount>1</CounterAmount>
+                              <ComparisonOp>MoreThan</ComparisonOp>
                               <CounterScope>Global</CounterScope>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
+                              <ConditionPlayerCounterValue>0</ConditionPlayerCounterValue>
                             </ConditionPlayerCounter>
                           </Values>
                         </TriggerCondition>
@@ -6565,6 +6566,30 @@
                               <ConditionTradeRouteTargetSector>5001002</ConditionTradeRouteTargetSector>
                               <ConditionTradeRouteProduct>2001264</ConditionTradeRouteProduct>
                             </ConditionTradeRoute>
+                          </Values>
+                        </TriggerCondition>
+                      </Trigger>
+                    </Values>
+                  </Trigger>
+                </Item>
+                <Item>
+                  <Trigger>
+                    <Template>AutoCreateTrigger</Template>
+                    <Values>
+                      <Trigger>
+                        <TriggerCondition>
+                          <Template>ConditionPlayerCounter</Template>
+                          <Values>
+                            <Condition>
+                              <IsOptional>1</IsOptional>
+                            </Condition>
+                            <ConditionPlayerCounter>
+                              <PlayerCounter>PopulationByLevel</PlayerCounter>
+                              <Context>2001011</Context>
+                              <CounterAmount>25000</CounterAmount>
+                              <CounterScope>Global</CounterScope>
+                              <RelativeToQuestStart>0</RelativeToQuestStart>
+                            </ConditionPlayerCounter>
                           </Values>
                         </TriggerCondition>
                       </Trigger>
@@ -8118,7 +8143,7 @@
                               <PlayerCounter>GoodsDelta</PlayerCounter>
                               <Context>12000094</Context>
                               <ComparisonOp>MoreThan</ComparisonOp>
-                              <CounterAmount>100</CounterAmount>
+                              <CounterAmount>60</CounterAmount>
                               <CounterScope>Session</CounterScope>
                               <CounterScopeContext>19990095</CounterScopeContext>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
@@ -8145,6 +8170,8 @@
                               <PlayerCounter>StreetConnection</PlayerCounter>
                               <Context>19990138</Context>
                               <CounterAmount>1</CounterAmount>
+                              <CounterScope>Session</CounterScope>
+                              <CounterScopeContext>19990095</CounterScopeContext>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
                             </ConditionPlayerCounter>
                           </Values>
@@ -8167,6 +8194,8 @@
                             <ConditionPlayerCounter>
                               <Context>19990351</Context>
                               <CounterAmount>10</CounterAmount>
+                              <CounterScope>Session</CounterScope>
+                              <CounterScopeContext>19990095</CounterScopeContext>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
                             </ConditionPlayerCounter>
                           </Values>
@@ -8189,6 +8218,8 @@
                             <ConditionPlayerCounter>
                               <Context>19990352</Context>
                               <CounterAmount>10</CounterAmount>
+                              <CounterScope>Session</CounterScope>
+                              <CounterScopeContext>19990095</CounterScopeContext>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
                             </ConditionPlayerCounter>
                           </Values>
@@ -8211,6 +8242,8 @@
                             <ConditionPlayerCounter>
                               <Context>19990147</Context>
                               <CounterAmount>1</CounterAmount>
+                              <CounterScope>Session</CounterScope>
+                              <CounterScopeContext>19990095</CounterScopeContext>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
                             </ConditionPlayerCounter>
                           </Values>
@@ -8232,7 +8265,9 @@
                             </Condition>
                             <ConditionPlayerCounter>
                               <Context>19990145</Context>
-                              <CounterAmount>5</CounterAmount>
+                              <CounterAmount>1</CounterAmount>
+                              <CounterScope>Session</CounterScope>
+                              <CounterScopeContext>19990095</CounterScopeContext>
                               <RelativeToQuestStart>0</RelativeToQuestStart>
                             </ConditionPlayerCounter>
                           </Values>
