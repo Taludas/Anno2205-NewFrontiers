@@ -2447,7 +2447,7 @@
                                                     <IconFilename>Flash/PNGs/icons/icon_methan_clathrate.png</IconFilename>
                                                 </Standard>
                                                 <Building>
-                                                    <BuildingDescriptionText>7001902</BuildingDescriptionText>
+                                                    <BuildingDescriptionText>103475</BuildingDescriptionText>
                                                     <BuildingCategoryName>121143</BuildingCategoryName>
                                                     <NeedsShield>1</NeedsShield>
                                                     <ReferenceUnlockAsset>19990300</ReferenceUnlockAsset>
@@ -4147,7 +4147,7 @@
                                                     <IconFilename>Flash/PNGs/icons/icon_ceramics.png</IconFilename>
                                                 </Standard>
                                                 <Building>
-                                                    <BuildingDescriptionText>103489</BuildingDescriptionText>
+                                                    <BuildingDescriptionText>103460</BuildingDescriptionText>
                                                     <BuildingCategoryName>121144</BuildingCategoryName>
                                                     <NeedsShield>1</NeedsShield>
                                                     <ReferenceUnlockAsset>19990300</ReferenceUnlockAsset>
@@ -4474,7 +4474,7 @@
                                                     <IconFilename>Flash/PNGs/icons/icon_diamant.png</IconFilename>
                                                 </Standard>
                                                 <Building>
-                                                    <BuildingDescriptionText>103489</BuildingDescriptionText>
+                                                    <BuildingDescriptionText>103461</BuildingDescriptionText>
                                                     <BuildingCategoryName>121144</BuildingCategoryName>
                                                     <NeedsShield>1</NeedsShield>
                                                     <ReferenceUnlockAsset>19990300</ReferenceUnlockAsset>
