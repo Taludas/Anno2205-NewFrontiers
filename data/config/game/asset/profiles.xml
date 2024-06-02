@@ -606,6 +606,10 @@
               <OfferWeight>32768000</OfferWeight>
             </Item>
             <Item>
+              <Product>2001020</Product>
+              <OfferWeight>32768000</OfferWeight>
+            </Item>
+            <Item>
               <Product>2001261</Product>
               <OfferWeight>8192</OfferWeight>
               <RequestWeight>8192</RequestWeight>
@@ -740,7 +744,10 @@
             <Item>
               <Product>2001003</Product>
               <OfferWeight>32768000</OfferWeight>
-              <RequestWeight>32768000</RequestWeight>
+            </Item>
+            <Item>
+              <Product>2001606</Product>
+              <OfferWeight>32768000</OfferWeight>
             </Item>
             <Item>
               <Product>2001051</Product>
