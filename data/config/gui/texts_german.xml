@@ -13269,7 +13269,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>121543</GUID>
-      <Text>Die natürlichen Rohstoffe der Insel werden vom Reaktor umgewandelt. Die Vorkommen sind begrenzt.</Text>
+      <Text>Zum Betrieb der Produktion werden natürliche Rohstoffe der Insel benötigt. Die Vorkommen sind unbegrenzt.</Text>
     </Text>
     <Text>
       <GUID>108880</GUID>
@@ -69524,7 +69524,7 @@ Taludas:
     <!-- Modified Texts -->
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.2</Text>
+      <Text>Anno 2205 New Frontiers v1.0.4</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
@@ -71770,7 +71770,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>12013020</GUID>
-      <Text>Ein neues, globales Lager für alle Baustoffe wurde eröffnet&lt;br /&gt;Alle Produktionsgebäude können +1 Primärmodul unterhalten&lt;br /&gt;+5 Logistikkosten für alle Produktionsgebäude</Text>
+      <Text>Ein neues, globales Lager für alle Baustoffe wurde eröffnet&lt;br /&gt;Alle Astronauten-Ausbildungszentren produzieren zusätzliche Waren, die Ihre Astronauten von der Orbitalstation zurückbringen.&lt;br /&gt;+3 Logistikkosten für alle Produktionsgebäude</Text>
     </Text>
     <Text>
       <GUID>19990170</GUID>
@@ -72410,6 +72410,10 @@ Taludas:
     <Text>
       <GUID>12000014</GUID>
       <Text>Aufbereitungssystem (+8°)</Text>
+    </Text>
+    <Text>
+      <GUID>102811</GUID>
+      <Text>Liefert Energie durch den Verbrauch von Erdgas, um Fabriken zu betreiben.</Text>
     </Text>
   </Texts>
 </TextExport>

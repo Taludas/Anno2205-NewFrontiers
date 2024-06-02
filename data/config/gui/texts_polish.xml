@@ -130,7 +130,7 @@
     </Text>
     <Text>
       <GUID>103250</GUID>
-      <Text>Załaduj na swój pojazd: [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] 
+      <Text>Załaduj na swój pojazd: [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS]
 z portu kosmicznego</Text>
     </Text>
     <Text>
@@ -6995,7 +6995,7 @@ z portu kosmicznego</Text>
     </Text>
     <Text>
       <GUID>120297</GUID>
-      <Text>Sprawdź w menu umieszczonym 
+      <Text>Sprawdź w menu umieszczonym
 w prawym górnym rogu, ilu dodatkowych pracowników potrzebujesz, aby przejść na następny poziom korporacji.</Text>
     </Text>
     <Text>
@@ -7784,8 +7784,8 @@ w prawym górnym rogu, ilu dodatkowych pracowników potrzebujesz, aby przejść 
     </Text>
     <Text>
       <GUID>114612</GUID>
-      <Text>[NOTIFICATION_CHARACTER_NAME] przypomina ci, że 
-w dokach możesz powiększyć 
+      <Text>[NOTIFICATION_CHARACTER_NAME] przypomina ci, że
+w dokach możesz powiększyć
 i rozbudować swoją flotę.</Text>
     </Text>
     <Text>
@@ -57723,7 +57723,7 @@ i rozbudować swoją flotę.</Text>
     </Text>
     <Text>
       <GUID>5100390</GUID>
-      <Text>Te trzy objęte wspólną nazwą kratery powstały w wyniku upadków meteorytów. Bogactwom kryjącym się pod powierzchnią towarzyszą zasoby, które znaleźć można 
+      <Text>Te trzy objęte wspólną nazwą kratery powstały w wyniku upadków meteorytów. Bogactwom kryjącym się pod powierzchnią towarzyszą zasoby, które znaleźć można
 w resztkach spadających gwiazd i które przyciągają tutaj kolonistów.</Text>
     </Text>
     <Text>
@@ -57732,7 +57732,7 @@ w resztkach spadających gwiazd i które przyciągają tutaj kolonistów.</Text>
     </Text>
     <Text>
       <GUID>5100391</GUID>
-      <Text>Mare Relictum to zapierająca dech 
+      <Text>Mare Relictum to zapierająca dech
 w piersiach formacja naturalna, o kształcie niemal idealnego koła z pojedynczą górą wewnątrz. Zewsząd podnoszą się głosy, by za opłatą udostępnić to miejsce dla zwiedzających.</Text>
     </Text>
     <Text>
@@ -62405,7 +62405,7 @@ w piersiach formacja naturalna, o kształcie niemal idealnego koła z pojedyncz�
     </Text>
     <Text>
       <GUID>14001753</GUID>
-      <Text>Jak tylko twoja korporacja będzie gotowa, otrzymasz możliwość wejścia na rynek papierów wartościowych, na którym toczy się zaciekła walka 
+      <Text>Jak tylko twoja korporacja będzie gotowa, otrzymasz możliwość wejścia na rynek papierów wartościowych, na którym toczy się zaciekła walka
 o dominację rynkową i akcje.</Text>
     </Text>
     <Text>
@@ -65582,8 +65582,8 @@ o dominację rynkową i akcje.</Text>
     </Text>
     <Text>
       <GUID>12012980</GUID>
-      <Text>Promień działania tarczy kinetycznej zwiększony o +100%, 
-a koszty paliwowe zredukowane 
+      <Text>Promień działania tarczy kinetycznej zwiększony o +100%,
+a koszty paliwowe zredukowane
 o 2</Text>
     </Text>
     <Text>
@@ -65712,7 +65712,7 @@ o 2</Text>
     </Text>
     <Text>
       <GUID>12013004</GUID>
-      <Text>Salwy rakiet są wystrzeliwane 
+      <Text>Salwy rakiet są wystrzeliwane
 z artylerii satelitarnej</Text>
     </Text>
     <Text>
@@ -65777,7 +65777,7 @@ z artylerii satelitarnej</Text>
     </Text>
     <Text>
       <GUID>12013016</GUID>
-      <Text>Zakres uszkodzeń i odrzucania min falowych jest większy 
+      <Text>Zakres uszkodzeń i odrzucania min falowych jest większy
 o +100%, a koszty paliwowe mniejsze o 1</Text>
     </Text>
     <Text>
@@ -69547,7 +69547,7 @@ o +100%, a koszty paliwowe mniejsze o 1</Text>
 
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.3</Text>
+      <Text>Anno 2205 New Frontiers v1.0.4</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
@@ -71834,7 +71834,6 @@ o +100%, a koszty paliwowe mniejsze o 1</Text>
       <GUID>12013020</GUID>
       <Text>-A new, global storage for all construction materials is opened&lt;br /&gt;-All Astronaut Training Centers produce additional goods: With the installation of Orbital warehouses astronauts can create additional equipment and bring it back to Earth.&lt;br /&gt;+3 Logistic Maintenance for all production facilities</Text>
     </Text>
-
     <Text>
       <GUID>19990170</GUID>
       <Text>Martian Feldspar Quarry</Text>

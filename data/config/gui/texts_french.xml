@@ -69542,7 +69542,7 @@ Certaines personnes sont susceptibles de faire des crises d'épilepsie comportan
     <!-- Taludas' Texts -->
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.3</Text>
+      <Text>Anno 2205 New Frontiers v1.0.4</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
@@ -71830,7 +71830,6 @@ Certaines personnes sont susceptibles de faire des crises d'épilepsie comportan
       <GUID>12013020</GUID>
       <Text>-A new, global storage for all construction materials is opened&lt;br /&gt;-All Astronaut Training Centers produce additional goods: With the installation of Orbital warehouses astronauts can create additional equipment and bring it back to Earth.&lt;br /&gt;+3 Logistic Maintenance for all production facilities</Text>
     </Text>
-
     <Text>
       <GUID>19990170</GUID>
       <Text>Martian Feldspar Quarry</Text>
