@@ -102,7 +102,7 @@
                       <Output>
                         <Item>
                           <Type>AstronautsEarth</Type>
-                          <Amount>103438</Amount>
+                          <Amount>0</Amount>
                         </Item>
                         <Item>
                           <Type>Androids</Type>
@@ -158,6 +158,9 @@
                       <DeliveryReference>
                         <Item>
                           <WorkshopGUID>12000015</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000013</WorkshopGUID>
                         </Item>
                       </DeliveryReference>
                     </InternalStorage>
@@ -458,7 +461,7 @@
                       <Output>
                         <Item>
                           <Type>AstronautsArctic</Type>
-                          <Amount>103438</Amount>
+                          <Amount>0</Amount>
                         </Item>
                         <Item>
                           <Type>CannedFood</Type>
@@ -517,6 +520,15 @@
                         </Item>
                         <Item>
                           <WorkshopGUID>12000017</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000003</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000034</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000035</WorkshopGUID>
                         </Item>
                       </DeliveryReference>
                     </InternalStorage>
@@ -631,10 +643,10 @@
                       <Output>
                         <Item>
                           <Type>AstronautsMoon</Type>
-                          <Amount>103438</Amount>
+                          <Amount>0</Amount>
                         </Item>
                         <Item>
-                          <Type>AntiGravCompensators</Type>
+                          <Type>BioEnhancers</Type>
                           <Amount>341336</Amount>
                           <NeededUnlock>12000349</NeededUnlock>
                         </Item>
@@ -690,6 +702,12 @@
                         </Item>
                         <Item>
                           <WorkshopGUID>12000042</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000014</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000012</WorkshopGUID>
                         </Item>
                       </DeliveryReference>
                     </InternalStorage>
@@ -802,7 +820,7 @@
                       <Output>
                         <Item>
                           <Type>AstronautsArctic</Type>
-                          <Amount>103438</Amount>
+                          <Amount>0</Amount>
                         </Item>
                         <Item>
                           <Type>VRGenerators</Type>
@@ -861,6 +879,15 @@
                         </Item>
                         <Item>
                           <WorkshopGUID>12000017</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000003</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000034</WorkshopGUID>
+                        </Item>
+                        <Item>
+                          <WorkshopGUID>12000035</WorkshopGUID>
                         </Item>
                       </DeliveryReference>
                     </InternalStorage>
@@ -1843,7 +1870,7 @@
               <SectionID>3172</SectionID>
               <Assets>
                 <Asset>
-                  <Template>OrbitModule</Template>
+                  <Template>OrbitLaboratory</Template>
                   <Values>
                     <Standard>
                       <GUID>12000003</GUID>
@@ -1889,9 +1916,7 @@
                       </LocaText>
                       <LineID>16328</LineID>
                     </Text>
-                    <Constructable>
-                      <DestructionCategory>Production</DestructionCategory>
-                    </Constructable>
+                    <Constructable />
                     <SoundEmitter>
                       <AutoPlay>1</AutoPlay>
                       <SoundsToPlay>
@@ -1923,6 +1948,45 @@
                     <OrbitModule>
                       <EmittedHeat>24576</EmittedHeat>
                       <ObjectmenuDescription>12012865</ObjectmenuDescription>
+                      <ObjectmenuDescriptionIcon>12012793</ObjectmenuDescriptionIcon>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>-409600</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                      </HeatEffects>
+                      <ModuleEffectBonus />
                     </OrbitModule>
                     <Blocking />
                     <OrbitBuilding>
@@ -1937,47 +2001,35 @@
                     <Factory>
                       <Input>
                         <Item>
-                          <Type>AntiGravCompensators</Type>
-                          <Amount>68263</Amount>
+                          <Type>AstronautsArctic</Type>
+                          <Amount>8192</Amount>
                         </Item>
                       </Input>
                       <Output>
                         <Item>
                           <Type>Knowledge</Type>
-                          <Amount>40960</Amount>
-                        </Item>
-                      </Output>
-                      <LogisticUsage>-4096</LogisticUsage>
-                    </Factory>
-                    <UpgradeList />
-                    <RandomDummySpawner />
-                    <FactoryOptionalInput />
-                    <Maintenance>
-                      <ActiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>17066</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsEarth</Type>
-                          <Amount>8192</Amount>
-                        </Item>
-                      </ActiveCosts>
-                      <InactiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>8533</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsEarth</Type>
                           <Amount>4096</Amount>
                         </Item>
-                      </InactiveCosts>
-                    </Maintenance>
+                      </Output>
+                    </Factory>
+                    <Infolayer />
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>AntiGravCompensators</Type>
+                          <Amount>68263</Amount>
+                          <OutputModifierFactor>3686400</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013288</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_biotech.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
                   </Values>
                 </Asset>
                 <Asset>
-                  <Template>OrbitModule</Template>
+                  <Template>OrbitLaboratory</Template>
                   <Values>
                     <Standard>
                       <GUID>12000034</GUID>
@@ -2022,9 +2074,7 @@
                       </LocaText>
                       <LineID>16329</LineID>
                     </Text>
-                    <Constructable>
-                      <DestructionCategory>Production</DestructionCategory>
-                    </Constructable>
+                    <Constructable />
                     <SoundEmitter>
                       <AutoPlay>1</AutoPlay>
                       <SoundsToPlay>
@@ -2053,6 +2103,45 @@
                     <OrbitModule>
                       <EmittedHeat>40960</EmittedHeat>
                       <ObjectmenuDescription>12012863</ObjectmenuDescription>
+                      <ObjectmenuDescriptionIcon>12012793</ObjectmenuDescriptionIcon>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>-409600</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                      </HeatEffects>
+                      <ModuleEffectBonus />
                     </OrbitModule>
                     <Blocking />
                     <OrbitBuilding>
@@ -2067,47 +2156,35 @@
                     <Factory>
                       <Input>
                         <Item>
-                          <Type>NaturalSpaceFood</Type>
-                          <Amount>68263</Amount>
+                          <Type>AstronautsArctic</Type>
+                          <Amount>8192</Amount>
                         </Item>
                       </Input>
                       <Output>
                         <Item>
                           <Type>Knowledge</Type>
-                          <Amount>20480</Amount>
-                        </Item>
-                      </Output>
-                      <LogisticUsage>-4096</LogisticUsage>
-                    </Factory>
-                    <UpgradeList />
-                    <RandomDummySpawner />
-                    <FactoryOptionalInput />
-                    <Maintenance>
-                      <ActiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>17066</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsArctic</Type>
-                          <Amount>8192</Amount>
-                        </Item>
-                      </ActiveCosts>
-                      <InactiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>8533</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsArctic</Type>
                           <Amount>4096</Amount>
                         </Item>
-                      </InactiveCosts>
-                    </Maintenance>
+                      </Output>
+                    </Factory>
+                    <Infolayer />
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>NaturalSpaceFood</Type>
+                          <Amount>68263</Amount>
+                          <OutputModifierFactor>1638400</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013288</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_energy.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
                   </Values>
                 </Asset>
                 <Asset>
-                  <Template>OrbitModule</Template>
+                  <Template>OrbitLaboratory</Template>
                   <Values>
                     <Standard>
                       <GUID>12000012</GUID>
@@ -2153,9 +2230,7 @@
                       </LocaText>
                       <LineID>16330</LineID>
                     </Text>
-                    <Constructable>
-                      <DestructionCategory>Production</DestructionCategory>
-                    </Constructable>
+                    <Constructable />
                     <SoundEmitter>
                       <AutoPlay>1</AutoPlay>
                       <SoundsToPlay>
@@ -2184,6 +2259,45 @@
                     <OrbitModule>
                       <EmittedHeat>24576</EmittedHeat>
                       <ObjectmenuDescription>12012866</ObjectmenuDescription>
+                      <ObjectmenuDescriptionIcon>12012793</ObjectmenuDescriptionIcon>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>-409600</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                      </HeatEffects>
+                      <ModuleEffectBonus />
                     </OrbitModule>
                     <Blocking />
                     <OrbitBuilding>
@@ -2198,47 +2312,35 @@
                     <Factory>
                       <Input>
                         <Item>
-                          <Type>SmartDrones</Type>
-                          <Amount>68263</Amount>
+                          <Type>AstronautsMoon</Type>
+                          <Amount>8192</Amount>
                         </Item>
                       </Input>
                       <Output>
                         <Item>
                           <Type>Knowledge</Type>
-                          <Amount>20480</Amount>
-                        </Item>
-                      </Output>
-                      <LogisticUsage>-4096</LogisticUsage>
-                    </Factory>
-                    <UpgradeList />
-                    <RandomDummySpawner />
-                    <FactoryOptionalInput />
-                    <Maintenance>
-                      <ActiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>17066</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsMoon</Type>
-                          <Amount>8192</Amount>
-                        </Item>
-                      </ActiveCosts>
-                      <InactiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>8533</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsMoon</Type>
                           <Amount>4096</Amount>
                         </Item>
-                      </InactiveCosts>
-                    </Maintenance>
+                      </Output>
+                    </Factory>
+                    <Infolayer />
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>SmartDrones</Type>
+                          <Amount>68263</Amount>
+                          <OutputModifierFactor>1638400</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013289</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_heavy.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
                   </Values>
                 </Asset>
                 <Asset>
-                  <Template>OrbitModule</Template>
+                  <Template>OrbitLaboratory</Template>
                   <Values>
                     <Standard>
                       <GUID>12000035</GUID>
@@ -2287,9 +2389,7 @@
                       </LocaText>
                       <LineID>16331</LineID>
                     </Text>
-                    <Constructable>
-                      <DestructionCategory>Production</DestructionCategory>
-                    </Constructable>
+                    <Constructable />
                     <SoundEmitter>
                       <AutoPlay>1</AutoPlay>
                       <SoundsToPlay>
@@ -2321,6 +2421,45 @@
                     <OrbitModule>
                       <EmittedHeat>-81920</EmittedHeat>
                       <ObjectmenuDescription>12012862</ObjectmenuDescription>
+                      <ObjectmenuDescriptionIcon>12012793</ObjectmenuDescriptionIcon>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>-409600</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                      </HeatEffects>
+                      <ModuleEffectBonus />
                     </OrbitModule>
                     <Blocking />
                     <OrbitBuilding>
@@ -2336,47 +2475,35 @@
                     <Factory>
                       <Input>
                         <Item>
-                          <Type>SuperCoolants</Type>
-                          <Amount>68263</Amount>
+                          <Type>AstronautsArctic</Type>
+                          <Amount>8192</Amount>
                         </Item>
                       </Input>
                       <Output>
                         <Item>
                           <Type>Knowledge</Type>
-                          <Amount>20480</Amount>
-                        </Item>
-                      </Output>
-                      <LogisticUsage>-4096</LogisticUsage>
-                    </Factory>
-                    <UpgradeList />
-                    <RandomDummySpawner />
-                    <FactoryOptionalInput />
-                    <Maintenance>
-                      <ActiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>17066</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsArctic</Type>
-                          <Amount>8192</Amount>
-                        </Item>
-                      </ActiveCosts>
-                      <InactiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>8533</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsArctic</Type>
                           <Amount>4096</Amount>
                         </Item>
-                      </InactiveCosts>
-                    </Maintenance>
+                      </Output>
+                    </Factory>
+                    <Infolayer />
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>Supercoolants</Type>
+                          <Amount>68263</Amount>
+                          <OutputModifierFactor>1638400</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013288</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_hightech.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
                   </Values>
                 </Asset>
                 <Asset>
-                  <Template>OrbitModule</Template>
+                  <Template>OrbitLaboratory</Template>
                   <Values>
                     <Standard>
                       <GUID>12000013</GUID>
@@ -2421,9 +2548,7 @@
                       </LocaText>
                       <LineID>16332</LineID>
                     </Text>
-                    <Constructable>
-                      <DestructionCategory>Production</DestructionCategory>
-                    </Constructable>
+                    <Constructable />
                     <SoundEmitter>
                       <AutoPlay>1</AutoPlay>
                       <SoundsToPlay>
@@ -2455,6 +2580,45 @@
                     <OrbitModule>
                       <EmittedHeat>8192</EmittedHeat>
                       <ObjectmenuDescription>12012864</ObjectmenuDescription>
+                      <ObjectmenuDescriptionIcon>12012793</ObjectmenuDescriptionIcon>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>-409600</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                      </HeatEffects>
+                      <ModuleEffectBonus />
                     </OrbitModule>
                     <Blocking />
                     <OrbitBuilding>
@@ -2469,47 +2633,35 @@
                     <Factory>
                       <Input>
                         <Item>
-                          <Type>Biocatalysts</Type>
-                          <Amount>68263</Amount>
+                          <Type>AstronautsEarth</Type>
+                          <Amount>8192</Amount>
                         </Item>
                       </Input>
                       <Output>
                         <Item>
                           <Type>Knowledge</Type>
-                          <Amount>40960</Amount>
-                        </Item>
-                      </Output>
-                      <LogisticUsage>-4096</LogisticUsage>
-                    </Factory>
-                    <UpgradeList />
-                    <RandomDummySpawner />
-                    <FactoryOptionalInput />
-                    <Maintenance>
-                      <ActiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>17066</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsEarth</Type>
-                          <Amount>8192</Amount>
-                        </Item>
-                      </ActiveCosts>
-                      <InactiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>8533</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsEarth</Type>
                           <Amount>4096</Amount>
                         </Item>
-                      </InactiveCosts>
-                    </Maintenance>
+                      </Output>
+                    </Factory>
+                    <Infolayer />
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>Biocatalysts</Type>
+                          <Amount>68263</Amount>
+                          <OutputModifierFactor>3686400</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013287</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_agriculture.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
                   </Values>
                 </Asset>
                 <Asset>
-                  <Template>OrbitModule</Template>
+                  <Template>OrbitLaboratory</Template>
                   <Values>
                     <Standard>
                       <GUID>12000014</GUID>
@@ -2555,9 +2707,7 @@
                       </LocaText>
                       <LineID>16333</LineID>
                     </Text>
-                    <Constructable>
-                      <DestructionCategory>Production</DestructionCategory>
-                    </Constructable>
+                    <Constructable />
                     <SoundEmitter>
                       <AutoPlay>1</AutoPlay>
                       <SoundsToPlay>
@@ -2589,6 +2739,45 @@
                     <OrbitModule>
                       <EmittedHeat>32768</EmittedHeat>
                       <ObjectmenuDescription>12012867</ObjectmenuDescription>
+                      <ObjectmenuDescriptionIcon>12012793</ObjectmenuDescriptionIcon>
+                      <HeatEffects>
+                        <Item>
+                          <MinHeatAmount>-409600000</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>-409600</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>40960</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>81920</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>122880</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>163840</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>204800</MinHeatAmount>
+                          <AssociatedHeatTextAndIcon>12013427</AssociatedHeatTextAndIcon>
+                        </Item>
+                        <Item>
+                          <MinHeatAmount>409600</MinHeatAmount>
+                          <ProductionReductionPercentage>409600</ProductionReductionPercentage>
+                        </Item>
+                      </HeatEffects>
+                      <ModuleEffectBonus />
                     </OrbitModule>
                     <Blocking />
                     <OrbitBuilding>
@@ -2603,43 +2792,31 @@
                     <Factory>
                       <Input>
                         <Item>
-                          <Type>VRGenerators</Type>
-                          <Amount>68263</Amount>
+                          <Type>AstronautsMoon</Type>
+                          <Amount>8192</Amount>
                         </Item>
                       </Input>
                       <Output>
                         <Item>
                           <Type>Knowledge</Type>
-                          <Amount>40960</Amount>
-                        </Item>
-                      </Output>
-                      <LogisticUsage>-4096</LogisticUsage>
-                    </Factory>
-                    <UpgradeList />
-                    <RandomDummySpawner />
-                    <FactoryOptionalInput />
-                    <Maintenance>
-                      <ActiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>17066</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsMoon</Type>
-                          <Amount>8192</Amount>
-                        </Item>
-                      </ActiveCosts>
-                      <InactiveCosts>
-                        <Item>
-                          <Type>Credits</Type>
-                          <Amount>8533</Amount>
-                        </Item>
-                        <Item>
-                          <Type>AstronautsMoon</Type>
                           <Amount>4096</Amount>
                         </Item>
-                      </InactiveCosts>
-                    </Maintenance>
+                      </Output>
+                    </Factory>
+                    <Infolayer />
+                    <FactoryOptionalInputPredefined>
+                      <PredefinedOptionalInput>
+                        <Item>
+                          <Type>VRGenerators</Type>
+                          <Amount>68263</Amount>
+                          <OutputModifierFactor>3686400</OutputModifierFactor>
+                        </Item>
+                      </PredefinedOptionalInput>
+                    </FactoryOptionalInputPredefined>
+                    <OrbitLaboratory>
+                      <AstronautProfileAsset>12013289</AstronautProfileAsset>
+                      <ObjectmenuBackground>data/ui/workshop_images/laboratory_bg_hightech.png</ObjectmenuBackground>
+                    </OrbitLaboratory>
                   </Values>
                 </Asset>
                 <Asset>
