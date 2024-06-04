@@ -2126,11 +2126,13 @@
           <Standard />
           <Text />
           <Blocking />
-          <Building />
+          <Building>
+            <BuildingType>Factory</BuildingType>
+          </Building>
           <Cost />
           <Maintenance />
           <Selection>
-            <GUIType>Minimal</GUIType>
+            <GUIType>DistributionCenter</GUIType>
           </Selection>
           <Object>
             <IgnoreForMinimapGeneration>1</IgnoreForMinimapGeneration>
@@ -2143,6 +2145,8 @@
           <Locked />
           <FeedbackController />
           <Ornament />
+          <Factory />
+          <FactoryOptionalInput />
           <Logistic>
             <SpawnLogistic>BasicNeed1</SpawnLogistic>
             <LogisticCapacity>
@@ -2150,7 +2154,7 @@
                 <Capacity>1024</Capacity>
               </BasicNeed1>
             </LogisticCapacity>
-            <TransporterType>115428</TransporterType>
+            <TransporterType>0</TransporterType>
             <LogisticType>2001060</LogisticType>
           </Logistic>
         </Properties>
