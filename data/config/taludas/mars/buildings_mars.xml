@@ -6749,7 +6749,7 @@
                                                         </Item>
                                                         <Item>
                                                             <Type>Energy</Type>
-                                                            <Amount>3072000</Amount>
+                                                            <Amount>2048000</Amount>
                                                         </Item>
                                                     </Output>
                                                     <BuildingModules>
@@ -10731,7 +10731,7 @@
                                                                               <Values>
                                                                                 <Condition />
                                                                                 <ConditionTimer>
-                                                                                  <TimeLimit>1800000</TimeLimit>
+                                                                                  <TimeLimit>1200000</TimeLimit>
                                                                                 </ConditionTimer>
                                                                               </Values>
                                                                             </TriggerCondition>
@@ -10874,7 +10874,7 @@
                                                                               <Values>
                                                                                 <Condition />
                                                                                 <ConditionTimer>
-                                                                                  <TimeLimit>1800000</TimeLimit>
+                                                                                  <TimeLimit>1200000</TimeLimit>
                                                                                 </ConditionTimer>
                                                                               </Values>
                                                                             </TriggerCondition>
@@ -11017,7 +11017,7 @@
                                                                               <Values>
                                                                                 <Condition />
                                                                                 <ConditionTimer>
-                                                                                  <TimeLimit>1800000</TimeLimit>
+                                                                                  <TimeLimit>1200000</TimeLimit>
                                                                                 </ConditionTimer>
                                                                               </Values>
                                                                             </TriggerCondition>
@@ -11160,7 +11160,7 @@
                                                                               <Values>
                                                                                 <Condition />
                                                                                 <ConditionTimer>
-                                                                                  <TimeLimit>1800000</TimeLimit>
+                                                                                  <TimeLimit>1200000</TimeLimit>
                                                                                 </ConditionTimer>
                                                                               </Values>
                                                                             </TriggerCondition>
@@ -11303,7 +11303,7 @@
                                                                               <Values>
                                                                                 <Condition />
                                                                                 <ConditionTimer>
-                                                                                  <TimeLimit>1800000</TimeLimit>
+                                                                                  <TimeLimit>1200000</TimeLimit>
                                                                                 </ConditionTimer>
                                                                               </Values>
                                                                             </TriggerCondition>
@@ -11446,7 +11446,7 @@
                                                                               <Values>
                                                                                 <Condition />
                                                                                 <ConditionTimer>
-                                                                                  <TimeLimit>1800000</TimeLimit>
+                                                                                  <TimeLimit>1200000</TimeLimit>
                                                                                 </ConditionTimer>
                                                                               </Values>
                                                                             </TriggerCondition>
@@ -13386,21 +13386,21 @@
                                                 <Localize>0</Localize>
                                               </Text>
                                               <SectorEffect>
-                                                <PossibleForRegion>Moon</PossibleForRegion>
+                                                <PossibleForRegion>Meta</PossibleForRegion>
                                                 <Weight>0</Weight>
                                               </SectorEffect>
                                               <PopulationUpgrade>
                                                 <ProductInputFactor>
                                                   <Item>
                                                     <Good>7000167</Good>
-                                                    <Factor>122880</Factor>
+                                                    <Factor>57344</Factor>
                                                   </Item>
                                                 </ProductInputFactor>
-                                                <SatisfactionFactor>-20</SatisfactionFactor>
+                                                <SatisfactionFactor>-10</SatisfactionFactor>
                                               </PopulationUpgrade>
                                               <FactoryUpgrade>
                                                 <OutputProductivityFactor>
-                                                  <Value>50</Value>
+                                                  <Value>23</Value>
                                                   <Percental>1</Percental>
                                                 </OutputProductivityFactor>
                                                 <OptionalBoost>
