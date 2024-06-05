@@ -106,7 +106,7 @@
                         </Item>
                         <Item>
                           <Type>Androids</Type>
-                          <Amount>341336</Amount>
+                          <Amount>682668</Amount>
                           <NeededUnlock>12000349</NeededUnlock>
                         </Item>
                       </Output>
@@ -465,7 +465,7 @@
                         </Item>
                         <Item>
                           <Type>CannedFood</Type>
-                          <Amount>341336</Amount>
+                          <Amount>682668</Amount>
                           <NeededUnlock>12000349</NeededUnlock>
                         </Item>
                       </Output>
@@ -647,7 +647,7 @@
                         </Item>
                         <Item>
                           <Type>BioEnhancers</Type>
-                          <Amount>341336</Amount>
+                          <Amount>682668</Amount>
                           <NeededUnlock>12000349</NeededUnlock>
                         </Item>
                       </Output>
@@ -824,7 +824,7 @@
                         </Item>
                         <Item>
                           <Type>VRGenerators</Type>
-                          <Amount>341336</Amount>
+                          <Amount>682668</Amount>
                           <NeededUnlock>12000349</NeededUnlock>
                         </Item>
                       </Output>
