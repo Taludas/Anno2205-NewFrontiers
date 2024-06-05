@@ -2145,7 +2145,10 @@
           <Locked />
           <FeedbackController />
           <Ornament />
-          <Factory />
+          <Factory>
+            <LogisticUsage>0</LogisticUsage>
+            <NeedsLogistic>0</NeedsLogistic>
+          </Factory>
           <FactoryOptionalInput />
           <Logistic>
             <SpawnLogistic>BasicNeed1</SpawnLogistic>
@@ -2156,6 +2159,7 @@
             </LogisticCapacity>
             <TransporterType>0</TransporterType>
             <LogisticType>2001060</LogisticType>
+
           </Logistic>
         </Properties>
       </Template>
