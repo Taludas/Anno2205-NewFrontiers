@@ -2136,7 +2136,7 @@
                 </Text>
                 <FactoryUpgrade>
                   <Maintenance>
-                    <EnergyPercent>50</EnergyPercent>
+                    <EnergyPercent>15</EnergyPercent>
                   </Maintenance>
                 </FactoryUpgrade>
                 <PopulationUpgrade />
