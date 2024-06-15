@@ -48894,7 +48894,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>1002361</GUID>
-      <Text>Dronenträger</Text>
+      <Text>Drohnenträger</Text>
     </Text>
     <Text>
       <GUID>1002160</GUID>
@@ -69524,11 +69524,11 @@ Taludas:
     <!-- Modified Texts -->
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.6</Text>
+      <Text>Anno 2205 New Frontiers v1.0.7</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
-      <Text>Anno 2205 New Frontiers Mod von Taludas.&lt;br /&gt;&lt;br /&gt;Eine komplette Überarbeitung des Spiels, um die Spieltiefe und das Balancing zu verbessern.&lt;br /&gt; Besucht taludas.github.io/#/de, um mehr über die Mod zu erfahren&lt;br /&gt;&lt;br /&gt;Credits:&lt;br /&gt;- Annothek, Autor der Revolutions Mod v1.8&lt;br /&gt;Mit seiner Erlaubnis verwendet meine Mod seine Ornamente und kleinen öffentlichen Gebäude, sowie einige Ideen der geänderten Sektor-Eigenschaften.</Text>
+      <Text>Anno 2205 New Frontiers Mod von Taludas.&lt;br /&gt;&lt;br /&gt;Eine komplette Überarbeitung des Spiels, um die Spieltiefe und das Balancing zu verbessern.&lt;br /&gt;Besucht taludas.github.io/#/de, um mehr über die Mod zu erfahren&lt;br /&gt;&lt;br /&gt;Credits:&lt;br /&gt;- Annothek, Autor der Revolutions Mod v1.8&lt;br /&gt;Mit seiner Erlaubnis verwendet meine Mod seine Ornamente und kleinen öffentlichen Gebäude, sowie einige Ideen der geänderten Sektor-Eigenschaften.</Text>
     </Text>
 
     <Text>
@@ -69733,7 +69733,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990030</GUID>
-      <Text>Stellt Algen zur Weiterverarbeitung bereit.</Text>
+      <Text>Braucht Algen, um Nährstoff-Pulver zur Weiterverarbeitung herzustellen.</Text>
     </Text>
     <Text>
       <GUID>19990031</GUID>
@@ -70051,11 +70051,11 @@ Taludas:
     </Text>
     <Text>
       <GUID>7000054</GUID>
-      <Text>Smartdronen</Text>
+      <Text>Smartdrohnen</Text>
     </Text>
     <Text>
       <GUID>7001901</GUID>
-      <Text>Braucht Mikrochips und Kobalt, um Smartdronen zu produzieren, die Ihre Angestellten verlangen.</Text>
+      <Text>Braucht Mikrochips und Kobalt, um Smartdrohnen zu produzieren, die Ihre Angestellten verlangen.</Text>
     </Text>
     <Text>
       <GUID>1000190</GUID>
@@ -70072,7 +70072,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>102780</GUID>
-      <Text>Bietet Dienstleistungen für Ihre Mitarbeiter an. Benötigt Smartdronen für den einwandfreien Betrieb.</Text>
+      <Text>Bietet Dienstleistungen für Ihre Mitarbeiter an. Benötigt Smartdrohnen für den einwandfreien Betrieb.</Text>
     </Text>
     <Text>
       <GUID>102781</GUID>
@@ -70088,7 +70088,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>102784</GUID>
-      <Text>Bietet Dienstleistungen für Ihre Mitarbeiter an. Benötigt Smartdronen für den einwandfreien Betrieb.</Text>
+      <Text>Bietet Dienstleistungen für Ihre Mitarbeiter an. Benötigt Smartdrohnen für den einwandfreien Betrieb.</Text>
     </Text>
     <Text>
       <GUID>102785</GUID>
@@ -71362,11 +71362,11 @@ Taludas:
     </Text>
     <Text>
       <GUID>12000208</GUID>
-      <Text>Dronen-Umprogrammierung</Text>
+      <Text>Drohnen-Umprogrammierung</Text>
     </Text>
     <Text>
       <GUID>12012987</GUID>
-      <Text>Dronenstöcke produzieren auch Baubots</Text>
+      <Text>Drohnenstöcke produzieren auch Baubots</Text>
     </Text>
     <Text>
       <GUID>12000210</GUID>
@@ -71598,7 +71598,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990307</GUID>
-      <Text>Marsianischer Sommer: Dünne Atmosphäre</Text>
+      <Text>Mars-Sommer: Dünne Atmosphäre</Text>
     </Text>
     <Text>
       <GUID>19990308</GUID>
@@ -71606,7 +71606,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990310</GUID>
-      <Text>Marsianischer Sommer: Dünne Atmosphäre</Text>
+      <Text>Mars-Sommer: Dünne Atmosphäre</Text>
     </Text>
     <Text>
       <GUID>19990315</GUID>
@@ -71843,7 +71843,7 @@ Taludas:
 
     <Text>
       <GUID>19990370</GUID>
-      <Text>Marsianischer Winter: Trockeneis-Stürme</Text>
+      <Text>Mars-Winter: Trockeneis-Stürme</Text>
     </Text>
     <Text>
       <GUID>19990371</GUID>
@@ -71851,11 +71851,11 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990373</GUID>
-      <Text>Marsianischer Winter: Trockeneis-Stürme</Text>
+      <Text>Mars-Winter: Trockeneis-Stürme</Text>
     </Text>
     <Text>
       <GUID>19990374</GUID>
-      <Text>Marsianischer Frühling: Staubstürme</Text>
+      <Text>Mars-Frühling: Staubstürme</Text>
     </Text>
     <Text>
       <GUID>19990375</GUID>
@@ -71863,11 +71863,11 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990377</GUID>
-      <Text>Marsianischer Frühling: Staubstürme</Text>
+      <Text>Mars-Frühling: Staubstürme</Text>
     </Text>
     <Text>
       <GUID>19990378</GUID>
-      <Text>Marsianischer Herbst: Vulkanaktivität</Text>
+      <Text>Mars-Herbst: Vulkanaktivität</Text>
     </Text>
     <Text>
       <GUID>19990379</GUID>
@@ -71875,7 +71875,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990381</GUID>
-      <Text>Marsianischer Herbst: Vulkanaktivität</Text>
+      <Text>Mars-Herbst: Vulkanaktivität</Text>
     </Text>
     <Text>
       <GUID>19990382</GUID>
@@ -71883,7 +71883,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990383</GUID>
-      <Text>Marsianischer Sommer: Dünne Atmosphäre</Text>
+      <Text>Mars-Sommer: Dünne Atmosphäre</Text>
     </Text>
     <Text>
       <GUID>19990384</GUID>
@@ -71895,7 +71895,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990386</GUID>
-      <Text>Marsianischer Herbst: Vulkanische Aktivität</Text>
+      <Text>Mars-Herbst: Vulkanische Aktivität</Text>
     </Text>
     <Text>
       <GUID>19990387</GUID>
@@ -71903,7 +71903,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990388</GUID>
-      <Text>Marsianischer Winter: Trockeneis-Stürme</Text>
+      <Text>Mars-Winter: Trockeneis-Stürme</Text>
     </Text>
     <Text>
       <GUID>19990389</GUID>
@@ -71911,7 +71911,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990390</GUID>
-      <Text>Marsianischer Frühling: Staubstürme</Text>
+      <Text>Mars-Frühling: Staubstürme</Text>
     </Text>
     <Text>
       <GUID>19990391</GUID>
