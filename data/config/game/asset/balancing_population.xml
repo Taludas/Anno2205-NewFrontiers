@@ -1199,15 +1199,15 @@
                       <PopulationLevelLink>2001009</PopulationLevelLink>
                     </Item>
                     <Item>
-                      <Amount>122</Amount>
-                      <SatisfactionValue>61440</SatisfactionValue>
-                      <Type>2001263</Type>
-                      <PopulationLevelLink>2001009</PopulationLevelLink>
-                    </Item>
-                    <Item>
                       <Amount>80</Amount>
                       <SatisfactionValue>122880</SatisfactionValue>
                       <Type>2001254</Type>
+                      <PopulationLevelLink>2001009</PopulationLevelLink>
+                    </Item>
+                    <Item>
+                      <Amount>122</Amount>
+                      <SatisfactionValue>61440</SatisfactionValue>
+                      <Type>2001263</Type>
                       <PopulationLevelLink>2001009</PopulationLevelLink>
                     </Item>
                     <Item>
