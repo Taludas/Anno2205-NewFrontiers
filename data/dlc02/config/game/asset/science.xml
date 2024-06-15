@@ -6235,6 +6235,15 @@
                         <Item>
                           <ObjectOrPool>7000252</ObjectOrPool>
                         </Item>
+                        <Item>
+                          <ObjectOrPool>19990357</ObjectOrPool>
+                        </Item>
+                        <Item>
+                          <ObjectOrPool>19990355</ObjectOrPool>
+                        </Item>
+                        <Item>
+                          <ObjectOrPool>1000229</ObjectOrPool>
+                        </Item>
                       </AffectedObjects>
                       <DescriptionFluff>12013012</DescriptionFluff>
                     </BuildingEffect>
