@@ -51493,6 +51493,10 @@ Taludas:
       <Text>Seltene Erden</Text>
     </Text>
     <Text>
+      <GUID>2001004</GUID>
+      <Text>Biokost</Text>
+    </Text>
+    <Text>
       <GUID>2001254</GUID>
       <Text>Sushi</Text>
     </Text>
@@ -69524,7 +69528,7 @@ Taludas:
     <!-- Modified Texts -->
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.7</Text>
+      <Text>Anno 2205 New Frontiers v1.0.8</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
@@ -69902,7 +69906,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990072</GUID>
-      <Text>Produkt von Öffentlichen Gebäuden</Text>
+      <Text>Produkt Öffentlicher Gebäude</Text>
     </Text>
     <Text>
       <GUID>19990073</GUID>
