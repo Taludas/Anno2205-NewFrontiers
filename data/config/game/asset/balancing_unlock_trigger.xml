@@ -2133,27 +2133,41 @@
                   <SubTriggers>
                     <Item>
                       <SubTrigger>
-                        <Template>ConditionUnlocked</Template>
+                        <Template>AutoCreateTrigger</Template>
                         <Values>
-                          <Condition />
-                          <ConditionUnlocked>
-                            <UnlockNeeded>12000406</UnlockNeeded>
-                          </ConditionUnlocked>
+                          <Trigger>
+                            <TriggerCondition>
+                              <Template>ConditionUnlocked</Template>
+                              <Values>
+                                <Condition />
+                                <ConditionUnlocked>
+                                  <UnlockNeeded>12000406</UnlockNeeded>
+                                </ConditionUnlocked>
+                              </Values>
+                            </TriggerCondition>
+                          </Trigger>
                         </Values>
                       </SubTrigger>
                     </Item>
                     <Item>
                       <SubTrigger>
-                        <Template>ConditionPlayerCounter</Template>
+                        <Template>AutoCreateTrigger</Template>
                         <Values>
-                          <Condition />
-                          <ConditionPlayerCounter>
-                            <PlayerCounter>PopulationByLevel</PlayerCounter>
-                            <Context>2001016</Context>
-                            <CounterAmount>3000</CounterAmount>
-                            <CounterScope>Global</CounterScope>
-                            <RelativeToQuestStart>0</RelativeToQuestStart>
-                          </ConditionPlayerCounter>
+                          <Trigger>
+                            <TriggerCondition>
+                              <Template>ConditionPlayerCounter</Template>
+                              <Values>
+                                <Condition />
+                                <ConditionPlayerCounter>
+                                  <PlayerCounter>PopulationByLevel</PlayerCounter>
+                                  <Context>2001016</Context>
+                                  <CounterAmount>3000</CounterAmount>
+                                  <CounterScope>Global</CounterScope>
+                                  <RelativeToQuestStart>0</RelativeToQuestStart>
+                                </ConditionPlayerCounter>
+                              </Values>
+                            </TriggerCondition>
+                          </Trigger>
                         </Values>
                       </SubTrigger>
                     </Item>
