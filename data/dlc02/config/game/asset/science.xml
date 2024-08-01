@@ -4475,7 +4475,18 @@
                       <DescriptionFluff>12012977</DescriptionFluff>
                     </BuildingEffect>
                     <ModuleLimitUpgrade />
-                    <FactoryUpgrade />
+                    <FactoryUpgrade>
+                      <Maintenance>
+                        <WorkforcePercent>-10</WorkforcePercent>
+                      </Maintenance>
+                      <OutputProductivityFactor>
+                        <Value>25</Value>
+                        <Percental>1</Percental>
+                      </OutputProductivityFactor>
+                      <OptionalBoost>
+                        <OutputFactor>61440</OutputFactor>
+                      </OptionalBoost>
+                    </FactoryUpgrade>
                     <CorporationEffect />
                     <PopulationUpgrade>
                       <ProductInputFactor>
