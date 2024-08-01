@@ -2923,7 +2923,7 @@
                 </Text>
                 <FactoryUpgrade>
                   <Maintenance>
-                    <WorkforcePercent>50</WorkforcePercent>
+                    <WorkforcePercent>15</WorkforcePercent>
                   </Maintenance>
                 </FactoryUpgrade>
                 <PopulationUpgrade />
