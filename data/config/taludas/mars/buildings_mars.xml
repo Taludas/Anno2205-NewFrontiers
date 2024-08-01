@@ -1253,6 +1253,29 @@
                                                             </ConditionPlayerCounter>
                                                         </Values>
                                                     </TriggerCondition>
+                                                    <SubTriggers>
+                                                        <Item>
+                                                          <SubTrigger>
+                                                            <Template>AutoCreateTrigger</Template>
+                                                            <Values>
+                                                              <Trigger>
+                                                                <TriggerCondition>
+                                                                    <Template>ConditionQuestState</Template>
+                                                                    <Values>
+                                                                      <Condition>
+                                                                        <ShowInQuestTracker>0</ShowInQuestTracker>
+                                                                      </Condition>
+                                                                      <ConditionQuestState>
+                                                                        <ConditionQuestStateStates>Reached</ConditionQuestStateStates>
+                                                                        <ConditionQuestStateQuestGUID>19990183</ConditionQuestStateQuestGUID>
+                                                                      </ConditionQuestState>
+                                                                    </Values>
+                                                                </TriggerCondition>
+                                                              </Trigger>
+                                                            </Values>
+                                                          </SubTrigger>
+                                                        </Item>
+                                                    </SubTriggers>
                                                     <TriggerActions>
                                                         <Item>
                                                             <TriggerAction>
