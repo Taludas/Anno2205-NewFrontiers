@@ -141,6 +141,11 @@ Explore the Red Planet, establish an autonomous AI Mars colony and begin to expl
   |---|---|---|---|---|
   |GUID|19990307|19990378|19990370|19990374|
 
+- Sometimes Drake's invasions bug out after unlocking Mars. Apparently he tries to invade there(?) (which is not possible because there is no sea there obviously to put his ships upon). The quest description doesn't contain the usual sector name, and the quest log shows the requirement to destroy -1/1 ships and no invasion force is in any sector to clear them out. However, sometimes the quest resolves automatically if you enter "the correct" sector (which is not visible/logically deducible). If this happens to you it is best practice to end this invasion quest via the console to prevent possible damage:
+> 1. Select the quest in the outliner (active quest, showing all details).
+> 2. Press Shift+F1 to open the console.
+> 3. Type `quests.reachSelectedQuest()` and press enter.
+> 4. The quest should resolve. Close the console with Shift+F1 again.
 
 # Detailed Changelog from Vanilla
 
