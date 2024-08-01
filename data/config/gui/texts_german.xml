@@ -69528,7 +69528,7 @@ Taludas:
     <!-- Modified Texts -->
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.9</Text>
+      <Text>Anno 2205 New Frontiers v1.0.10</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
@@ -70744,7 +70744,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>19990191</GUID>
-      <Text>Verbessern Sie Ihren Transmissions-Raumhafen in einem der Mondsektoren mit einer Mars-Startrampe.</Text>
+      <Text>Verbessern Sie Ihren Transmissions-Raumhafen in [CONDITION_OBJECT_SESSION] mit einer Mars-Startrampe.</Text>
     </Text>
     <Text>
       <GUID>19990192</GUID>
@@ -71358,7 +71358,7 @@ Taludas:
     </Text>
     <Text>
       <GUID>12012977</GUID>
-      <Text>Ionisierungskammern verbrauchen Hyaluronsäure statt Kobalt</Text>
+      <Text>Ionisierungskammern verbrauchen Hyaluronsäure statt Kobalt&lt;br /&gt;+25% Produktivität&lt;br /&gt;-10% Arbeitskraftbedarf</Text>
     </Text>
     <Text>
       <GUID>12012981</GUID>
@@ -72418,6 +72418,10 @@ Taludas:
     <Text>
       <GUID>102811</GUID>
       <Text>Liefert Energie durch den Verbrauch von Erdgas, um Fabriken zu betreiben.</Text>
+    </Text>
+    <Text>
+      <GUID>14000945</GUID>
+      <Text>Börsensaal</Text>
     </Text>
   </Texts>
 </TextExport>
