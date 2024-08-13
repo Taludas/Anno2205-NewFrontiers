@@ -3747,7 +3747,7 @@
                 <SectorEffect>
                   <IsPermanent>1</IsPermanent>
                   <IsPositiveEffect>1</IsPositiveEffect>
-                  <PossibleForRegion>Earth;Arctic;Tundra</PossibleForRegion>
+                  <PossibleForRegion>Earth;Tundra</PossibleForRegion>
                   <Weight>20</Weight>
                   <SubEffect>140000056</SubEffect>
                 </SectorEffect>
