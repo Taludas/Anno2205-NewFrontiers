@@ -7755,6 +7755,17 @@
                           </Values>
                         </Action>
                       </Item>
+                      <Item>
+                        <Action>
+                          <Template>ActionExecuteScript</Template>
+                          <Values>
+                              <Action />
+                              <ActionExecuteScript>
+                                  <ScriptFileName>data/config/taludas/mars/additional_rockets.py</ScriptFileName>
+                              </ActionExecuteScript>
+                          </Values>
+                        </Action>
+                      </Item>
                     </Actions>
                   </ActionList>
                 </Values>
