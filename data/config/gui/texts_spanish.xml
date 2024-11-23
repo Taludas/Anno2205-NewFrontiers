@@ -69537,309 +69537,307 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
 
     <Text>
       <GUID>117360</GUID>
-      <Text>Anno 2205 New Frontiers v1.0.11</Text>
+      <Text>Anno 2205 New Frontiers v1.0.12</Text>
     </Text>
     <Text>
       <GUID>117640</GUID>
-      <Text>Anno 2205 New Frontiers Mod by Taludas.&lt;br /&gt;&lt;br /&gt;A complete Game Overhaul to enhance game depth and balancing.&lt;br /&gt;&lt;br /&gt;Visit taludas.github.io to learn more about the Mod&lt;br /&gt;&lt;br /&gt;Credits:&lt;br /&gt;- Annothek, author of the Revolutions Mod v1.8&lt;br /&gt;With his permission, this mod uses his Ornaments and Small Public Buildings, as well as some ideas of changed Sector Traits.</Text>
+      <Text>Anno 2205 New Frontiers Mod por Taludas.&lt;br /&gt;&lt;br /&gt;Una revisión completa del juego para mejorar la profundidad y el equilibrio del juego.&lt;br /&gt;&lt;br /&gt;Visite taludas.github.io para obtener más información sobre el Mod&lt;br /&gt;&lt;br /&gt;Créditos:&lt;br /&gt;- Annothek, autor del Revolutions Mod v1.8&lt;br /&gt;Con su permiso, este mod usa sus Ornamentos y Pequeños Edificios Públicos, así como algunas ideas de Rasgos de Sector cambiados.</Text>
     </Text>
-
     <Text>
       <GUID>19990000</GUID>
-      <Text>"Self-warming clothing that protects your employees from freezing temperatures and arctic storms."</Text>
+      <Text>"Ropa autocalentable que protege a sus empleados de las temperaturas bajo cero y las tormentas árticas".</Text>
     </Text>
     <Text>
       <GUID>19990001</GUID>
-      <Text>"The nourishing meal for everyday featuring a fine selection of organically grown crops."</Text>
+      <Text>"La comida nutritiva para todos los días con una excelente selección de cultivos orgánicos".</Text>
     </Text>
     <Text>
       <GUID>19990002</GUID>
-      <Text>"They used to call it Sushi back in the day."</Text>
+      <Text>"Solían llamarlo sushi en el pasado".</Text>
     </Text>
     <Text>
       <GUID>19990003</GUID>
-      <Text>"Liquified astronaut food. Always flows in the direction of the opened mouth, even in a zero-G environment."</Text>
+      <Text>"Comida licuada de astronauta. Siempre fluye en la dirección de la boca abierta, incluso en un entorno de gravedad cero".</Text>
     </Text>
-
     <Text>
       <GUID>19990005</GUID>
-      <Text>Vegetable Farm</Text>
+      <Text>Granja de hortalizas</Text>
     </Text>
     <Text>
       <GUID>19990006</GUID>
-      <Text>Vegetable Greenhouse</Text>
+      <Text>Invernadero de hortalizas</Text>
     </Text>
     <Text>
       <GUID>19990007</GUID>
-      <Text>Health Food Factory</Text>
+      <Text>Fábrica de alimentos saludables</Text>
     </Text>
     <Text>
       <GUID>19990008</GUID>
-      <Text>Rice Cooker</Text>
+      <Text>Olla arrocera</Text>
     </Text>
     <Text>
       <GUID>19990009</GUID>
-      <Text>Fine Food Kitchen</Text>
+      <Text>Cocina de alta cocina</Text>
     </Text>
     <Text>
       <GUID>19990010</GUID>
-      <Text>Sushi Roller</Text>
+      <Text>Rodillo de sushi</Text>
     </Text>
     <Text>
       <GUID>19990011</GUID>
-      <Text>Sustenance Packs Factory</Text>
+      <Text>Fábrica de paquetes de sustento</Text>
     </Text>
     <Text>
       <GUID>19990012</GUID>
-      <Text>Meal Condenser</Text>
+      <Text>Condensador de comida</Text>
     </Text>
     <Text>
       <GUID>19990013</GUID>
-      <Text>Thermal Shells Tailor</Text>
+      <Text>Conchas térmicas Tailor</Text>
     </Text>
     <Text>
       <GUID>19990014</GUID>
-      <Text>Thermal Processing Loom</Text>
+      <Text>Telar de procesamiento térmico</Text>
     </Text>
     <Text>
       <GUID>19990015</GUID>
-      <Text>Nutrient Processing Laboratory</Text>
+      <Text>Laboratorio de Procesamiento de Nutrientes</Text>
     </Text>
     <Text>
       <GUID>19990016</GUID>
-      <Text>Nutrient Grinder</Text>
+      <Text>Molinillo de nutrientes</Text>
     </Text>
     <Text>
       <GUID>19990017</GUID>
-      <Text>Spore Breeder</Text>
+      <Text>Raza de esporas</Text>
     </Text>
     <Text>
       <GUID>19990018</GUID>
-      <Text>Fungi Cultivation Facility</Text>
+      <Text>Instalación de cultivo de hongos</Text>
     </Text>
     <Text>
       <GUID>19990019</GUID>
-      <Text>Hyaluron Concentrator</Text>
+      <Text>Concentrador de hialurón</Text>
     </Text>
     <Text>
       <GUID>19990020</GUID>
-      <Text>Hyaluronic Acid Tank</Text>
+      <Text>Tanque de ácido hialurónico</Text>
     </Text>
     <Text>
       <GUID>19990021</GUID>
-      <Text>Superconductor Fabrication Hall</Text>
+      <Text>Sala de fabricación de superconductores</Text>
     </Text>
     <Text>
       <GUID>19990022</GUID>
-      <Text>Cleanroom Assembly Line</Text>
+      <Text>Línea de montaje de salas limpias</Text>
     </Text>
     <Text>
       <GUID>19990023</GUID>
-      <Text>Neural Interfaces Factory</Text>
+      <Text>Fábrica de interfaces neuronales</Text>
     </Text>
     <Text>
       <GUID>19990024</GUID>
-      <Text>Interface Assembly Line</Text>
+      <Text>Línea de montaje de interfaces</Text>
     </Text>
     <Text>
       <GUID>19990025</GUID>
-      <Text>Cultivates rice paddies to provide rice for consumption by your employees as well as for further processing.</Text>
+      <Text>Cultiva arrozales para proporcionar arroz para el consumo de sus empleados, así como para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990026</GUID>
-      <Text>Uses water to produce vegetables for further processing into more advanced foods.</Text>
+      <Text>Utiliza el agua para producir vegetales para su posterior procesamiento en alimentos más avanzados.</Text>
     </Text>
     <Text>
       <GUID>19990027</GUID>
-      <Text>Uses rice and vegetables to produce organic food demanded by your employees.</Text>
+      <Text>Utiliza arroz y verduras para producir alimentos orgánicos demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>19990028</GUID>
-      <Text>Uses rice and fish to produce fine food demanded by your employees.</Text>
+      <Text>Utiliza el arroz y el pescado para producir alimentos finos demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>19990029</GUID>
-      <Text>Uses organic food and aluminum to produce sustenance packs demanded by your employees.</Text>
+      <Text>Utiliza alimentos orgánicos y aluminio para producir paquetes de sustento demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>19990030</GUID>
-      <Text>Uses algae to produce nutrient powder for further processing.</Text>
+      <Text>Utiliza algas para producir polvo de nutrientes para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990031</GUID>
-      <Text>Uses superconductors and multispec prisms to produce neural interfaces demanded by your employees.</Text>
+      <Text>Utiliza superconductores y prismas multiespecificación para producir interfaces neuronales demandadas por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>19990032</GUID>
-      <Text>Provides spore cultures for further processing.</Text>
+      <Text>Proporciona cultivos de esporas para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990033</GUID>
-      <Text>Uses spore cultures to produce hyaluronic acid for further processing.</Text>
+      <Text>Utiliza cultivos de esporas para producir ácido hialurónico para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990034</GUID>
-      <Text>Uses fusion power cells and flax fibers to produce thermal shells needed by your employees.</Text>
+      <Text>Utiliza celdas de energía de fusión y fibras de lino para producir las cáscaras térmicas que necesitan sus empleados.</Text>
     </Text>
     <Text>
       <GUID>19990035</GUID>
-      <Text>Uses super coolants and nano ceramics to produce superconductors for further processing.</Text>
+      <Text>Utiliza superrefrigerantes y nanocerámicas para producir superconductores para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990036</GUID>
-      <Text>Nutrient Processing Laboratory</Text>
+      <Text>Laboratorio de Procesamiento de Nutrientes</Text>
     </Text>
     <Text>
       <GUID>19990037</GUID>
-      <Text>Nutrient Grinder</Text>
+      <Text>Molinillo de nutrientes</Text>
     </Text>
     <Text>
       <GUID>19990038</GUID>
-      <Text>Uses deep-water corals to produce nutrient powder for further processing.</Text>
+      <Text>Utiliza corales de aguas profundas para producir polvo de nutrientes para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990039</GUID>
-      <Text>Nutrient Processing Laboratory</Text>
+      <Text>Laboratorio de Procesamiento de Nutrientes</Text>
     </Text>
     <Text>
       <GUID>19990040</GUID>
-      <Text>Nutrient Grinder</Text>
+      <Text>Molinillo de nutrientes</Text>
     </Text>
     <Text>
       <GUID>19990041</GUID>
-      <Text>Uses moss to produce nutrient powder for further processing.</Text>
+      <Text>Utiliza musgo para producir polvo de nutrientes para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990042</GUID>
-      <Text>AI Composition Plant</Text>
+      <Text>Planta de composición de IA</Text>
     </Text>
     <Text>
       <GUID>19990043</GUID>
-      <Text>AI Incubator</Text>
+      <Text>Incubadora de IA</Text>
     </Text>
     <Text>
       <GUID>19990044</GUID>
-      <Text>Uses synth cells and nanochips to produce cybersynth circuits for further processing.</Text>
+      <Text>Utiliza células de sintetizador y nanochips para producir circuitos de sintetizador cibernético para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990045</GUID>
-      <Text>Solar Panel Array</Text>
+      <Text>Conjunto de paneles solares</Text>
     </Text>
     <Text>
       <GUID>19990046</GUID>
-      <Text>Solar Panel Array</Text>
+      <Text>Conjunto de paneles solares</Text>
     </Text>
     <Text>
       <GUID>19990047</GUID>
-      <Text>Solar Panel Array</Text>
+      <Text>Conjunto de paneles solares</Text>
     </Text>
     <Text>
       <GUID>19990048</GUID>
-      <Text>Aluminum Mine</Text>
+      <Text>Mina de aluminio</Text>
     </Text>
     <Text>
       <GUID>19990049</GUID>
-      <Text>Spider Cutter</Text>
+      <Text>Cortador de arañas</Text>
     </Text>
     <Text>
       <GUID>19990050</GUID>
-      <Text>Aeroponic Farm: Sunflowers</Text>
+      <Text>Granja Aeropónica: Girasoles</Text>
     </Text>
     <Text>
       <GUID>19990051</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990052</GUID>
-      <Text>Aeroponic Farm: Rice</Text>
+      <Text>Granja Aeropónica: Arroz</Text>
     </Text>
     <Text>
       <GUID>19990053</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990054</GUID>
-      <Text>Aeroponic Farm: Algae</Text>
+      <Text>Granja aeropónica: Algas</Text>
     </Text>
     <Text>
       <GUID>19990055</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990056</GUID>
-      <Text>Aeroponic Farm: Fruit</Text>
+      <Text>Granja Aeropónica: Fruta</Text>
     </Text>
     <Text>
       <GUID>19990057</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990058</GUID>
-      <Text>Aeroponic Farm: Soy Beans</Text>
+      <Text>Granja aeropónica: soja</Text>
     </Text>
     <Text>
       <GUID>19990059</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990060</GUID>
-      <Text>Aeroponic Farm: Wine</Text>
+      <Text>Granja Aeropónica: Vino</Text>
     </Text>
     <Text>
       <GUID>19990061</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990062</GUID>
-      <Text>Aeroponic Farm: Moss</Text>
+      <Text>Granja aeropónica: Musgo</Text>
     </Text>
     <Text>
       <GUID>19990063</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990064</GUID>
-      <Text>Aeroponic Farm: Flax</Text>
+      <Text>Granja aeropónica: Lino</Text>
     </Text>
     <Text>
       <GUID>19990065</GUID>
-      <Text>Aeroponic Greenhouse</Text>
+      <Text>Invernadero aeropónico</Text>
     </Text>
     <Text>
       <GUID>19990066</GUID>
-      <Text>Aeroponic Farms can produce a plethora of different agricultural products from Seeds from all over the world by using water and oxygen to create the needed atmosphere for plants to grow.</Text>
+      <Text>Las granjas aeropónicas pueden producir una gran cantidad de diferentes productos agrícolas a partir de semillas de todo el mundo mediante el uso de agua y oxígeno para crear la atmósfera necesaria para que crezcan las plantas.</Text>
     </Text>
     <Text>
       <GUID>19990067</GUID>
-      <Text>Organic Canteen</Text>
+      <Text>Comedor Ecológico</Text>
     </Text>
     <Text>
       <GUID>19990068</GUID>
-      <Text>Kitchen Hall</Text>
+      <Text>Salón de la cocina</Text>
     </Text>
     <Text>
       <GUID>19990069</GUID>
-      <Text>Lunar Food Design Workshop</Text>
+      <Text>Taller de Diseño de Alimentos Lunares</Text>
     </Text>
     <Text>
       <GUID>19990070</GUID>
-      <Text>Molecular Kitchens</Text>
+      <Text>Cocinas Moleculares</Text>
     </Text>
     <Text>
       <GUID>19990071</GUID>
-      <Text>Uses organic food and wine to produce luxury food demanded by your employees.</Text>
+      <Text>Utiliza alimentos y vinos orgánicos para producir alimentos de lujo demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>19990072</GUID>
-      <Text>Public Building Product</Text>
+      <Text>Producto de Construcción Pública</Text>
     </Text>
     <Text>
       <GUID>19990073</GUID>
-      <Text>"Whether it's an elegant haircut or a dripping water pipe, someone is there to do the work for you!". The Product is produced by Public Buildings.</Text>
+      <Text>"Ya sea un corte de pelo elegante o una pipa de agua que gotea, ¡alguien está ahí para hacer el trabajo por ti!". El Producto es producido por Edificios Públicos.</Text>
     </Text>
     <Text>
       <GUID>19990074</GUID>
-      <Text>Open console</Text>
+      <Text>Abrir consola</Text>
     </Text>
     <Text>
       <GUID>19990075</GUID>
@@ -69859,27 +69857,27 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>19990079</GUID>
-      <Text>No access to urban centers!</Text>
+      <Text>¡No hay acceso a los centros urbanos!</Text>
     </Text>
     <Text>
       <GUID>19990080</GUID>
-      <Text>Provides services to your employees. Requires Microchips to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere microchips para funcionar.</Text>
     </Text>
     <Text>
       <GUID>19990081</GUID>
-      <Text>Geniuses</Text>
+      <Text>Genios</Text>
     </Text>
     <Text>
       <GUID>19990082</GUID>
-      <Text>Geniuses</Text>
+      <Text>Genios</Text>
     </Text>
     <Text>
       <GUID>19990083</GUID>
-      <Text>Arctic Infodrome</Text>
+      <Text>Infódromo del Ártico</Text>
     </Text>
     <Text>
       <GUID>19990092</GUID>
-      <Text>Arctic Community Center</Text>
+      <Text>Centro Comunitario del Ártico</Text>
     </Text>
     <Text>
       <GUID>19990096</GUID>
@@ -69977,70 +69975,69 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
       <GUID>19990123</GUID>
       <Text>[GUIDNAME 109084] [GUIDNAME 102704]</Text>
     </Text>
-
     <Text>
       <GUID>7000053</GUID>
-      <Text>Hyaluronic Acid</Text>
+      <Text>Ácido hialurónico</Text>
     </Text>
     <Text>
       <GUID>7001837</GUID>
-      <Text>"Liquid youth. Tightens the skin and fills in the wrinkles - for a face straight out of a fairytale."</Text>
+      <Text>"Juventud líquida. Tensa la piel y rellena las arrugas, para un rostro sacado de un cuento de hadas".</Text>
     </Text>
     <Text>
       <GUID>2001002</GUID>
-      <Text>Rice</Text>
+      <Text>Arroz</Text>
     </Text>
     <Text>
       <GUID>105831</GUID>
-      <Text>"Basic carbohydrats."</Text>
+      <Text>"Carbohidratos básicos".</Text>
     </Text>
     <Text>
       <GUID>2001252</GUID>
-      <Text>Vegetables</Text>
+      <Text>Verduras</Text>
     </Text>
     <Text>
       <GUID>105880</GUID>
-      <Text>"Guaranteed biodynamically grown crops - I can show you the certificates!"</Text>
+      <Text>"Cultivos biodinámicos garantizados: ¡puedo mostrarles los certificados!"</Text>
     </Text>
     <Text>
       <GUID>2001268</GUID>
-      <Text>Superconductors</Text>
+      <Text>Superconductores</Text>
     </Text>
     <Text>
       <GUID>105882</GUID>
-      <Text>"The electricity keeps flowing round and round."</Text>
+      <Text>"La electricidad sigue fluyendo de un lado a otro".</Text>
     </Text>
     <Text>
       <GUID>2001260</GUID>
-      <Text>Neural Interfaces</Text>
+      <Text>Interfaces neuronales</Text>
     </Text>
     <Text>
       <GUID>105870</GUID>
-      <Text>"Hang on, I need to check my stock prices real quick!"</Text>
+      <Text>"¡Espera, necesito revisar los precios de mis acciones muy rápido!"</Text>
     </Text>
     <Text>
       <GUID>7000166</GUID>
-      <Text>Nutrient Powder</Text>
+      <Text>Nutriente en polvo</Text>
     </Text>
     <Text>
       <GUID>7001842</GUID>
-      <Text>"Concentrated life. One tablespoon can make a child grow into an adult in only a day."</Text>
+      <Text>"Vida concentrada. Una cucharada puede hacer que un niño se convierta en un adulto en solo un día".</Text>
     </Text>
     <Text>
       <GUID>2001251</GUID>
-      <Text>Cybersynth Circuits</Text>
+      <Text>Circuitos Cybersynth</Text>
     </Text>
     <Text>
       <GUID>105841</GUID>
-      <Text>"The racing minds of biocomputing."</Text>
+      <Text>"Las mentes aceleradas de la biocomputación".</Text>
     </Text>
     <Text>
       <GUID>7000167</GUID>
-      <Text>Services</Text>
+      <Text>Servicios</Text>
     </Text>
     <Text>
       <GUID>7001843</GUID>
-      <Text>"Whether it's an elegant haircut or a dripping water pipe, someone is there to do the work for you!"</Text>
+      <Text>"Ya sea un corte de pelo elegante o una pipa de agua que gotea, ¡alguien está ahí para hacer el trabajo por ti!"</Text>
     </Text>
     <Text>
       <GUID>2001261</GUID>
@@ -70048,245 +70045,243 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>105869</GUID>
-      <Text>"Three a day keep the doctor away."</Text>
+      <Text>"Tres al día mantienen alejado al médico".</Text>
     </Text>
     <Text>
       <GUID>2001045</GUID>
-      <Text>Hyaluronic Acid</Text>
+      <Text>Ácido hialurónico</Text>
     </Text>
     <Text>
       <GUID>1000169</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Granja de arroz</Text>
     </Text>
     <Text>
       <GUID>118342</GUID>
-      <Text>Build additional Rice Farms to fully satisfy your employees.</Text>
+      <Text>Construya granjas de arroz adicionales para satisfacer plenamente a sus empleados.</Text>
     </Text>
     <Text>
       <GUID>1000364</GUID>
-      <Text>Rice Field</Text>
+      <Text>Campo de arroz</Text>
     </Text>
     <Text>
       <GUID>7000379</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Granja de arroz</Text>
     </Text>
     <Text>
       <GUID>7000380</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Granja de arroz</Text>
     </Text>
     <Text>
       <GUID>7000433</GUID>
-      <Text>Rice Farm</Text>
+      <Text>Granja de arroz</Text>
     </Text>
     <Text>
       <GUID>14002105</GUID>
-      <Text>Rice Farms employ the natural flooding, but Fruit Plantations suffer from it.</Text>
+      <Text>Las granjas de arroz emplean las inundaciones naturales, pero las plantaciones de frutas las sufren.</Text>
     </Text>
     <Text>
       <GUID>12012971</GUID>
-      <Text>Fine Food Kitchens use Soy Beans instead of Fish</Text>
+      <Text>Las cocinas de comida fina usan frijoles de soya en lugar de pescado</Text>
     </Text>
     <Text>
       <GUID>7001907</GUID>
-      <Text>Uses cybersynth circuits and hyaluronic acid to produce medibots demanded by your employees.</Text>
+      <Text>Utiliza circuitos de sintetizador cibernético y ácido hialurónico para producir medibots demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>7001897</GUID>
-      <Text>Uses nutrient powder and water to provide vitamin drinks needed by your employees.</Text>
+      <Text>Utiliza nutrientes en polvo y agua para proporcionar las bebidas vitamínicas que necesitan sus empleados.</Text>
     </Text>
     <Text>
       <GUID>7001903</GUID>
-      <Text>Uses nutrient powder and bioresin to produce biocatalysts for further processing.</Text>
+      <Text>Utiliza polvo de nutrientes y bioresina para producir biocatalizadores para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>7001906</GUID>
-      <Text>Uses flax fibers and fusion power cells to produce thermal shells demanded by your employees.</Text>
+      <Text>Utiliza fibras de lino y celdas de energía de fusión para producir cáscaras térmicas demandadas por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103485</GUID>
-      <Text>Uses fusion power cells and superconductors to produce anti-g compensators needed by your employees.</Text>
+      <Text>Utiliza celdas de energía de fusión y superconductores para producir compensadores anti-g necesarios para sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103446</GUID>
-      <Text>Uses synthcells and hyaluronic acid to produce rejuvenators demanded by your employees.</Text>
+      <Text>Utiliza células sintéticas y ácido hialurónico para producir los rejuvenecedores demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103470</GUID>
-      <Text>Uses nutrient powder and rare earth elements to produce vitapills needed by your employees.</Text>
+      <Text>Utiliza nutrientes en polvo y elementos de tierras raras para producir las vitaminas que necesitan sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103478</GUID>
-      <Text>Uses titanium and cybersynth circuits to produce bioenhancers needed by your employees.</Text>
+      <Text>Utiliza circuitos de titanio y cybersynth para producir biopotenciadores necesarios para sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103449</GUID>
-      <Text>Uses silicon and bioresin to produce microchips for further processing.</Text>
+      <Text>Utiliza silicio y bioresina para producir microchips para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>103447</GUID>
-      <Text>Uses synthcells and microchips to produce cybersynth circuits for further processing.</Text>
+      <Text>Utiliza células de sintetizador y microchips para producir circuitos de sintetizador cibernético para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>103452</GUID>
-      <Text>Uses biopolymers and cybersynth circuits to produce androids demanded by your employees.</Text>
+      <Text>Utiliza biopolímeros y circuitos de cibersintetizador para producir androides demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103466</GUID>
-      <Text>Uses molybdenum and nano ceramics to produce neuro implants needed by your employees.</Text>
+      <Text>Utiliza molibdeno y nanocerámica para producir los neuroimplantes que necesitan sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103454</GUID>
-      <Text>Uses fruit and nutrient powder to produce vitamin drinks demanded by your employees.</Text>
+      <Text>Utiliza frutas y nutrientes en polvo para producir bebidas vitamínicas demandadas por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103467</GUID>
-      <Text>Uses qubit processors and superconductors to produce quantum computers needed by your employees.</Text>
+      <Text>Utiliza procesadores de qubits y superconductores para producir computadoras cuánticas necesarias para sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103471</GUID>
-      <Text>Uses fish and aluminum to produce sustenance packs needed by your employees.</Text>
+      <Text>Utiliza pescado y aluminio para producir los paquetes de sustento que necesitan sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103443</GUID>
-      <Text>Uses soy beans and water to produce beef for further processing.</Text>
+      <Text>Utiliza soja y agua para producir carne de res para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>103483</GUID>
-      <Text>Uses organic food and aluminum to produce sustenance packs needed by your employees.</Text>
+      <Text>Utiliza alimentos orgánicos y aluminio para producir paquetes de sustento que necesitan sus empleados.</Text>
     </Text>
     <Text>
       <GUID>103481</GUID>
-      <Text>Uses moon ice and oxygen to produce vegetables for further processing.</Text>
+      <Text>Utiliza el hielo lunar y el oxígeno para producir vegetales para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>7000054</GUID>
-      <Text>Smart Drones</Text>
+      <Text>Drones inteligentes</Text>
     </Text>
     <Text>
       <GUID>7001901</GUID>
-      <Text>Uses microchips and cobalt to produce smart drones demanded by your employees.</Text>
+      <Text>Utiliza microchips y cobalto para producir drones inteligentes demandados por sus empleados.</Text>
     </Text>
     <Text>
       <GUID>1000190</GUID>
-      <Text>Aeroponic Farm: Vegetables</Text>
+      <Text>Granja Aeropónica: Hortalizas</Text>
     </Text>
-
     <Text>
       <GUID>117226</GUID>
-      <Text>Provides a large amount of services to your employees. Ideal as a City Centre.</Text>
+      <Text>Proporciona una gran cantidad de servicios a sus empleados. Ideal como centro de la ciudad.</Text>
     </Text>
     <Text>
       <GUID>102779</GUID>
-      <Text>Provides basic services to your employees.</Text>
+      <Text>Proporciona servicios básicos a sus empleados.</Text>
     </Text>
     <Text>
       <GUID>102780</GUID>
-      <Text>Provides services to your employees. Requires Smart Drones to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere drones inteligentes para operar.</Text>
     </Text>
     <Text>
       <GUID>102781</GUID>
-      <Text>Provides services to your employees. Requires Superconductors to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere superconductores para funcionar.</Text>
     </Text>
     <Text>
       <GUID>102782</GUID>
-      <Text>Provides services to your employees. Requires Fusion Power Cells and Androids to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere celdas de energía de fusión y androides para funcionar.</Text>
     </Text>
     <Text>
       <GUID>102783</GUID>
-      <Text>Provides services to your employees. Requires Rejuvenators to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere rejuvenecedores para funcionar.</Text>
     </Text>
     <Text>
       <GUID>102784</GUID>
-      <Text>Provides services to your employees. Requires Smart Drones to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere drones inteligentes para operar.</Text>
     </Text>
     <Text>
       <GUID>102785</GUID>
-      <Text>Provides services to your employees. Requires Construct-o-Bots to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere Construct-o-Bots para funcionar.</Text>
     </Text>
     <Text>
       <GUID>102786</GUID>
-      <Text>Provides services to your employees. Requires Medibots to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere Medibots para funcionar.</Text>
     </Text>
     <Text>
       <GUID>1000246</GUID>
-      <Text>High Security Laboratory</Text>
+      <Text>Laboratorio de alta seguridad</Text>
     </Text>
     <Text>
       <GUID>2001060</GUID>
-      <Text>Urbanisation</Text>
+      <Text>Urbanización</Text>
     </Text>
     <Text>
       <GUID>113514</GUID>
-      <Text>[GUIDNAME 2001060] Access</Text>
+      <Text>[GUIDNAME 2001060] Acceso</Text>
     </Text>
     <Text>
       <GUID>2001069</GUID>
-      <Text>Urbanisation</Text>
+      <Text>Urbanización</Text>
     </Text>
     <Text>
       <GUID>113518</GUID>
-      <Text>[GUIDNAME 2001069] Access</Text>
+      <Text>[GUIDNAME 2001069] Acceso</Text>
     </Text>
     <Text>
       <GUID>2001877</GUID>
-      <Text>Urbanisation</Text>
+      <Text>Urbanización</Text>
     </Text>
     <Text>
       <GUID>113520</GUID>
-      <Text>[GUIDNAME 2001877] Access</Text>
+      <Text>[GUIDNAME 2001877] Acceso</Text>
     </Text>
     <Text>
       <GUID>7000034</GUID>
-      <Text>Urbanisation</Text>
+      <Text>Urbanización</Text>
     </Text>
     <Text>
       <GUID>7000012</GUID>
-      <Text>Tundra Health Center</Text>
+      <Text>Centro de Salud de Tundra</Text>
     </Text>
     <Text>
       <GUID>7000013</GUID>
-      <Text>Tundra Infodrome</Text>
+      <Text>Infodromo de la Tundra</Text>
     </Text>
     <Text>
       <GUID>1000182</GUID>
-      <Text>Community Center</Text>
+      <Text>Centro Comunitario</Text>
     </Text>
     <Text>
       <GUID>1000245</GUID>
-      <Text>Health Center</Text>
+      <Text>Centro de Salud</Text>
     </Text>
-
     <Text>
       <GUID>140001672</GUID>
-      <Text>High Starch Rice Varieties</Text>
+      <Text>Variedades de arroz con alto contenido de almidón</Text>
     </Text>
     <Text>
       <GUID>140001965</GUID>
-      <Text>By converting transporters to gas-powered vehicles, the increased demand means that more of the resource is being produced, but the reduced range means that logistics maintenance has become more demanding.</Text>
+      <Text>Al convertir los transportadores en vehículos a gasolina, el aumento de la demanda significa que se está produciendo más del recurso, pero la reducción de la autonomía significa que el mantenimiento logístico se ha vuelto más exigente.</Text>
     </Text>
     <Text>
       <GUID>140001967</GUID>
-      <Text>Health food production requires less input, but rice farms need more workforce.</Text>
+      <Text>La producción de alimentos saludables requiere menos insumos, pero las granjas de arroz necesitan más mano de obra.</Text>
     </Text>
     <Text>
       <GUID>140001674</GUID>
-      <Text>Wagyu Breeding</Text>
+      <Text>Cría de Wagyu</Text>
     </Text>
     <Text>
       <GUID>140001676</GUID>
-      <Text>Deep Waters</Text>
+      <Text>Aguas profundas</Text>
     </Text>
     <Text>
       <GUID>140001682</GUID>
-      <Text>Specialised Employees</Text>
+      <Text>Empleados especializados</Text>
     </Text>
     <Text>
       <GUID>140001977</GUID>
-      <Text>Biotech facilities production is increased, but all facilities have higher maintenance.</Text>
+      <Text>Se incrementa la producción de instalaciones biotecnológicas, pero todas las instalaciones tienen un mayor mantenimiento.</Text>
     </Text>
     <Text>
       <GUID>140001979</GUID>
-      <Text>Farms provide a higher output in this sector, but because of regulations production in Heavy Industry facilities is impaired.</Text>
+      <Text>Las granjas proporcionan una mayor producción en este sector, pero debido a las regulaciones la producción en las instalaciones de la industria pesada se ve afectada.</Text>
     </Text>
     <Text>
       <GUID>140000064</GUID>
@@ -70294,7 +70289,7 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>140001983</GUID>
-      <Text>Cheap wages reduce the maintenance costs of all factories, but production is reduced in turn.</Text>
+      <Text>Los salarios baratos reducen los costos de mantenimiento de todas las fábricas, pero la producción se reduce a su vez.</Text>
     </Text>
     <Text>
       <GUID>140001690</GUID>
@@ -70302,91 +70297,91 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>140001985</GUID>
-      <Text>Electronics production is increased, but all production facilities require more manpower.</Text>
+      <Text>La producción de productos electrónicos aumenta, pero todas las instalaciones de producción requieren más mano de obra.</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001692</GUID>
-      <Text>Concentrated Gravitational Environment</Text>
+      <Text>Entorno gravitacional concentrado</Text>
     </Text>
     <Text>
       <GUID>140001989</GUID>
-      <Text>Employees need less Services, Urbanisation and Energy, but their productivity suffers from it.</Text>
+      <Text>Los empleados necesitan menos Servicios, Urbanización y Energía, pero su productividad se ve afectada.</Text>
     </Text>
     <Text>
       <GUID>140001991</GUID>
-      <Text>Due to higher ground water levels, Water Pumps have higher yields, but all production facilities require more energy to keep their building's foundation dry.</Text>
+      <Text>Debido a los niveles más altos de agua subterránea, las bombas de agua tienen mayores rendimientos, pero todas las instalaciones de producción requieren más energía para mantener secos los cimientos de su edificio.</Text>
     </Text>
     <Text>
       <GUID>140001993</GUID>
-      <Text>Heavy snowfall limits logistics networks, and therefore reduces local production.</Text>
+      <Text>Las fuertes nevadas limitan las redes logísticas y, por lo tanto, reducen la producción local.</Text>
     </Text>
     <Text>
       <GUID>14002084</GUID>
-      <Text>The Moon Ice used for watering your Aeroponic Farms is high in micro-nutrients, so that their output is increased.</Text>
+      <Text>El hielo lunar utilizado para regar sus granjas aeropónicas tiene un alto contenido de micronutrientes, por lo que su producción aumenta.</Text>
     </Text>
     <Text>
       <GUID>19990128</GUID>
-      <Text>All Aeroponic Farms</Text>
+      <Text>Todas las granjas aeropónicas</Text>
     </Text>
     <Text>
       <GUID>14002068</GUID>
-      <Text>Rich Nutrients</Text>
+      <Text>Ricos en nutrientes</Text>
     </Text>
     <Text>
       <GUID>14002131</GUID>
-      <Text>The melting snow makes roads easier to travel, but Electronic Facilities experience a higher failure rate.</Text>
+      <Text>El derretimiento de la nieve hace que las carreteras sean más fáciles de transitar, pero las instalaciones electrónicas experimentan una mayor tasa de fallas.</Text>
     </Text>
     <Text>
       <GUID>14002069</GUID>
-      <Text>Deuterium Strainers have increased yields, but Fishing Harbors generate less output.</Text>
+      <Text>Los coladores de deuterio tienen mayores rendimientos, pero los puertos pesqueros generan menos producción.</Text>
     </Text>
     <Text>
       <GUID>14002083</GUID>
-      <Text>Pharma Labs benefit from borate-containing minerals in the processed corals, but due to the borate impurities, Molybdenum Mines have reduced output.</Text>
+      <Text>Los laboratorios farmacéuticos se benefician de los minerales que contienen borato en los corales procesados, pero debido a las impurezas de borato, las minas de molibdeno han reducido la producción.</Text>
     </Text>
     <Text>
       <GUID>140001670</GUID>
-      <Text>Gas-powered Transporters</Text>
+      <Text>Transportadores a gas</Text>
     </Text>
     <Text>
       <GUID>14002075</GUID>
-      <Text>Due to the polluted input goods, the vitamin extractors require more water, but the algae farm can achieve a higher yield.</Text>
+      <Text>Debido a los insumos contaminados, los extractores de vitaminas requieren más agua, pero la granja de algas puede lograr un mayor rendimiento.</Text>
     </Text>
     <Text>
       <GUID>14002078</GUID>
-      <Text>Due to the high solar light efficiency, the yield of sunflower farms and solar panels in this sector is increased.</Text>
+      <Text>Debido a la alta eficiencia de la luz solar, se aumenta el rendimiento de las granjas de girasoles y los paneles solares en este sector.</Text>
     </Text>
     <Text>
       <GUID>14002118</GUID>
-      <Text>Public buildings can provide more services, but the output of heavy industry production facilities is legally restricted.</Text>
+      <Text>Los edificios públicos pueden proporcionar más servicios, pero la producción de las instalaciones de producción de la industria pesada está restringida por la ley.</Text>
     </Text>
     <Text>
       <GUID>121547</GUID>
-      <Text>Farms yield higher gains, but energy usage for all electronics facilities increase.</Text>
+      <Text>Las granjas producen mayores ganancias, pero aumenta el uso de energía para todas las instalaciones electrónicas.</Text>
     </Text>
     <Text>
       <GUID>140001969</GUID>
-      <Text>Beef production is increased, but food design requires more energy to cut it down.</Text>
+      <Text>La producción de carne de vacuno aumenta, pero el diseño de los alimentos requiere más energía para reducirla.</Text>
     </Text>
     <Text>
       <GUID>140001969</GUID>
-      <Text>Beef production is increased, but food design requires more energy to cut it down.</Text>
+      <Text>La producción de carne de vacuno aumenta, pero el diseño de los alimentos requiere más energía para reducirla.</Text>
     </Text>
     <Text>
       <GUID>19990124</GUID>
-      <Text>Borate Minerals</Text>
+      <Text>Minerales de borato</Text>
     </Text>
     <Text>
       <GUID>12013019</GUID>
-      <Text>Nano-Cutting Units use Cobalt instead of Rare Earth Elements</Text>
+      <Text>Las unidades de nanocorte utilizan cobalto en lugar de elementos de tierras raras</Text>
     </Text>
     <Text>
       <GUID>12000182</GUID>
-      <Text>Fishing Quotas</Text>
+      <Text>Cuotas de pesca</Text>
     </Text>
     <Text>
       <GUID>12000184</GUID>
-      <Text>Dual Filtration Process</Text>
+      <Text>Proceso de filtración dual</Text>
     </Text>
     <Text>
       <GUID>12000276</GUID>
@@ -70398,11 +70393,11 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000240</GUID>
-      <Text>Aluminum Separation</Text>
+      <Text>Separación de aluminio</Text>
     </Text>
     <Text>
       <GUID>12000238</GUID>
-      <Text>Cobalt Alloys</Text>
+      <Text>Aleaciones de cobalto</Text>
     </Text>
     <Text>
       <GUID>12000348</GUID>
@@ -70414,11 +70409,11 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000228</GUID>
-      <Text>Liquid Extraction</Text>
+      <Text>Extracción de líquidos</Text>
     </Text>
     <Text>
       <GUID>12000226</GUID>
-      <Text>Hydrogen Enrichment</Text>
+      <Text>Enriquecimiento de hidrógeno</Text>
     </Text>
     <Text>
       <GUID>12000330</GUID>
@@ -70430,11 +70425,11 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000216</GUID>
-      <Text>Anti-G Accessory</Text>
+      <Text>Accesorio Anti-G</Text>
     </Text>
     <Text>
       <GUID>12000214</GUID>
-      <Text>Hardware Optimization</Text>
+      <Text>Optimización de hardware</Text>
     </Text>
     <Text>
       <GUID>12000312</GUID>
@@ -70446,31 +70441,28 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000204</GUID>
-      <Text>Spare Parts Doctrine</Text>
+      <Text>Doctrina de las piezas de repuesto</Text>
     </Text>
     <Text>
       <GUID>12000292</GUID>
       <Text>[GUIDNAME 12000204]</Text>
     </Text>
-
     <Text>
       <GUID>2001878</GUID>
-      <Text>Science Cluster Connection</Text>
+      <Text>Conexión con el Clúster de Ciencias</Text>
     </Text>
     <Text>
       <GUID>113521</GUID>
-      <Text>[GUIDNAME 2001878] Strength</Text>
+      <Text>[GUIDNAME 2001878] Fuerza</Text>
     </Text>
-
     <Text>
       <GUID>2001062</GUID>
-      <Text>Maintenance</Text>
+      <Text>Mantenimiento</Text>
     </Text>
     <Text>
       <GUID>19990125</GUID>
-      <Text>AI Maintenance Station</Text>
+      <Text>Estación de mantenimiento de IA</Text>
     </Text>
-
     <Text>
       <GUID>19990093</GUID>
       <Text>Terra Elysium</Text>
@@ -70481,833 +70473,819 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>19990130</GUID>
-      <Text>Mars Track</Text>
+      <Text>Trayectoria de Marte</Text>
     </Text>
     <Text>
       <GUID>19990133</GUID>
-      <Text>Martian Synthetics</Text>
+      <Text>Sintéticos marcianos</Text>
     </Text>
     <Text>
       <GUID>19990134</GUID>
-      <Text>New Moon Buildings</Text>
+      <Text>Edificios de Luna Nueva</Text>
     </Text>
     <Text>
       <GUID>19990135</GUID>
-      <Text>Mars Dwelling</Text>
+      <Text>Morada en Marte</Text>
     </Text>
     <Text>
       <GUID>19990136</GUID>
-      <Text>Martian AI Maintenance Station</Text>
+      <Text>Estación de mantenimiento de IA marciana</Text>
     </Text>
     <Text>
       <GUID>19990137</GUID>
-      <Text>Martian Synthetics</Text>
+      <Text>Sintéticos marcianos</Text>
     </Text>
     <Text>
       <GUID>19990138</GUID>
-      <Text>Research Cluster</Text>
+      <Text>Clúster de investigación</Text>
     </Text>
     <Text>
       <GUID>19990139</GUID>
-      <Text>Agricultural Research Lab</Text>
+      <Text>Laboratorio de Investigación Agropecuaria</Text>
     </Text>
     <Text>
       <GUID>19990140</GUID>
-      <Text>Biotech Research Lab</Text>
+      <Text>Laboratorio de Investigación Biotecnológica</Text>
     </Text>
     <Text>
       <GUID>19990141</GUID>
-      <Text>Electronics Research Lab</Text>
+      <Text>Laboratorio de Investigación Electrónica</Text>
     </Text>
     <Text>
       <GUID>19990142</GUID>
-      <Text>Energy Research Lab</Text>
+      <Text>Laboratorio de Investigación Energética</Text>
     </Text>
     <Text>
       <GUID>19990143</GUID>
-      <Text>Heavy Industry Research Lab</Text>
+      <Text>Laboratorio de Investigación de la Industria Pesada</Text>
     </Text>
     <Text>
       <GUID>19990144</GUID>
-      <Text>Martian Greenhouse</Text>
+      <Text>Invernadero marciano</Text>
     </Text>
     <Text>
       <GUID>19990145</GUID>
-      <Text>Martian Solar Panel</Text>
+      <Text>Panel solar marciano</Text>
     </Text>
     <Text>
       <GUID>19990146</GUID>
-      <Text>Martian Artificial-G Lab</Text>
+      <Text>Laboratorio Marciano de G Artificial</Text>
     </Text>
     <Text>
       <GUID>19990147</GUID>
-      <Text>Martian Stowage Platform</Text>
+      <Text>Plataforma de estiba marciana</Text>
     </Text>
     <Text>
       <GUID>19990148</GUID>
-      <Text>Martian Recycling System</Text>
+      <Text>Sistema de reciclaje marciano</Text>
     </Text>
     <Text>
       <GUID>19990149</GUID>
-      <Text>Martian Radiator</Text>
+      <Text>Radiador marciano</Text>
     </Text>
     <Text>
       <GUID>19990152</GUID>
-      <Text>Martian Wind Park</Text>
+      <Text>Parque Eólico Marciano</Text>
     </Text>
     <Text>
       <GUID>19990153</GUID>
-      <Text>Wind Turbine</Text>
+      <Text>Aerogenerador</Text>
     </Text>
     <Text>
       <GUID>19990159</GUID>
-      <Text>Martian Transportation Centre</Text>
+      <Text>Centro de Transporte Marciano</Text>
     </Text>
     <Text>
       <GUID>19990160</GUID>
-      <Text>Martian Drilling Rig</Text>
+      <Text>Plataforma de perforación marciana</Text>
     </Text>
     <Text>
       <GUID>19990161</GUID>
-      <Text>Martian Drill Tower</Text>
+      <Text>Torre de perforación marciana</Text>
     </Text>
     <Text>
       <GUID>19990162</GUID>
-      <Text>Martian Cobalt Open Pit Mine</Text>
+      <Text>Mina a cielo abierto de cobalto marciano</Text>
     </Text>
     <Text>
       <GUID>19990163</GUID>
-      <Text>Martian Cobalt Rotary Excavator</Text>
+      <Text>Excavadora rotativa de cobalto marciano</Text>
     </Text>
     <Text>
       <GUID>19990164</GUID>
-      <Text>Martian Titanium Open Pit Mine</Text>
+      <Text>Mina a cielo abierto de titanio marciano</Text>
     </Text>
     <Text>
       <GUID>19990165</GUID>
-      <Text>Martian Titanium Rotary Excavator</Text>
+      <Text>Excavadora rotativa de titanio marciano</Text>
     </Text>
     <Text>
       <GUID>19990166</GUID>
-      <Text>Martian Tungsten Open Pit Mine</Text>
+      <Text>Mina a cielo abierto de tungsteno marciano</Text>
     </Text>
     <Text>
       <GUID>19990167</GUID>
-      <Text>Martian Tungsten Rotary Excavator</Text>
+      <Text>Excavadora rotativa de tungsteno marciano</Text>
     </Text>
     <Text>
       <GUID>19990168</GUID>
-      <Text>Martian Rare Earth Extractor</Text>
+      <Text>Extractor de tierras raras marciano</Text>
     </Text>
     <Text>
       <GUID>19990169</GUID>
-      <Text>Martian Rare Earth Ore Gatherer</Text>
+      <Text>Recolector marciano de minerales de tierras raras</Text>
     </Text>
     <Text>
       <GUID>19990172</GUID>
-      <Text>Martian Diamond Extractor</Text>
+      <Text>Extractor de diamantes marcianos</Text>
     </Text>
     <Text>
       <GUID>19990173</GUID>
-      <Text>Martian Raw Diamond Gatherer</Text>
+      <Text>Recolector de diamantes en bruto marcianos</Text>
     </Text>
     <Text>
       <GUID>19990173</GUID>
-      <Text>Martian Space Port</Text>
+      <Text>Puerto espacial marciano</Text>
     </Text>
     <Text>
       <GUID>19990174</GUID>
-      <Text>Martian Spaceport</Text>
+      <Text>Puerto espacial marciano</Text>
     </Text>
     <Text>
       <GUID>19990176</GUID>
-      <Text>Mars Launcher Spaceport</Text>
+      <Text>Lanzador de Marte Spaceport</Text>
     </Text>
     <Text>
       <GUID>19990177</GUID>
-      <Text>Experimental Rocket Engine Module</Text>
+      <Text>Módulo de motor de cohete experimental</Text>
     </Text>
     <Text>
       <GUID>19990178</GUID>
-      <Text>Allows Good Transport to Mars</Text>
+      <Text>Permite un buen transporte a Marte</Text>
     </Text>
     <Text>
       <GUID>19990179</GUID>
-      <Text>Enables you to launch the Mars Mission</Text>
+      <Text>Le permite lanzar la misión a Marte</Text>
     </Text>
     <Text>
       <GUID>19990181</GUID>
-      <Text>Infodrome</Text>
+      <Text>Infodromo</Text>
     </Text>
     <Text>
       <GUID>19990182</GUID>
-      <Text>Terra Elysium, a vast Mars crater, stands out with its remarkable beauty. Surrounded by the iconic rusty terrain, its rim encircles a basin showcasing shimmering mineral formations, adding a splash of color to the landscape. Terra Elysium offers a serene escape for your Androids in the midst of Mars' rugged terrain!</Text>
+      <Text>Terra Elysium, un vasto cráter de Marte, destaca por su notable belleza. Rodeado por el icónico terreno oxidado, su borde rodea una cuenca que muestra formaciones minerales brillantes, agregando un toque de color al paisaje. ¡Terra Elysium ofrece una escapada serena para tus androides en medio del terreno accidentado de Marte!</Text>
     </Text>
     <Text>
       <GUID>12000372</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000192</GUID>
-      <Text>Mars Mission Preparation</Text>
+      <Text>Preparación para la misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000391</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000247</GUID>
-      <Text>Mars Mission Preparation</Text>
+      <Text>Preparación para la misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000408</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000252</GUID>
-      <Text>Mars Mission Preparation</Text>
+      <Text>Preparación para la misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000427</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000259</GUID>
-      <Text>Mars Mission Preparation</Text>
+      <Text>Preparación para la misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000444</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12000264</GUID>
-      <Text>Mars Mission Preparation</Text>
+      <Text>Preparación para la misión a Marte</Text>
     </Text>
     <Text>
       <GUID>19990180</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12013031</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12013035</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12013041</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12013045</GUID>
-      <Text>+1 Rocket engine for Mars Mission</Text>
+      <Text>+1 Motor de cohete para misión a Marte</Text>
     </Text>
     <Text>
       <GUID>12013339</GUID>
-      <Text>Infrastructure Research</Text>
+      <Text>Investigación de Infraestructuras</Text>
     </Text>
     <Text>
       <GUID>12013367</GUID>
-      <Text>&lt;font [GUI_COLOR Green]&gt;Research finished&lt;/font&gt;</Text>
+      <Text>&lt;font [GUI_COLOR Verde]&gt;Investigación finalizada&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12013368</GUID>
-      <Text>&lt;font [GUI_COLOR OrangeHighlightDark1]&gt;Research in progress&lt;/font&gt;</Text>
+      <Text>&lt;font [GUI_COLOR OrangeHighlightDark1]&gt;Investigación en curso&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12013369</GUID>
-      <Text>Apply a connected Technology to start research</Text>
+      <Text>Aplicar una tecnología conectada para iniciar la investigación</Text>
     </Text>
     <Text>
       <GUID>12013370</GUID>
-      <Text>Research finished in</Text>
+      <Text>Investigación finalizada en</Text>
     </Text>
-
     <Text>
       <GUID>19990183</GUID>
-      <Text>30. The AI Revolution</Text>
+      <Text>30. La revolución de la IA</Text>
     </Text>
     <Text>
       <GUID>19990184</GUID>
-      <Text>After your first success with the Moon settlements, the Global Union delegates you the task to develop an advanced artificial intelligence that is capable to overcome the formidable obstacles of more sophisticated interplanetary travel and colonization.</Text>
+      <Text>Después de tu primer éxito con los asentamientos lunares, la Unión Global te delega la tarea de desarrollar una inteligencia artificial avanzada que sea capaz de superar los formidables obstáculos de los viajes y la colonización interplanetaria más sofisticados.</Text>
     </Text>
     <Text>
       <GUID>19990185</GUID>
-      <Text>As humanity craves for even more galactic expansion after your successful Moon colonization, the daunting challenge to conduct a second mission to Mars and of sustaining life in the harsh Martian environment presents itself once again. As there is no chance that humans can survive this journey with current technology, the Global Union presents you with the task to develop an advanced artificial intelligence that is capable to overcome the formidable obstacles of interplanetary travel and colonization.</Text>
+      <Text>A medida que la humanidad anhela aún más expansión galáctica después de su exitosa colonización de la Luna, el desalentador desafío de llevar a cabo una segunda misión a Marte y mantener la vida en el duro entorno marciano se presenta una vez más. Dado que no hay ninguna posibilidad de que los humanos puedan sobrevivir a este viaje con la tecnología actual, la Unión Global les presenta la tarea de desarrollar una inteligencia artificial avanzada que sea capaz de superar los formidables obstáculos de los viajes interplanetarios y la colonización.</Text>
     </Text>
     <Text>
       <GUID>19990186</GUID>
-      <Text>To get access to the advanced AI technology needed for the Mars mission, finish the Sector Project of the "Greentide Archipelago".</Text>
+      <Text>Para obtener acceso a la tecnología avanzada de IA necesaria para la misión a Marte, termine el Proyecto Sectorial del "Archipiélago de la Marea Verde".</Text>
     </Text>
     <Text>
       <GUID>19990187</GUID>
-      <Text>31. The Second Mars Mission</Text>
+      <Text>31. La segunda misión a Marte</Text>
     </Text>
     <Text>
       <GUID>19990188</GUID>
-      <Text>Hire numerous brilliant Geniuses to empower your Orbital researchers in their endeavor to develop a potent new rocket engine capable of navigating the extensive voyage to the Red Planet.</Text>
+      <Text>Contrata a numerosos genios brillantes para empoderar a tus investigadores orbitales en su esfuerzo por desarrollar un nuevo y potente motor de cohete capaz de navegar el extenso viaje al planeta rojo.</Text>
     </Text>
     <Text>
       <GUID>19990189</GUID>
-      <Text>After more than one hundred years, you are chosen to ready humanity for its second expedition to the Red Planet. Extensive research conducted by your foremost aerospace engineers is imperative for the development of a robust rocket system capable of enduring the arduous journey to Mars.</Text>
+      <Text>Después de más de cien años, eres elegido para preparar a la humanidad para su segunda expedición al Planeta Rojo. La investigación exhaustiva llevada a cabo por sus ingenieros aeroespaciales más destacados es imprescindible para el desarrollo de un sistema de cohetes robusto capaz de soportar el arduo viaje a Marte.</Text>
     </Text>
     <Text>
       <GUID>19990191</GUID>
-      <Text>Upgrade your Transmission Spaceport in [CONDITION_OBJECT_SESSION] with a Mars Launcher.</Text>
+      <Text>Actualice su Puerto Espacial de Transmisión en [CONDITION_OBJECT_SESSION] con un Lanzador de Marte.</Text>
     </Text>
     <Text>
       <GUID>19990192</GUID>
-      <Text>Research the five required technologies in the Nexus to get the needed items to upgrade your Lunar Spaceport.</Text>
+      <Text>Investiga las cinco tecnologías necesarias en el Nexo para conseguir los objetos necesarios para mejorar tu puerto espacial lunar.</Text>
     </Text>
     <Text>
       <GUID>19990193</GUID>
-      <Text>Settle more Arctic sectors and focus on building up more population there to achieve the necessary population goal.</Text>
+      <Text>Colonizar más sectores del Ártico y centrarse en aumentar la población allí para lograr el objetivo de población necesario.</Text>
     </Text>
     <Text>
       <GUID>19990194</GUID>
-      <Text>The five required technologies are the Tier 4 or 5 researches of each branch. Use your few available workshop modules wisely to unlock them.</Text>
+      <Text>Las cinco tecnologías requeridas son las investigaciones de Nivel 4 o 5 de cada rama. Usa sabiamente los pocos módulos de taller disponibles para desbloquearlos.</Text>
     </Text>
     <Text>
       <GUID>19990195</GUID>
-      <Text>32. The first Martian Colony</Text>
+      <Text>32. La primera colonia marciana</Text>
     </Text>
     <Text>
       <GUID>19990196</GUID>
-      <Text>Congratulations! You have done it! Your first Androids have successfully treaded upon the surface of the Red Planet. Continue in expanding your first colony to allow exploiting the ample resources of this unknown ground. But be aware of the Martian seasons, as they can cause problems with the supply of resources in your sector!</Text>
+      <Text>¡Felicidades! ¡Lo has conseguido! Tus primeros androides han pisado con éxito la superficie del Planeta Rojo. Continúa expandiendo tu primera colonia para permitir la explotación de los amplios recursos de este terreno desconocido. ¡Pero tenga en cuenta las estaciones marcianas, ya que pueden causar problemas con el suministro de recursos en su sector!</Text>
     </Text>
     <Text>
       <GUID>19990197</GUID>
-      <Text>Congratulations! Once more, you've surpassed expectations with excellence in executing the second mission to mars. Your inaugural Synthetics have successfully treaded upon the surface of the Red Planet. Ensure an ample provision of goods and resources to maintain your Androids amidst the dusty Martian environment.</Text>
+      <Text>¡Felicidades! Una vez más, ha superado las expectativas con la excelencia en la ejecución de la segunda misión a Marte. Vuestros Sintéticos inaugurales han pisado con éxito la superficie del Planeta Rojo. Asegure una amplia provisión de bienes y recursos para mantener a sus androides en medio del polvoriento entorno marciano.</Text>
     </Text>
     <Text>
       <GUID>19990198</GUID>
-      <Text>Settle more Synths on Mars to unlock more Orbital workshops which allow you to activate more advanced technologies in the Nexus.</Text>
+      <Text>Coloca más sintetizadores en Marte para desbloquear más talleres orbitales que te permiten activar tecnologías más avanzadas en el Nexo.</Text>
     </Text>
     <Text>
       <GUID>19990199</GUID>
-      <Text>Martian Research Complexes and their modules can generate a lot of additional Expertise, now needed to activate high end technologies.</Text>
+      <Text>Los Complejos de Investigación Marcianos y sus módulos pueden generar una gran cantidad de Experiencia adicional, que ahora es necesaria para activar tecnologías de alto nivel.</Text>
     </Text>
     <Text>
       <GUID>19990200</GUID>
-      <Text>The Mars is rich in mineral ressources, feel free to exploit them!</Text>
+      <Text>Marte es rico en recursos minerales, ¡siéntete libre de explotarlos!</Text>
     </Text>
     <Text>
       <GUID>19990201</GUID>
-      <Text>Build a Science Cluster and one research workshop of each of the five specialisations</Text>
+      <Text>Construir un Clúster Científico y un taller de investigación de cada una de las cinco especializaciones.</Text>
     </Text>
     <Text>
       <GUID>19990202</GUID>
-      <Text>The Martian AI Research Program - 1/14</Text>
+      <Text>El Programa de Investigación de IA Marciana - 1/14</Text>
     </Text>
     <Text>
       <GUID>19990203</GUID>
-      <Text>The Martian AI Research Program - 2/14</Text>
+      <Text>El Programa de Investigación de IA Marciana - 2/14</Text>
     </Text>
     <Text>
       <GUID>19990204</GUID>
-      <Text>The Martian AI Research Program - 3/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 3/14</Text>
     </Text>
     <Text>
       <GUID>19990205</GUID>
-      <Text>The Martian AI Research Program - 4/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 4/14</Text>
     </Text>
     <Text>
       <GUID>19990206</GUID>
-      <Text>The Martian AI Research Program - 5/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 5/14</Text>
     </Text>
     <Text>
       <GUID>19990207</GUID>
-      <Text>The Martian AI Research Program - 6/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 6/14</Text>
     </Text>
     <Text>
       <GUID>19990208</GUID>
-      <Text>The Martian AI Research Program - 7/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 7/14</Text>
     </Text>
     <Text>
       <GUID>19990209</GUID>
-      <Text>The Martian AI Research Program - 8/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 8/14</Text>
     </Text>
     <Text>
       <GUID>19990210</GUID>
-      <Text>The Martian AI Research Program - 9/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 9/14</Text>
     </Text>
     <Text>
       <GUID>19990211</GUID>
-      <Text>The Martian AI Research Program - 10/14</Text>
+      <Text>El Programa de Investigación de IA Marciana - 14/10</Text>
     </Text>
     <Text>
       <GUID>19990212</GUID>
-      <Text>The Martian AI Research Program - 11/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 14/11</Text>
     </Text>
     <Text>
       <GUID>19990213</GUID>
-      <Text>The Martian AI Research Program - 12/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 14/12</Text>
     </Text>
     <Text>
       <GUID>19990214</GUID>
-      <Text>The Martian AI Research Program - 13/14</Text>
+      <Text>El Programa de Investigación de la IA Marciana - 13/14</Text>
     </Text>
     <Text>
       <GUID>19990215</GUID>
-      <Text>The Martian AI Research Program - 14/14</Text>
+      <Text>El Programa de Investigación de IA Marciana - 14/14</Text>
     </Text>
     <Text>
       <GUID>19990216</GUID>
-      <Text>The Martian Geo-Engineering Program</Text>
+      <Text>El Programa de Geoingeniería Marciana</Text>
     </Text>
     <Text>
       <GUID>19990217</GUID>
-      <Text>The Martian AI Research Program - Step 16</Text>
+      <Text>El Programa de Investigación de la IA Marciana - Paso 16</Text>
     </Text>
     <Text>
       <GUID>19990218</GUID>
-      <Text>The Martian AI Research Program - Step 17</Text>
+      <Text>El Programa de Investigación de IA Marciana - Paso 17</Text>
     </Text>
     <Text>
       <GUID>19990219</GUID>
-      <Text>The Martian AI Research Program - Step 18</Text>
+      <Text>El Programa de Investigación de IA Marciana - Paso 18</Text>
     </Text>
     <Text>
       <GUID>19990220</GUID>
-      <Text>Now that you have achieved a basic level of self-sufficiency for your colony, it is time to grow it. By increasing your population of Synths on the Mars you can now unlock more Workshop- and Module-Permits to expand the capabilities of your Orbital Station even further.</Text>
+      <Text>Ahora que ha alcanzado un nivel básico de autosuficiencia para su colonia, es hora de cultivarla. Al aumentar tu población de Synths en Marte, ahora puedes desbloquear más permisos de taller y módulos para expandir aún más las capacidades de tu estación orbital.</Text>
     </Text>
     <Text>
       <GUID>19990221</GUID>
-      <Text>Interorbital Research Program</Text>
+      <Text>Programa de Investigación Interorbital</Text>
     </Text>
     <Text>
       <GUID>19990222</GUID>
-      <Text>The Martian AI Research Program - Final Step</Text>
+      <Text>El Programa de Investigación de IA Marciana - Paso Final</Text>
     </Text>
     <Text>
       <GUID>19990223</GUID>
-      <Text>Martian Research Main Cluster</Text>
+      <Text>Clúster principal de investigación marciana</Text>
     </Text>
     <Text>
       <GUID>19990224</GUID>
-      <Text>Martian Research Workshops</Text>
+      <Text>Talleres de investigación marciana</Text>
     </Text>
     <Text>
       <GUID>19990225</GUID>
-      <Text>Martian Research Modules</Text>
+      <Text>Módulos de investigación marcianos</Text>
     </Text>
     <Text>
       <GUID>19990226</GUID>
-      <Text>Requires Goods input to produce additional Expertise</Text>
+      <Text>Requiere la entrada de bienes para producir experiencia adicional</Text>
     </Text>
     <Text>
       <GUID>19990227</GUID>
-      <Text>Requires workforce to produce additional Expertise. Uses more building space than workshops.</Text>
+      <Text>Requiere que la fuerza laboral produzca experiencia adicional. Utiliza más espacio de construcción que los talleres.</Text>
     </Text>
     <Text>
       <GUID>19990300</GUID>
-      <Text>New Mars Buildings</Text>
+      <Text>Nuevos edificios de Marte</Text>
     </Text>
     <Text>
       <GUID>19990229</GUID>
-      <Text>Provides services to your employees. Requires Construct-o-Bots and Cybersynth Circuits to operate.</Text>
+      <Text>Proporciona servicios a sus empleados. Requiere Construct-o-Bots y Circuitos Cybersynth para funcionar.</Text>
     </Text>
-
     <Text>
       <GUID>19990230</GUID>
-      <Text>Solar Panel</Text>
+      <Text>Panel solar</Text>
     </Text>
     <Text>
       <GUID>19990231</GUID>
-      <Text>Solar Panel</Text>
+      <Text>Panel solar</Text>
     </Text>
     <Text>
       <GUID>19990232</GUID>
-      <Text>Solar Panel</Text>
+      <Text>Panel solar</Text>
     </Text>
-
     <Text>
       <GUID>19990233</GUID>
-      <Text>Moon Ice Melter</Text>
+      <Text>Derretimiento de hielo lunar</Text>
     </Text>
     <Text>
       <GUID>19990234</GUID>
-      <Text>Melting Plant</Text>
+      <Text>Planta de fundición</Text>
     </Text>
     <Text>
       <GUID>19990235</GUID>
-      <Text>Uses moon ice and nanoceramics to produce water for further processing.</Text>
+      <Text>Utiliza hielo lunar y nanocerámicas para producir agua para su posterior procesamiento.</Text>
     </Text>
-
     <Text>
       <GUID>12000370</GUID>
-      <Text>Aeroponic Farming</Text>
+      <Text>Agricultura aeropónica</Text>
     </Text>
     <Text>
       <GUID>12000191</GUID>
-      <Text>Aeroponic Farming</Text>
+      <Text>Agricultura aeropónica</Text>
     </Text>
     <Text>
       <GUID>19990236</GUID>
-      <Text>Unlocks Aeroponic Farms on the Moon</Text>
+      <Text>Desbloquea granjas aeropónicas en la luna</Text>
     </Text>
     <Text>
       <GUID>12000190</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12000371</GUID>
-      <Text>+1 Orbital Shield Radius</Text>
+      <Text>+1 Radio de escudo orbital</Text>
     </Text>
     <Text>
       <GUID>19990237</GUID>
-      <Text>+1 Orbital Shield Radius</Text>
+      <Text>+1 Radio de escudo orbital</Text>
     </Text>
     <Text>
       <GUID>12000189</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12000369</GUID>
-      <Text>+2 Workshop Kits&lt;br /&gt;+8 Orbital Module Kits&lt;br /&gt;+20 Orbital Links Kits</Text>
+      <Text>+2 Kits de Taller&lt;br /&gt;+8 Kits de Módulos Orbitales&lt;br /&gt;+20 Kits de Enlaces Orbitales</Text>
     </Text>
     <Text>
       <GUID>19990238</GUID>
       <Text>[GUIDNAME 12000369]</Text>
     </Text>
-
     <Text>
       <GUID>12000387</GUID>
-      <Text>Advanced AI Computing</Text>
+      <Text>Computación avanzada de IA</Text>
     </Text>
     <Text>
       <GUID>12000245</GUID>
-      <Text>Advanced AI Computing</Text>
+      <Text>Computación avanzada de IA</Text>
     </Text>
     <Text>
       <GUID>19990239</GUID>
-      <Text>Unlocks the AI Composition Plant on Moon</Text>
+      <Text>Desbloquea la composición de la IA Planta en la Luna</Text>
     </Text>
     <Text>
       <GUID>12000243</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12000389</GUID>
-      <Text>[GUIDNAME 19990237]</Text> +1 Orbital Shield Radius
+      <Text>[GUIDNAME 19990237]</Text>
     </Text>
     <Text>
       <GUID>12013027</GUID>
-      <Text>[GUIDNAME 19990237]</Text> +1 Orbital Shield Radius
+      <Text>[GUIDNAME 19990237]</Text>
     </Text>
     <Text>
       <GUID>12000388</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12000244</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12013028</GUID>
       <Text>[GUIDNAME 12000369]</Text>
     </Text>
-
     <Text>
       <GUID>12000251</GUID>
-      <Text>Fusion Power</Text>
+      <Text>Energía de fusión</Text>
     </Text>
     <Text>
       <GUID>12000406</GUID>
-      <Text>Fusion Power</Text>
+      <Text>Energía de fusión</Text>
     </Text>
     <Text>
       <GUID>19990240</GUID>
-      <Text>Unlocks the Fusion Reactor on Moon</Text>
+      <Text>Desbloquea el reactor de fusión en la Luna</Text>
     </Text>
     <Text>
       <GUID>12000250</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12000407</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12013033</GUID>
-      <Text>[GUIDNAME 19990237]</Text> +1 Orbital Shield Radius
+      <Text>[GUIDNAME 19990237]</Text>
     </Text>
     <Text>
       <GUID>12000249</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12000405</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12013032</GUID>
       <Text>[GUIDNAME 12000369]</Text>
     </Text>
-
     <Text>
       <GUID>12000257</GUID>
-      <Text>Gas Cracking</Text>
+      <Text>Craqueo por gas</Text>
     </Text>
     <Text>
       <GUID>12000423</GUID>
-      <Text>Gas Cracking</Text>
+      <Text>Craqueo por gas</Text>
     </Text>
     <Text>
       <GUID>19990241</GUID>
-      <Text>Unlocks modern Gas extraction methods in the Tundra and Arctic to produce energy in Gas power plants</Text>
+      <Text>Desbloquea métodos modernos de extracción de gas en la tundra y el Ártico para producir energía en plantas de energía de gas.</Text>
     </Text>
     <Text>
       <GUID>12000255</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12000425</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12013039</GUID>
-      <Text>[GUIDNAME 19990237]</Text> +1 Orbital Shield Radius
+      <Text>[GUIDNAME 19990237]</Text>
     </Text>
     <Text>
       <GUID>12000256</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12000424</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12013038</GUID>
       <Text>[GUIDNAME 12000369]</Text>
     </Text>
-
     <Text>
       <GUID>12000263</GUID>
-      <Text>Well Drilling</Text>
+      <Text>Perforación de pozos</Text>
     </Text>
     <Text>
       <GUID>12000442</GUID>
-      <Text>Well Drilling</Text>
+      <Text>Perforación de pozos</Text>
     </Text>
     <Text>
       <GUID>19990242</GUID>
-      <Text>New drilling technologies allow construction of modern water pumps in the Tundra</Text>
+      <Text>Las nuevas tecnologías de perforación permiten la construcción de modernas bombas de agua en la Tundra</Text>
     </Text>
     <Text>
       <GUID>12000262</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12000443</GUID>
-      <Text>Shield Reinforcment</Text>
+      <Text>Refuerzo del escudo</Text>
     </Text>
     <Text>
       <GUID>12013043</GUID>
-      <Text>[GUIDNAME 19990237]</Text> +1 Orbital Shield Radius
+      <Text>[GUIDNAME 19990237]</Text>
     </Text>
     <Text>
       <GUID>12000261</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12000441</GUID>
-      <Text>Orbital Station Expansion</Text>
+      <Text>Expansión de la Estación Orbital</Text>
     </Text>
     <Text>
       <GUID>12013042</GUID>
       <Text>[GUIDNAME 12000369]</Text>
     </Text>
-
     <Text>
       <GUID>19990244</GUID>
-      <Text>Methane Gas Refinery</Text>
+      <Text>Refinería de gas metano</Text>
     </Text>
     <Text>
       <GUID>19990245</GUID>
-      <Text>Uses methane ice and molybdenum to produce natural gas for further processing.</Text>
+      <Text>Utiliza hielo de metano y molibdeno para producir gas natural para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990246</GUID>
-      <Text>Refinery Tower</Text>
+      <Text>Torre de la refinería</Text>
     </Text>
     <Text>
       <GUID>19990248</GUID>
-      <Text>Synthcell Incubator</Text>
+      <Text>Incubadora Synthcell</Text>
     </Text>
     <Text>
       <GUID>19990249</GUID>
-      <Text>Synthcell Chamber</Text>
+      <Text>Cámara de Synthcell</Text>
     </Text>
     <Text>
       <GUID>7000027</GUID>
-      <Text>Water Pump</Text>
+      <Text>Bomba de agua</Text>
     </Text>
     <Text>
       <GUID>7000306</GUID>
-      <Text>Well</Text>
+      <Text>Pozo</Text>
     </Text>
     <Text>
       <GUID>12012969</GUID>
-      <Text>Desalinization Plants also produce Algae and Water Pumps also produce Moss</Text>
+      <Text>Las plantas de desalinización también producen algas y las bombas de agua también producen musgo</Text>
     </Text>
-
     <Text>
       <GUID>19990247</GUID>
-      <Text>Oxygen Chamber</Text>
+      <Text>Cámara de oxígeno</Text>
     </Text>
     <Text>
       <GUID>7000051</GUID>
-      <Text>Off-Shore Drilling Rig</Text>
+      <Text>Plataforma de perforación en alta mar</Text>
     </Text>
-
     <Text>
       <GUID>19990251</GUID>
-      <Text>Unlocked by completing the research "Aeroponic Farming" in the Nexus</Text>
+      <Text>Se desbloquea al completar la investigación "Agricultura aeropónica" en el Nexo</Text>
     </Text>
     <Text>
       <GUID>19990253</GUID>
-      <Text>Unlocked by completing the research "Advanced AI Computing" in the Nexus</Text>
+      <Text>Se desbloquea al completar la investigación "Computación avanzada de IA" en el Nexo</Text>
     </Text>
     <Text>
       <GUID>19990255</GUID>
-      <Text>Unlocked by completing the research "Fusion Power" in the Nexus</Text>
+      <Text>Se desbloquea al completar la investigación "Poder de fusión" en el Nexo.</Text>
     </Text>
     <Text>
       <GUID>19990257</GUID>
-      <Text>Unlocked by completing the research "Gas Cracking" in the Nexus</Text>
+      <Text>Se desbloquea al completar la investigación "Craqueo de gas" en el Nexo</Text>
     </Text>
     <Text>
       <GUID>19990258</GUID>
-      <Text>Unlocked by completing the research "Well Drilling" in the Nexus</Text>
+      <Text>Se desbloquea al completar la investigación "Perforación de pozos" en el Nexo</Text>
     </Text>
-
     <Text>
       <GUID>19990261</GUID>
-      <Text>Complete the Sector Project in Greentide Archipelago.</Text>
+      <Text>Completa el proyecto del sector en el archipiélago de la marea verde.</Text>
     </Text>
     <Text>
       <GUID>19990262</GUID>
-      <Text>Finish the research for "Fusion Energy" in the Nexus.</Text>
+      <Text>Termina la investigación de "Energía de fusión" en el Nexo.</Text>
     </Text>
-
     <Text>
       <GUID>19990263</GUID>
-      <Text>Advanced Technologies</Text>
+      <Text>Tecnologías Avanzadas</Text>
     </Text>
     <Text>
       <GUID>19990264</GUID>
-      <Text>In order to bring your Moon colonies to full independence from Earth, you have to research advanced technologies that enable your colonists to extract drinkable water from moon ice via reverse osmosis as well as grow their own food using aeroponic farming technology.</Text>
+      <Text>Para que tus colonias lunares se independicen completamente de la Tierra, debes investigar tecnologías avanzadas que permitan a tus colonos extraer agua potable del hielo lunar a través de ósmosis inversa, así como cultivar sus propios alimentos utilizando tecnología de agricultura aeropónica.</Text>
     </Text>
     <Text>
       <GUID>19990265</GUID>
-      <Text>Research Tutorial Quest</Text>
+      <Text>Búsqueda tutorial de investigación</Text>
     </Text>
     <Text>
       <GUID>19990266</GUID>
-      <Text>Complete the research "Aeroponic Farming" in the Nexus</Text>
+      <Text>Completa la investigación "Agricultura aeropónica" en el Nexo.</Text>
     </Text>
     <Text>
       <GUID>19990268</GUID>
-      <Text>Advanced Technologies</Text>
+      <Text>Tecnologías Avanzadas</Text>
     </Text>
     <Text>
       <GUID>19990269</GUID>
-      <Text>Until your researchers have properly studied the measurements required to create a cleanromm atmosphere on the Moon, you will need to produce the necessary Cybersynth Circuits for your BioEnhancers in the Tundra region.</Text>
+      <Text>Hasta que sus investigadores hayan estudiado adecuadamente las mediciones necesarias para crear una atmósfera limpia en la Luna, deberán producir los circuitos de Cybersynth necesarios para sus BioEnhancers en la región de la Tundra.</Text>
     </Text>
     <Text>
       <GUID>19990270</GUID>
-      <Text>Complete the research "Advanced AI Computing" in the Nexus</Text>
+      <Text>Completa la investigación "Computación avanzada de IA" en el Nexo</Text>
     </Text>
     <Text>
       <GUID>19990272</GUID>
-      <Text>Advanced Technologies</Text>
+      <Text>Tecnologías Avanzadas</Text>
     </Text>
     <Text>
       <GUID>19990273</GUID>
-      <Text>Until your researchers have found a way to extract the methane from the clathrate recovered from the ocean floor, you will have to rely on renewable energy sources for the time being.</Text>
+      <Text>Hasta que los investigadores hayan encontrado una forma de extraer el metano del clatrato recuperado del fondo del océano, tendrá que depender de fuentes de energía renovables por el momento.</Text>
     </Text>
     <Text>
       <GUID>19990274</GUID>
-      <Text>Complete the research "Gas Cracking" in the Nexus</Text>
+      <Text>Completa la investigación "Craqueo de gas" en el Nexo.</Text>
     </Text>
     <Text>
       <GUID>19990276</GUID>
-      <Text>Advanced Technologies</Text>
+      <Text>Tecnologías Avanzadas</Text>
     </Text>
     <Text>
       <GUID>19990277</GUID>
-      <Text>Until your researchers have explored the possible locations of offshore gas reserves in the region, you will have to rely on renewable energy sources for the time being.</Text>
+      <Text>Hasta que sus investigadores hayan explorado las posibles ubicaciones de las reservas de gas en alta mar en la región, tendrá que depender de fuentes de energía renovables por el momento.</Text>
     </Text>
     <Text>
       <GUID>19990278</GUID>
-      <Text>Complete the research "Gas Cracking" in the Nexus</Text>
+      <Text>Completa la investigación "Craqueo de gas" en el Nexo.</Text>
     </Text>
     <Text>
       <GUID>19990280</GUID>
-      <Text>Advanced Technologies</Text>
+      <Text>Tecnologías Avanzadas</Text>
     </Text>
     <Text>
       <GUID>19990281</GUID>
-      <Text>Until your researchers have invented a new drill head technology adapted to the region's marshy swamplands, you will have to rely on external water supplies for the time being.</Text>
+      <Text>Hasta que sus investigadores hayan inventado una nueva tecnología de cabezales de perforación adaptada a los pantanos pantanosos de la región, tendrá que depender de suministros de agua externos por el momento.</Text>
     </Text>
     <Text>
       <GUID>19990282</GUID>
-      <Text>Complete the research "Well Drilling" in the Nexus</Text>
+      <Text>Completa la investigación "Perforación de pozos" en el Nexo.</Text>
     </Text>
-
     <Text>
       <GUID>12000175</GUID>
-      <Text>Parfums de terroir</Text>
+      <Text>Sabores locales</Text>
     </Text>
     <Text>
       <GUID>12012963</GUID>
-      <Text>Fruit Plantations also produce Wine</Text>
+      <Text>Las plantaciones frutales también producen vino</Text>
     </Text>
     <Text>
       <GUID>19990284</GUID>
-      <Text>Fruit Plantations also produce Wine</Text>
+      <Text>Las plantaciones frutales también producen vino</Text>
     </Text>
     <Text>
       <GUID>12000177</GUID>
-      <Text>Sustainable Packaging</Text>
+      <Text>Embalaje sostenible</Text>
     </Text>
     <Text>
       <GUID>12012965</GUID>
-      <Text>Sustenance Pack Producers use Biopolymers instead of Aluminum</Text>
+      <Text>Los productores de paquetes de sustento utilizan biopolímeros en lugar de aluminio</Text>
     </Text>
     <Text>
       <GUID>19990285</GUID>
-      <Text>Sustenance Pack Producers use Biopolymers instead of Aluminum</Text>
+      <Text>Los productores de paquetes de sustento utilizan biopolímeros en lugar de aluminio</Text>
     </Text>
     <Text>
       <GUID>12012967</GUID>
-      <Text>Farms can support 2 additional primary modules</Text>
+      <Text>Las granjas pueden admitir 2 módulos primarios adicionales</Text>
     </Text>
     <Text>
       <GUID>12000176</GUID>
-      <Text>Sensor Overclocking</Text>
+      <Text>Overclocking de sensores</Text>
     </Text>
     <Text>
       <GUID>12000179</GUID>
-      <Text>Shrinkflation</Text>
+      <Text>Reduflación</Text>
     </Text>
     <Text>
       <GUID>19990286</GUID>
-      <Text>All Farms</Text>
+      <Text>Todas las granjas</Text>
     </Text>
     <Text>
       <GUID>19990287</GUID>
-      <Text>All Food Processors</Text>
+      <Text>Todos los procesadores de alimentos</Text>
     </Text>
     <Text>
       <GUID>12012966</GUID>
-      <Text>+100% Increased resource salvage in Crisis Sectors</Text>
+      <Text>+100% Aumento de recuperación de recursos en Sectores de Crisis</Text>
     </Text>
     <Text>
       <GUID>12012964</GUID>
-      <Text>-20% Input Goods needed by Food Processors</Text>
+      <Text>-20% Bienes de entrada necesarios para los procesadores de alimentos</Text>
     </Text>
     <Text>
       <GUID>12000269</GUID>
@@ -71315,11 +71293,11 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000197</GUID>
-      <Text>Petrochemicals Reprocessing</Text>
+      <Text>Reprocesamiento de productos petroquímicos</Text>
     </Text>
     <Text>
       <GUID>12012976</GUID>
-      <Text>Obtain 10 Petrochemicals per minute</Text>
+      <Text>Obtén 10 petroquímicos por minuto</Text>
     </Text>
     <Text>
       <GUID>12000289</GUID>
@@ -71327,67 +71305,67 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000199</GUID>
-      <Text>Autocatalysis</Text>
+      <Text>Autocatálisis</Text>
     </Text>
     <Text>
       <GUID>12013078</GUID>
-      <Text>Autocatalysis</Text>
+      <Text>Autocatálisis</Text>
     </Text>
     <Text>
       <GUID>12012978</GUID>
-      <Text>+25% Increased productivity in Advanced Bioreactors</Text>
+      <Text>+25% Aumento de la productividad en biorreactores avanzados</Text>
     </Text>
     <Text>
       <GUID>12012979</GUID>
-      <Text>-20% Input Goods needed in all biotech facilities</Text>
+      <Text>-20% Bienes de entrada necesarios en todas las instalaciones de biotecnología</Text>
     </Text>
     <Text>
       <GUID>12012982</GUID>
-      <Text>-15% Decrease in Revenue&lt;br /&gt;-5% Goods consumption&lt;br /&gt;In Arctic, Tundra and Lunar Regions</Text>
+      <Text>-15% Disminución de los ingresos&lt;br /&gt;-5% Consumo de bienes&lt;br /&gt;En las regiones ártica, tundra y lunar</Text>
     </Text>
     <Text>
       <GUID>12000203</GUID>
-      <Text>Consumption Damper Implant</Text>
+      <Text>Consumo Implante Amortiguador</Text>
     </Text>
     <Text>
       <GUID>12000196</GUID>
-      <Text>Artificial Tissue Cultivation</Text>
+      <Text>Cultivo de tejidos artificiales</Text>
     </Text>
     <Text>
       <GUID>12012975</GUID>
-      <Text>Synth Cell Incubators also produce Beef</Text>
+      <Text>Las incubadoras de células Synth también producen carne de vacuno</Text>
     </Text>
     <Text>
       <GUID>12000198</GUID>
-      <Text>Rejuvenation Program</Text>
+      <Text>Programa de Rejuvenecimiento</Text>
     </Text>
     <Text>
       <GUID>12012977</GUID>
-      <Text>Ionization Chambers use Hyaluronic Acid instead of Cobalt&lt;br /&gt;+25% Productivity&lt;br /&gt;-10% Workforce Maintenance</Text>
+      <Text>Las cámaras de ionización utilizan ácido hialurónico en lugar de cobalto&lt;br /&gt;+25% de productividad&lt;br /&gt;-10% de mantenimiento de la fuerza laboral</Text>
     </Text>
     <Text>
       <GUID>12012981</GUID>
-      <Text>Neuro-Module Factory also produce Cybersynth Circuits</Text>
+      <Text>Neuro-Module Factory también produce circuitos Cybersynth</Text>
     </Text>
     <Text>
       <GUID>12000208</GUID>
-      <Text>Drone Reprogramming</Text>
+      <Text>Reprogramación de drones</Text>
     </Text>
     <Text>
       <GUID>12012987</GUID>
-      <Text>Drone Hives also produce Construct-o-Bots</Text>
+      <Text>Las colmenas de drones también producen Construct-o-Bots</Text>
     </Text>
     <Text>
       <GUID>12000210</GUID>
-      <Text>Slow Methane Fermentation</Text>
+      <Text>Fermentación lenta del metano</Text>
     </Text>
     <Text>
       <GUID>12012989</GUID>
-      <Text>Boreal and Arctic Tailors use Natural Gas instead of Fusion Power Cells</Text>
+      <Text>Boreal y Arctic Tailors utilizan gas natural en lugar de celdas de energía de fusión</Text>
     </Text>
     <Text>
       <GUID>12012994</GUID>
-      <Text>+5% Increase in Revenue&lt;br /&gt;-15% Workforce generation&lt;br /&gt;In the Temperate Region&lt;br /&gt;+25% Productivity in Consumer Electronic Facilities</Text>
+      <Text>+5% Aumento en Ingresos&lt;br /&gt;-15% Generación de fuerza laboral&lt;br /&gt;En la Región Templada&lt;br /&gt;+25% Productividad en Instalaciones de Electrónica de Consumo</Text>
     </Text>
     <Text>
       <GUID>19990288</GUID>
@@ -71395,15 +71373,15 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12013008</GUID>
-      <Text>+25% Increased productivity in all HighTech facilities&lt;br /&gt;+50% Energy Maintenance in all HighTech facilities</Text>
+      <Text>+25% Aumento de la productividad en todas las instalaciones de alta tecnología&lt;br /&gt;+50% de mantenimiento de energía en todas las instalaciones de alta tecnología</Text>
     </Text>
     <Text>
       <GUID>12012991</GUID>
-      <Text>-20% Input Goods needed in all electronics facilities</Text>
+      <Text>-20% Bienes de entrada necesarios en todas las instalaciones de electrónica</Text>
     </Text>
     <Text>
       <GUID>12000209</GUID>
-      <Text>Graphene Reprocessing</Text>
+      <Text>Reprocesamiento de grafeno</Text>
     </Text>
     <Text>
       <GUID>12000307</GUID>
@@ -71411,31 +71389,31 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000211</GUID>
-      <Text>Rapid Digitalisation</Text>
+      <Text>Rápida digitalización</Text>
     </Text>
     <Text>
       <GUID>12013079</GUID>
-      <Text>Rapid Digitalisation</Text>
+      <Text>Rápida digitalización</Text>
     </Text>
     <Text>
       <GUID>12000305</GUID>
-      <Text>Rapid Digitalisation</Text>
+      <Text>Rápida digitalización</Text>
     </Text>
     <Text>
       <GUID>12012988</GUID>
-      <Text>+10% Increased Need for Quantum Computers and Neural Interfaces across all pops&lt;br /&gt;+5% Energy Maintenance in all Facilities&lt;br /&gt;-20% Workforce Maintenance in all Facilities</Text>
+      <Text>+10% Aumento de la Necesidad de Computadoras Cuánticas e Interfaces Neuronales en todos los pops&lt;br /&gt;+5% Mantenimiento de Energía en todas las Instalaciones&lt;br /&gt;-20% Mantenimiento de la Fuerza Laboral en todas las Instalaciones</Text>
     </Text>
     <Text>
       <GUID>12000224</GUID>
-      <Text>Turbine Optimisation</Text>
+      <Text>Optimización de turbinas</Text>
     </Text>
     <Text>
       <GUID>12013003</GUID>
-      <Text>-20% Input Goods needed in all energy facilities</Text>
+      <Text>-20% de los bienes de entrada necesarios en todas las instalaciones energéticas</Text>
     </Text>
     <Text>
       <GUID>12000221</GUID>
-      <Text>Iridium Reprocessing</Text>
+      <Text>Reprocesamiento de iridio</Text>
     </Text>
     <Text>
       <GUID>12000325</GUID>
@@ -71443,7 +71421,7 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12000223</GUID>
-      <Text>Efficient Transformers</Text>
+      <Text>Transformadores eficientes</Text>
     </Text>
     <Text>
       <GUID>12013080</GUID>
@@ -71451,39 +71429,39 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12013000</GUID>
-      <Text>-15% Energy Maintenance in all Facilities</Text>
+      <Text>-15% de Mantenimiento Energético en todas las Instalaciones</Text>
     </Text>
     <Text>
       <GUID>12000220</GUID>
-      <Text>Hypercharged Superconductors</Text>
+      <Text>Superconductores hiperalimentados</Text>
     </Text>
     <Text>
       <GUID>12012999</GUID>
-      <Text>Superconductor Fabrication Hall also produce Fusion Power Cells</Text>
+      <Text>La sala de fabricación de superconductores también produce celdas de energía de fusión</Text>
     </Text>
     <Text>
       <GUID>12000227</GUID>
-      <Text>Daylight Saving Time</Text>
+      <Text>Horario de verano</Text>
     </Text>
     <Text>
       <GUID>12013006</GUID>
-      <Text>-25% Energy Maintenance in residences&lt;br /&gt;-5% Workforce generation&lt;br /&gt;In Temperate Region</Text>
+      <Text>-25% Mantenimiento de energía en residencias&lt;br /&gt;-5% Generación de fuerza laboral&lt;br /&gt;En región templada</Text>
     </Text>
     <Text>
       <GUID>12000222</GUID>
-      <Text>Biogas</Text>
+      <Text>Biogás</Text>
     </Text>
     <Text>
       <GUID>12013001</GUID>
-      <Text>Gas Power Plants use Soy Beans instead of Natural Gas and Fossil-fuel Power Plants use Moss instead of Natural Gas</Text>
+      <Text>Las centrales eléctricas de gas utilizan soja en lugar de gas natural y las centrales eléctricas de combustibles fósiles utilizan musgo en lugar de gas natural</Text>
     </Text>
     <Text>
       <GUID>12013015</GUID>
-      <Text>-15% Workforce Maintenance in heavy industry facilities</Text>
+      <Text>-15% Mantenimiento de personal en instalaciones de industria pesada</Text>
     </Text>
     <Text>
       <GUID>12000235</GUID>
-      <Text>Construction Sector Subsidisation</Text>
+      <Text>Subvenciones al sector de la construcción</Text>
     </Text>
     <Text>
       <GUID>12013081</GUID>
@@ -71491,11 +71469,11 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12013012</GUID>
-      <Text>+25% Productivity in all building material industries</Text>
+      <Text>+25% Productividad en todas las industrias de materiales de construcción</Text>
     </Text>
     <Text>
       <GUID>12000233</GUID>
-      <Text>Magnetite Reprocessing</Text>
+      <Text>Reprocesamiento de magnetita</Text>
     </Text>
     <Text>
       <GUID>12000343</GUID>
@@ -71503,114 +71481,108 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
     </Text>
     <Text>
       <GUID>12013014</GUID>
-      <Text>Obtain 6 Magnetite units per minute</Text>
+      <Text>Obtén 6 unidades de magnetita por minuto</Text>
     </Text>
     <Text>
       <GUID>12000232</GUID>
-      <Text>Phyllosilicates</Text>
+      <Text>Filosilicatos</Text>
     </Text>
     <Text>
       <GUID>12013011</GUID>
-      <Text>Silicon Mines also produce Nano Ceramics</Text>
+      <Text>Las minas de silicio también producen nanocerámicas</Text>
     </Text>
     <Text>
       <GUID>12000234</GUID>
-      <Text>Semiconductor Doping</Text>
+      <Text>Dopaje de semiconductores</Text>
     </Text>
     <Text>
       <GUID>12013013</GUID>
-      <Text>Microfabrication Halls use Rare Earth Elements instead of Bioresins&lt;br /&gt;+25% Productivity in Microfabrication Halls</Text>
+      <Text>Las salas de microfabricación utilizan elementos de tierras raras en lugar de bioresinas&lt;br /&gt;+25% de productividad en las salas de microfabricación</Text>
     </Text>
-
     <Text>
       <GUID>19990289</GUID>
-      <Text>The first geniuses to move in send you their greetings and immediately set about their new research projects.</Text>
+      <Text>Los primeros genios que se instalan te envían sus saludos e inmediatamente se ponen manos a la obra con sus nuevos proyectos de investigación.</Text>
     </Text>
-
     <Text>
       <GUID>19990290</GUID>
-      <Text>You are now entering Phase 4 of the Lunar Licensing Programme.</Text>
+      <Text>Ahora están entrando en la Fase 4 del Programa de Licencias Lunares.</Text>
     </Text>
     <Text>
       <GUID>19990291</GUID>
-      <Text>Following your success in establishing an autonomous lunar colony, the Global Union has tasked you with researching a new type of rocket engine.</Text>
+      <Text>Tras tu éxito en el establecimiento de una colonia lunar autónoma, la Unión Global te ha encomendado la tarea de investigar un nuevo tipo de motor de cohete.</Text>
     </Text>
     <Text>
       <GUID>19990292</GUID>
-      <Text>This rocket will carry a first wave of Martian Synthetics.</Text>
+      <Text>Este cohete transportará una primera ola de sintéticos marcianos.</Text>
     </Text>
     <Text>
       <GUID>19990293</GUID>
-      <Text>Their mission is to establish an initial base of operations in one of the Martian craters, and to organise regular shipments of goods to and from this Martian sector.</Text>
+      <Text>Su misión es establecer una base inicial de operaciones en uno de los cráteres marcianos y organizar envíos regulares de mercancías hacia y desde este sector marciano.</Text>
     </Text>
     <Text>
       <GUID>19990294</GUID>
-      <Text>Once a regular flight schedule has been established, the new Mars colony will act as an outward resource supplier,</Text>
+      <Text>Una vez que se haya establecido un horario de vuelo regular, la nueva colonia de Marte actuará como un proveedor de recursos hacia el exterior.</Text>
     </Text>
     <Text>
       <GUID>19990295</GUID>
-      <Text>sending relevant minerals back to Earth to meet the demand for rare resources in your rapidly growing cities.</Text>
+      <Text>enviando minerales relevantes de vuelta a la Tierra para satisfacer la demanda de recursos raros en sus ciudades de rápido crecimiento.</Text>
     </Text>
     <Text>
       <GUID>19990296</GUID>
-      <Text>It is also recommended that you establish additional research capabilities on Mars to explore the unique features of the Red Planet.</Text>
+      <Text>También se recomienda que establezca capacidades de investigación adicionales en Marte para explorar las características únicas del Planeta Rojo.</Text>
     </Text>
     <Text>
       <GUID>19990297</GUID>
-      <Text>Good luck in your endeavours on Mars</Text>
+      <Text>¡Buena suerte en tus esfuerzos en Marte</Text>
     </Text>
     <Text>
       <GUID>19990085</GUID>
-      <Text>Genius Joachim</Text>
+      <Text>Genio Joaquín</Text>
     </Text>
     <Text>
       <GUID>12012993</GUID>
-      <Text>Anti-G Workshops also produce IntelliWear</Text>
+      <Text>Los talleres Anti-G también producen IntelliWear</Text>
     </Text>
-
     <Text>
       <GUID>7001447</GUID>
-      <Text>Attract enough Operators in the Temperate Region to unlock this sector</Text>
+      <Text>Atrae a suficientes operadores en la región templada para desbloquear este sector.</Text>
     </Text>
     <Text>
       <GUID>7001452</GUID>
-      <Text>Required Operators</Text>
+      <Text>Operadores requeridos</Text>
     </Text>
     <Text>
       <GUID>7001453</GUID>
-      <Text>Your Operators</Text>
+      <Text>Sus operadores</Text>
     </Text>
-
     <Text>
       <GUID>117237</GUID>
-      <Text>Ornaments</Text>
+      <Text>Ornamentos</Text>
     </Text>
     <Text>
       <GUID>1003072</GUID>
-      <Text>Small Park</Text>
+      <Text>Pequeño Parque</Text>
     </Text>
     <Text>
       <GUID>1003369</GUID>
-      <Text>Small Parking Lot</Text>
+      <Text>Pequeño estacionamiento</Text>
     </Text>
     <Text>
       <GUID>14001492</GUID>
-      <Text>Preserves</Text>
+      <Text>Conserva</Text>
     </Text>
     <Text>
       <GUID>12000107</GUID>
-      <Text>Seasonal Decoration (Lilly,Maypole,Christmas)</Text>
+      <Text>Decoración de temporada (lirio, palo de mayo, Navidad)</Text>
     </Text>
-
     <Text>
       <GUID>7000027</GUID>
-      <Text>Water Pump</Text>
+      <Text>Bomba de agua</Text>
     </Text>
     <Text>
       <GUID>7000306</GUID>
-      <Text>Well</Text>
+      <Text>Pozo</Text>
     </Text>
-
     <Text>
       <GUID>7000320</GUID>
       <Text>[GUIDNAME 6000376]</Text>
@@ -71623,544 +71595,521 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
       <GUID>7000322</GUID>
       <Text>[GUIDNAME 6000474]</Text>
     </Text>
-
     <Text>
       <GUID>1000158</GUID>
-      <Text>Orbital Warehouse</Text>
+      <Text>Almacén Orbital</Text>
     </Text>
     <Text>
       <GUID>1000449</GUID>
-      <Text>Expedition Rover</Text>
+      <Text>Rover de expedición</Text>
     </Text>
-
     <Text>
       <GUID>19990307</GUID>
-      <Text>Martian Summer: Thin Atomsphere</Text>
+      <Text>Verano marciano: Atomsfera delgada</Text>
     </Text>
     <Text>
       <GUID>19990308</GUID>
-      <Text>Due to constant solar flares effectiveness of energy transfer to the planet is reduced, but Solar Panels have increased yields.</Text>
+      <Text>Debido a las constantes erupciones solares, la efectividad de la transferencia de energía al planeta se reduce, pero los paneles solares tienen mayores rendimientos.</Text>
     </Text>
     <Text>
       <GUID>19990310</GUID>
-      <Text>Martian Summer: Thin Atomsphere</Text>
+      <Text>Verano marciano: Atomsfera delgada</Text>
     </Text>
-
     <Text>
       <GUID>19990315</GUID>
-      <Text>Foreign Contact</Text>
+      <Text>Contacto con el extranjero</Text>
     </Text>
     <Text>
       <GUID>19990316</GUID>
-      <Text>Foreign Contact</Text>
+      <Text>Contacto con el extranjero</Text>
     </Text>
     <Text>
       <GUID>19990317</GUID>
-      <Text>Contact to foreign species increases research output of all Martian Laboratories, but your Androids need more Communication Devices to keep contact.</Text>
+      <Text>El contacto con especies extranjeras aumenta la producción de investigación de todos los laboratorios marcianos, pero sus androides necesitan más dispositivos de comunicación para mantener el contacto.</Text>
     </Text>
     <Text>
       <GUID>19990318</GUID>
-      <Text>All Martian Research Buildings</Text>
+      <Text>Todos los edificios de investigación marcianos</Text>
     </Text>
     <Text>
       <GUID>19990319</GUID>
-      <Text>Dust Devil Sector</Text>
+      <Text>Sector Diablo de Polvo</Text>
     </Text>
     <Text>
       <GUID>19990320</GUID>
-      <Text>Dust Devil Sector</Text>
+      <Text>Sector Diablo de Polvo</Text>
     </Text>
     <Text>
       <GUID>19990321</GUID>
-      <Text>Windparks are more effictive in this sector, but productivity of KREEP Gatheres and Diamond Extractors is impaired.</Text>
+      <Text>Los parques eólicos son más eficientes en este sector, pero la productividad de KREEP Gatheres y Diamond Extractors se ve afectada.</Text>
     </Text>
     <Text>
       <GUID>19990322</GUID>
-      <Text>Old Mars Rovers</Text>
+      <Text>Viejos rovers de Marte</Text>
     </Text>
     <Text>
       <GUID>19990323</GUID>
-      <Text>Old Mars Rovers</Text>
+      <Text>Viejos rovers de Marte</Text>
     </Text>
     <Text>
       <GUID>19990324</GUID>
-      <Text>Exploring the wreckages of left behind Mars Reovers of the First Mission reduces your Android's need for Services, but due to the long journeys, all buildings require more logistics.</Text>
+      <Text>Explorar los restos de los Mars Reovers de la primera misión reduce la necesidad de servicios de tu Android, pero debido a los largos viajes, todos los edificios requieren más logística.</Text>
     </Text>
     <Text>
       <GUID>19990325</GUID>
-      <Text>Meteor Showers</Text>
+      <Text>Lluvias de meteoros</Text>
     </Text>
     <Text>
       <GUID>19990326</GUID>
-      <Text>Meteor Showers</Text>
+      <Text>Lluvias de meteoros</Text>
     </Text>
     <Text>
       <GUID>19990327</GUID>
-      <Text>Open Pit Mines provide from a higher output from minable meteors in this sector, but shield generators require more energy to operate.</Text>
+      <Text>Las minas a cielo abierto proporcionan una mayor producción de meteoritos minables en este sector, pero los generadores de escudos requieren más energía para funcionar.</Text>
     </Text>
     <Text>
       <GUID>19990328</GUID>
-      <Text>Marsquake Territory</Text>
+      <Text>Territorio de Marsquake</Text>
     </Text>
     <Text>
       <GUID>19990329</GUID>
-      <Text>Marsquake Territory</Text>
+      <Text>Territorio de Marsquake</Text>
     </Text>
     <Text>
       <GUID>19990330</GUID>
-      <Text>The shaking ground benefits Gas Drilling Rigs, but requires more work of Maintenance Stations.</Text>
+      <Text>El temblor del suelo beneficia a las plataformas de perforación de gas, pero requiere más trabajo de las estaciones de mantenimiento.</Text>
     </Text>
     <Text>
       <GUID>19990331</GUID>
-      <Text>Martian Terraforming</Text>
+      <Text>Terraformación marciana</Text>
     </Text>
     <Text>
       <GUID>19990332</GUID>
-      <Text>Martian Terraforming</Text>
+      <Text>Terraformación marciana</Text>
     </Text>
     <Text>
       <GUID>19990333</GUID>
-      <Text>Through increased research efforts in your Martian Agricultural Laboratories, Greenhouses can now produce part of the required research goods self-sustaining.</Text>
+      <Text>A través de mayores esfuerzos de investigación en sus Laboratorios Agrícolas Marcianos, los invernaderos ahora pueden producir parte de los bienes de investigación necesarios de manera autosuficiente.</Text>
     </Text>
     <Text>
       <GUID>19990334</GUID>
-      <Text>Martian Bio-Engineering</Text>
+      <Text>Bioingeniería marciana</Text>
     </Text>
     <Text>
       <GUID>19990335</GUID>
-      <Text>Martian Bio-Engineering</Text>
+      <Text>Bioingeniería marciana</Text>
     </Text>
     <Text>
       <GUID>19990336</GUID>
-      <Text>Through increased research efforts in your Martian Biotech Laboratories, your Androids need less spare parts to function properly.</Text>
+      <Text>Gracias a los crecientes esfuerzos de investigación en los laboratorios de biotecnología marcianos, los dispositivos Android necesitan menos piezas de repuesto para funcionar correctamente.</Text>
     </Text>
     <Text>
       <GUID>19990337</GUID>
-      <Text>Martian Nano-Processing</Text>
+      <Text>Nano-Procesamiento Marciano</Text>
     </Text>
     <Text>
       <GUID>19990338</GUID>
-      <Text>Martian Nano-Processing</Text>
+      <Text>Nano-Procesamiento Marciano</Text>
     </Text>
     <Text>
       <GUID>19990339</GUID>
-      <Text>Through increased research efforts in your Martian Electronics Laboratories, processing information through Neural Interfaces becomes easier for your Androids.</Text>
+      <Text>A través de mayores esfuerzos de investigación en sus Laboratorios de Electrónica Marciana, el procesamiento de información a través de interfaces neuronales se vuelve más fácil para sus Android.</Text>
     </Text>
     <Text>
       <GUID>19990340</GUID>
-      <Text>Martian Atmospheric Charging</Text>
+      <Text>Carga atmosférica marciana</Text>
     </Text>
     <Text>
       <GUID>19990341</GUID>
-      <Text>Martian Atmospheric Charging</Text>
+      <Text>Carga atmosférica marciana</Text>
     </Text>
     <Text>
       <GUID>19990342</GUID>
-      <Text>Through increased research efforts in your Martian Energy Laboratories, all Martian Buildings can save energy while operating.</Text>
+      <Text>A través de mayores esfuerzos de investigación en sus Laboratorios de Energía Marciana, todos los Edificios Marcianos pueden ahorrar energía mientras funcionan.</Text>
     </Text>
     <Text>
       <GUID>19990343</GUID>
-      <Text>Martian Core Drilling</Text>
+      <Text>Perforación de núcleos marcianos</Text>
     </Text>
     <Text>
       <GUID>19990344</GUID>
-      <Text>Martian Core Drilling</Text>
+      <Text>Perforación de núcleos marcianos</Text>
     </Text>
     <Text>
       <GUID>19990345</GUID>
-      <Text>All Martian Production Buildings</Text>
+      <Text>Todos los edificios de producción marcianos</Text>
     </Text>
     <Text>
       <GUID>19990346</GUID>
-      <Text>All Martian Open Pit Mines</Text>
+      <Text>Todas las minas marcianas a cielo abierto</Text>
     </Text>
     <Text>
       <GUID>19990347</GUID>
-      <Text>Through increased research efforts in your Martian Heavy Industry Laboratories, Open Pit Mines can now support more primary modules.</Text>
+      <Text>Gracias al aumento de los esfuerzos de investigación en los laboratorios de la industria pesada marciana, las minas a cielo abierto ahora pueden albergar más módulos primarios.</Text>
     </Text>
     <Text>
       <GUID>19990348</GUID>
-      <Text>Martian Geo-Engineering</Text>
+      <Text>Geoingeniería marciana</Text>
     </Text>
     <Text>
       <GUID>19990349</GUID>
-      <Text>Complete this quest to reroll the Martian Sector Effect.</Text>
+      <Text>Completa esta misión para volver a lanzar el efecto del sector marciano.</Text>
     </Text>
     <Text>
       <GUID>19990350</GUID>
-      <Text>Optional Quest</Text>
+      <Text>Misión opcional</Text>
     </Text>
-
     <Text>
       <GUID>12013151</GUID>
-      <Text>Expertise is gained by Astronauts on your Orbital Station and by Research on Mars.</Text>
+      <Text>La experiencia la adquieren los astronautas en su estación orbital y la investigación en Marte.</Text>
     </Text>
-
     <Text>
       <GUID>12012983</GUID>
-      <Text>Biomedical Laboratories use Fruits instead of Synthcells</Text>
+      <Text>Los laboratorios biomédicos utilizan frutas en lugar de células sintéticas</Text>
     </Text>
     <Text>
       <GUID>12000294</GUID>
-      <Text>Phytopharmacy</Text>
+      <Text>Fitofarmacia</Text>
     </Text>
     <Text>
       <GUID>12000202</GUID>
-      <Text>Phytopharmacy</Text>
+      <Text>Fitofarmacia</Text>
     </Text>
     <Text>
       <GUID>12012996</GUID>
-      <Text>Androids in storage provide Workforce&lt;br /&gt;-20% Reduced consumption of services in all populations&lt;br /&gt;+5% Consumption of Androids and Medibots</Text>
+      <Text>Los dispositivos Android en almacenamiento proporcionan Workforce&lt;br /&gt;-20% Reducción del consumo de servicios en todas las poblaciones&lt;br /&gt;+5% Consumo de Androids y Medibots</Text>
     </Text>
     <Text>
       <GUID>12012972</GUID>
-      <Text>-20% Reduced consumption of food goods in all populations&lt;br /&gt;+5% Consumption of Vitamin Drinks and VitaPills</Text>
+      <Text>-20% Reducción del consumo de alimentos en todas las poblaciones&lt;br /&gt;+5% Consumo de Bebidas Vitamínicas y VitaPills</Text>
     </Text>
     <Text>
       <GUID>12012984</GUID>
-      <Text>All residents produce energy&lt;br /&gt;-5% Decrease in Revenue</Text>
+      <Text>Todos los residentes producen energía&lt;br /&gt;-5% Disminución de los ingresos</Text>
     </Text>
     <Text>
       <GUID>12013020</GUID>
-      <Text>-A new, global storage for all construction materials is opened&lt;br /&gt;-All Astronaut Training Centers produce additional goods: With the installation of Orbital warehouses astronauts can create additional equipment and bring it back to Earth.&lt;br /&gt;+3 Logistic Maintenance for all production facilities</Text>
+      <Text>-Se abre un nuevo almacén global para todos los materiales de construcción&lt;br /&gt;-Todos los Centros de Entrenamiento de Astronautas producen bienes adicionales: Con la instalación de los almacenes Orbital, los astronautas pueden crear equipos adicionales y traerlos de vuelta a la Tierra.&lt;br /&gt;+3 Mantenimiento Logístico para todas las instalaciones de producción</Text>
     </Text>
-
     <Text>
       <GUID>19990170</GUID>
-      <Text>Martian Feldspar Quarry</Text>
+      <Text>Cantera de feldespato marciano</Text>
     </Text>
     <Text>
       <GUID>19990171</GUID>
-      <Text>Martian Rotary Extractor</Text>
+      <Text>Extractor rotativo marciano</Text>
     </Text>
     <Text>
       <GUID>19990355</GUID>
-      <Text>Martian Robot Assembly Hall</Text>
+      <Text>Salón de Montaje de Robots Marcianos</Text>
     </Text>
     <Text>
       <GUID>19990356</GUID>
-      <Text>Martian Robot Conveyor Belt</Text>
+      <Text>Cinta transportadora de robot marciano</Text>
     </Text>
     <Text>
       <GUID>19990357</GUID>
-      <Text>Martian Ion Welder</Text>
+      <Text>Soldador de iones marcianos</Text>
     </Text>
     <Text>
       <GUID>19990358</GUID>
-      <Text>Martian Ion Melting Chamber</Text>
+      <Text>Cámara de fusión de iones marcianos</Text>
     </Text>
     <Text>
       <GUID>19990359</GUID>
-      <Text>Martian Methane Ice Filter</Text>
+      <Text>Filtro de hielo de metano marciano</Text>
     </Text>
     <Text>
       <GUID>19990360</GUID>
-      <Text>Martian Filter Unit</Text>
+      <Text>Unidad de filtro marciano</Text>
     </Text>
     <Text>
       <GUID>19990361</GUID>
-      <Text>Uses methane ice and nanoceramics to produce water for further processing.</Text>
+      <Text>Utiliza hielo de metano y nanocerámicas para producir agua para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990362</GUID>
-      <Text>Martian Moss Breeder</Text>
+      <Text>Criador de musgo marciano</Text>
     </Text>
     <Text>
       <GUID>19990363</GUID>
-      <Text>Martian Moss Culture</Text>
+      <Text>Cultura del musgo marciano</Text>
     </Text>
     <Text>
       <GUID>19990364</GUID>
-      <Text>Uses natural gas and water to produce moss for further processing.</Text>
+      <Text>Utiliza gas natural y agua para producir musgo para su posterior procesamiento.</Text>
     </Text>
     <Text>
       <GUID>19990365</GUID>
-      <Text>Martian Coral Breeder</Text>
+      <Text>Criador de coral marciano</Text>
     </Text>
     <Text>
       <GUID>19990366</GUID>
-      <Text>Martian Artificial Coral Reef</Text>
+      <Text>Arrecife de coral artificial marciano</Text>
     </Text>
     <Text>
       <GUID>19990367</GUID>
-      <Text>Uses water and rare earth elements to produce deep-water corals for further processing.</Text>
+      <Text>Utiliza agua y elementos de tierras raras para producir corales de aguas profundas para su posterior procesamiento.</Text>
     </Text>
-
     <Text>
       <GUID>19990368</GUID>
-      <Text>Martian Solar Panel Array</Text>
+      <Text>Conjunto de paneles solares marcianos</Text>
     </Text>
     <Text>
       <GUID>19990369</GUID>
-      <Text>Martian Solar Panel</Text>
+      <Text>Panel solar marciano</Text>
     </Text>
-
     <Text>
       <GUID>19990370</GUID>
-      <Text>Martian Winter: Dry Ice Storms</Text>
+      <Text>Invierno marciano: tormentas de hielo seco</Text>
     </Text>
     <Text>
       <GUID>19990371</GUID>
-      <Text>Due to the cold climate, your Androids need more maintenance, but you can mine Methane Ice in large quantities.</Text>
+      <Text>Debido al clima frío, tus Androids necesitan más mantenimiento, pero puedes extraer hielo de metano en grandes cantidades.</Text>
     </Text>
     <Text>
       <GUID>19990373</GUID>
-      <Text>Martian Winter: Dry Ice Storms</Text>
+      <Text>Invierno marciano: tormentas de hielo seco</Text>
     </Text>
     <Text>
       <GUID>19990374</GUID>
-      <Text>Martian Spring: Dust Storms</Text>
+      <Text>Primavera marciana: Tormentas de polvo</Text>
     </Text>
     <Text>
       <GUID>19990375</GUID>
-      <Text>Due to poor visibility and high-speed winds, shuttles are unable to land at your Martian spaceport, but Windparks, KREEP Gathers and Diamond Extractors benefit from it.</Text>
+      <Text>Debido a la poca visibilidad y los vientos de alta velocidad, los transbordadores no pueden aterrizar en su puerto espacial marciano, pero los parques eólicos, KREEP Gathers y Diamond Extractors se benefician de ello.</Text>
     </Text>
     <Text>
       <GUID>19990377</GUID>
-      <Text>Martian Spring: Dust Storms</Text>
+      <Text>Primavera marciana: Tormentas de polvo</Text>
     </Text>
     <Text>
       <GUID>19990378</GUID>
-      <Text>Martian Autumn: Vulcanic Activity</Text>
+      <Text>Otoño Marciano: Actividad Vulcánica</Text>
     </Text>
     <Text>
       <GUID>19990379</GUID>
-      <Text>Due to the risk of explosions and volcanic eruptions, all mountain sites must be closed.</Text>
+      <Text>Debido al riesgo de explosiones y erupciones volcánicas, todos los sitios de montaña deben cerrarse.</Text>
     </Text>
     <Text>
       <GUID>19990381</GUID>
-      <Text>Martian Autumn: Vulcanic Activity</Text>
+      <Text>Otoño Marciano: Actividad Vulcánica</Text>
     </Text>
-
     <Text>
       <GUID>14002240</GUID>
-      <Text>Agriculture Benefits</Text>
+      <Text>Beneficios de la agricultura</Text>
     </Text>
-
     <Text>
       <GUID>19990382</GUID>
-      <Text>Congratulations! You have managed to establish a respectable number of Synths on the Red Planet. I encourage you to continue and strengthen your research capabilities on Mars even further. Perhaps we can take the next step towards human settlement on Mars: Geo-engineering the planet into a more habitable environment.</Text>
+      <Text>¡Felicidades! Has conseguido establecer un número respetable de Synths en el Planeta Rojo. Les animo a que continúen y fortalezcan aún más sus capacidades de investigación en Marte. Tal vez podamos dar el siguiente paso hacia el asentamiento humano en Marte: la geoingeniería del planeta para convertirlo en un entorno más habitable.</Text>
     </Text>
-
     <Text>
       <GUID>19990383</GUID>
-      <Text>Martian Summer: Thin Atomsphere</Text>
+      <Text>Verano marciano: Atomsfera delgada</Text>
     </Text>
     <Text>
       <GUID>19990384</GUID>
-      <Text>Seasonal Calamity</Text>
+      <Text>Calamidad estacional</Text>
     </Text>
     <Text>
       <GUID>19990385</GUID>
-      <Text>A new Martian year is about to begin: Like Earth, Mars features four seasons of varying lengths. Each season presents you with different challenges and a unique atmosphere on the Red Planet:&lt;br /&gt;Mars' thin atmosphere during summer makes it vulnerable to solar flares, which constantly reduce the effectiveness of energy transfer to the planet, but increase yields from Solar Panels.</Text>
+      <Text>Un nuevo año marciano está a punto de comenzar: al igual que la Tierra, Marte cuenta con cuatro estaciones de diferente duración. Cada estación te presenta diferentes desafíos y una atmósfera única en el Planeta Rojo: &lt;br /&gt;La delgada atmósfera de Marte durante el verano lo hace vulnerable a las erupciones solares, que reducen constantemente la efectividad de la transferencia de energía al planeta, pero aumentan los rendimientos de los paneles solares.</Text>
     </Text>
     <Text>
       <GUID>19990386</GUID>
-      <Text>Martian Autumn: Vulcanic Activity</Text>
+      <Text>Otoño Marciano: Actividad Vulcánica</Text>
     </Text>
     <Text>
       <GUID>19990387</GUID>
-      <Text>In Martian autumn, increased volcanic activity leads to high concentrations of methane in the atmosphere. Due to the risk of explosions and volcanic eruptions, all mountain sites must be closed.</Text>
+      <Text>En el otoño marciano, el aumento de la actividad volcánica conduce a altas concentraciones de metano en la atmósfera. Debido al riesgo de explosiones y erupciones volcánicas, todos los sitios de montaña deben cerrarse.</Text>
     </Text>
     <Text>
       <GUID>19990388</GUID>
-      <Text>Martian Winter: Dry Ice Storms</Text>
+      <Text>Invierno marciano: tormentas de hielo seco</Text>
     </Text>
     <Text>
       <GUID>19990389</GUID>
-      <Text>In Martian winter, temperatures on the Red Planet plummet. Its poles are covered with a thick layer of dry ice, which also "rains down" from clouds of carbon dioxide above your crater. Due to the cold climate, your Androids are less efficient and need more maintenance, but you can mine Methane Ice in large quantities.</Text>
+      <Text>En el invierno marciano, las temperaturas en el Planeta Rojo se desploman. Sus polos están cubiertos por una gruesa capa de hielo seco, que también "llueve" desde las nubes de dióxido de carbono sobre el cráter. Debido al clima frío, tus Android son menos eficientes y necesitan más mantenimiento, pero puedes extraer hielo de metano en grandes cantidades.</Text>
     </Text>
     <Text>
       <GUID>19990390</GUID>
-      <Text>Martian Spring: Dust Storms</Text>
+      <Text>Primavera marciana: Tormentas de polvo</Text>
     </Text>
     <Text>
       <GUID>19990391</GUID>
-      <Text>In Martian spring, temperatures begin to rise again. Sublimation of carbon dioxide from the poles and increased influence from its moons lead to intense dust storms. Due to poor visibility and high-speed winds, shuttles are unable to land at your Martian spaceport, but Windparks, KREEP Gathers and Diamond Extractors benefit from it.</Text>
+      <Text>En la primavera marciana, las temperaturas comienzan a subir de nuevo. La sublimación del dióxido de carbono de los polos y el aumento de la influencia de sus lunas conducen a intensas tormentas de polvo. Debido a la poca visibilidad y los vientos de alta velocidad, los transbordadores no pueden aterrizar en su puerto espacial marciano, pero los parques eólicos, KREEP Gathers y Diamond Extractors se benefician de ello.</Text>
     </Text>
     <Text>
       <GUID>19990392</GUID>
-      <Text>Wait until the season is over. Make sure to use the advantages of this season and prepare for the effects of the next one.</Text>
+      <Text>Espera hasta que termine la temporada. Asegúrate de aprovechar las ventajas de esta temporada y prepárate para los efectos de la próxima.</Text>
     </Text>
-
     <Text>
       <GUID>19990394</GUID>
-      <Text>33.1 Maintaining the Colony</Text>
+      <Text>33.1 Mantenimiento de la colonia</Text>
     </Text>
     <Text>
       <GUID>19990395</GUID>
-      <Text>We can support the production of Expertise by building additional Research Labs on Mars. Each specialisation has it's own input goods and produces a specific output product in addition to the usual Expertise. The loop to produce Services starts with the Energy Lab, that produces Gas from the locally mined Methane Ice.</Text>
+      <Text>Podemos apoyar la producción de Expertise mediante la construcción de laboratorios de investigación adicionales en Marte. Cada especialización tiene sus propios bienes de entrada y produce un producto de salida específico además de la experiencia habitual. El ciclo de producción de servicios comienza con el Laboratorio de Energía, que produce gas a partir del hielo de metano extraído localmente.</Text>
     </Text>
     <Text>
       <GUID>19990396</GUID>
-      <Text>33.2 Maintaining the Colony</Text>
+      <Text>33.2 Mantenimiento de la colonia</Text>
     </Text>
     <Text>
       <GUID>19990397</GUID>
-      <Text>The next step is agricultural research, which is necessary to support the most basic forms of life on Mars: Corals and Moss. Start by filtering some of the Methane Ice for some residual Water, which you can then use to grow the very first plants on Mars - the foundation for human life on Mars!</Text>
+      <Text>El siguiente paso es la investigación agrícola, que es necesaria para apoyar las formas más básicas de vida en Marte: los corales y el musgo. Comience filtrando parte del hielo de metano para obtener agua residual, que luego puede usar para cultivar las primeras plantas en Marte: ¡la base de la vida humana en Marte!</Text>
     </Text>
     <Text>
       <GUID>19990398</GUID>
-      <Text>33.3 Maintaining the Colony</Text>
+      <Text>33.3 Mantenimiento de la colonia</Text>
     </Text>
     <Text>
-      <GUID>19990397</GUID>
-      <Text>With one of the ingredients for Cybersynth Circuits out of the way, let's start digging up some Martian dust to scour for the rare resources that are hidden beneath its rusty crust. We need these to manufacture high quality lenses for further mineral processing.</Text>
+      <GUID>19990399</GUID>
+      <Text>Una vez descartado uno de los ingredientes de Cybersynth Circuits, comencemos a desenterrar un poco de polvo marciano para buscar los recursos raros que se esconden bajo su corteza oxidada. Los necesitamos para fabricar lentes de alta calidad para el posterior procesamiento de minerales.</Text>
     </Text>
     <Text>
       <GUID>19990400</GUID>
-      <Text>33.4 Maintaining the Colony</Text>
+      <Text>33.4 Mantenimiento de la colonia</Text>
     </Text>
     <Text>
-      <GUID>19990397</GUID>
-      <Text>Equipped with the appropriate lenses, you will be able to start analysing and separating all of the rare resources of the Red Planet for further use in the production of Cybersynth Circuits.</Text>
+      <GUID>19990401</GUID>
+      <Text>Equipado con las lentes adecuadas, podrá comenzar a analizar y separar todos los recursos raros del Planeta Rojo para su posterior uso en la producción de circuitos Cybersynth.</Text>
     </Text>
     <Text>
       <GUID>19990402</GUID>
-      <Text>33.5 Maintaining the Colony</Text>
+      <Text>33.5 Mantenimiento de la colonia</Text>
     </Text>
     <Text>
-      <GUID>19990397</GUID>
-      <Text>You have done it! The final preparations are complete and the first locally produced Cybersynth Circuits are rolling out of your Biotech Lab! This is the crucial step towards basic self-sustaining Android life on Mars - your machines will be able to analyse, repair and improve themselves without you having to intervene. With your Martian colony now fully equipped with research labs of all kinds, it is highly recommended that you strengthen your Martian population and continue on this path to total knowledge!</Text>
+      <GUID>19990402</GUID>
+      <Text>¡Lo has conseguido! ¡Los preparativos finales están completos y los primeros circuitos Cybersynth producidos localmente están saliendo de su laboratorio de biotecnología! Este es el paso crucial hacia la vida básica y autosuficiente de Android en Marte: sus máquinas podrán analizarse, repararse y mejorarse a sí mismas sin que usted tenga que intervenir. Con tu colonia marciana ahora totalmente equipada con laboratorios de investigación de todo tipo, es muy recomendable que fortalezcas tu población marciana y continúes en este camino hacia el conocimiento total.</Text>
     </Text>
     <Text>
       <GUID>19990404</GUID>
-      <Text>33. Maintaining the Colony</Text>
+      <Text>33. Mantenimiento de la colonia</Text>
     </Text>
     <Text>
       <GUID>19990405</GUID>
-      <Text>Now that you've built up a decent workforce, let's start producing some things locally to ensure your Androids can survive in the harsh Martian climate. Our ultimate goal is to be self-sufficient in the production of services. This is a multi-step process that will also familiarise you with the functions of the Martian Research Laboratories. Our first step is the construction of a small research hub.</Text>
+      <Text>Ahora que ha acumulado una fuerza laboral decente, comencemos a producir algunas cosas localmente para garantizar que sus androides puedan sobrevivir en el duro clima marciano. Nuestro objetivo final es ser autosuficientes en la producción de servicios. Se trata de un proceso de varios pasos que también te familiarizará con las funciones de los Laboratorios de Investigación Marcianos. Nuestro primer paso es la construcción de un pequeño centro de investigación.</Text>
     </Text>
     <Text>
       <GUID>19990406</GUID>
-      <Text>Moon Night</Text>
+      <Text>Noche de luna</Text>
     </Text>
     <Text>
       <GUID>19990408</GUID>
-      <Text>Moon Night</Text>
+      <Text>Noche de luna</Text>
     </Text>
     <Text>
       <GUID>19990409</GUID>
-      <Text>Toggle Moon Night</Text>
+      <Text>Alternar Noche de Luna</Text>
     </Text>
-
     <Text>
       <GUID>19990410</GUID>
-      <Text>Arctic Heater</Text>
+      <Text>Calentador ártico</Text>
     </Text>
     <Text>
       <GUID>19990411</GUID>
-      <Text>Burns Natural Gas for some extra warmth</Text>
+      <Text>Quema gas natural para un poco de calor adicional</Text>
     </Text>
-
     <Text>
       <GUID>13000562</GUID>
-      <Text>Holographic Sculptures</Text>
+      <Text>Esculturas holográficas</Text>
     </Text>
-
     <Text>
       <GUID>19990351</GUID>
-      <Text>Connection Tube</Text>
+      <Text>Tubo de conexión</Text>
     </Text>
     <Text>
       <GUID>19990352</GUID>
-      <Text>Connection Tubes Corner</Text>
+      <Text>Esquina de tubos de conexión</Text>
     </Text>
     <Text>
       <GUID>19990353</GUID>
-      <Text>A modular system to visually connect Research Modules with their Laboratory</Text>
+      <Text>Un sistema modular para conectar visualmente los módulos de investigación con su laboratorio</Text>
     </Text>
-
     <Text>
       <GUID>12000003</GUID>
-      <Text>Artificial-G Lab (+6°)</Text>
+      <Text>Laboratorio de Artificial-G (+6°)</Text>
     </Text>
     <Text>
       <GUID>12000034</GUID>
-      <Text>Solar Cells (+10°)</Text>
+      <Text>Células solares (+10°)</Text>
     </Text>
     <Text>
       <GUID>12000012</GUID>
-      <Text>Stowage Platform (+6°)</Text>
+      <Text>Plataforma de estiba (+6°)</Text>
     </Text>
     <Text>
       <GUID>12000035</GUID>
-      <Text>Radiator (-20°)</Text>
+      <Text>Radiador (-20°)</Text>
     </Text>
     <Text>
       <GUID>12000013</GUID>
-      <Text>Greenhouse (+2°)</Text>
+      <Text>Invernadero (+2°)</Text>
     </Text>
     <Text>
       <GUID>12000014</GUID>
-      <Text>Recycling System (+8°)</Text>
+      <Text>Sistema de reciclaje (+8°)</Text>
     </Text>
-
-    <Text>
-      <GUID>102811</GUID>
-      <Text>Provides energy to power factories by consuming natural gas.</Text>
-    </Text>
-
-    <!-- Annothek's texts -->
     <Text>
       <GUID>117907</GUID>
-      <Text>current Level: [CORPORATION_LEVEL]</Text>
+      <Text>Nivel actual: [CORPORATION_LEVEL]</Text>
     </Text>
     <Text>
       <GUID>121309</GUID>
-      <Text>Manpower Cost</Text>
+      <Text>Costo de mano de obra</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001678</GUID>
-      <Text>Artifical Intelligence</Text>
+      <Text>Inteligencia Artificial</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001680</GUID>
-      <Text>High Voltage</Text>
+      <Text>Alta Tensión</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001684</GUID>
-      <Text>Climate Change</Text>
+      <Text>Cambio climático</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001686</GUID>
-      <Text>Optimised Circuits</Text>
+      <Text>Circuitos optimizados</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001688</GUID>
-      <Text>Cheap Wages</Text>
+      <Text>Salarios baratos</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001694</GUID>
-      <Text>Fine Living</Text>
+      <Text>Buen Vivir</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001696</GUID>
-      <Text>Pristine Land</Text>
+      <Text>Tierra prístina</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001698</GUID>
-      <Text>Heavy Snowfall</Text>
+      <Text>Fuertes nevadas</Text>
     </Text>
-	    <Text>
+    <Text>
       <GUID>140001971</GUID>
-      <Text>Deuterium and methane yields are increased, but coral and fishing production is impaired.</Text>
+      <Text>Los rendimientos de deuterio y metano aumentan, pero la producción de coral y pesca se ve afectada.</Text>
     </Text>
-	    <Text>
+    <Text>
       <GUID>140001973</GUID>
-      <Text>Cybernetic factories have increased output, but all production facilities require more logistics.</Text>
+      <Text>Las fábricas cibernéticas han aumentado la producción, pero todas las instalaciones de producción requieren más logística.</Text>
     </Text>
-	    <Text>
+    <Text>
       <GUID>140001975</GUID>
-      <Text>Fusion power cell production is increased, but Energy facilities have higher maintenance.</Text>
+      <Text>La producción de células de energía de fusión ha aumentado, pero las instalaciones energéticas tienen un mayor mantenimiento.</Text>
     </Text>
-	    <Text>
+    <Text>
       <GUID>140001981</GUID>
-      <Text>Energy facilities require more input, but Electronics facilities require less energy.</Text>
+      <Text>Las instalaciones energéticas requieren más insumos, pero las instalaciones electrónicas requieren menos energía.</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140001987</GUID>
-      <Text>Gravity compensator production is increased, but all production facilities require more manpower.</Text>
+      <Text>La producción de compensadores de gravedad aumenta, pero todas las instalaciones de producción requieren más mano de obra.</Text>
     </Text>
     <Text>
       <GUID>140000019</GUID>
@@ -72186,7 +72135,7 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
       <GUID>140000028</GUID>
       <Text>[GUIDNAME 140000026]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000030</GUID>
       <Text>[GUIDNAME 140001672]</Text>
     </Text>
@@ -72194,7 +72143,7 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
       <GUID>140000032</GUID>
       <Text>[GUIDNAME 140000030]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000034</GUID>
       <Text>[GUIDNAME 140001674]</Text>
     </Text>
@@ -72202,7 +72151,7 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
       <GUID>140000036</GUID>
       <Text>[GUIDNAME 140000034]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000038</GUID>
       <Text>[GUIDNAME 140001676]</Text>
     </Text>
@@ -72210,7 +72159,7 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
       <GUID>140000040</GUID>
       <Text>[GUIDNAME 140000038]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000042</GUID>
       <Text>[GUIDNAME 140001678]</Text>
     </Text>
@@ -72218,257 +72167,257 @@ No hay edificios relevantes en este sector.&lt;/font&gt;</Text>
       <GUID>140000044</GUID>
       <Text>[GUIDNAME 140000042]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000046</GUID>
       <Text>[GUIDNAME 140001680]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000048</GUID>
       <Text>[GUIDNAME 140000046]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000050</GUID>
       <Text>[GUIDNAME 140001682]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000052</GUID>
       <Text>[GUIDNAME 140000050]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000054</GUID>
       <Text>[GUIDNAME 140001684]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000056</GUID>
       <Text>[GUIDNAME 140000054]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000058</GUID>
       <Text>[GUIDNAME 140001686]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000060</GUID>
       <Text>[GUIDNAME 140000058]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000062</GUID>
       <Text>[GUIDNAME 140001688]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000066</GUID>
       <Text>[GUIDNAME 140001690]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000068</GUID>
       <Text>[GUIDNAME 140000066]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000070</GUID>
       <Text>[GUIDNAME 140001692]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000072</GUID>
       <Text>[GUIDNAME 140000070]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000074</GUID>
       <Text>[GUIDNAME 140001694]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000076</GUID>
       <Text>[GUIDNAME 140000074]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000078</GUID>
       <Text>[GUIDNAME 140001696]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000080</GUID>
       <Text>[GUIDNAME 140000078]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000082</GUID>
       <Text>[GUIDNAME 140001698]</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>140000084</GUID>
       <Text>[GUIDNAME 140000082]</Text>
     </Text>
     <Text>
       <GUID>14100100</GUID>
-      <Text>Bus Stop</Text>
+      <Text>Parada de autobús</Text>
     </Text>
     <Text>
       <GUID>14100102</GUID>
-      <Text>Billboard</Text>
+      <Text>Cartelera</Text>
     </Text>
     <Text>
       <GUID>14100104</GUID>
-      <Text>Street Lamp</Text>
+      <Text>Farola</Text>
     </Text>
     <Text>
       <GUID>14100106</GUID>
-      <Text>Elevator</Text>
+      <Text>Ascensor</Text>
     </Text>
     <Text>
       <GUID>14100108</GUID>
-      <Text>Trials Fusion Arcade</Text>
+      <Text>Pruebas Fusion Arcade</Text>
     </Text>
     <Text>
       <GUID>14100110</GUID>
-      <Text>Fortification</Text>
+      <Text>Fortificación</Text>
     </Text>
     <Text>
       <GUID>14100112</GUID>
-      <Text>Gun Fortification</Text>
+      <Text>Fortificación de armas</Text>
     </Text>
     <Text>
       <GUID>14100114</GUID>
-      <Text>Gun Emplacement</Text>
+      <Text>Ubicación del arma</Text>
     </Text>
     <Text>
       <GUID>14100116</GUID>
-      <Text>Large Gun turret</Text>
+      <Text>Torreta de cañón grande</Text>
     </Text>
     <Text>
       <GUID>14100118</GUID>
-      <Text>Small Gun turret</Text>
+      <Text>Torreta de cañón pequeño</Text>
     </Text>
     <Text>
       <GUID>20008000</GUID>
-      <Text>People</Text>
-     </Text>
+      <Text>Gente</Text>
+    </Text>
     <Text>
       <GUID>20008001</GUID>
-      <Text>Various People</Text>
+      <Text>Varias personas</Text>
     </Text>
     <Text>
       <GUID>20008002</GUID>
-      <Text>Antennas, Generators &amp; Energy Devices</Text>
+      <Text>Antenas, generadores y dispositivos de energía</Text>
     </Text>
     <Text>
       <GUID>20008003</GUID>
-      <Text>Various Antennas, Generators &amp; Energy Devices</Text>
+      <Text>Varias antenas, generadores y dispositivos de energía</Text>
     </Text>
     <Text>
       <GUID>20008004</GUID>
-      <Text>Storage</Text>
+      <Text>Almacenamiento</Text>
     </Text>
     <Text>
       <GUID>20008005</GUID>
-      <Text>Various Crates &amp; Storageboxes.</Text>
+      <Text>Varias cajas y cajas de almacenamiento.</Text>
     </Text>
     <Text>
       <GUID>20008006</GUID>
-      <Text>Lighting</Text>
+      <Text>Iluminación</Text>
     </Text>
     <Text>
       <GUID>20008007</GUID>
-      <Text>Various Lamps &amp; Lights</Text>
+      <Text>Varias lámparas y luces</Text>
     </Text>
     <Text>
       <GUID>20008008</GUID>
-      <Text>Fences &amp; Banners</Text>
+      <Text>Vallas y pancartas</Text>
     </Text>
     <Text>
       <GUID>20008009</GUID>
-      <Text>Various Fences &amp; Banners</Text>
+      <Text>Varias vallas y pancartas</Text>
     </Text>
     <Text>
       <GUID>20008010</GUID>
-      <Text>Foliage</Text>
+      <Text>Follaje</Text>
     </Text>
     <Text>
       <GUID>20008011</GUID>
-      <Text>Various Bushes, Trees and Grasses</Text>
+      <Text>Varios arbustos, árboles y pastos</Text>
     </Text>
     <Text>
       <GUID>20008012</GUID>
-      <Text>Wildlife</Text>
+      <Text>Vida silvestre</Text>
     </Text>
     <Text>
       <GUID>20008013</GUID>
-      <Text>Various Wildlife</Text>
+      <Text>Vida silvestre diversa</Text>
     </Text>
     <Text>
       <GUID>20008014</GUID>
-      <Text>Billboards</Text>
+      <Text>Carteleras</Text>
     </Text>
     <Text>
       <GUID>20008015</GUID>
-      <Text>Various Billboards</Text>
+      <Text>Varias vallas publicitarias</Text>
     </Text>
     <Text>
       <GUID>20008016</GUID>
-      <Text>Stones &amp; Rocks</Text>
+      <Text>Piedras y rocas</Text>
     </Text>
     <Text>
       <GUID>20008017</GUID>
-      <Text>Various Stones &amp; Rocks</Text>
+      <Text>Varias piedras y rocas</Text>
     </Text>
     <Text>
       <GUID>20008018</GUID>
-      <Text>Vehicles</Text>
+      <Text>Vehículos</Text>
     </Text>
     <Text>
       <GUID>20008019</GUID>
-      <Text>Various Vehicles</Text>
+      <Text>Varios vehículos</Text>
     </Text>
     <Text>
       <GUID>20008020</GUID>
-      <Text>Parks</Text>
+      <Text>Parques</Text>
     </Text>
     <Text>
       <GUID>20008021</GUID>
-      <Text>Some Parks</Text>
+      <Text>Algunos Parques</Text>
     </Text>
     <Text>
       <GUID>20008022</GUID>
-      <Text>Ornamental Spaceports</Text>
+      <Text>Puertos espaciales ornamentales</Text>
     </Text>
     <Text>
       <GUID>20008023</GUID>
-      <Text>Build your own spaceport, with no affect on the game, purely for aesthetics.</Text>
+      <Text>Construye tu propio puerto espacial, sin afectar al juego, puramente por estética.</Text>
     </Text>
     <Text>
       <GUID>20008024</GUID>
-      <Text>Corporate Headquarters</Text>
+      <Text>Sedes Corporativas</Text>
     </Text>
     <Text>
       <GUID>20008025</GUID>
-      <Text>A cheap replica with no affect on the game, purely for aesthetics.</Text>
+      <Text>Una réplica barata sin ningún efecto en el juego, puramente por estética.</Text>
     </Text>
     <Text>
       <GUID>20008026</GUID>
-      <Text>Military</Text>
+      <Text>Militar</Text>
     </Text>
     <Text>
       <GUID>20008027</GUID>
-      <Text>A selection of military buildings.</Text>
+      <Text>Una selección de edificios militares.</Text>
     </Text>
     <Text>
       <GUID>20008028</GUID>
-      <Text>Agriculture Lab</Text>
+      <Text>Laboratorio de Agricultura</Text>
     </Text>
     <Text>
       <GUID>20008030</GUID>
-      <Text>Biotech Lab</Text>
+      <Text>Laboratorio de Biotecnología</Text>
     </Text>
     <Text>
       <GUID>20008032</GUID>
-      <Text>Electronics Lab</Text>
+      <Text>Laboratorio de Electrónica</Text>
     </Text>
     <Text>
       <GUID>20008034</GUID>
-      <Text>Energy Lab</Text>
+      <Text>Laboratorio de Energía</Text>
     </Text>
     <Text>
       <GUID>20008036</GUID>
-      <Text>Heavy Industry Lab</Text>
+      <Text>Laboratorio de Industria Pesada</Text>
     </Text>
-	  <Text>
+    <Text>
       <GUID>20008038</GUID>
-      <Text>Fountain</Text>
+      <Text>Fuente</Text>
     </Text>
   </Texts>
 </TextExport>
